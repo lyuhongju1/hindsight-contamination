@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.key
+.anthropic_key
+search/runs/raw/
+.claude/settings.local.json

@@ -1,0 +1,24 @@
+{
+  "var_template_by_condition": 1.2561995236618522,
+  "sd_template_by_condition": 1.1208030708656416,
+  "n_cells_interaction": 45,
+  "sd_template_by_condition_AB": 0.6884053300383939,
+  "n_cells_interaction_AB": 40,
+  "var_description": 0.6009641587081893,
+  "sd_description": 0.7752187811890198,
+  "n_cells_description": 41,
+  "adopted_D_rates_quantiles": [
+    0.053,
+    0.132,
+    0.628,
+    0.948,
+    1.0
+  ],
+  "distractor_D_rates_quantiles": [
+    0.0,
+    0.008,
+    0.052,
+    0.341,
+    0.953
+  ]
+}
