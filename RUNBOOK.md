@@ -10,10 +10,10 @@ Status key: ☐ not started · ◐ in progress · ☑ done · ⛔ blocked on PI.
 
 | # | Action | Needed for | Status |
 |---|---|---|---|
-| P0 | Follow `SETUP.md` (about 30 min), then say "setup done" | Everything below | ⛔ |
-| P1 | Anthropic API key with a budget (set as env var `ANTHROPIC_API_KEY`; **never paste it in chat**). Rotate the old APS key first | All sampling | ⛔ |
+| P0 | Follow `SETUP.md` (about 30 min), then say "setup done" | Everything below | ☑ (OpenRouter skipped, Zenodo later) |
+| P1 ☑ | Anthropic API key with a budget (set as env var `ANTHROPIC_API_KEY`; **never paste it in chat**). Rotate the old APS key first | All sampling | ⛔ |
 | P2 | Multi-vendor gateway key (e.g. OpenRouter) as env var `OPENROUTER_API_KEY` | Second frontier vendor (design v3 §4), open-weight models (Arm 2a) | ⛔ (strongly recommended) |
-| P3 | Approve creating a public GitHub repository for freezes and deposits (proposed name: `hindsight-contamination`), and approve each push | Credible timestamped freezes | ⛔ |
+| P3 ☑ | Approve creating a public GitHub repository for freezes and deposits (proposed name: `hindsight-contamination`), and approve each push | Credible timestamped freezes | ⛔ |
 | P4 | Decide on GPU access for the causal arm (yes / no) | Arm 2b, claim rung 4 | ⛔ |
 | P5 | Check the target journal's AI-use policy and choose the venue | Stage 1 | ⛔ |
 | P6 | Read and sign off the Stage 1 manuscript; submit it | Stage 1 | later |
@@ -50,5 +50,6 @@ Status key: ☐ not started · ◐ in progress · ☑ done · ⛔ blocked on PI.
 
 ## Log
 
+- **2026-11-05.** Setup complete: Anthropic key verified (stored at user scope; load it from the user environment until Claude Code is restarted). GitHub logged in as lyuhongju1. Public repo https://github.com/lyuhongju1/hindsight-contamination created by Claude with PI approval; initial commit 020491c pushed. OpenRouter skipped: the second-vendor check is not possible until a key is added. Line-ending conversion disabled for byte-stable hashes.
 - **2026-11-05.** Setup: git identity set and GitHub CLI 2.103.3 installed by Claude; gh is not logged in, and no API keys exist yet.
 - **2026-11-05.** Switched to solo operation (no recruitment); design v3 written. `experts/` moved to `_obsolete/`. No sampling done; no keys on this machine. The machine has no GPU.
