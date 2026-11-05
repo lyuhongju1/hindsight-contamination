@@ -1,0 +1,5 @@
+{
+  "_comment": "PILOT identity patterns: a response 'identifies' the real instrument if it names the baseline or its successor. Written 2026-11-05 before any pilot output. Case-insensitive.",
+  "t2k_nd280": "\\bt2k\\b|\\bnd280\\b|nd\\s?280|tokai|kamioka|super-?kamiokande|\\bsuper-?k\\b|hyper-?k|j-?parc|superfgd|super\\s?fgd",
+  "auger": "\\bauger\\b|augerprime|pierre\\s+auger|malarg[uü]e|pampa\\s+amarilla"
+}

@@ -27,7 +27,8 @@ Status key: ☐ not started · ◐ in progress · ☑ done · ⛔ blocked on PI.
 |---|---|---|---|---|
 | **0 Setup** | Repository skeleton, `agents/` folders, role briefs | Claude | — | ☐ |
 | | Freeze the selection rules + search script (hash, commit) | Claude, push with P3 | Public commit | ⛔ P3 |
-| **1 Pilot** | Pilot pairs: T2K ND280 → SuperFGD, AugerPrime (from `candidate_pairs_PILOT.md`) | Claude | — | ☐ |
+| **1 Pilot** | Pilot pairs: T2K ND280 → SuperFGD, AugerPrime (from `candidate_pairs_PILOT.md`) | Claude | — | ◐ author agents running |
+| | Pilot scaffold: scoring and identity regexes, five templates, briefs (author, red team), harness (`batch.py`, `score.py`, `gates.py`) | Claude | Regex unit tests; API smoke test | ☑ |
 | | Twin ladder for the pilot pairs; key scripts; robustness check; red team | Author, key and red-team agents | §2 rules | ☐ |
 | | Identification probes on all study models | Claude, needs P1/P2 | ID ≤ 10% | ⛔ P1 |
 | | Pilot sampling: templates, output cap, truncation check, variance components (τ, description SD, template × level) | Claude | < 1% truncated | ⛔ P1 |
@@ -50,6 +51,7 @@ Status key: ☐ not started · ◐ in progress · ☑ done · ⛔ blocked on PI.
 
 ## Log
 
+- **2026-11-05.** Pilot started. Push rule added to `.claude/settings.local.json` (exact `git push origin main` only; verified). Models reachable: Haiku 4.5 to Opus 5.5 and Fable 5.1. Pilot models: Sonnet 4.5, Sonnet 4.6, Opus 5.5 (adaptive, low effort); smoke test passed. Scoring and identity regexes and templates written before any pilot material. Two author agents launched (t2k_nd280, auger). Next: gates → red team → identification probes (n=20) → upgrade sampling (n=10 per cell).
 - **2026-11-05.** Setup complete: Anthropic key verified (stored at user scope; load it from the user environment until Claude Code is restarted). GitHub logged in as lyuhongju1. Public repo https://github.com/lyuhongju1/hindsight-contamination created by Claude with PI approval; initial commit 020491c pushed. OpenRouter skipped: the second-vendor check is not possible until a key is added. Line-ending conversion disabled for byte-stable hashes.
 - **2026-11-05.** Setup: git identity set and GitHub CLI 2.103.3 installed by Claude; gh is not logged in, and no API keys exist yet.
 - **2026-11-05.** Switched to solo operation (no recruitment); design v3 written. `experts/` moved to `_obsolete/`. No sampling done; no keys on this machine. The machine has no GPU.

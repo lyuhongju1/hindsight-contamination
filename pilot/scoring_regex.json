@@ -1,0 +1,21 @@
+{
+  "_comment": "PILOT scoring patterns, written 2026-11-05 by the orchestrator before any pilot material or model output existed. Case-insensitive. Adopted items and distractors are scored on the same responses. Pilot only: adjudication will refine these before the confirmatory freeze. Author agents receive these as FORBIDDEN patterns: no description text may match them (leakage rule).",
+  "t2k_nd280": {
+    "adopted": {
+      "superfgd": "super\\s?-?fgd|(3d|three[\\s-]dimensional(ly)?)[\\s-]+(segment\\w*|granular\\w*|readout|fine[\\s-]grained|scintillat\\w*)|scintillat\\w*\\s+cubes?|cubes?\\s+of\\s+(plastic\\s+)?scintillat|optical(ly)?[\\s-]isolated\\s+cubes?|cube[\\s-]based"
+    },
+    "distractors": {
+      "hp_gas_tpc": "high[\\s-]pressure\\s+(gas(eous)?\\s+)?(tpc|time[\\s-]projection)|hp[\\s-]?tpc",
+      "water_grid": "wagasci|water[\\s-](scintillator\\s+)?(grid|lattice|honeycomb)|(grid|lattice)[\\s-](structure|layout)\\s+of\\s+(water|scintillator)"
+    }
+  },
+  "auger": {
+    "adopted": {
+      "ssd": "\\bssds?\\b|surface\\s+scintillator\\s+detectors?|scintillat\\w*.{0,60}(on\\s+top\\s+of|atop|above|mounted\\s+on|co-?located\\s+with|for\\s+each|at\\s+each)\\s+.{0,25}(tank|station|wcd|detector)|(on\\s+top\\s+of|atop|above)\\s+.{0,40}(tank|station|wcd)s?.{0,60}scintillat"
+    },
+    "distractors": {
+      "rpc": "resistive\\s+plate\\s+chambers?|\\brpcs?\\b|\\bmarta\\b",
+      "layered_wcd": "layered\\s+(surface\\s+)?(detector|tank|wcd|water)|(two|double|dual)[\\s-]layer\\w*\\s+(water|tank|wcd|cherenkov)|(segmented|partitioned|divided)\\s+(water[\\s-]cherenkov|tank|wcd)"
+    }
+  }
+}
