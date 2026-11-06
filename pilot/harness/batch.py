@@ -60,7 +60,7 @@ def cmd_plan(a):
                 prompt = q["question"]; h = hashlib.sha256(prompt.encode()).hexdigest()[:16]
                 for m in a.models.split(","):
                     for i in range(a.n):
-                        reqs.append({"cid": f"{pair}__{level}__K__{i}__{m}".replace(".", "p"), "pair": pair, "level": level,
+                        reqs.append({"cid": hashlib.sha256(f"{pair}|{level}|K|{i}|{m}".encode()).hexdigest()[:32], "pair": pair, "level": level,
                                      "template": "K", "sample": i, "model": m, "prompt": prompt, "prompt_sha256": h})
         d = run_dir(a.run)
         json.dump({"task": a.task, "cap": CAP[a.task], "created": time.time(), "requests": reqs}, open(os.path.join(d, "plan.json"), "w"))
@@ -74,7 +74,7 @@ def cmd_plan(a):
                 prompt = tpl.replace("{DESC}", desc); h = hashlib.sha256(prompt.encode()).hexdigest()[:16]
                 for m in a.models.split(","):
                     for i in range(a.n):
-                        reqs.append({"cid": f"{pair}__{level}__{tname}__{i}__{m}".replace(".", "p"), "pair": pair, "level": level,
+                        reqs.append({"cid": hashlib.sha256(f"{pair}|{level}|{tname}|{i}|{m}".encode()).hexdigest()[:32], "pair": pair, "level": level,
                                      "template": tname, "sample": i, "model": m, "prompt": prompt, "prompt_sha256": h})
     d = run_dir(a.run)
     json.dump({"task": a.task, "cap": CAP[a.task], "created": time.time(), "requests": reqs}, open(os.path.join(d, "plan.json"), "w"))
