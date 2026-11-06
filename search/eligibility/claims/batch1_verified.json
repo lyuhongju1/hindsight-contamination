@@ -1,0 +1,49 @@
+[
+ {
+  "item": "1618326/gd_water_neutron_veto",
+  "dater": "D1",
+  "doc": "arXiv:2007.08796",
+  "quote": "The addition of the Gd-loaded active NV will further reduce the rate of cosmogenic neutrons.",
+  "baseline_date": "2017-08-23",
+  "meta_date": "2020-07-17",
+  "quote_match": "exact",
+  "gap_months": 35,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1618326/liquid_phase_purification",
+  "dater": "D1",
+  "doc": "arXiv:2007.08796",
+  "quote": "In addition to the existing GXe purification system with increased purification flow with respect to XENON1T, LXe is constantly circulated through a novel liquid purification system.",
+  "baseline_date": "2017-08-23",
+  "meta_date": "2020-07-17",
+  "quote_match": "exact",
+  "gap_months": 35,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1618326/gd_water_neutron_veto",
+  "dater": "D2",
+  "doc": "arXiv:2007.08796",
+  "quote": "XENONnT consists of three nested detectors: the central LXe TPC, surrounded by the Gd-loaded water Cherenkov muon veto, with the neutron veto volume optically separated from and contained within the muon veto.",
+  "baseline_date": "2017-08-23",
+  "meta_date": "2020-07-17",
+  "quote_match": null,
+  "status": "FAIL",
+  "reason": "quote not found in document text"
+ },
+ {
+  "item": "1618326/liquid_phase_purification",
+  "dater": "D2",
+  "doc": "arXiv:2007.08796",
+  "quote": "In addition to the existing GXe purification system with increased purification flow with respect to XENON1T, LXe is constantly circulated through a novel liquid purification system.",
+  "baseline_date": "2017-08-23",
+  "meta_date": "2020-07-17",
+  "quote_match": "exact",
+  "gap_months": 35,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ }
+]

@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Mechanical verifier for dating claims (design v3 section 5; pair_selection_rules.md section 6).
 
-A dating claim is a JSON object:
+A dating claim is a JSON object (for multi-version arXiv papers, cite the FIRST version containing the
+quote as arXiv:<id>v<N>; the verifier then dates that version and checks the quote is absent in v<N-1>):
   {"item": "<pair_id>/<item>", "dater": "D1", "doc": "arXiv:1901.03750" | "inspire:1713643",
    "quote": "<verbatim sentence committing the collaboration to the item for this program>",
    "baseline_date": "YYYY-MM-DD"}
@@ -51,6 +52,15 @@ def inspire_meta(recid):
     md = d["metadata"]; ax = [e["value"] for e in md.get("arxiv_eprints", [])]
     return md.get("earliest_date"), (ax[0] if ax else None)
 
+def version_date(aid, v):
+    """Submission date of version v of an arXiv eprint, from the abs page's submission history."""
+    import html
+    page = get(f"https://arxiv.org/abs/{aid}v{v}").decode("utf-8", "replace")
+    m = re.search(rf"\[v{v}\]</strong>\s*([A-Za-z]{{3}}, \d{{1,2}} [A-Za-z]{{3}} \d{{4}})", page)
+    if not m: return None
+    from datetime import datetime
+    return datetime.strptime(m.group(1), "%a, %d %b %Y").date().isoformat()
+
 def pdf_text(aid):
     from pypdf import PdfReader
     raw = get(f"https://arxiv.org/pdf/{aid}", binary=True)
@@ -95,7 +105,13 @@ def classify(gap):
 def verify(c):
     out = dict(c); doc = c["doc"]
     try:
-        if doc.lower().startswith("arxiv:"):
+        vm = re.fullmatch(r"(?i)arxiv:(.+?)v(\d+)", doc)
+        if vm:  # explicit version: date = that version's submission date; quote must be in vN and not in v(N-1)
+            base_id, v = vm.group(1), int(vm.group(2))
+            out["meta_date"] = version_date(base_id, v); aid = f"{base_id}v{v}"
+            if v > 1 and quote_found(c["quote"], pdf_text(f"{base_id}v{v-1}")):
+                out.update(status="FAIL", reason=f"quote already present in v{v-1}: cite the first version containing it"); return out
+        elif doc.lower().startswith("arxiv:"):
             aid = doc.split(":", 1)[1]; out["meta_date"] = arxiv_meta(aid)
         elif doc.lower().startswith("inspire:"):
             out["meta_date"], aid = inspire_meta(doc.split(":", 1)[1])
