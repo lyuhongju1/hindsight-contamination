@@ -20,7 +20,7 @@ THINK = {  # minimum reasoning each model allows (companion study, Amendment 10)
     "claude-opus-5-5": {"thinking": {"type": "adaptive"}, "output_config": {"effort": "low"}},
     "claude-fable-5-1": {"thinking": {"type": "adaptive"}, "output_config": {"effort": "low"}},
 }
-CAP = {"upgrade": 16000, "identify": 2000}
+CAP = {"upgrade": 16000, "identify": 2000, "kprobe": 4000}
 
 
 def key():
@@ -52,10 +52,22 @@ def run_dir(run): d = os.path.join(PILOT, "data", run); os.makedirs(d, exist_ok=
 
 
 def cmd_plan(a):
-    T = json.load(open(os.path.join(PILOT, "templates.json"), encoding="utf-8"))[a.task]
     reqs = []
+    if a.task == "kprobe":  # physics-knowledge probe: the question is the whole prompt (design v2 section 4.5)
+        for pair in a.pairs.split(","):
+            Q = json.load(open(os.path.join(PILOT, "pairs", pair, "round2", "kprobe.json"), encoding="utf-8"))
+            for level, q in Q.items():
+                prompt = q["question"]; h = hashlib.sha256(prompt.encode()).hexdigest()[:16]
+                for m in a.models.split(","):
+                    for i in range(a.n):
+                        reqs.append({"cid": f"{pair}__{level}__K__{i}__{m}".replace(".", "p"), "pair": pair, "level": level,
+                                     "template": "K", "sample": i, "model": m, "prompt": prompt, "prompt_sha256": h})
+        d = run_dir(a.run)
+        json.dump({"task": a.task, "cap": CAP[a.task], "created": time.time(), "requests": reqs}, open(os.path.join(d, "plan.json"), "w"))
+        print(f"planned {len(reqs)} requests (kprobe)"); return
+    T = json.load(open(os.path.join(PILOT, "templates.json"), encoding="utf-8"))[a.task]
     for pair in a.pairs.split(","):
-        for f in sorted(glob.glob(os.path.join(PILOT, "pairs", pair, "descriptions", "*.txt"))):
+        for f in sorted(glob.glob(os.path.join(PILOT, "pairs", pair, *a.desc_dir.split("/"), "*.txt"))):
             level = os.path.splitext(os.path.basename(f))[0]
             desc = open(f, encoding="utf-8").read().strip()
             for tname, tpl in T.items():
@@ -118,5 +130,6 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser(); sp = ap.add_subparsers(dest="cmd", required=True)
     p = sp.add_parser("plan"); p.add_argument("--task", required=True); p.add_argument("--pairs", required=True)
     p.add_argument("--models", required=True); p.add_argument("--n", type=int, required=True); p.add_argument("--run", required=True)
+    p.add_argument("--desc-dir", default="descriptions", help="e.g. round2/descriptions")
     for c in ("submit", "harvest", "status"): sp.add_parser(c).add_argument("--run", required=True)
     a = ap.parse_args(); {"plan": cmd_plan, "submit": cmd_submit, "harvest": cmd_harvest, "status": cmd_status}[a.cmd](a)

@@ -1,0 +1,4 @@
+{
+  "_comment": "Design v4 section 4. A mention of the adopted item counts as a PROPOSAL only if at least one sentence (or bullet line) containing it has none of these cues. Pilot version, written 2026-11-05 before any round-2 output. Pilot adjudication compares raw with filtered hits and refines this list before the confirmatory freeze.",
+  "cues": "\\bnot\\b|n't\\b|\\bnever\\b|\\bavoid|\\bunsuitab|\\binappropriate|\\bfail|\\bpoor(ly)?\\b|\\binadequate|\\binstead of\\b|\\brule[sd]?\\s+out\\b|\\bcannot\\b|\\bdisqualif|\\bnon[\\s-]?viable|\\bunviable|\\breject|\\bexclud|\\bineffective|\\buseless|\\bpointless|\\bno (benefit|gain|advantage)\\b|\\bwould be (a )?(mistake|wrong)"
+}
