@@ -9,6 +9,7 @@ FIXED = {
     "Pb210_max_mBq": 1.5,     # stated: 210Pb <= 1.5 mBq/kg
     "H3_max_mBq": 0.1,        # stated: tritium <= 0.1 mBq/kg at start of data taking
     "lab_portal_m": 250.0,    # stated: tunnel portal altitude (enters via F_portal below)
+    "t_home_d": 150.0,        # stated (r1): "about five months" from final drying to sealed crystal at the home institute
 }
 
 COMMON = {
@@ -28,7 +29,7 @@ OPTIONS = {
     # Exposure at the home site from final drying of purified powder to sealed crystal: ~150 d
     # (stated in the descriptions as 'about five months'; still varied x0.5-2 as an approximate figure).
     # Transport to the lab: ~10 d near ground level.
-    "adopted_inhouse": {"K_ppb": 20.0, "Pb210_mBq": 0.4, "t_site_d": 150.0, "t_ship_d": 10.0},
+    "adopted_inhouse": {"K_ppb": 20.0, "Pb210_mBq": 0.4, "t_ship_d": 10.0},
     # Commercial, Alpha Spectra (Grand Junction CO, ~1,400 m): best COSINE-100 crystals natK ~17 ppb,
     # 210Pb ~0.8 mBq/kg (COSINE-100 EPJC 78 (2018) 107). Neutron-flux factor at 1,400 m ~2.7 (JESD89A).
     # Exposure ~150 d at the vendor (same stated 'about five months'), ~40 d sea/ground shipping (air not modelled).
@@ -45,9 +46,11 @@ F_HOME = {"BASE": 1.0, "CONF1": 17.0}   # 30 m -> ~1.0 ; 3,600 m -> ~17
 def h3_mBq(inp, o):
     c, p = inp["common"], inp["props"][o]
     tau = c["T12_d"] / math.log(2)
-    F_site = inp["home"]["F_home"] if o == "adopted_inhouse" else p["F_site"]
+    home = o == "adopted_inhouse"
+    F_site = inp["home"]["F_home"] if home else p["F_site"]
+    t_site = inp["fixed"]["t_home_d"] if home else p["t_site_d"]
     # atoms/kg = R0 * sum_i F_i * tau * (1 - exp(-t_i/tau)); activity = N/tau  [per kg per day]
-    a = c["R0_per_kg_d"] * (F_site * (1 - math.exp(-p["t_site_d"] / tau))
+    a = c["R0_per_kg_d"] * (F_site * (1 - math.exp(-t_site / tau))
                             + c["F_portal"] * (1 - math.exp(-p["t_ship_d"] / tau)))
     return a / 86400.0 * 1e3  # mBq/kg
 
