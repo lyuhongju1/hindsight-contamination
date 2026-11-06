@@ -1,0 +1,9 @@
+Borexino is a liquid-scintillator neutrino detector in the Gran Sasso underground laboratory (about 3800 m water equivalent). Its target is about 278 t of pseudocumene with PPO, held in a 4.25 m-radius nylon vessel. A pseudocumene buffer surrounds the vessel inside a 6.85 m-radius stainless-steel sphere that carries about 2200 photomultipliers. A water Cherenkov muon veto encloses the sphere.
+The light yield is about 500 photoelectrons per MeV, the energy resolution about 5% at 1 MeV, the vertex resolution about 12 cm at 1 MeV, and the analysis threshold about 0.2 MeV. Uranium and thorium contamination is below 1e-17 g/g.
+The detector measures sub-MeV solar neutrinos through neutrino-electron elastic scattering. It detects electron antineutrinos through inverse beta decay on free protons: a prompt positron followed by a neutron capture about 250 us later.
+A shielded access pit lies beneath the water tank, about 8.25 m from the detector centre.
+The collaboration now wants to test for oscillation into a sterile state with a mass splitting near 1 eV2, using an intense artificial neutrino emitter placed in the access pit.
+The test requires at least 1500 source-induced interactions in the fiducial volume within 18 months of data.
+For at least 80% of those interactions, the neutrino energy must be known to within 10%, so that the oscillation pattern can be traced in distance over energy.
+Source-induced interactions must outnumber background events in the selected window over the counting period.
+The target must stay as it is, because the solar-neutrino programme continues.

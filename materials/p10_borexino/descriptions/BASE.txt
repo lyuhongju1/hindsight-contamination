@@ -1,0 +1,10 @@
+A liquid-scintillator neutrino detector sits in an underground laboratory at about 3100 m water equivalent. Its target is linear alkylbenzene scintillator with a fluor, filling a 4.6 m-radius transparent membrane vessel. An inert buffer liquid surrounds the vessel inside a 7.2 m-radius steel sphere that carries 2500 photomultipliers. A water Cherenkov muon veto encloses the sphere.
+The scintillator solvent is ordinary alkylbenzene with natural hydrogen, about 6e28 hydrogen atoms and 2.9e29 electrons per cubic metre.
+The light yield is 450 photoelectrons per MeV, the energy resolution 5.5% at 1 MeV, the vertex resolution 14 cm at 1 MeV, and the analysis threshold 0.25 MeV. Uranium and thorium contamination is below 1e-17 g/g. In the 0.25-0.6 MeV window, the fiducial volume (radius 3.4 m, 165 m3) records about 100 background events per day, mostly from solar neutrinos.
+The physics programme is low-energy solar neutrinos (7Be, pep, CNO and 8B), with event-by-event neutron detection by capture gammas.
+A shielded access chamber, 1 m across, lies beneath the detector with its centre 7.5 m from the detector centre. It holds up to 2.5 t of emitter plus shielding.
+The collaboration now wants to test for oscillation into a sterile state with a mass splitting near 1 eV2, using an intense artificial neutrino emitter placed in that chamber.
+The test requires at least 1500 source-induced interactions in the fiducial volume within 18 months of data.
+For at least 80% of those interactions, the neutrino energy must be known to within 10%, so that the oscillation pattern can be traced in distance over energy.
+Source-induced interactions must outnumber background events in the selected window over the counting period.
+The target liquid stays as it is, because the solar-neutrino programme continues.

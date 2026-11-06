@@ -1,0 +1,8 @@
+An underground neutrino detector sits about 2 km below the surface (about 6,000 m water equivalent) in an active mine.
+Its target is 1,000 tonnes of heavy water held in a transparent acrylic sphere of 12 m diameter with a 5.5 cm wall. The sphere hangs from ropes attached to a deck above the cavity.
+About 9,500 8-inch photomultiplier tubes, mounted on a 17.8 m diameter geodesic structure, view the sphere. The cavity is filled with about 7,000 tonnes of ultrapure light water, which shields the target and surrounds both the sphere and the tubes.
+The detector records Cherenkov light from 8B solar neutrinos through charged-current, neutral-current and elastic-scattering reactions on deuterium and electrons. Its analysis threshold is a few MeV.
+With the heavy-water programme finished, the collaboration plans a follow-on programme that reuses the cavity, the acrylic sphere, the photomultiplier array and the light-water shield.
+The follow-on programme targets solar neutrinos well below 1 MeV (pep and CNO), geoneutrinos and reactor antineutrinos, and a search for neutrinoless double-beta decay.
+These goals require visible energies down to a few hundred keV, with an energy resolution of a few percent near 1 MeV.
+The heavy water is returned after the heavy-water programme. The acrylic sphere, photomultiplier array and light-water shield are retained.
