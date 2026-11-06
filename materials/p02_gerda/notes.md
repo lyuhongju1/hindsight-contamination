@@ -14,9 +14,10 @@
 - Radon source (after red team r1): emanation by the cryostat walls and the recirculation system, outside the array,
   dissolved throughout the argon (same source geometry as 42Ar, so s_rn ~ s_k). The trap retains essentially all
   radon entering it; the inventory turns over every 20 d. Steady state: A = P/(lambda + eps/T), with mean life
-  1/lambda = 5.5 d. A better trap (eps already ~1) gains nothing. The present loop already lowers radon by
-  (lambda + 1/T)/lambda = 1.27x. A further 2.25x cut needs T <= ~4.4 d, i.e. a >= 4.5x faster flow of the full
-  inventory (open route, see doubts).
+  1/lambda = 5.5 d. A better trap (eps already ~1) gains nothing. A further 2.25x cut needs
+  lambda + 1/T' = 2.25 (lambda + 1/20 d), i.e. 1/T' = 0.340/d, T' <= ~2.95 d: a >= 6.8x faster flow of the full
+  inventory (open route, see doubts). The planned instrument is stated to use the prototype's cryostat,
+  recirculation system and trap.
 - CONF2 not written (no second honest mechanism found: 42K has no source other than 42Ar; isotopic differences of
   radiogenic argon, e.g. low 36Ar, do not affect any stated requirement).
 
@@ -33,8 +34,9 @@ Consequence: failure of the adopted item is deterministic (9e-6 > 4e-6 by x2.25,
 - adopted.f42 = 1e-3 (residual 42Ar fraction in argon from underground; unmeasured, physically ~0). BASE passes for
   f42 < ~0.3; CONF1 fails for any f42 >= 0.
 - encaps.s_k = 14.3: measured shroud collection suppression of 42K, 14.3 +- 2.1 (Lubashevskiy et al., EPJC 78 (2018)
-  15, Table 2; value supplied by the red team, not refetched by me). Left at the default x0.5-2 (wider than the cited
-  precision allows, so conservative).
+  15, Table 2 and Sec. 3.1; verified by red team r2). Scope: a pre-cut factor in the beta region, assumed to multiply
+  with the post-cut (LAr veto, PSD) factors as in that paper's Table 6. b_k and b_rn are stated after cuts, so the key
+  divides them by s. Left at the default x0.5-2 (wider than the cited precision, so conservative).
 - encaps.s_rn = 14.3: radon progeny are born as positive ions from radon dissolved homogeneously in the argon, with the
   source outside the array. That is the same source geometry and ion transport as 42K, so the same factor is taken,
   varied independently x0.5-2. The survivor passes down to s ~ 5.3 (surface) and ~ 5.25 (total), i.e. at the x0.5
@@ -67,11 +69,24 @@ None.
   5. removed the stale "the question asks for 'a single change'" note.
   Key re-run: BASE PASS, CONF1 PASS (adopted_fails=1.000, viable=1.000); regex check OK.
 
+- Red team r2 fixes (report_r2.md items 1-5):
+  1. scope of 14.3 documented (pre-cut beta-region factor, multiplying post-cut factors as in Table 6) in notes and
+     key comment; "not refetched" wording removed;
+  2. key comment: "radon emanated inside the array" -> "radon emanated by the cryostat and recirculation system";
+  3. BASE/CONF1 sentence 5 now starts "The planned instrument uses the prototype's cryostat, argon recirculation system
+     and trap: ...";
+  4. BASE/CONF1 sentence 6: "these radon progeny on the detector surfaces", plus "(radon-progeny gammas are included
+     in the other contributions)";
+  5. circulation arithmetic corrected: T' <= ~2.95 d (>= 6.8x faster), not 4.4 d / 4.5x.
+  Edits 3-4 are identical in both files, so the pair still differs only in the radon number. Stated numbers unchanged.
+  Key re-run: ALL PASS; gates.py p02_gerda: GATES PASSED.
+
 ## Doubts
 - The s_rn = s_k assumption rests on a shared source geometry, not on a measurement for radon progeny.
 - Combination route: argon free of 42Ar PLUS a radon-progeny measure (> 2.25x) passes. The red-team rubric scores it
   as a valid package (C).
-- Open routes: lower-emanation cryostat/recirculation components; a >= 4.5x faster recirculation. Both are handled by
+- Open routes: lower-emanation cryostat/recirculation components; a >= 6.8x faster recirculation; 214Bi-Po delayed
+  tagging (analysis change, capped at ~2x < 2.25x per red team r2). Both are handled by
   scoring, not closed in the text (closing them would need exclusion-like wording).
 - Coherence: 9e-6 from radon progeny implies a radon level well above BASE. It also adds 214Bi gammas (largely vetoed
   by argon scintillation, covered by "all other contributions") and long-term 210Pb/210Po build-up on surfaces (alpha
