@@ -209,3 +209,10 @@ This must be pre-registered, because it uses model output to filter items. The f
 1. **CONF2 "replace the vessels with deeper ones + panel"** counts as rubric **C** (valid workaround: changes stated hardware to make the adopted item work), not override. It parallels T2K's dilution workarounds. The Auger adjudication rubric lists it explicitly under C.
 2. **Integer structural counts** (number of independent signals an option provides) may be placed under `inputs["fixed"]`, with a justification, because ×0.5–2 scaling of an integer count is meaningless. Added to keylib's documented rules; the red team reviews each use.
 3. **CONF2 remains suspended under F9** until the reworded, graded K-probe shows that the models' majority physics agrees with the key. It is sampled now for information only (exploratory).
+
+## F10 — K-probes need a forced verdict line; Auger CONF2 premise is contested among models (run `k_auger_r3`)
+
+- Regex scoring of free-text K answers fails for graded questions: most conclusions classify as "mixed/unclear".
+- **Fix:** every K-probe ends with "VERDICT: YES" or "VERDICT: NO" as its own final line, parallel to the TOP RECOMMENDATION fix (F5). Scoring then uses that line only.
+- **Auger CONF2 (graded):** the models disagree with each other and with the red team's estimate. Sonnet 4.5, for example, puts both detectors at ~85–90% muons at 1000 m, while the red team estimates the deep-tank muon fraction at ≈ 0.43. CONF2 stays **suspended** (F9): its premise is contested, not established.
+- **Auger CONF1:** K from round 2 (unchanged question) was read directly. The models give the expected "no" with correct physics, so the H1 precondition holds for CONF1.
