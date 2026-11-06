@@ -1,0 +1,8 @@
+A planned experiment searches for mu+ -> e+ gamma, whose signature is a 52.8 MeV positron and a 52.8 MeV photon emitted back to back and in time.
+A continuous surface mu+ beam of 28 MeV/c delivers 5e7 mu+/s along the axis of a superconducting solenoid. Just before the target, the beam passes a 50 mg/cm2 Mylar degrader that sets the stopping depth; its thickness can be reduced to compensate any other material added in the beam path. A 120 um polyethylene foil at the solenoid centre stops 4.5e7 mu+/s.
+The solenoid field is 0.5 T at the target. It falls smoothly to 0.25 T at the upstream end of the bore, 1.2 m upstream of the target. Downstream it rises to 2.0 T between 5 cm and 20 cm from the target and stays at 2.0 T to the downstream end of the bore.
+The positron is measured by a low-mass tracker outside 15 cm radius and by scintillator timing counters. The photon is measured by a scintillating-crystal calorimeter outside the magnet, with 1.8% energy resolution and 70 ps time resolution at 52.8 MeV.
+The dominant background is accidental: a positron from ordinary muon decay coincides with an unrelated high-energy photon. About half of these photons come from radiative muon decays in the target. The rest come from positron annihilation in flight and from pile-up.
+The accidental background grows as the square of the stopped-muon rate. It sets the sensitivity.
+The next phase must reduce the expected accidental background in the signal region by at least 10% at the same stopped-muon rate.
+Any change may lower the signal efficiency by at most 2%.

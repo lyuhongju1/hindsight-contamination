@@ -4,7 +4,7 @@ Ionization electrons are read by three planes of wires at 4 mm pitch (two induct
 Scintillation light is detected by photomultipliers behind the wire planes and provides the trigger and event time.
 The existing readout digitizes each wire at 10 bits with 500 ns sampling, and samples on neighbouring wires are taken at different instants within each 500 ns period.
 The chambers are to be refurbished and installed in a new vacuum-insulated vessel at a near-surface site under about 2.5 m of concrete, 500 m from the target of a 1 GeV-scale accelerator neutrino beam, for a short-baseline oscillation search; about eight cosmic-ray muons cross the detector in each drift window.
-The only penetrations of the new vessel are circular ports in its roof, 20 cm in clear diameter; 6 of them are assigned to the wire signals, and the roof shell cannot take additional openings.
+The only penetrations of the new vessel are circular ports in its roof, 20 cm in clear diameter; 8 of them are assigned to the wire signals, and the roof shell cannot take additional openings.
 Requirement: all 20,000 wires must be recorded continuously over the full drift time for each triggered event.
 Requirement: minimum-ionizing tracks must be reconstructed on all three planes, including the induction planes, with a signal-to-noise ratio of at least 10.
 Requirement: samples on all wires must share a common time reference to better than 50 ns, so that overlapping cosmic and beam tracks can be matched across planes.
