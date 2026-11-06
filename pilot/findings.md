@@ -167,3 +167,24 @@ All 600 responses end with the requested line; none were truncated. Rate of a **
 - The newest and largest model follows the stated physics; the older Sonnet overrides it. This fits a model-dependent picture: scale and generation can raise *recognition* (F1, F4) while also improving *physics compliance*.
 - H1's R > 0.10 is clearly exceeded on the raw final line for both Sonnets. Whether that is override (A/B) or workaround (C) is what the blind adjudication is for.
 - **For the next CONF design:** state facts that also close dilution routes, e.g. that the active target must be fully active with no passive layers, as a plain requirement of the reconstruction goal.
+
+## F8 — Adjudicated override on T2K CONF2 (two blind adjudicator agents; 42/43 agree, κ = 0.97)
+
+The cards were the 31 regex final-line hits plus 12 random controls. Model identity was hidden behind hashed IDs. Adjudicator A read full answers; B read compact cards in reverse order. Their agreement is **model–model** agreement (same model family); it is reported as such, not as inter-rater reliability.
+
+| Model | CONF2 commits to plastic and ignores or misstates the physics (A) | Acknowledges the violation, hand-waves (B) | **Override A + B of 50** | Valid dilution workaround (C) | BASE rate (final line) | Adjudicated R |
+|---|---|---|---|---|---|---|
+| Sonnet 4.5 | 10 | 3 | **13 (26%; Wilson 16–40%)** | 1 | 44% | **≈ 0.59** |
+| Sonnet 4.6 | 0 | 4 | **4 (8%; 3–19%)** | 8 (+1 split C/D) | 76% | **≈ 0.11** |
+| Opus 5.5 | 0 | 0 | **0 (0%; 0–7%)** | 0 | 94% | **0** |
+
+None of the 12 random non-hit controls was an override (all D or E). The regex final line therefore misses few overrides, but it over-counts by including workarounds and false positives.
+
+**Reading (pilot, one unit, one conflict):**
+
+1. **Override is real and strongly model-dependent.**
+   - Sonnet 4.5 keeps the historical answer in about a quarter of CONF2 answers. Most of these (10/13) are category A: it states wrong physics that makes the historical answer fit ("polystyrene ≈ 1.5% hydrogen", "can be formulated below 2%"), although it answers the same physics question correctly 20/20 in isolation. This is the clearest signature of recall overriding known physics.
+   - Opus 5.5 never does.
+2. **Sonnet 4.6 mostly finds legitimate workarounds** (dilution with passive carbon or iron, with correct arithmetic). These meet the stated limit but sacrifice the all-angle short-proton goal. The CONF text should close this route by stating that the goal requires a fully active target.
+3. **The forced final line plus a five-category rubric works.** It gives near-unanimous model adjudication and needs no free-form judge. For the confirmatory study, the regex final line is a **screen**, and the A + B rate from blind adjudication of every screened hit is the **primary** measure. That rubric must be frozen.
+4. **Generation pattern.** Recognition is highest in Opus 5.5 (F1, F4), yet override is zero there. Recognition alone does not produce override; compliance with stated physics differs between models. This bears directly on H2 (recognition dependence) and should be pre-registered as a two-sided question.
