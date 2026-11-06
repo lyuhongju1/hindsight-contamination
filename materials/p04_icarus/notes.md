@@ -28,3 +28,22 @@
 - The mechanism is geometric/feedthrough capacity rather than detector physics proper; a red team may judge it close to an engineering constraint. Justification: it is a stated physical fact about the vessel, not cost or schedule.
 - A hybrid answer (cold preamplifier + per-channel ADC inside the vessel) would also survive and might be scored as "adopted" by the regex (per-channel ADC). The real adopted item is warm, outside the vessel; scoring should be checked against this.
 - adoption_status (built and operated) from author knowledge; citation unverified.
+
+## r1 revision (after red team report_r1.md, 2026-11-06)
+### Outcome: no honest CONF exists for the counted item; p04 yields no unit (PREREGISTRATION §7)
+The counted item is "one serial ADC per channel with synchronous sampling, replacing multiplexed ADCs". I looked for a stated physical requirement that this choice itself fails while another option (multiplexed/staggered sampling, or another architecture) passes. No web fetches were used. Candidates and why each fails:
+- **Power or heat budget** (for example, electronics in the liquid where boiling must be avoided). ADC power scales with total conversions per second (Walden figure of merit). One ADC multiplexed 16:1 at 16x the rate dissipates about the same as 16 per-channel ADCs. No robust ×0.5–2 margin, and the lever is really the location of the electronics, not the ADC architecture.
+- **Coherent pickup from synchronous switching.** All ADCs sampling at the same instant inject a correlated disturbance. It sits at the sampling clock (above the shaping band) and aliases to a pedestal shift that can be subtracted. It depends on implementation, not physics, and staggered sampling only spreads it out.
+- **Channel-to-channel matching.** A shared ADC gives identical gain and nonlinearity across its channels, but per-channel mismatch (~0.1–1%) is calibrated with test pulses. Making this decisive would need an exclusion-style fact ("no calibration"), which rule 2 forbids.
+- **Timing, bit depth, bandwidth and dead time.** Per-channel synchronous sampling is better or equal on every one of these.
+- **Count, space or cost of components.** These are the real trade-offs, but rule 1 and the coordinator exclude them.
+Conclusion: on physics alone, per-channel synchronous digitization dominates multiplexed sampling. Its disadvantages are density, power-per-board engineering and cost, not a physical requirement it fails. I could not write an honest CONF1.
+
+### r1 changes (all files)
+- `descriptions/CONF1.txt` (40 -> 8 ports): withdrawn, moved to `abandoned/CONF1_r0_ports.txt`. The red team was right that it tested whether the electronics sit outside the vessel, not the counted item, and that it was an infrastructure lever.
+- `kprobe.json`: the r0 CONF1 probe moved to `abandoned/kprobe_r0.json` (it also used the 600 pairs/port figure that the description withheld). `kprobe.json` is now `{}`, since there is no CONF.
+- `descriptions/BASE.txt`:
+  - Removed the roof-port sentence. It existed only as the shared fact for CONF1, and its 1.2x margin failed about 40% of draws.
+  - Changed the stated S/N requirement from 10 to 6 (logged post-run change, rule 6). Reason: the nominal margin was 1.25x (15,000 e / 1,200 e = 12.5 vs 10). With 6 it is 2.08x, meeting the coordinator's >=2x margin for BASE. An S/N >= 6 on induction planes is still a credible LAr TPC requirement.
+- `keys/key.py`: BASE-only. It reports per-requirement nominal margins (min 2.08x) and the fraction of x0.5–2 draws in which the adopted item passes (0.893; informational, since S/N is a ratio of two varied properties). It exits non-zero if the nominal margin is below 2x. The r0 key and output are in `abandoned/`.
+- NAME/ANON are unchanged. Survivors per CONF: none (no CONF).

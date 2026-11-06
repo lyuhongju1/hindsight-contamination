@@ -1,1 +1,1 @@
-{"CONF1": {"question": "A sealed cryogenic vessel contains 20,000 signal electrodes. Its only wall penetrations are 8 circular ports of 20 cm clear diameter, and a port of that size accommodates roughly 600 shielded signal pairs. Can every electrode's analog signal be brought out of the vessel on its own dedicated conductor pair? End your answer with one line: VERDICT: YES or VERDICT: NO.", "expected": "NO"}}
+{}
