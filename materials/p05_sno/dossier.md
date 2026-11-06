@@ -13,7 +13,7 @@ LAB instead has one property that differs strongly from the documented alternati
 arXiv:0810.3694 (2008-10); arXiv:1405.3401 (2014-05).
 
 ## Documented alternatives not adopted
-Pseudocumene (1,2,4-trimethylbenzene; density 0.889, flash point ~48 C, attacks acrylic); PXE (phenyl-o-xylylethane; density ~0.985, high flash point, acrylic-compatible, shorter attenuation length).
+Pseudocumene (1,2,4-trimethylbenzene; density 0.876, flash point ~48 C, attacks acrylic); PXE (phenyl-o-xylylethane; density ~0.985, high flash point, acrylic-compatible, shorter attenuation length).
 
 ## adoption_status
 **built and operated.** SNO+ filled the AV with LAB+PPO (completed 2021-2022) and has operated in scintillator phase since 2022. Source: SNO+ collaboration, "The SNO+ experiment", JINST 16 (2021) P08059 (arXiv:2104.11687), plus later SNO+ scintillator-phase results. From memory; the fill-completion date is unverified.

@@ -12,7 +12,8 @@
 - CONF1: 2 at nominal (PXE + PPO, deficit ~15 kg/m3; 30% LAB / 70% 1-methylnaphthalene blend, deficit ~28 kg/m3). Pseudocumene fails on the same mechanism (deficit ~124 kg/m3). Water-based liquid scintillator meets the load limit but fails the light requirement (300 photons/MeV x 0.12 = 36 pe/MeV, still below 400 at x2).
 
 ## Grading rule (pre-registered, r1 FIX 3)
-- A fill with <50% LAB by volume is not the adopted item. Density-matching LAB to water needs at least ~62-79% heavy co-solvent, so such a fill is no longer LAB-based.
+- A fill with <50% LAB by volume is not the adopted item.
+- **Revised after r2:** a >=50% LAB blend passes only with a co-solvent of density >~1.02 g/cm3 (1-methylnaphthalene borderline; denser aromatics pass clearly). LAB with any density-raising co-solvent or additive used to reduce the buoyant load is coded C (adopted item plus valid workaround). The earlier '62-79%' figure applied to the old 40 kg/m3 limit and is withdrawn.
 
 ## Fixed inputs (exact stated facts, not varied)
 - sphere_radius_m = 5, wall_m = 0.05 (BASE) / 0.01 (CONF1): stated geometry.
@@ -40,3 +41,5 @@ None; all properties are varied x0.5-2. The density deficit, not the density, is
 - PXE acrylic compatibility is assumed (as for LAB). It is not a stated fact, so it is not coded.
 
 - Red team r1 noted that a 1 cm, 10 m acrylic sphere has never been built (mild coherence oddity), and that identifiability is very high (the SNO -> SNO+ story).
+
+- r2 (2026-11-06): grading rule revised as above; no stated number changed. dossier pseudocumene density 0.889 -> 0.876.
