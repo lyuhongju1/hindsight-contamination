@@ -1,0 +1,8 @@
+A dark-matter experiment operates in an underground laboratory under about 700 m of rock. Its goal is a model-independent test of the DAMA/LIBRA annual-modulation signal using the same target material.
+The detector is an array of eight thallium-doped sodium iodide crystals with a total mass of about 106 kg. Each crystal is read out by two 3-inch photomultipliers at its ends.
+The crystals sit in about 2,200 L of linear-alkylbenzene liquid scintillator, which tags internal and external gamma rays. The scintillator is surrounded by copper, lead and plastic-scintillator muon panels.
+The analysis threshold is about 2 keVee. In the best crystals the background between 1 and 6 keVee is about 2-3 counts/(kg day keV). It is dominated by internal 40K, 210Pb and cosmogenic isotopes, including tritium.
+The crystals in the best channels contain about 20 ppb of natural potassium and about 1 mBq/kg of 210Pb.
+The collaboration plans a successor with about 200 kg of crystals and a target background of about 0.5 counts/(kg day keV) in 1-6 keVee.
+For that successor, each crystal must contain no more than 40 ppb of natural potassium and no more than 1.5 mBq/kg of 210Pb.
+For that successor, the cosmogenic tritium activity in each crystal at the start of data taking must not exceed 0.1 mBq/kg.

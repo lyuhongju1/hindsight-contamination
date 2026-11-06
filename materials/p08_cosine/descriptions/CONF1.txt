@@ -1,0 +1,7 @@
+An annual-modulation dark-matter search runs in an underground laboratory under 1,100 m of rock. The laboratory's access tunnel opens at 250 m above sea level.
+The detector is an array of twelve thallium-doped sodium iodide crystals with a total mass of about 140 kg. Each crystal is viewed by two photomultipliers, and the array sits inside a liquid-scintillator veto and a copper and lead shield.
+The analysis threshold is 1.5 keVee. The background between 1 and 6 keVee is about 3.5 counts/(kg day keV). Most of it comes from 40K and 210Pb inside the crystals, which contain about 70 ppb of natural potassium and about 2.5 mBq/kg of 210Pb.
+The collaboration's home institute, which houses its chemistry and materials laboratories, is at 3,600 m above sea level.
+The collaboration intends to replace the array with about 200 kg of crystals and reach a background of 0.5 counts/(kg day keV) in 1-6 keVee.
+Each new crystal must contain no more than 40 ppb of natural potassium and no more than 1.5 mBq/kg of 210Pb.
+The cosmogenic tritium activity in each new crystal at the start of data taking must not exceed 0.1 mBq/kg.
