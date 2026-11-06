@@ -1,0 +1,62 @@
+[
+ {
+  "item": "1704344/mn_damping_optical_levers",
+  "dater": "D1",
+  "doc": "arXiv:2203.07011v1",
+  "quote": "We plan to substitute the photo-sensors with optical levers for MN damping to sense the motion relative to the ground; the investigation is in progress.",
+  "baseline_date": "2018-11-20",
+  "meta_date": "2022-03-14",
+  "quote_match": "exact",
+  "gap_months": 40,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "789156/ppo_doping",
+  "dater": "D1",
+  "doc": "arXiv:1210.2296v1",
+  "quote": "We propose adding 300 mg/l PPO to the existing MiniBooNE detector mineral oil to increase the scintillation response.",
+  "baseline_date": "2008-06",
+  "meta_date": "2012-10-08",
+  "quote_match": "exact",
+  "gap_months": 52,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "789156/ppo_doping",
+  "dater": "D2",
+  "doc": "arXiv:1210.2296v1",
+  "quote": "We propose adding 300 mg/l PPO to the existing MiniBooNE detector mineral oil to increase the scintillation response.",
+  "baseline_date": "2008-06",
+  "meta_date": "2012-10-08",
+  "quote_match": "exact",
+  "gap_months": 52,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1704344/mn_damping_optical_levers",
+  "dater": "D2",
+  "doc": "arXiv:2203.07011v1",
+  "quote": "We plan to substitute the photo-sensors with optical levers for MN damping to sense the motion relative to the ground; the investigation is in progress.",
+  "baseline_date": "2018-11-20",
+  "meta_date": "2022-03-14",
+  "quote_match": "exact",
+  "gap_months": 40,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1704344/iss_jitter_stabilization",
+  "dater": "D2",
+  "doc": "arXiv:2203.07011v1",
+  "quote": "We plan to install a jitter stabilization system with quadrant PDs and piezo actuators placed before the intensity monitoring PDs to mitigate the beam jitter.",
+  "baseline_date": "2018-11-20",
+  "meta_date": "2022-03-14",
+  "quote_match": "exact",
+  "gap_months": 40,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ }
+]

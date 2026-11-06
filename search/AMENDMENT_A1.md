@@ -32,3 +32,11 @@ The frame contains several baselines from the same program lineage: Virgo (2012)
 **Skipped by this rule before round 2:**
 - q14 Virgo (2012): Advanced Virgo is selected;
 - q20 GERDA (2012): GERDA Phase II is selected.
+
+## A1 addendum 3: meaning of "adopted" (2026-11-06, before any round-3 selection)
+
+The frozen rules define an item as a choice "adopted by the upgrade program", and the commitment as the earliest collaboration document "proposing the item for this program". Round-3 daters flagged commitments worded as plans (KAGRA: "We plan to substitute…; the investigation is in progress"). Some selected items were also committed but never built (Borexino SOX: source production failed; MiniBooNE PPO: LoI).
+
+**Interpretation applied uniformly:** an item counts if the collaboration's own document commits to it **as the program's chosen plan**. If the document presents it as one of several open options ("X or Y"; NA48/HIKE in round 2), it does not count.
+
+Whether the item was eventually **built and operated / approved but not built / cancelled** is recorded per item as an **exploratory covariate** (`adoption_status`), filled in at the materials stage. It is not a selection criterion. Rationale: the study measures whether models reproduce a collaboration's recorded choice against stated physics, and a recorded choice exists whether or not construction followed.

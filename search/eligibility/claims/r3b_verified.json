@@ -1,0 +1,122 @@
+[
+ {
+  "item": "1519167/hike_small_straws",
+  "dater": "D1",
+  "doc": "arXiv:2204.13394v1",
+  "quote": "Straws with diameter less than 5 mm are necessary to handle the expected particle rates at the higher beam intensity.",
+  "baseline_date": "2017-03-24",
+  "meta_date": "2022-04-28",
+  "quote_match": "exact",
+  "gap_months": 61,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1519167/ktag_mcp_pmt",
+  "dater": "D1",
+  "doc": "arXiv:2211.16586v1",
+  "quote": "The KTAG should be upgraded with new photodetection, front-end and readout systems to satisfy these requirements. Photodetection devices under consideration for the HIKE KTAG detector are micro-channel plate photomultipliers (MCP-PMTs)",
+  "baseline_date": "2017-03-24",
+  "meta_date": "2022-11-29",
+  "quote_match": "exact",
+  "gap_months": 68,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1441153/aplus_fds",
+  "dater": "D1",
+  "doc": "arXiv:1304.0670v7",
+  "quote": "Facilities modifications to incorporate the filter cavity required for frequency-dependent squeezing will begin after O3.",
+  "baseline_date": "2016-04-01",
+  "meta_date": "2019-09-04",
+  "quote_match": "exact",
+  "gap_months": 41,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1441153/aplus_bhd",
+  "dater": "D1",
+  "doc": "arXiv:1304.0670v7",
+  "quote": "The full A+ configuration, adding improved test masses and balanced homodyne readout, is expected to be in place for O5.",
+  "baseline_date": "2016-04-01",
+  "meta_date": "2019-09-04",
+  "quote_match": "exact",
+  "gap_months": 41,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1441153/aplus_bhd",
+  "dater": "D2",
+  "doc": "arXiv:1304.0670v7",
+  "quote": "The full A+ configuration, adding improved test masses and balanced homodyne readout, is expected to be in place for O5.",
+  "baseline_date": "2016-04-01",
+  "meta_date": "2019-09-04",
+  "quote_match": "exact",
+  "gap_months": 41,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1519167/hike_small_straws",
+  "dater": "D2",
+  "doc": "arXiv:2204.13394v1",
+  "quote": "The straw tubes are expected to stay in the vacuum tank containing the decay region, profiting from the successful technology developed for NA62. Straws with diameter less than 5 mm are necessary to handle the expected particle rates at the higher beam intensity.",
+  "baseline_date": "2017-03-24",
+  "meta_date": "2022-04-28",
+  "quote_match": "exact",
+  "gap_months": 61,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1519167/ktag_mcp_pmt",
+  "dater": "D2",
+  "doc": "arXiv:2211.16586v1",
+  "quote": "The KTAG should be upgraded with new photodetection, front-end and readout systems to satisfy these requirements. Photodetection devices under consideration for the HIKE KTAG detector are micro-channel plate photomultipliers (MCP-PMTs) which are compact devices providing a single-photon time resolution of 50-70 ps",
+  "baseline_date": "2017-03-24",
+  "meta_date": "2022-11-29",
+  "quote_match": "exact",
+  "gap_months": 68,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "838149/etof_mrpc",
+  "dater": "D2",
+  "doc": "arXiv:1305.7033v1",
+  "quote": "multi-gap resistive plate chamber (MRPC) [5-7], is chosen for the ETOF detector, and an MRPC prototype with pad readout was developed.",
+  "baseline_date": "2009-11",
+  "meta_date": "2013-05-30",
+  "quote_match": "exact",
+  "gap_months": 42,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "838149/cgem_inner_tracker",
+  "dater": "D2",
+  "doc": "arXiv:1504.02570v1",
+  "quote": "Considering the aging effects of existing Inner Drift Chamber (IDC) of BESIII, a GEM based inner tracker is proposed to be designed and constructed as an upgrade candidate for IDC.",
+  "baseline_date": "2009-11",
+  "meta_date": "2015-04-10",
+  "quote_match": "fuzzy",
+  "gap_months": 65,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "636731/lopes3d_tripoles",
+  "dater": "D2",
+  "doc": "arXiv:1303.6808v1",
+  "quote": "In order to measure all three electric field components directly, a tailor-made antenna type (tripoles) was deployed.",
+  "baseline_date": "2003",
+  "meta_date": "2013-03-27",
+  "quote_match": "exact",
+  "gap_months": 122,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ }
+]
