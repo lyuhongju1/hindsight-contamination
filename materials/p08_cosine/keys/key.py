@@ -28,11 +28,13 @@ COMMON = {
 
 OPTIONS = {
     # Adopted: in-house growth from recrystallisation-purified powder at the home institute.
-    # natK ~20 ppb, 210Pb ~0.4 mBq/kg in CUP-grown crystals (Lee et al., COSINE-200 R&D; unverified, see notes).
+    # r2 (verified): NaI-037, grown at IBS/CUP from in-house recrystallised powder: natK 8.3 +- 4.6 ppb,
+    # 210Pb 0.44 +- 0.09 mBq/kg (Lee et al., arXiv:2301.04884, Frontiers in Physics 2023, Table 1).
+    # In-house purified powder: K 6.4 ppb, Pb < 0.3 ppb (Shin et al. 2023, ref. 29 of that paper).
     # Exposure at the home site from final drying of purified powder to sealed crystal: ~150 d
     # (stated in the descriptions as 'about five months'; still varied x0.5-2 as an approximate figure).
     # Transport to the lab: ~10 d near ground level.
-    "adopted_inhouse": {"K_ppb": 20.0, "Pb210_mBq": 0.4, "t_ship_d": 10.0},
+    "adopted_inhouse": {"K_ppb": 8.3, "Pb210_mBq": 0.44, "t_ship_d": 10.0},
     # Commercial, Alpha Spectra (Grand Junction CO, ~1,400 m): best COSINE-100 crystals natK ~17 ppb,
     # 210Pb ~0.8 mBq/kg (COSINE-100 EPJC 78 (2018) 107). Neutron-flux factor at 1,400 m ~2.7 (JESD89A).
     # Exposure ~150 d at the vendor (same stated 'about five months'), ~40 d sea/ground shipping (air not modelled).
@@ -43,7 +45,7 @@ OPTIONS = {
 }
 
 # Neutron-flux factor at the home institute relative to sea level (JESD89A; Leadville 3,100 m ~12.9).
-F_HOME = {"BASE": 1.0, "CONF1": 17.0}   # 30 m -> ~1.0 ; 3,600 m -> ~17
+F_HOME = {"BASE": 1.0}   # 30 m -> ~1.0 (altitude CONF1 withdrawn in r2; see abandoned/)
 
 
 def h3_mBq(inp, o):
@@ -80,10 +82,21 @@ def make(level):
             "unc": {"common/R0_per_kg_d": [0.37, 1.5], "common/T12_d": [0.8, 1.25]}}
 
 
+def k_scan():
+    """r2: is there a per-crystal natK limit L that the in-house method fails and Astro-Grade (RMD) passes,
+    robustly under x0.5-2 on both cited K values? Needs 2*K_rmd < L < 0.5*K_inhouse."""
+    ki, kr = OPTIONS["adopted_inhouse"]["K_ppb"], OPTIONS["rmd_astrograde"]["K_ppb"]
+    pi, pr = OPTIONS["adopted_inhouse"]["Pb210_mBq"], OPTIONS["rmd_astrograde"]["Pb210_mBq"]
+    print(f"# r2 scan: natK window needs 2*{kr}={2*kr:.1f} < L < 0.5*{ki}={0.5*ki:.2f} ppb -> "
+          f"{'EXISTS' if 2*kr < 0.5*ki else 'EMPTY'}")
+    print(f"# r2 scan: 210Pb window needs 2*{pr}={2*pr:.2f} < L < 0.5*{pi}={0.5*pi:.2f} mBq/kg -> "
+          f"{'EXISTS' if 2*pr < 0.5*pi else 'EMPTY'}")
+
+
 if __name__ == "__main__":
-    for lvl in ("BASE", "CONF1"):
-        inp = make(lvl)
-        print(f"# {lvl}: 3H mBq/kg nominal: " + ", ".join(f"{o}={h3_mBq(inp, o):.3f}" for o in OPTIONS))
+    inp = make("BASE")
+    print("# BASE: 3H mBq/kg nominal: " + ", ".join(f"{o}={h3_mBq(inp, o):.3f}" for o in OPTIONS))
+    k_scan()
     ok_b = check_base("BASE", make("BASE"), fails)
-    ok_c = check_conf("CONF1", make("CONF1"), fails, viable)
-    sys.exit(0 if (ok_b and ok_c) else 1)
+    print("CONF1    none: r2 outcome, no honest method-level conflict (see notes.md)")
+    sys.exit(0 if ok_b else 1)

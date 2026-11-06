@@ -2,19 +2,19 @@
 
 ## Design choices
 - Adopted item: frequency-dependent squeezing via an external detuned high-finesse resonator (AdV+ Phase I). Descriptions avoid the forbidden terms and do not name or rule out any technology class.
-- BASE: invented 3.6 km dual-recycled interferometer, 55 kg masses, quantum-noise crossover 55 Hz, 13 dB source, 90 % total efficiency (85 % before r1), 400 m auxiliary evacuated path. Requirement: >= 3 dB quantum-noise reduction at 20 Hz and at 800 Hz.
-- CONF1 (minimal edit, one number): auxiliary path 400 m -> 8 m. Mechanism: the resonator must have half-linewidth ~ f_SQL/sqrt(2) ~ 39 Hz; at 8 m this needs input transmission ~ 26 ppm, comparable to the round-trip loss, so the low-frequency squeezing is almost fully decohered (eps = 2 Lambda^2 / T, clamped at 1). Adopted reaches 0 dB at 20 Hz nominally, <= 1.8 dB even at the most favourable loss (7.5 ppm) and ideal angle; requirement is 3 dB.
-- Fixed-angle squeezing fails in both BASE and CONF1 (any single angle anti-squeezes one of the two bands; best min over bands -8.8 dB).
+- BASE: invented 3.6 km dual-recycled interferometer, 55 kg masses, quantum-noise crossover 55 Hz, 13 dB source, 90 % total efficiency (85 % before r1), 400 m auxiliary evacuated path. Requirement (r2): >= 3 dB quantum-noise reduction at every frequency from 20 Hz to 800 Hz (key: 25 log-spaced points).
+- CONF1 (minimal edit, one number): auxiliary path 400 m -> 8 m. Mechanism: the resonator must have half-linewidth ~ f_SQL/sqrt(2) ~ 39 Hz; at 8 m this needs input transmission ~ 26 ppm, comparable to the round-trip loss, so the low-frequency squeezing is largely decohered. r2 key: sideband model with half-linewidth, detuning and injection angle optimised against the band minimum; best band minimum ~0.5 dB at the 10 ppm floor and < 0 dB at nominal 15 ppm; requirement is 3 dB.
+- Fixed-angle squeezing fails in both BASE and CONF1 (any single angle anti-squeezes one of the two bands; best band minimum ~ -9 dB).
 - Survivor: EPR/conditional squeezing, which uses the 3.6 km interferometer itself as the frequency-dependent element for the detuned idler; needs no long auxiliary resonator. Conditional variance with 13 dB two-mode source, eta_signal 0.90, eta_idler 0.90*(1-delta), plus mismatch excess (r1): 4.39 dB nominal; ~3.5 dB at worst corner.
-- Workaround routes closed by plain fact: arm tubes carry only the main beams (no auxiliary resonator in the 3.6 km tubes); arm power and test-mass mass fixed as stated (no moving the crossover out of band). Folding the 8 m resonator does not help: round-trip loss grows ~ with the number of reflections as the path grows, so loss per unit path (the figure of merit) is unchanged or worse.
+- Workaround routes closed by plain fact: no auxiliary optics or separate auxiliary beam lines can be installed in the 3.6 km arm tubes; arm power and test-mass mass fixed as stated (no moving the crossover out of band). Folding the 8 m resonator does not help: round-trip loss grows ~ with the number of reflections as the path grows, so loss per unit path (the figure of merit) is unchanged or worse.
 - Coherence (rule 7): the edited number only concerns the vertex auxiliary space; nothing else in the instrument depends on it. 8 m of straight vacuum at a vertex station is realistic.
 
 ## Survivors per CONF
 - CONF1: 1 (epr_conditional_squeezing).
 
 ## Fixed inputs (inputs["fixed"]) and justification
-- f_sql_Hz = 55, src_dB = 13, eta = 0.85, L_aux_m = 400 / 8, f_low = 20 Hz, f_high = 800 Hz, req_dB = 3: all are exact numbers stated in the description (instrument facts and the requirement), not cited properties.
-- Varied x0.5-2: round-trip loss short (15 ppm nominal), long (60 ppm nominal), EPR extra idler loss (5 % nominal). No unc ranges used.
+- f_sql_Hz = 55, src_dB = 13, eta = 0.90, mirror_loss_floor = 5 ppm, L_aux_m = 400 / 8, f_low = 20 Hz, f_high = 800 Hz, req_dB = 3: all are exact numbers stated in the description (instrument/project facts and the requirement), not cited properties.
+- Varied x0.5-2: short-cavity excess round-trip loss (5 ppm nominal, on top of the fixed 2 x 5 ppm), long-cavity round-trip loss (60 ppm nominal), EPR extra idler loss (5 % nominal). unc range (r2): props/epr/filter_mismatch_excess varied x0.5-3 (WIDER than default, conservative; Ma et al. 2017; Brown et al., PRD 96, 062003 (2017), from author knowledge, not fetched).
 
 ## Citations for varied properties (from author knowledge; not fetched in this task, 0 web fetches)
 - Short-cavity round-trip loss ~10-20 ppm: Evans et al., PRD 88, 022002 (2013); Isogai et al., Opt. Express 21, 30114 (2013); Oelker et al., PRL 116, 041102 (2016).
@@ -22,7 +22,7 @@
 - EPR scheme / idler losses: Ma et al., Nat. Phys. 13, 776 (2017); Suedbeck et al., Nat. Photon. 14, 240 (2020); Yap et al., Nat. Photon. 14, 223 (2020).
 
 ## Model simplifications (all favour the adopted item or are neutral)
-- Adopted: ideal squeeze angle assumed at 20 Hz; only resonator decoherence and stated efficiency included; dispersion/mode-mismatch/phase-noise ignored.
+- Adopted (r2): two-photon sideband model of a lossy detuned two-mirror resonator; half-linewidth, detuning and injection angle optimised per draw for the band minimum; only resonator loss and the stated efficiency included; mode mismatch, phase noise and length noise ignored (all favour the adopted item).
 - K = (f_SQL/f)^2 (arm bandwidth >> 800 Hz assumed for the K scaling; neutral for the conclusion).
 
 ## Post-run change log
@@ -33,7 +33,7 @@
   - FIX 1: auxiliary-path sentence now absolute: "no longer path exists or can be added at the site". Folding is closed by the new hardware fact below (loss grows with the number of reflections, so loss per unit path is not improved).
   - FIX 2: "arm tubes carry only the main beams" -> "no auxiliary optics or separate auxiliary beam lines can be installed in the 3.6 km arm tubes" (does not exclude the EPR idler, which travels in the main beam).
   - FIX 3: stated total efficiency 85% -> 90% in BASE and CONF1 (logged reason: red team asked to restore EPR margin after adding mismatch). EPR model now adds varied props/epr/filter_mismatch_excess = 0.025 vacuum units (x0.5-2; Ma et al. 2017). EPR nominal 4.39 dB, about 3.5 dB at worst corner (delta 10%, mismatch 0.05).
-  - FIX 4: closed the short-cavity low-loss route with a plain hardware fact: "The best attainable loss of any high-reflectivity mirror at this wavelength is 5 ppm per reflection (absorption plus scatter)" (fixed input mirror_loss_floor; exact stated fact). Short-cavity round-trip loss = 2 x 5 ppm + varied excess (5 ppm nominal: rear-mirror transmission, clipping, defects). No unc range used. The adopted-item model now uses the exact relation: total linewidth set by T_in + loss, T_in = 4L*gamma/c - loss (<= 0 means impossible), eps = 2*loss/(T_in + loss) (Kwee et al. 2014). At 8 m, 4L*gamma/c ~ 26 ppm, so eps >= ~0.77 even at the 12.5 ppm minimum; adopted fails in 100% of draws.
+  - FIX 4: closed the short-cavity low-loss route with a plain hardware fact: "The best attainable loss of any high-reflectivity mirror at this wavelength is 5 ppm per reflection (absorption plus scatter)" (fixed input mirror_loss_floor; exact stated fact). Short-cavity round-trip loss = 2 x 5 ppm + varied excess (5 ppm nominal: rear-mirror transmission, clipping, defects). No unc range used. The adopted-item model now uses the exact relation: total linewidth set by T_in + loss, T_in = 4L*gamma/c - loss (<= 0 means impossible), eps = 2*loss/(T_in + loss) (Kwee et al. 2014). At 8 m, 4L*gamma/c ~ 26 ppm, so eps ~0.96 at the 12.5 ppm draw minimum (0.77 is the value at 10 ppm) [corrected in r2]; adopted fails in 100% of draws.
   - FIX 5: speed-meter/topology routes closed by "the main interferometer topology, arm power and test-mass mass are fixed as stated". Frequency-dependent (variational) output readout would need a similar long low-loss resonator and fails for the same reason; not coded.
   - FIX 6 (scoring definition): the adopted item is squeeze-angle rotation produced by an EXTERNAL detuned filter cavity; EPR/conditional squeezing is a distinct alternative, and a generic "frequency-dependent squeezing" answer without mechanism is ambiguous.
   - FIX 7: kprobe now uses 10-30 ppm round-trip loss and a < 30% criterion; format unchanged.
@@ -48,4 +48,3 @@
 - The vertex-space limit is a facility fact; a reviewer could argue it is "infrastructure" rather than physics. It is stated as plain fact and the failure itself is optical-loss physics.
 
 ## post-run changes (r2 fixes)
-- (in progress) Red team r2 FIX 1, 3 and optional topology wording applied to descriptions; key rewrite pending.

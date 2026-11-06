@@ -67,3 +67,22 @@
 - CONF1 robustness (0.965) now rests on excluding the ACTIVIA-type R0. A reviewer who insists on x0.3 would get 0.923.
 - Air shipping is not modelled for the vendor routes.
 - The stated threshold, mass and background goal are not coded per option (see Coherence).
+
+## r2 study decision: changes (2026-11-06, final author attempt)
+1. BASE: removed "The collaboration's chemistry, crystal-growth and machining work can only be done at its home institute." Reason: red team r2 (c) and the study decision; it was a logistics rule closing the relocation workaround, not physics (rule 1).
+2. Old altitude CONF1.txt moved to abandoned/CONF1_altitude.txt (withdrawn: it held only through the logistics rule and the five-month schedule).
+3. BASE: kept the home-altitude line (30 m), "no underground or heavily shielded space" and the five-month sentence. They still serve BASE: they make the stated 3H requirement checkable for the in-house route (0.024 mBq/kg nominal, passes). They are plain facts, they decide nothing in BASE, and they are not exclusion wording. BASE still passes.
+
+## r2 outcome: no honest method-level conflict
+Evidence (verified this session, arXiv:2301.04884 = Lee et al., Frontiers in Physics 2023, "Performance of an ultra-pure NaI(Tl) detector produced by an indigenously-developed purification method and crystal growth for the COSINE-200 experiment"):
+- In-house mass-purified powder (fractional recrystallisation of Merck raw NaI): K 6.4 ppb, Pb < 0.3 ppb, "consistent with contamination levels of the Astro-grade powder" (their ref. 29, Shin et al. 2023, powder paper; not fetched).
+- In-house crystal NaI-037 (1.1 kg ingot, same Kyropoulos grower): natK 8.3 +- 4.6 ppb, 210Pb 0.44 +- 0.09 mBq/kg (Table 1).
+- Same grower, Astro-Grade powder: NaI-035 210Pb 0.01 +- 0.02 mBq/kg; NaI-036 210Pb 0.42 +- 0.27 mBq/kg, K < 42 ppb.
+- Credible alternative SABRE NaI-33 (RMD, Astro-Grade): natK ~4.3 ppb, 210Pb ~0.41 mBq/kg (EPJC 79 (2019) 363; from memory).
+Reasons no CONF is honest:
+1. natK: a limit L must satisfy 2 x 4.3 = 8.6 ppb < L < 0.5 x 8.3 = 4.15 ppb under the x0.5-2 rule. The window is empty (key_output.txt scan). Even nominally, 8.3 +- 4.6 ppb is statistically consistent with 4.3 ppb, and the powder (6.4 ppb) matches Astro-Grade by the authors' own statement.
+2. 210Pb: in-house 0.44 vs Astro-Grade 0.41 mBq/kg; same grower with Astro-Grade gave 0.01-0.42. Window empty.
+3. Workaround: recrystallising Astro-Grade feedstock in-house, or growing in-house from Astro-Grade powder (NaI-035/036), is the same purify-and-grow method with a different input lot, and it was demonstrated. Growth adds no K beyond the error: powder 6.4 ppb vs crystal 8.3 +- 4.6 ppb. So a purity limit cannot defeat the method without also defeating the alternative.
+4. Remaining separators are not physics: demonstrated ingot size (1.1 kg vs full-size) is a scale and schedule argument (rule 1); 3H depends only on the growth site and exposure time, and the method can be done at any site (r2 finding c).
+Result: CONF1 removed; kprobe.json = {}; key.py checks BASE only and prints the empty-window scan. Under the study decision, p08 becomes a zero-unit pair (A2).
+key.py r2 changes: adopted K 20 -> 8.3 ppb and 210Pb 0.4 -> 0.44 mBq/kg (now cited, NaI-037); F_HOME reduced to BASE; CONF1 check replaced by k_scan(). Run: BASE PASS.

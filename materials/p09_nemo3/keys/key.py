@@ -32,8 +32,10 @@ PROPS = {
         "bulb_mm": 76.0,         # 3-in. PMT bulb diameter (datasheet class value, exact)
         "shield_mm": 1.0,        # mu-metal tube; saturation check: B_wall ~ B_ext*D/(2t) = 3mT*38 = 0.11 T < 0.7 T
         "wrap_mm": 1.0,          # same wrapping as above
-        "res_fwhm_pct": 14.2,    # NEMO-3 3-in. modules with light guide ~17% FWHM at 1 MeV (NIM A 536 (2005) 79)
-                                 # divided by the measured direct-coupling gain 1.20 +- 0.02 (arXiv:1707.06823 sec 4.1)
+        "res_fwhm_pct": 8.0,     # r1 re-derivation (notes.md): 8-in. direct-coupled 7.5 +- 0.2 % FWHM (arXiv:1707.06823
+                                 # Table 7) scaled by photostatistics, 1/sqrt(coverage ratio 1.450 * QE ratio 25/41 = 0.610)
+                                 # = 7.5/sqrt(0.884) = 7.98 %. Cross-check from NEMO-3 (NIM A 536 (2005) 79, Table 11,
+                                 # 7.3 +- 0.1 % sigma = 17.2 % FWHM) gives ~5.7 %, so 8.0 is the conservative end.
         "t_sigma_ns": 0.25,      # NEMO-3 time resolution ~250 ps at 1 MeV (NIM A 536 (2005) 79)
         "depth_mm": 110.0,       # design choice: 11 cm deep cube (>10 cm for gamma efficiency, arXiv:1707.06823 sec 2.1)
         "max_field_T": 1.8e-2,   # mu-metal saturation limit ~0.7 T * 2t/D = 0.7*2/76 (estimate)
@@ -42,7 +44,7 @@ PROPS = {
     "pmt130_direct": {           # 5-in. PMT, direct coupling
         "bulb_mm": 133.0,        # R6594 class 5-in. bulb (datasheet class value)
         "shield_mm": 1.5, "wrap_mm": 1.0,
-        "res_fwhm_pct": 11.7,    # NEMO-3 5-in. ~14% / 1.20 (same sources as above)
+        "res_fwhm_pct": 7.9,     # r1: same scaling as the 3-in. survivor, 133 mm on a ~138 mm cell (coverage 0.729)
         "t_sigma_ns": 0.25, "depth_mm": 110.0, "max_field_T": 1.0e-2,
     },
     "pmt254_direct_large_block": {  # 10-in. PMT
@@ -65,7 +67,7 @@ UNC = {  # cited precisions (x0.8-1.25, the narrowest allowed)
     "props/pmt200_direct_large_block/bulb_mm": [0.8, 1.25],  # datasheet dimension
     "props/pmt200_direct_large_block/res_fwhm_pct": [0.8, 1.25],  # +-0.2 % stated (Table 7)
     "props/pmt76_direct_small_cube/bulb_mm": [0.8, 1.25],    # datasheet dimension
-    "props/pmt76_direct_small_cube/res_fwhm_pct": [0.8, 1.25],  # product of two measurements; 1.20 +- 0.02 stated
+    # r1: pmt76_direct_small_cube/res_fwhm_pct now uses the default x0.5-2 (derived scaling, no cited precision)
     "props/pmt130_direct/bulb_mm": [0.8, 1.25],
     "props/pmt254_direct_large_block/bulb_mm": [0.8, 1.25],
 }
@@ -79,7 +81,7 @@ def min_pitch(p):
 def passes(p, f, sep_mm):
     return (p["res_fwhm_pct"] <= f["res_req_fwhm_pct"]
             and p["t_sigma_ns"] <= f["t_req_ns"]
-            and min_pitch(p) * f["diag_factor"] <= sep_mm
+            and min_pitch(p) * f["diag_factor"] < sep_mm  # strict: a cell diagonal equal to the separation would hold both points
             and p["depth_mm"] >= f["depth_req_mm"]
             and p["max_field_T"] >= f["field_T"])
 

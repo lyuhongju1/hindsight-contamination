@@ -55,3 +55,13 @@ Whether the item was eventually **built and operated / approved but not built / 
 **Consequence for scope, to be disclosed.** The confirmatory population becomes "baseline–upgrade pairs whose counted item admits an honest physical conflict". This is a scope restriction defined by the item's physics, not by any model behaviour.
 
 **First replacement.** q28 aLIGO → A+ (balanced homodyne readout; double-verified, arXiv:1304.0670v7, 2019-09). grav_waves rises to 3 pairs (Advanced Virgo, KAGRA, aLIGO), which is within the cap of 3. BESIII (q32) is next if needed.
+
+### A2 log (2026-11-06)
+
+**p15 aLIGO** and **p08 COSINE-100** are zero-unit pairs (each by author plus red-team rounds). BESIII (q32) replaced aLIGO. The eligible-but-not-selected list is exhausted, so assessment **resumes down the queue under A1**.
+
+**Order.** The next unassessed baselines in queue order are q19 LUX, q23 Super-Kamiokande, q26 ADMX, q27 CUORE-0, q30 IceCube, q33 LZ and so on. Each is assessed by two independent daters, with the verifier as before. The first eligible baseline replaces the next zero-unit pair.
+
+**Clarification of the caps** (fixed before any of these assessments):
+- Zero-unit pairs do **not** count toward the per-field cap of 3 or the year-and-lab cap, because the caps exist to balance the units actually analysed.
+- The lineage rule still applies to zero-unit pairs: their lineages are not re-entered.

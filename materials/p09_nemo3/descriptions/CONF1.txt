@@ -1,11 +1,11 @@
 A planar tracker-calorimeter detector searches for neutrinoless double-beta decay of 100Mo (Q = 3.03 MeV) in an underground laboratory under 3000 m water equivalent of rock.
-About 40 kg of enriched molybdenum is made into foils of 45 mg/cm2 hung in a single vertical plane, 6 m long and 3.5 m high.
+About 9 kg of enriched molybdenum is made into foils of 45 mg/cm2 hung in a single vertical plane, 6 m long and 3.5 m high.
 On each side of the plane a tracking volume 50 cm deep, filled with Geiger-mode drift cells in a helium-based gas, reconstructs every electron track and its vertex on the foil.
-A 3 mT magnetic field parallel to the foil plane fills both tracking volumes and curves the tracks so that electrons are told apart from positrons.
+A 3 mT magnetic field parallel to the foil plane fills both tracking volumes and curves the tracks so that electrons are told apart from positrons; the track curvature determines only the sign of the charge.
 Each tracking volume is closed by a calorimeter wall of polystyrene scintillator cells with 19 cm x 19 cm faces and 11 cm depth, each viewed through a 30 cm acrylic light guide by a 76 mm photomultiplier sitting behind an iron plate.
 The present cells give an energy resolution of 20% FWHM for 1 MeV electrons and a time resolution of 0.30 ns (sigma) at 1 MeV.
 The detector is enclosed in iron and water shielding, and the gas is flushed to keep radon out of the tracking volumes.
 The calorimeter must give an energy resolution of 18% FWHM or better for 1 MeV electrons in every cell.
 The calorimeter must give a time resolution of 0.6 ns (sigma) or better at 1 MeV, to reject electrons that cross the detector from outside.
-The energy of each electron of a decay is used individually: any two electrons entering a wall at points at least 15 cm apart must deposit their energy in different cells.
+The energy of each electron of a decay is used individually: any two electrons entering a wall at points at least 15 cm apart must deposit their energy in different cells, whose energies are measured separately.
 Every cell must be at least 3 cm deep so that it fully absorbs 3 MeV electrons, and every part of the calorimeter must work in the 3 mT field.

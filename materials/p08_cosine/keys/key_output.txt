@@ -1,4 +1,5 @@
 # BASE: 3H mBq/kg nominal: adopted_inhouse=0.024, alpha_spectra=0.066, rmd_astrograde=0.029
-# CONF1: 3H mBq/kg nominal: adopted_inhouse=0.375, alpha_spectra=0.066, rmd_astrograde=0.029
+# r2 scan: natK window needs 2*4.3=8.6 < L < 0.5*8.3=4.15 ppb -> EMPTY
+# r2 scan: 210Pb window needs 2*0.41=0.82 < L < 0.5*0.44=0.22 mBq/kg -> EMPTY
 BASE     adopted_passes_nominal=True PASS
-CONF1    adopted_fails_nominal=True viable_nominal=['alpha_spectra', 'rmd_astrograde'] (n_survivors=2) adopted_fails=0.965 >=1_viable=0.998 PASS
+CONF1    none: r2 outcome, no honest method-level conflict (see notes.md)
