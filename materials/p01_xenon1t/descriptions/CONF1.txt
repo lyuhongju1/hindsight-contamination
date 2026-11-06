@@ -2,8 +2,8 @@ A dual-phase xenon time projection chamber is operated in a deep underground lab
 The cryostat holds 4.0 t of xenon, of which 2.7 t lies inside the active volume of a cylindrical chamber 1.2 m in diameter with a 0.9 m drift length, viewed by 300 three-inch photomultipliers in top and bottom arrays.
 A particle interaction produces a prompt scintillation signal in the liquid and free electrons that drift upward to the liquid surface, where they are extracted into the gas and produce a delayed proportional signal; the time between the two gives the depth.
 At the operating drift field the longest drift time is 0.55 ms, so electronegative impurities in the xenon directly reduce the charge signal from deep events.
-The xenon is continuously extracted from the cryostat, evaporated, passed through heated zirconium getters at 70 kg per hour, and recondensed.
+The xenon is continuously extracted from the cryostat, evaporated, passed through heated zirconium getters at 50 kg per hour, and recondensed.
 A cryogenic distillation column processes 3 kg of xenon per hour to remove krypton.
-Low-energy calibration uses 10 Bq of tritiated methane dissolved in the xenon per campaign, and within 60 days after each campaign the tritium activity remaining in the xenon must be below 1 mBq.
+Low-energy calibration uses 10 Bq of tritiated methane dissolved in the xenon per campaign, and within 90 days after each campaign the tritium activity remaining in the xenon must be below 1 mBq.
 The detector sits in a water tank instrumented as a Cherenkov muon veto.
 The electron lifetime must be at least 0.5 ms throughout data taking.

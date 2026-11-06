@@ -6,7 +6,7 @@
   "quote": "The combination of skin readout and outer detector creates a highly efficient integrated veto system. Scintillation light from the skin region is observed by a sparse PMT array dedicated to this region.",
   "baseline_date": "2012-11-01"},
  {"item": "607144/hk_hqe_box_and_line_50cm_pmt", "dater": "D1", "doc": "arXiv:1805.04163v1",
-  "quote": "Further improvements include a higher quantum efficiency photocathode and an optimized box-and-line dynode, resulting in the new photosensor, a Hamamatsu R12860-HQE PMT (Figure 57).",
+  "quote": "Further improvements include a higher quantum efficiency photocathode and an optimized box-and-line dynode, resulting in the new photosensor, a Hamamatsu R12860-HQE PMT",
   "baseline_date": "2002-01-01"},
  {"item": "607144/sk_gd_gadolinium_sulfate_loading", "dater": "D1", "doc": "arXiv:2109.00360v1",
   "quote": "After successful development of the technology using a 200 ton water Cherenkov demonstrator called EGADS [5], the Super-Kamiokande Collaboration initiated the SK-Gd project in 2015 with a final goal of adding 0.2% Gd2(SO4)3· 8H2O (gadolinium sulfate octahydrate) by mass to the detector water.",

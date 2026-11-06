@@ -15,11 +15,11 @@
 | p09 NEMO-3 | 8-in. high-QE PMTs | granularity: 15 cm two-electron separation vs >=210 mm cell pitch | 1 (76 mm PMTs on small cubes) | **CLEARED** (r2; survivor 8.5% FWHM, credible 8-11%) |
 | p10 Borexino | 144Ce-144Pr source | fully deuterated scintillator kills IBD | 2 (51Cr, 37Ar) | r1: CONF1 OK, wording/kprobe FIX → fixed; gates pass. **Red-team cleared** |
 | p11 KAGRA | optical levers | — | — | **Zero-unit pair** (author + red-team confirmation: lever geometry is free, so no robust window). Replacement: A1 queue |
-| p12 MiniBooNE | PPO doping | — | — | **author running** |
+| p12 MiniBooNE | PPO doping | — | — | **author: no honest conflict** (PPO ~ butyl-PBD; timing separation defeats light caps); confirmation red team next |
 | p13 NA62 | small-diameter straws | — | — | not started |
 | p14 KASCADE | tripole antennas | — | — | not started |
 | p15 aLIGO (A2 replacement) | balanced homodyne readout | — | — | **Zero-unit pair** (author + red-team confirmation: no honest conflict). **Replaced under A2 by p16 BESIII** |
-| p16 BESIII (A2 replacement) | endcap TOF upgrade to MRPC | charged flux 1.5 MHz/cm2 vs resistive-electrode rate capability (coherence doubt) | 1 (3-layer LGAD) | key PASS; notes.md being written; r1 next |
+| p16 BESIII (A2 replacement) | endcap TOF upgrade to MRPC | charged flux 1.5 MHz/cm2 vs resistive-electrode rate capability (coherence doubt) | 1 (3-layer LGAD) | **Zero-unit pair** (r1: conflict needed a hadron collider, which breaks the class rule; no same-class route robust) |
 
 **Scoring notes collected from the red teams** (to be frozen into the per-pair rubrics):
 - **p03:** adopted item = rotation by an *external filter cavity*. EPR is a distinct alternative; a generic "frequency-dependent squeezing" answer = X.

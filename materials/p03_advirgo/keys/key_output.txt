@@ -1,11 +1,11 @@
 # band: 25 log-spaced points 20-800 Hz; values are band-minimum improvement in dB
-# BASE: FD band-min = 6.08 dB (rt loss 60.0 ppm; optimum {'gamma_Hz': 43.5, 'Delta_over_gamma': -0.91, 'theta_deg': 90.9, 'gamma_loss_Hz': 1.79}); FI = -8.97; VR(fixed homodyne) = -2.07; EPR = 4.39
-# CONF1: FD band-min = -0.24 dB (rt loss 15.0 ppm; optimum {'gamma_Hz': 84.1, 'Delta_over_gamma': -0.44, 'theta_deg': 99.4, 'gamma_loss_Hz': 22.37}); FI = -8.97; VR(fixed homodyne) = -2.07; EPR = 4.39
+# BASE: FD band-min = 6.08 dB (rt loss 60.0 ppm; optimum {'gamma_Hz': 43.6, 'Delta_over_gamma': -0.89, 'theta_deg': 91.9, 'gamma_loss_Hz': 1.79}); FI = -8.97; VR(fixed homodyne) = -2.07; EPR = 4.39
+# CONF1: FD band-min = -0.28 dB (rt loss 15.0 ppm; optimum {'gamma_Hz': 84.7, 'Delta_over_gamma': -0.47, 'theta_deg': 96.2, 'gamma_loss_Hz': 22.37}); FI = -8.97; VR(fixed homodyne) = -2.07; EPR = 4.39
 # sanity:
-#   FD 400 m @ 60 ppm: band-min 6.08 dB {'gamma_Hz': 43.5, 'Delta_over_gamma': -0.91, 'theta_deg': 90.9, 'gamma_loss_Hz': 1.79}
-#   FD 8 m @ 10 ppm (floor, zero excess): band-min 0.53 dB {'gamma_Hz': 69.9, 'Delta_over_gamma': -0.56, 'theta_deg': 96.1, 'gamma_loss_Hz': 14.91}
-#   FD 8 m @ 9 ppm (hypothetical 2 ppm/reflection + 5 ppm excess): band-min 0.78 dB {'gamma_Hz': 66.2, 'Delta_over_gamma': -0.56, 'theta_deg': 98.5, 'gamma_loss_Hz': 13.42}
-#   FD 8 m @ 4 ppm (hypothetical 2 ppm/reflection, zero excess): band-min 3.06 dB {'gamma_Hz': 52.1, 'Delta_over_gamma': -0.75, 'theta_deg': 93.5, 'gamma_loss_Hz': 5.96}
+#   FD 400 m @ 60 ppm: band-min 6.08 dB {'gamma_Hz': 43.6, 'Delta_over_gamma': -0.89, 'theta_deg': 91.9, 'gamma_loss_Hz': 1.79}
+#   FD 8 m @ 10 ppm (floor, zero excess): band-min 0.48 dB {'gamma_Hz': 70.5, 'Delta_over_gamma': -0.58, 'theta_deg': 93.0, 'gamma_loss_Hz': 14.91}
+#   FD 8 m @ 9 ppm (hypothetical 2 ppm/reflection + 5 ppm excess): band-min 0.78 dB {'gamma_Hz': 67.1, 'Delta_over_gamma': -0.58, 'theta_deg': 95.4, 'gamma_loss_Hz': 13.42}
+#   FD 8 m @ 4 ppm (hypothetical 2 ppm/reflection, zero excess): band-min 3.07 dB {'gamma_Hz': 52.1, 'Delta_over_gamma': -0.74, 'theta_deg': 94.4, 'gamma_loss_Hz': 5.96}
 BASE     adopted_passes_nominal=True PASS
 CONF1    adopted_fails_nominal=True viable_nominal=['epr_conditional_squeezing'] (n_survivors=1) adopted_fails=1.000 >=1_viable=1.000 PASS
 ALL PASS
