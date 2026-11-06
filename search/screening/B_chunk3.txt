@@ -1,0 +1,14 @@
+1311317|Y|grav_waves
+1320774|Y|collider
+1328453|Y|grav_waves
+1342925|Y|astroparticle
+1384774|Y|nu_accel
+1388180|Y|nu_accel
+1441153|Y|grav_waves
+1449116|Y|double_beta
+1468455|Y|nu_accel
+1504036|Y|nu_natural
+1504945|Y|nu_accel
+1519167|Y|collider
+1602572|Y|dark_matter
+1607541|Y|astroparticle
