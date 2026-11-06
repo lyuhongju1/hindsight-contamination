@@ -1,0 +1,38 @@
+[
+ {
+  "item": "1449116/cupid_li2moo4_scintillating_bolometers",
+  "dater": "D2",
+  "doc": "arXiv:1907.09376",
+  "quote": "In CUPID, the main bolometer crystals will be grown from Li 2100MoO4. The Mo component will be enriched to ≥ 95% in 100Mo.",
+  "baseline_date": "2016-04-19",
+  "meta_date": "2019-07-22",
+  "quote_match": "exact",
+  "gap_months": 39,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1449116/cupid_ntd_ge_light_detectors",
+  "dater": "D2",
+  "doc": "arXiv:1907.09376",
+  "quote": "Based on the experience gained in the framework of the CUPID R&D projects, we selected NTDs for the readout of both the heat and light channel. The LDs consist of a thin Ge wafer acting as an absorber, coupled to an NTD.",
+  "baseline_date": "2016-04-19",
+  "meta_date": "2019-07-22",
+  "quote_match": "exact",
+  "gap_months": 39,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1504036/upgrade_acoustic_geometry_calibration",
+  "dater": "D2",
+  "doc": "arXiv:1909.02047",
+  "quote": "The base design includes three acoustic sensors in every mDOM of the IceCube upgrade. In addition, stand-alone pinger units are positioned close to the locations of the POCAM light sources.",
+  "baseline_date": "2016-12-15",
+  "meta_date": "2019-09-04",
+  "quote_match": "exact",
+  "gap_months": 33,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ }
+]
