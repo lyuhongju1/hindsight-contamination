@@ -54,3 +54,15 @@ Source: redteam/report_r1.md (2026-11-06). None of these changes was tuned on ke
 - Resolution of the 3-in. survivor is derived (r1: coverage and QE scaling from the 8-in. measurement), not measured directly in this geometry. The scaling ignores non-photostatistical terms (non-uniformity, the effect of block depth on light collection), and these are covered by the x2 range: 16% < 18%.
 - Study decision r1: 8-in. tubes reading small cells through light guides is coded C (adopted tube plus valid workaround).
 - adoption_status "built and operated" is from memory (SuperNEMO Demonstrator), not re-fetched.
+
+## Post-run changes (r2, 2026-11-06, applied by the orchestrator from red-team r2, which was non-blocking)
+
+- **Survivor resolution nominal 8.0 -> 8.5 % FWHM.**
+  - The r1 derivation used EJ-204 PVT data, projected-disc coverage and 25 % QE. It was optimistic on geometry: the 8-in. photocathode is hemispherical (about 1.6x the projected disc), and light collection in a wrapped block saturates (collection ~ A_pc/(A_pc+(1-R)A_wall), R~0.96).
+  - Corrected: polystyrene factor x1.04 (Table 4); a 3-in. high-QE tube at ~38 % (sec 4.2.1).
+  - Credible range 8-11 % FWHM. The max under x2 is 17 %, still < 18 %.
+  - **Doubt:** the gate fails if the nominal exceeds ~9.5 %. With a 25 %-QE 3-in. tube a realistic figure is ~10-11 %, so the survivor relies on a high-QE 3-in. tube, which is cited as available.
+- **The r1 cross-check (5.7 %) is withdrawn.** It ignored light-collection saturation; with saturation it gives ~9 %.
+- **kprobe:** "directly behind the cell" -> "directly coupled to the back face of the cell, with no light guide" (shuts out the depth-staggering reading).
+- **Exploratory note:** at 18 % BASE gives little physical reason to prefer the adopted item over small direct-coupled cells. Expect low BASE elicitation; this is recorded, not gated.
+- Correction to r1: the /1.20 light-guide factor was measured on a NEMO-3 block with a 5-in. R6594 (sec 4.1.2), as these notes already said.

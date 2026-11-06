@@ -48,3 +48,27 @@
 - The vertex-space limit is a facility fact; a reviewer could argue it is "infrastructure" rather than physics. It is stated as plain fact and the failure itself is optical-loss physics.
 
 ## post-run changes (r2 fixes)
+- FIX 1 (decisive; reason: the two-point requirement could be met by a narrowband-tuned 8 m cavity that is 5-11 dB worse than vacuum between 45 and 400 Hz): the requirement in NAME, ANON, BASE and CONF1 now reads "lower total quantum noise by at least 3 dB at every frequency from 20 Hz to 800 Hz, relative to the quantum noise of the interferometer with ordinary vacuum entering its output port". NAME/ANON had the qualitative "below/above the crossover" wording; they now carry the same band requirement. No other stated number changed. BASE and CONF1 still differ only in 400 m -> 8 m (diff checked).
+- FIX 2 (reason: the scalar Kwee shortcut fixed gamma = f_SQL/sqrt(2) and checked only two points): key.py rewritten.
+  - meets() now uses the band minimum over 25 log-spaced points, 20-800 Hz.
+  - fd_improvement uses a two-photon sideband model of a lossy detuned two-mirror resonator. It includes the complex reflection per sideband r(w) = (g_in - g_loss + i(w - Delta)) / (g - i(w - Delta)), the loss vacuum (I - M M^H) and then the stated efficiency 0.90, with readout b2 = c2 - K c1 and K = (f_SQL/f)^2.
+  - For every draw it optimises the input-coupling half-width (hence gamma), the detuning and the injection squeeze angle to maximise the band minimum. The search is a coarse vectorised grid (36 x 49 x 72), then multi-start local refinement of the 6 best points.
+  - Lossless check: 8.38 dB flat at gamma = Delta = 39 Hz, equal to the flat source limit. This validates the model.
+  - Fixed-angle squeezing and EPR are evaluated against the same band criterion. Fixed-angle and fixed-homodyne results depend only on fixed inputs and are cached.
+  - numpy is now used.
+  - n = 2000 draws kept (not reduced); runtime ~6 min.
+- Sanity checks (key_output.txt), compared with the red-team numbers:
+  - 400 m at 60 ppm: 6.08 dB band minimum (red team ~5.85);
+  - 8 m at the 10 ppm floor: 0.53 dB (red team ~0.41; FAILS);
+  - EPR: 4.39 dB flat (matches);
+  - fixed angle: -8.97 dB (FAILS).
+  - Nominal CONF1 (15 ppm): -0.24 dB.
+  - The small differences from the red team probably come from where the loss sits (here all of the stated efficiency is applied after the resonator) and from optimiser resolution.
+- FIX 3 (reason: as a world claim the floor is ~2x pessimistic; as a project fact it is exact): in BASE and CONF1, "The best attainable loss of any high-reflectivity mirror at this wavelength is 5 ppm per reflection (absorption plus scatter)." -> "The lowest-loss high-reflectivity mirrors available to this project have 5 ppm loss per reflection (absorption plus scatter)." The change is identical in both. NAME and ANON never had this sentence. The key value is unchanged (fixed mirror_loss_floor = 5 ppm).
+  - Robustness note: the red team says a hypothetical 2 ppm/reflection floor still fails. With the 5 ppm excess this key gives 0.78 dB (fails). With 2 ppm/reflection and zero excess (4 ppm round trip) the band minimum is 3.06 dB, marginally passing. The stated project fact (5 ppm) makes the round-trip loss >= 10 ppm, so this is not reachable in CONF1.
+- FIX 4 (stale text): corrected in place in the sections above. The design-choices and fixed-inputs entries now give eta = 0.90 (the stale 0.85 is replaced). The workaround text now quotes the r1 arm-tube wording instead of "arm tubes carry only the main beams". In the r1 FIX 4 entry, eps at 12.5 ppm is ~0.96 (0.77 is the value at 10 ppm). The CONF1 mechanism text now quotes the r2 band results.
+- Optional fixes, all applied:
+  - (a) BASE/CONF1: "the main interferometer topology and its operating point, arm power and test-mass mass are fixed as stated". Reason: this closes detuned signal recycling (operating-point change).
+  - (b) EPR filter_mismatch_excess range widened to x0.5-3 via inputs["unc"]. Brown et al., PRD 96, 062003 (2017) is cited in a key comment (author knowledge, not fetched; 0 web fetches). EPR still viable in 1.000 of draws.
+  - (c) Added "fixed_homodyne_variational_readout" as a coded alternative: frequency-independent homodyne angle plus fixed squeeze angle, both optimised. Best band minimum is -2.07 dB, so it FAILS in all draws. Variational readout with a frequency-dependent homodyne angle would need an output resonator with the same loss-per-length problem; it is not coded.
+- key.py re-run with python -I: BASE PASS (FD 6.08 dB); CONF1 PASS (adopted fails 1.000; >=1 viable 1.000; survivor epr_conditional_squeezing). kprobe.json is unchanged: its question concerns resonator loss/linewidth physics and its 10-30 ppm range is consistent with the project-fact floor (round trip >= 10 ppm). It needs no edit for the new requirement wording.

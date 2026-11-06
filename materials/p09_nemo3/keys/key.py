@@ -32,10 +32,9 @@ PROPS = {
         "bulb_mm": 76.0,         # 3-in. PMT bulb diameter (datasheet class value, exact)
         "shield_mm": 1.0,        # mu-metal tube; saturation check: B_wall ~ B_ext*D/(2t) = 3mT*38 = 0.11 T < 0.7 T
         "wrap_mm": 1.0,          # same wrapping as above
-        "res_fwhm_pct": 8.0,     # r1 re-derivation (notes.md): 8-in. direct-coupled 7.5 +- 0.2 % FWHM (arXiv:1707.06823
-                                 # Table 7) scaled by photostatistics, 1/sqrt(coverage ratio 1.450 * QE ratio 25/41 = 0.610)
-                                 # = 7.5/sqrt(0.884) = 7.98 %. Cross-check from NEMO-3 (NIM A 536 (2005) 79, Table 11,
-                                 # 7.3 +- 0.1 % sigma = 17.2 % FWHM) gives ~5.7 %, so 8.0 is the conservative end.
+        "res_fwhm_pct": 8.5,     # r2 (2026-11-06): 7.5 % FWHM (arXiv:1707.06823 Table 7, EJ-204 PVT) x1.04 polystyrene (Table 4),
+                                 # hemispherical 8-in. photocathode and light-collection saturation in a wrapped block, 3-in. QE ~38 %
+                                 # (sec 4.2.1: ~40 % peak QE "initially for 3-in. PMTs"). Credible range 8-11 % FWHM; see notes.md.
         "t_sigma_ns": 0.25,      # NEMO-3 time resolution ~250 ps at 1 MeV (NIM A 536 (2005) 79)
         "depth_mm": 110.0,       # design choice: 11 cm deep cube (>10 cm for gamma efficiency, arXiv:1707.06823 sec 2.1)
         "max_field_T": 1.8e-2,   # mu-metal saturation limit ~0.7 T * 2t/D = 0.7*2/76 (estimate)
