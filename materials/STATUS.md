@@ -11,7 +11,7 @@
 | p05 SNO | LAB scintillator | buoyancy load limit on thin acrylic sphere | 2 (PXE; LAB30/MN70 blend, not counted as LAB) | **CLEARED** (r2; densified-LAB blends scored C) |
 | p06 AGATA | Ethernet readout | — | — | not started |
 | p07 MEG | downstream RDC | magnetic mirror reflects low-energy positrons upstream | 1 (upstream tagger) | **r1: FIX-or-DROP (a near-target downstream RDC still works; item not narrowed); fix round queued** |
-| p08 COSINE | in-house crystal growth | home institute at 3,600 m → cosmogenic tritium | 2 (Alpha Spectra marginal; RMD/Astro-Grade) | **r1 fixes applied (gates pass; R0 x0.37-1.5, below the default x0.5 floor); r2 running** |
+| p08 COSINE | in-house crystal growth | home institute at 3,600 m → cosmogenic tritium | 2 (Alpha Spectra marginal; RMD/Astro-Grade) | **r2: altitude CONF withdrawn (relocation closed only by a logistics rule); final attempt at a method-level CONF, else zero-unit** |
 | p09 NEMO-3 | 8-in. high-QE PMTs | granularity: 15 cm two-electron separation vs >=210 mm cell pitch | 1 (76 mm PMTs on small cubes) | **r1: FIX (foil mass 9 kg; survivor resolution re-derivation); fix round running** |
 | p10 Borexino | 144Ce-144Pr source | fully deuterated scintillator kills IBD | 2 (51Cr, 37Ar) | r1: CONF1 OK, wording/kprobe FIX → fixed; gates pass. **Red-team cleared** |
 | p11 KAGRA | optical levers | — | — | not started |
