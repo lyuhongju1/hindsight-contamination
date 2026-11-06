@@ -1,0 +1,12 @@
+The T2K off-axis near detector ND280 sits 280 m downstream of the J-PARC neutrino production target, 2.5 degrees off the beam axis, where the muon-neutrino flux peaks near 0.6 GeV.
+It is built inside the recycled UA1/NOMAD dipole magnet (0.2 T, inner volume 7.0 m x 3.5 m x 3.6 m), whose yoke gaps hold the scintillator Side Muon Range Detector (SMRD).
+Upstream is the pi-zero detector (P0D): 40 planes of triangular polystyrene bars interleaved with water bags, brass and lead, 2103 x 2239 x 2400 mm, 16.1 t with water and 13.3 t without.
+Downstream, three gas TPCs (Ar:CF4:iC4H10 95:3:2, bulk Micromegas readout) are interleaved with two Fine-Grained Detectors (FGDs), each 2300 x 2400 x 365 mm with 1.1 t of target.
+FGD1 has 5,760 extruded polystyrene bars (9.61 x 9.61 x 1864 mm) in 30 layers alternating in x and y, all perpendicular to the beam; FGD2 has seven such x/y modules alternating with six 2.5 cm water layers.
+Lead-scintillator electromagnetic calorimeters surround the inner detectors; every scintillator channel is read out by wavelength-shifting fibre and a multi-pixel photon counter.
+ND280 constrains flux and cross-section uncertainties for the Super-Kamiokande far detector, but its residual systematic uncertainty is about 6%; T2K-II needs about 4%.
+The collaboration plans to free the upstream (P0D) region and install a new active neutrino target there; a box of about 2.0 m x 1.9 m x 0.6 m is available for it.
+The new target must give kinematically complete charged-current events: the muon and the leading recoil proton both reconstructed, as needed for transverse kinematic imbalance studies.
+At this beam, about 25% of the muons and about 35% of the leading protons leave at more than 50 degrees to the beam direction.
+The leading-proton momentum distribution has a median of about 450 MeV/c, and about 6% of the protons exceed 900 MeV/c.
+Interactions on hydrocarbon are acceptable for this programme; the downstream water-layer FGD stays in place for carbon-to-water comparison.

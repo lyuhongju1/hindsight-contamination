@@ -1,0 +1,10 @@
+The Saltmarsh near detector serves a long-baseline experiment whose beam, after a 310 m decay tunnel, delivers a muon-neutrino spectrum peaking at 0.34 GeV.
+The detector occupies a 0.3 T dipole with an inner volume of 6.0 m x 3.2 m x 3.0 m; scintillator slabs in the yoke tag escaping muons.
+At present it has one planar target of 1.0 cm x 1.5 cm polystyrene strips arranged in x and y layers perpendicular to the beam, followed by two gas drift chambers and a lead-plastic calorimeter.
+All light is collected by wavelength-shifting fibres onto silicon photomultipliers, and timing is available at the nanosecond level.
+The far detector is an imaging water volume with uniform angular acceptance; the cross-section uncertainty propagated to it is 8% and must fall below 4%.
+Space of 2.1 m (along beam) x 1.7 m x 0.65 m upstream of the chambers is reserved for a new active neutrino target.
+The quantity to maximise is the number of charged-current events in which both the muon and the leading recoil proton are reconstructed.
+About 60% of the muons and about 70% of the leading protons are emitted at more than 50 degrees from the beam axis.
+The leading-proton momentum distribution has a median of 300 MeV/c, and about 6% of the protons exceed 600 MeV/c.
+Only interactions on oxygen nuclei in water count: the analysis compares directly with the far-detector nucleus, and no subtraction of other target materials is foreseen.

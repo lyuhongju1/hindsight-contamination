@@ -1,0 +1,13 @@
+A near detector for a low-energy accelerator neutrino beam sits inside a dipole magnet; tracking chambers already sit downstream of the target region.
+A target box of 1.5 m (along beam) x 1.5 m x 0.9 m is available for a new active neutrino target.
+The quantity to maximise is the number of charged-current events in which both the muon and the leading recoil proton are reconstructed.
+About 55% of the muons and about 65% of the leading protons leave at more than 50 degrees to the beam direction.
+The leading-proton momentum distribution has a median of 280 MeV/c, and about 6% of the protons exceed 560 MeV/c.
+Interactions on any target nucleus are usable. Efficiencies below apply equally to muons and protons; forward means within 50 degrees of the beam.
+Component families (mean density; forward efficiency; efficiency beyond 50 degrees; lowest reconstructable proton momentum):
+- Korrin array: 0.74 g/cm3; 0.88; 0.88; 270 MeV/c.
+- Lathe stack: 0.75 g/cm3; 0.86; 0.24; 430 MeV/c.
+- Quessel twin-view stack: 0.75 g/cm3; 0.70; 0.86; 480 MeV/c.
+- Brindle mesh flooded with Ossine: 0.72 g/cm3; 0.66; 0.66; 440 MeV/c.
+- Brindle mesh, dry: 0.21 g/cm3; 0.66; 0.66; 210 MeV/c.
+- Pellow vapour chamber: 0.013 g/cm3; 0.92; 0.92; 120 MeV/c.

@@ -1,0 +1,10 @@
+Detector hall B of the Tervo Valley neutrino facility hosts an off-axis near detector 520 m from the target, sampling a narrow-band muon-neutrino flux that peaks at 0.40 GeV.
+The detector is housed in a 0.25 T dipole magnet with a 7.5 m x 3.2 m x 3.4 m inner volume and scintillator counters between the return-yoke plates.
+Its existing tracking section has three gas tracking chambers and two segmented plastic targets of 1.0 cm square polystyrene bars, each plane oriented transverse to the beam.
+Calorimeter modules of plastic and lead surround the tracker on four sides.
+The near detector feeds a joint fit for a distant water far detector; the interaction-model part of the error budget is 5.5% and must drop below 3%.
+An upstream section of 2.4 m x 2.2 m x 0.5 m (the 0.5 m vertical) will be emptied and re-equipped as a new active target.
+The new target is judged by its yield of charged-current events with both the muon and the leading recoil proton reconstructed, used for transverse-momentum-imbalance analyses.
+In this beam about 60% of the muons and about 60% of the leading protons are emitted at more than 50 degrees from the beam direction.
+The leading-proton momentum distribution has a median of 320 MeV/c, and about 5% of the protons exceed 640 MeV/c.
+Any target nucleus is acceptable for these measurements.

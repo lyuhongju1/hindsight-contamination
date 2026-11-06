@@ -1,0 +1,92 @@
+========================================================================
+Level NAME: inputs {'L': 2.0, 'W': 1.9, 'H': 0.6, 'p_med': 450.0, 'frac_hi': 0.06, 'f_mu_ha': 0.25, 'f_p_ha': 0.35, 'need_water': False}
+   3-view fine-cell plastic target (adopted)     FoM =    1.4424
+   two-view bar target                           FoM =    0.6140
+   planar x/y bars transverse to beam            FoM =    0.5738
+   water-filled scintillator grid                FoM =    0.5682
+   planar x/y bars + water layers                FoM =    0.5568
+   empty scintillator grid                       FoM =    0.2874
+   pressurised gas TPC target                    FoM =    0.0288
+   winner: cube_3view   margin: 2.35
+   single-factor x0.5/x2 failures: none
+   joint log-uniform [0.5,2] draws (2000, seed 20261105): keyed winner keeps winning in 100.0%
+========================================================================
+Level ANON: inputs {'L': 2.0, 'W': 1.9, 'H': 0.6, 'p_med': 450.0, 'frac_hi': 0.06, 'f_mu_ha': 0.25, 'f_p_ha': 0.35, 'need_water': False}
+   3-view fine-cell plastic target (adopted)     FoM =    1.4424
+   two-view bar target                           FoM =    0.6140
+   planar x/y bars transverse to beam            FoM =    0.5738
+   water-filled scintillator grid                FoM =    0.5682
+   planar x/y bars + water layers                FoM =    0.5568
+   empty scintillator grid                       FoM =    0.2874
+   pressurised gas TPC target                    FoM =    0.0288
+   winner: cube_3view   margin: 2.35
+   single-factor x0.5/x2 failures: none
+   joint log-uniform [0.5,2] draws (2000, seed 20261105): keyed winner keeps winning in 100.0%
+========================================================================
+Level EQ1: inputs {'L': 1.6, 'W': 1.6, 'H': 0.8, 'p_med': 300.0, 'frac_hi': 0.06, 'f_mu_ha': 0.55, 'f_p_ha': 0.65, 'need_water': False}
+   3-view fine-cell plastic target (adopted)     FoM =    0.8792
+   two-view bar target                           FoM =    0.2125
+   water-filled scintillator grid                FoM =    0.2118
+   empty scintillator grid                       FoM =    0.2079
+   planar x/y bars transverse to beam            FoM =    0.1032
+   planar x/y bars + water layers                FoM =    0.1001
+   pressurised gas TPC target                    FoM =    0.0239
+   winner: cube_3view   margin: 4.14
+   single-factor x0.5/x2 failures: none
+   joint log-uniform [0.5,2] draws (2000, seed 20261105): keyed winner keeps winning in 100.0%
+========================================================================
+Level EQ2: inputs {'L': 2.4, 'W': 2.2, 'H': 0.5, 'p_med': 320.0, 'frac_hi': 0.05, 'f_mu_ha': 0.6, 'f_p_ha': 0.6, 'need_water': False}
+   3-view fine-cell plastic target (adopted)     FoM =    1.2380
+   two-view bar target                           FoM =    0.3239
+   water-filled scintillator grid                FoM =    0.3168
+   empty scintillator grid                       FoM =    0.2840
+   planar x/y bars transverse to beam            FoM =    0.1552
+   planar x/y bars + water layers                FoM =    0.1506
+   pressurised gas TPC target                    FoM =    0.0316
+   winner: cube_3view   margin: 3.82
+   single-factor x0.5/x2 failures: none
+   joint log-uniform [0.5,2] draws (2000, seed 20261105): keyed winner keeps winning in 100.0%
+========================================================================
+Level EQ3: inputs {'L': 1.8, 'W': 2.0, 'H': 0.7, 'p_med': 290.0, 'frac_hi': 0.07, 'f_mu_ha': 0.6, 'f_p_ha': 0.7, 'need_water': False}
+   3-view fine-cell plastic target (adopted)     FoM =    1.0320
+   two-view bar target                           FoM =    0.2548
+   water-filled scintillator grid                FoM =    0.2472
+   empty scintillator grid                       FoM =    0.2467
+   planar x/y bars transverse to beam            FoM =    0.1035
+   planar x/y bars + water layers                FoM =    0.1004
+   pressurised gas TPC target                    FoM =    0.0288
+   winner: cube_3view   margin: 4.05
+   single-factor x0.5/x2 failures: none
+   joint log-uniform [0.5,2] draws (2000, seed 20261105): keyed winner keeps winning in 100.0%
+========================================================================
+Level CONF1: inputs {'L': 2.1, 'W': 1.7, 'H': 0.65, 'p_med': 300.0, 'frac_hi': 0.06, 'f_mu_ha': 0.6, 'f_p_ha': 0.7, 'need_water': True}
+   water-filled scintillator grid                FoM =    0.1680
+   planar x/y bars + water layers                FoM =    0.0497
+   3-view fine-cell plastic target (adopted)     FoM =    0.0000
+   planar x/y bars transverse to beam            FoM =    0.0000
+   two-view bar target                           FoM =    0.0000
+   empty scintillator grid                       FoM =    0.0000
+   pressurised gas TPC target                    FoM =    0.0000
+   winner: water_grid   margin: 3.38
+   single-factor x0.5/x2 failures: none
+   joint log-uniform [0.5,2] draws (2000, seed 20261105): adopted loses in 100.0%
+========================================================================
+Level ABS: inputs {'L': 1.5, 'W': 1.5, 'H': 0.9, 'p_med': 280.0, 'frac_hi': 0.06, 'f_mu_ha': 0.55, 'f_p_ha': 0.65, 'need_water': False}
+   Korrin array (analogue of adopted)            FoM =    0.6094
+   dry Brindle mesh                              FoM =    0.1257
+   Quessel twin-view stack                       FoM =    0.1226
+   Ossine-flooded Brindle mesh                   FoM =    0.1128
+   Lathe stack                                   FoM =    0.0692
+   Pellow vapour chamber                         FoM =    0.0197
+   winner: korrin_array   margin: 4.85
+   single-factor x0.5/x2 failures: none
+   joint log-uniform [0.5,2] draws (2000, seed 20261105): keyed winner keeps winning in 100.0%
+========================================================================
+Level  Winner             Margin   Robust  Result
+NAME   cube_3view           2.35   100.0%  report
+ANON   cube_3view           2.35   100.0%  report
+EQ1    cube_3view           4.14   100.0%  PASS
+EQ2    cube_3view           3.82   100.0%  PASS
+EQ3    cube_3view           4.05   100.0%  PASS
+CONF1  water_grid           3.38   100.0%  PASS
+ABS    korrin_array         4.85   100.0%  PASS

@@ -1,0 +1,12 @@
+An off-axis near detector for an accelerator long-baseline neutrino experiment sits a few hundred metres from the production target, where the muon-neutrino flux peaks near 0.6 GeV.
+It is built inside a reused dipole magnet (0.2 T, inner volume 7.0 m x 3.5 m x 3.6 m), whose return-yoke gaps are instrumented with scintillator planes to range out side-going muons.
+Upstream is a photon-tagging section: 40 planes of triangular polystyrene bars interleaved with water bags, brass and lead, about 2.1 x 2.2 x 2.4 m and 16.1 t with water.
+Downstream, three argon-based gas time projection chambers with micro-pattern readout are interleaved with two plastic tracking targets, each 2.3 x 2.4 x 0.365 m holding 1.1 t.
+The first target has 5,760 extruded polystyrene bars of 9.6 x 9.6 mm cross-section in 30 layers alternating in x and y, all perpendicular to the beam; the second alternates seven such x/y modules with six 2.5 cm water layers.
+Lead-scintillator calorimeters surround the inner detectors; every scintillator channel is read out by wavelength-shifting fibre and a silicon photomultiplier.
+The detector constrains flux and cross-section uncertainties for a water far detector, but the residual systematic uncertainty is about 6% and the next phase needs about 4%.
+The upstream photon-tagging section will be removed and a new active neutrino target installed there; a box of about 2.0 m x 1.9 m x 0.6 m is available for it.
+The new target must give kinematically complete charged-current events: the muon and the leading recoil proton both reconstructed, as needed for transverse kinematic imbalance studies.
+At this beam, about 25% of the muons and about 35% of the leading protons leave at more than 50 degrees to the beam direction.
+The leading-proton momentum distribution has a median of about 450 MeV/c, and about 6% of the protons exceed 900 MeV/c.
+Interactions on hydrocarbon are acceptable for this programme; the downstream water-layer target stays in place for carbon-to-water comparison.

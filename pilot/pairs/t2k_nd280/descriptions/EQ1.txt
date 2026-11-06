@@ -1,0 +1,10 @@
+The Marrow Point near detector of the Calder neutrino programme stands 360 m from the target of a low-energy horn-focused beam whose muon-neutrino flux peaks at about 0.35 GeV.
+It sits inside a 0.35 T warm solenoid with an inner bore 3.0 m in diameter and 6.0 m long; the flux-return steel is instrumented as a muon ranger.
+The present tracker alternates two gas drift chambers with two planar targets made of 1.2 cm polystyrene bars laid in alternating x and y layers, all perpendicular to the beam axis.
+A barrel of lead-plastic sampling calorimeter lines the inside of the coil, and all optical channels are read out by silicon photomultipliers.
+The far detector is a large water volume with uniform acceptance in angle, and the near-to-far extrapolation currently leaves a 7% systematic uncertainty against a goal of 3.5%.
+The upstream end of the bore will be cleared for a new active neutrino target, with a usable box of 1.6 m (along beam) x 1.6 m x 0.8 m.
+The target must deliver as many kinematically complete charged-current events as possible: the muon and the leading recoil proton both reconstructed.
+Because the beam energy is low, about 55% of the muons and about 65% of the leading protons leave at more than 50 degrees to the beam direction.
+The leading-proton momentum distribution has a median of 300 MeV/c, and about 6% of the protons exceed 600 MeV/c.
+The cross-section programme accepts interactions on any target nucleus.
