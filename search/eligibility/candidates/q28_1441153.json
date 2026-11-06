@@ -1,0 +1,14 @@
+{
+ "queue_pos": 28,
+ "field": "grav_waves",
+ "baseline": {
+  "recid": "1441153",
+  "title": "Sensitivity of the Advanced LIGO detectors at the beginning of gravitational wave astronomy",
+  "date": "2016-04-01",
+  "collaboration": "",
+  "journal": "Phys.Rev.D 93 112004 (2016)",
+  "arxiv": "1604.00439"
+ },
+ "n_candidate_docs": 0,
+ "candidate_upgrade_docs": []
+}

@@ -1,0 +1,99 @@
+{
+ "queue_pos": 79,
+ "field": "collider",
+ "baseline": {
+  "recid": "1278235",
+  "title": "NA61/SHINE facility at the CERN SPS: beams and detector system",
+  "date": "2014-01-19",
+  "collaboration": "NA61",
+  "journal": "JINST 9 P06005 (2014)",
+  "arxiv": "1401.4699"
+ },
+ "n_candidate_docs": 12,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1501882",
+   "title": "Hyper-Kamiokande Design Report",
+   "date": "2016-02-07",
+   "arxiv": "",
+   "report_numbers": "KEK-PREPRINT-2016-21; ICRR-REPORT-701-2016-1"
+  },
+  {
+   "recid": "1632263",
+   "title": "Study of Triple-GEM detector for the upgrade of the CMS muon spectrometer at LHC",
+   "date": "2016-07-12",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2016-345"
+  },
+  {
+   "recid": "1625555",
+   "title": "J-PARC accelerator and neutrino beamline upgrade programme",
+   "date": "2017-09-20",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1672899",
+   "title": "Hyper-Kamiokande Design Report",
+   "date": "2018-05-09",
+   "arxiv": "1805.04163",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1713917",
+   "title": "Upgrade of the NA61/SHINE Facility beyond 2020 for an Expanded Physics Programme",
+   "date": "2019-01-10",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1756081",
+   "title": "Forward hadron calorimeter (PSD) of NA61/SHINE for heavy ion studies and its upgrade for experiments beyond 2020",
+   "date": "2019-04-29",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1805716",
+   "title": "Development of a read-out receiver card for fast processing of detector data : ALICE HLT run 2 readout upgrade and evaluation of dataflow hardware description for high energy physics readout applicati",
+   "date": "2019-07-25",
+   "arxiv": "",
+   "report_numbers": "GSI-2020-00439"
+  },
+  {
+   "recid": "1749622",
+   "title": "J-PARC Neutrino Beamline Upgrade Technical Design Report",
+   "date": "2019-08-14",
+   "arxiv": "1908.05141",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1816762",
+   "title": "Beam Test Calorimeter Prototypes for the CMS Calorimeter Endcap Upgrade: Qualification, Performance Validation and Fast Generative Modelling",
+   "date": "2020-05-28",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2019-367"
+  },
+  {
+   "recid": "1876360",
+   "title": "NA61/SHINE Detector Upgrade",
+   "date": "2021",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2619228",
+   "title": "Letter of Intent: the NA60+ experiment",
+   "date": "2022-12-29",
+   "arxiv": "2212.14452",
+   "report_numbers": "CERN-SPSC-2022-036 / SPSC-I-259"
+  },
+  {
+   "recid": "2856105",
+   "title": "Development of the detector readout for the ATLAS Phase II ITk pixel detector",
+   "date": "2024-10-18",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2025-004; II.Physik-UniGö-Diss-2024/06"
+  }
+ ]
+}

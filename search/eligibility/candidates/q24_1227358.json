@@ -1,0 +1,14 @@
+{
+ "queue_pos": 24,
+ "field": "astroparticle",
+ "baseline": {
+  "recid": "1227358",
+  "title": "Design and Operation of FACT -- The First G-APD Cherenkov Telescope",
+  "date": "2013-04-05",
+  "collaboration": "",
+  "journal": "JINST 8 P06008 (2013)",
+  "arxiv": "1304.1710"
+ },
+ "n_candidate_docs": 0,
+ "candidate_upgrade_docs": []
+}

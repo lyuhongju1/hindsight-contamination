@@ -1,0 +1,50 @@
+{
+ "queue_pos": 60,
+ "field": "nu_accel",
+ "baseline": {
+  "recid": "1468455",
+  "title": "DANSS: Detector of the reactor AntiNeutrino based on Solid Scintillator",
+  "date": "2016-06-09",
+  "collaboration": "",
+  "journal": "JINST 11 P11011 (2016)",
+  "arxiv": "1606.02896"
+ },
+ "n_candidate_docs": 5,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1632452",
+   "title": "IsoDAR@KamLAND:A Conceptual Design Report for the Conventional Facilities",
+   "date": "2017-10-25",
+   "arxiv": "1710.09325",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1987083",
+   "title": "Optimized scintillation strip design for the DANSS upgrade",
+   "date": "2021-12-09",
+   "arxiv": "2112.04973",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2598942",
+   "title": "Upgrade of the DANSS detector of reactor antineutrino",
+   "date": "2022-11-24",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2781036",
+   "title": "Technical Design Report of the Spin Physics Detector at NICA",
+   "date": "2024-04-12",
+   "arxiv": "2404.08317",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2857655",
+   "title": "New Design of Scintillation Strips for the DANSS Detector Upgrade",
+   "date": "2024-12-05",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

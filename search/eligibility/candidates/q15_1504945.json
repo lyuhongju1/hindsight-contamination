@@ -1,0 +1,92 @@
+{
+ "queue_pos": 15,
+ "field": "nu_accel",
+ "baseline": {
+  "recid": "1504945",
+  "title": "Design and Construction of the MicroBooNE Detector",
+  "date": "2016-12-17",
+  "collaboration": "MicroBooNE",
+  "journal": "JINST 12 P02017 (2017)",
+  "arxiv": "1612.05824"
+ },
+ "n_candidate_docs": 11,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1684272",
+   "title": "The DUNE Far Detector Interim Design Report Volume 1: Physics, Technology and Strategies",
+   "date": "2018-07-26",
+   "arxiv": "1807.10334",
+   "report_numbers": "Fermilab-Design-2018-02; FERMILAB-DESIGN-2018-02"
+  },
+  {
+   "recid": "1684277",
+   "title": "The DUNE Far Detector Interim Design Report, Volume 3: Dual-Phase Module",
+   "date": "2018-07-26",
+   "arxiv": "1807.10340",
+   "report_numbers": "Fermilab-Design-2018-04; FERMILAB-DESIGN-2018-04"
+  },
+  {
+   "recid": "1779524",
+   "title": "Deep Underground Neutrino Experiment (DUNE), Far Detector Technical Design Report, Volume I Introduction to DUNE",
+   "date": "2020-02-07",
+   "arxiv": "2002.02967",
+   "report_numbers": "FERMILAB-PUB-20-024-ND; FERMILAB-DESIGN-2020-01"
+  },
+  {
+   "recid": "1779525",
+   "title": "Deep Underground Neutrino Experiment (DUNE), Far Detector Technical Design Report, Volume II: DUNE Physics",
+   "date": "2020-02-07",
+   "arxiv": "2002.03005",
+   "report_numbers": "FERMILAB-PUB-20-025-ND; FERMILAB-DESIGN-2020-02"
+  },
+  {
+   "recid": "1779526",
+   "title": "Deep Underground Neutrino Experiment (DUNE), Far Detector Technical Design Report, Volume IV: Far Detector Single-phase Technology",
+   "date": "2020-02-07",
+   "arxiv": "2002.03010",
+   "report_numbers": "FERMILAB-PUB-20-027-ND; FERMILAB-DESIGN-2020-04"
+  },
+  {
+   "recid": "1854065",
+   "title": "Deep Underground Neutrino Experiment (DUNE) Near Detector Conceptual Design Report",
+   "date": "2021-03-25",
+   "arxiv": "2103.13910",
+   "report_numbers": "FERMILAB-PUB-21-067-E-LBNF-PPD-SCD-T"
+  },
+  {
+   "recid": "2171912",
+   "title": "DUNE Offline Computing Conceptual Design Report",
+   "date": "2022-10-28",
+   "arxiv": "2210.15665",
+   "report_numbers": "FERMILAB-DESIGN-2022-01"
+  },
+  {
+   "recid": "2766828",
+   "title": "Towards a complete understanding of neutrino-nucleus interactions with the T2K near detector upgrade",
+   "date": "2023-09-05",
+   "arxiv": "",
+   "report_numbers": "tel-04461663; 2023IPPAX059"
+  },
+  {
+   "recid": "2734573",
+   "title": "The DUNE Far Detector Vertical Drift Technology. Technical Design Report",
+   "date": "2023-12-05",
+   "arxiv": "2312.03130",
+   "report_numbers": "FERMILAB-TM-2813-LBNF"
+  },
+  {
+   "recid": "3115330",
+   "title": "Neutrino interactions in the ND280 upgrade era and beyond: theoretical modelling and experimental observations at T2K",
+   "date": "2025-09-04",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3075256",
+   "title": "The forward physics facility: Physics opportunities and conceptual design",
+   "date": "2025-10-30",
+   "arxiv": "2510.26260",
+   "report_numbers": "CERN-PBC-Notes-2025-010"
+  }
+ ]
+}

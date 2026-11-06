@@ -1,0 +1,64 @@
+{
+ "queue_pos": 47,
+ "field": "grav_waves",
+ "baseline": {
+  "recid": "1328453",
+  "title": "Advanced LIGO",
+  "date": "2014-11-17",
+  "collaboration": "LIGO Scientific",
+  "journal": "Class.Quant.Grav. 32 074001 (2015)",
+  "arxiv": "1411.4547"
+ },
+ "n_candidate_docs": 7,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1395659",
+   "title": "GEO 600 and the GEO-HF upgrade program: successes and challenges",
+   "date": "2015-10-01",
+   "arxiv": "1510.00317",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1857544",
+   "title": "Adpative Mode Matching Upgrade for Advanced Ligo",
+   "date": "2019",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2765414",
+   "title": "Optimal control theory for the angular control of the full payload for AdV+ Phase II",
+   "date": "2024-02-29",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2969543",
+   "title": "Letter of Intent: AICE -- 100m Atom Interferometer Experiment at CERN",
+   "date": "2025-09-15",
+   "arxiv": "2509.11867",
+   "report_numbers": "CERN-LHCC-2025-008; LHCC-I-042"
+  },
+  {
+   "recid": "3180480",
+   "title": "Evaluating KAGRA upgrade scenarios for multimessenger observations of binary neutron stars",
+   "date": "2026-07-14",
+   "arxiv": "2607.12769",
+   "report_numbers": "JGW-P2617414; RESCEU-20/26"
+  },
+  {
+   "recid": "3188277",
+   "title": "Quantum noise reduction schemes for KAGRA post-O5 upgrade",
+   "date": "2026-08-06",
+   "arxiv": "2608.06229",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3192703",
+   "title": "Technical Proposal for the Atom Interferometer CERN Experiment (AICE) Facility",
+   "date": "2026-08-19",
+   "arxiv": "2608.18743",
+   "report_numbers": "CERN-PBC-REPORT-2026-001"
+  }
+ ]
+}

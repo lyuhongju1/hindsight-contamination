@@ -1,0 +1,575 @@
+{
+ "queue_pos": 39,
+ "field": "collider",
+ "baseline": {
+  "recid": "796248",
+  "title": "The LHCb Detector at the LHC",
+  "date": "2008-08-14",
+  "collaboration": "LHCb",
+  "journal": "JINST 3 S08005 (2008)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 304,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "862871",
+   "title": "The LHCb upgrade",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "880581",
+   "title": "LHCb upgrade: Physics case and high luminosity detector optimisation",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1654204",
+   "title": "A programmable 10 Gigabit injector for the LHCb DAQ and its upgrade",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "885034",
+   "title": "Study for the LHCb upgrade read-out board",
+   "date": "2010",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "897612",
+   "title": "The upgrade of the LHCb detector",
+   "date": "2010",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "918157",
+   "title": "The LHCb VELO upgrade",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1128355",
+   "title": "The LHCb upgrade detector",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1296566",
+   "title": "Thermo-mechanical characterisation of low density carbon foams and composite materials for the ATLAS upgrade",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2011-340"
+  },
+  {
+   "recid": "1301301",
+   "title": "The LHCb Upgrade from 1 to 40 MHz readout",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1391030",
+   "title": "The LHCb Upgrade",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": "LHCb-PROC-2011-062; CERN-LHCb-PROC-2011-062"
+  },
+  {
+   "recid": "914711",
+   "title": "A Level 1 Tracking Trigger for the CMS Experiment at the LHC Phase 2 Luminosity Upgrade",
+   "date": "2011-01-30",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2011-029; CMS-TS-2011-008"
+  },
+  {
+   "recid": "1391029",
+   "title": "Letter of Intent for the LHCb Upgrade",
+   "date": "2011-03-29",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2011-001"
+  },
+  {
+   "recid": "1088174",
+   "title": "Beam, Background and Luminosity Monitoring in LHCb and Upgrade of the LHCb Fast Readout Control",
+   "date": "2011-06-21",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2011-047"
+  },
+  {
+   "recid": "1196816",
+   "title": "Silicon Strip Detectors for the ATLAS HL-LHC Upgrade",
+   "date": "2011-09-13",
+   "arxiv": "",
+   "report_numbers": "ATL-UPGRADE-PROC-2011-005; ATL-COM-UPGRADE-2011-018"
+  },
+  {
+   "recid": "1197805",
+   "title": "Physics opportunities with LHCb and its planned upgrade",
+   "date": "2011-11-02",
+   "arxiv": "",
+   "report_numbers": "LHCb-PUB-2011-022; CERN-LHCb-PUB-2011-022; LHCb-PUB-2011-022; CERN-LHCb-PUB-2011-022"
+  },
+  {
+   "recid": "1216093",
+   "title": "The LHCb upgrade",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1324611",
+   "title": "The LHCb detector upgrade",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1429430",
+   "title": "A study of materials used for muon chambers at the CMS Experiment at the LHC: interaction with gas, new materials and new technologies for detector upgrade",
+   "date": "2012-02-16",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2012-426"
+  },
+  {
+   "recid": "1313525",
+   "title": "Study of a Solution with COTS for the LHCb Calorimeter Upgrade",
+   "date": "2012-02-21",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1313259",
+   "title": "The LHCb VELO Upgrade",
+   "date": "2012-02-25",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1197825",
+   "title": "The LHCb upgrade",
+   "date": "2012-07-24",
+   "arxiv": "",
+   "report_numbers": "LHCb-PUB-2012-010; CERN-LHCb-PUB-2012-010; LHCb-PUB-2012-010; CERN-LHCb-PUB-2012-010"
+  },
+  {
+   "recid": "1187618",
+   "title": "The LHCb Vertex Locator performance and Vertex Locator upgrade",
+   "date": "2012-09",
+   "arxiv": "1209.4845",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1193236",
+   "title": "CMS Technical Design Report for the Pixel Detector Upgrade",
+   "date": "2012-09-26",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2012-016; CMS-TDR-011"
+  },
+  {
+   "recid": "1323564",
+   "title": "A High-Rate Beam Test for the CMS Pixel Detector Phase I Upgrade",
+   "date": "2012-11-02",
+   "arxiv": "",
+   "report_numbers": "IEKP-KA-2012-15; CERN-THESIS-2012-445"
+  },
+  {
+   "recid": "1230414",
+   "title": "VELO aperture considerations for the LHCb Upgrade",
+   "date": "2012-12-14",
+   "arxiv": "",
+   "report_numbers": "LHCb-PUB-2012-018; CERN-LHCb-PUB-2012-018; CERN-ATS-Note-2012-101; LHCb-PUB-2012-018; CERN-LHCb-PUB-2012-018; CERN-ATS-N"
+  },
+  {
+   "recid": "1215143",
+   "title": "The LHCb VELO (VErtex LOcator) and the LHCb VELO upgrade",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1247134",
+   "title": "The LHCb VELO Upgrade",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1250182",
+   "title": "Performance and upgrade plans of the LHCb trigger system",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1257863",
+   "title": "The LHCb Upgrade",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1277546",
+   "title": "The LHCb upgrade",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1290409",
+   "title": "LHCb Calorimeter Upgrade Electronics",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1306116",
+   "title": "The upgrade of the LHCb Vertex Locator (VELO)",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1306117",
+   "title": "The Silicon Upstream Tracker for the LHCb Upgrade",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1309197",
+   "title": "The LHCb VELO: Performance, radiation damage, and upgrade",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1309292",
+   "title": "The RICH system of the LHCb experiment: Its performance, limits and proposed upgrade",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1920578",
+   "title": "RICH2019: a proposal for the LHCb-RICH upgrade",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": "LHCb-PUB-2013-011; CERN-LHCb-PUB-2013-011"
+  },
+  {
+   "recid": "1920620",
+   "title": "Updated sensitivity projections for the LHCb Upgrade",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": "LHCb-PUB-2013-015; CERN-LHCb-PUB-2013-015"
+  },
+  {
+   "recid": "1920624",
+   "title": "RICH1 and the LHCb/RICH upgrade: re-optimization of the optics",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": "LHCb-PUB-2013-012; CERN-LHCb-PUB-2013-012"
+  },
+  {
+   "recid": "1221048",
+   "title": "The LHCb VELO Upgrade",
+   "date": "2013-02-25",
+   "arxiv": "1302.6035",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1236817",
+   "title": "Development and Study of Different Muon Track Reconstruction Algorithms for the Level-1 Trigger for the CMS Muon Upgrade with GEM Detectors",
+   "date": "2013-06-04",
+   "arxiv": "1306.0858",
+   "report_numbers": "CERN-THESIS-2013-042"
+  },
+  {
+   "recid": "1256328",
+   "title": "The LHCb Upgrade",
+   "date": "2013-10-01",
+   "arxiv": "1310.0183",
+   "report_numbers": "DPF2013-49"
+  },
+  {
+   "recid": "1614086",
+   "title": "LHCb VELO Upgrade Technical Design Report",
+   "date": "2013-11-04",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2013-021; LHCB-TDR-013; CERN-LHCC-2013-021; LHCB-TDR-013"
+  },
+  {
+   "recid": "1614087",
+   "title": "LHCb PID Upgrade Technical Design Report",
+   "date": "2013-11-04",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2013-022; LHCB-TDR-014; CERN-LHCC-2013-022; LHCB-TDR-014"
+  },
+  {
+   "recid": "1264475",
+   "title": "Status and prospects for the LHCb upgrade",
+   "date": "2013-11-14",
+   "arxiv": "1311.3496",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1296599",
+   "title": "Study of the GEM detector for the LHCb experiment upgrade",
+   "date": "2013-11-22",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2013-296"
+  },
+  {
+   "recid": "1269659",
+   "title": "Trigger-less readout architecture for the upgrade of the LHCb experiment at CERN",
+   "date": "2013-12-13",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1381411",
+   "title": "Development and operation of tracking detectors in silicon technology for the LHCb upgrade",
+   "date": "2013-12-23",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2013-373"
+  },
+  {
+   "recid": "1312102",
+   "title": "Upgrade of the LHCb Vertex Locator",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1775937",
+   "title": "Position Resolution and Upgrade of the CMS Pixel Detector and Search for the Higgs Boson in the $\\tau^+ \\tau^-$ Final State",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1920607",
+   "title": "Downstream tracking for the LHCb upgrade",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": "LHCb-PUB-2014-007; CERN-LHCb-PUB-2014-007"
+  },
+  {
+   "recid": "1920705",
+   "title": "Anatomy of an upgrade event in the upgrade era, and implications for the LHCb trigger",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": "LHCb-PUB-2014-027; CERN-LHCb-PUB-2014-027"
+  },
+  {
+   "recid": "1281977",
+   "title": "The LHCb Muon Upgrade",
+   "date": "2014-02-17",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1614088",
+   "title": "LHCb Tracker Upgrade Technical Design Report",
+   "date": "2014-02-21",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2014-001; LHCB-TDR-015; CERN-LHCC-2014-001; LHCB-TDR-015"
+  },
+  {
+   "recid": "1296132",
+   "title": "Irradiation study of different silicon materials for the CMS tracker upgrade",
+   "date": "2014-04-24",
+   "arxiv": "",
+   "report_numbers": "DESY-THESIS-2014-010; CERN-THESIS-2014-400"
+  },
+  {
+   "recid": "1296950",
+   "title": "The upgrade programme of the major experiments at the Large Hadron Collider",
+   "date": "2014-05-14",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1614090",
+   "title": "LHCb Trigger and Online Upgrade Technical Design Report",
+   "date": "2014-05-14",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2014-016; LHCB-TDR-016"
+  },
+  {
+   "recid": "1339781",
+   "title": "Position Resolution and Upgrade of the CMS Pixel Detector and Search for the Higgs Boson in the $\\tau^+\\tau^-$ Final State",
+   "date": "2014-06-13",
+   "arxiv": "",
+   "report_numbers": "IEKP-KA-2014-09; CERN-THESIS-2014-364"
+  },
+  {
+   "recid": "1859814",
+   "title": "Characterisation and Beam Test Data Analysis of 3D Silicon Pixel Detectors for the ATLAS Upgrade",
+   "date": "2014-08-01",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1360092",
+   "title": "The LHCb Upgrade Scintillating Fibre Tracker",
+   "date": "2014-09-25",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1360062",
+   "title": "Silicon Photomultipliers for the LHCb Upgrade Scintillating Fibre Tracker",
+   "date": "2014-09-29",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1339807",
+   "title": "COTS Analog Prototype for LHCb's Calorimeter Upgrade",
+   "date": "2014-09-30",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2014-160"
+  },
+  {
+   "recid": "1320000",
+   "title": "The upgrade of the LHCb Vertex Locator",
+   "date": "2014-10-03",
+   "arxiv": "1410.0812",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1326325",
+   "title": "The silicon vertex locator for the LHCb upgrade",
+   "date": "2014-11-21",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1326723",
+   "title": "Upgrade of LHCb-RICH detectors",
+   "date": "2014-12-01",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1360150",
+   "title": "Cooling for the LHCb Upgrade Scintillating Fibre Tracker",
+   "date": "2014-12-22",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1381290",
+   "title": "First observation of the associated production of $Z$ bosons with prompt and non-prompt $J/\\psi$ mesons in $pp$ collisions at $\\sqrt{s}= 8\\,\\mathrm{TeV}$ and contribution to the Micromegas detectors f",
+   "date": "2015",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2015-077"
+  },
+  {
+   "recid": "1398309",
+   "title": "Associated Z+Higgs Boson Production in the Leptonic+Beauty Final State and the Upgrade of the Pixel Detector at CMS",
+   "date": "2015",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1922571",
+   "title": "Analysis of the performance of GEM chambers for the upgrade of the LHCb muon system",
+   "date": "2015",
+   "arxiv": "",
+   "report_numbers": "LHCb-PUB-2015-014; CERN-LHCb-PUB-2015-014"
+  },
+  {
+   "recid": "1373016",
+   "title": "LHCb Upgrade: Upstream Tracker",
+   "date": "2015-01-10",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1381410",
+   "title": "A data processing firmware for an upgrade of the Outer Tracker detector at the LHCb experiment",
+   "date": "2015-01-16",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2015-009"
+  },
+  {
+   "recid": "1513241",
+   "title": "Impact of the LHCb upgrade detector design choices on physics and trigger performance",
+   "date": "2015-01-26",
+   "arxiv": "",
+   "report_numbers": "LHCb-PUB-2014-040"
+  },
+  {
+   "recid": "1344315",
+   "title": "A generic firmware core to drive the Front-End GBT-SCAs for the LHCb upgrade",
+   "date": "2015-02-09",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1381882",
+   "title": "The LHCb upgrade",
+   "date": "2015-02-12",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1360149",
+   "title": "Microchannel evaporative CO$_2$ cooling for the LHCb VELO Upgrade",
+   "date": "2015-03-27",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1362119",
+   "title": "Low noise 4-channel front end ASIC with on-chip DLL for the upgrade of the LHCb Calorimeter",
+   "date": "2015-04-17",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1370604",
+   "title": "Evaporative CO$_2$ microchannel cooling for the LHCb VELO pixel upgrade",
+   "date": "2015-05-13",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1381286",
+   "title": "Energy Reconstruction and high-speed Data Transmission with FPGAs for the Upgrade of the ATLAS Liquid Argon Calorimeter at LHC",
+   "date": "2015-05-19",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2015-082"
+  },
+  {
+   "recid": "1614097",
+   "title": "Technical Proposal for the Phase-II Upgrade of the CMS Detector",
+   "date": "2015-06-01",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2015-010; LHCC-P-008; CMS-TDR-15-02"
+  },
+  {
+   "recid": "1503931",
+   "title": "Caracterização do TimePix3 e de sensores resistentes à radiação para upgrade do VELO",
+   "date": "2015-09-04",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2016-008"
+  },
+  {
+   "recid": "1503890",
+   "title": "Measurement of the CKM angle gamma in the $B^0\\to DK^{*0}$ decays using the Dalitz method in the LHCb experiment at CERN and photon reconstruction optimisation for the LHCb detector upgrade",
+   "date": "2015-09-10",
+   "arxiv": "",
+   "report_numbers": "tel-01281333; 2015PA112175"
+  }
+ ]
+}

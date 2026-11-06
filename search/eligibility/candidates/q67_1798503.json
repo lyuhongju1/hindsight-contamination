@@ -1,0 +1,36 @@
+{
+ "queue_pos": 67,
+ "field": "collider",
+ "baseline": {
+  "recid": "1798503",
+  "title": "The GLUEX beamline and detector",
+  "date": "2020-05-28",
+  "collaboration": "GlueX",
+  "journal": "Nucl.Instrum.Meth.A 987 164807 (2021)",
+  "arxiv": "2005.14272"
+ },
+ "n_candidate_docs": 3,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "2646631",
+   "title": "STCF conceptual design report (Volume 1): Physics & detector",
+   "date": "2023-03-28",
+   "arxiv": "2303.15790",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3195426",
+   "title": "White Paper on a Novel FFA-Based CEBAF Upgrade to 22 GeV",
+   "date": "2026-08-24",
+   "arxiv": "2608.23387",
+   "report_numbers": "JLAB-ACC-26-4928"
+  },
+  {
+   "recid": "3208077",
+   "title": "Transition Radiation Detector Upgrade for the GlueX-III Charmonium Program",
+   "date": "2026-09-25",
+   "arxiv": "2609.31585",
+   "report_numbers": ""
+  }
+ ]
+}

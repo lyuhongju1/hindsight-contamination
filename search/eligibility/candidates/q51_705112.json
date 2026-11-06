@@ -1,0 +1,22 @@
+{
+ "queue_pos": 51,
+ "field": "dark_matter",
+ "baseline": {
+  "recid": "705112",
+  "title": "The DRIFT-II dark matter detector: Design and commissioning",
+  "date": "2005",
+  "collaboration": "",
+  "journal": "Nucl.Instrum.Meth.A 555 173 (2005)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 1,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1392796",
+   "title": "LUX-ZEPLIN (LZ) Conceptual Design Report",
+   "date": "2015-09-09",
+   "arxiv": "1509.02910",
+   "report_numbers": "LBNL-190005; FERMILAB-TM-2621-AE-E-PPD"
+  }
+ ]
+}

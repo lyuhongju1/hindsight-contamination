@@ -1,0 +1,85 @@
+{
+ "queue_pos": 37,
+ "field": "nu_natural",
+ "baseline": {
+  "recid": "895584",
+  "title": "ANTARES: the first undersea neutrino telescope",
+  "date": "2011-04",
+  "collaboration": "ANTARES",
+  "journal": "Nucl.Instrum.Meth.A 656 11 (2011)",
+  "arxiv": "1104.1607"
+ },
+ "n_candidate_docs": 10,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1242904",
+   "title": "The optical modules of the phase-2 of the NEMO project",
+   "date": "2013-07-08",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1332159",
+   "title": "Measurement of the atmospheric muon depth intensity relation with the NEMO Phase-2 tower",
+   "date": "2014-12-02",
+   "arxiv": "1412.0849",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1417077",
+   "title": "Letter of intent for KM3NeT 2.0",
+   "date": "2016-01-27",
+   "arxiv": "1601.07459",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1501882",
+   "title": "Hyper-Kamiokande Design Report",
+   "date": "2016-02-07",
+   "arxiv": "",
+   "report_numbers": "KEK-PREPRINT-2016-21; ICRR-REPORT-701-2016-1"
+  },
+  {
+   "recid": "1475970",
+   "title": "Measurement of the atmospheric muon flux at 3500 m depth with the NEMO Phase-2 detector",
+   "date": "2016-07-06",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2004326",
+   "title": "The IceCube Neutrino Observatory: search for extended sources of neutrinos and preliminary study of a communication protocol for its future upgrade",
+   "date": "2017-06-27",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1672899",
+   "title": "Hyper-Kamiokande Design Report",
+   "date": "2018-05-09",
+   "arxiv": "1805.04163",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1774688",
+   "title": "Technical Proposal: FASERnu",
+   "date": "2020-01-09",
+   "arxiv": "2001.03073",
+   "report_numbers": "CERN-LHCC-2019-017; LHCC-P-015; UCI-TR-2019-25"
+  },
+  {
+   "recid": "2006701",
+   "title": "The self-monitoring precision calibration light source for the IceCube Upgrade",
+   "date": "2021",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3171379",
+   "title": "Noise characterization and performance evaluation of new optical sensors for the IceCube Upgrade",
+   "date": "2026-06-01",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

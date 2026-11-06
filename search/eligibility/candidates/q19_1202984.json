@@ -1,0 +1,36 @@
+{
+ "queue_pos": 19,
+ "field": "dark_matter",
+ "baseline": {
+  "recid": "1202984",
+  "title": "The Large Underground Xenon (LUX) Experiment",
+  "date": "2012-11",
+  "collaboration": "LUX",
+  "journal": "Nucl.Instrum.Meth.A 704 111 (2013)",
+  "arxiv": "1211.3788"
+ },
+ "n_candidate_docs": 3,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1392796",
+   "title": "LUX-ZEPLIN (LZ) Conceptual Design Report",
+   "date": "2015-09-09",
+   "arxiv": "1509.02910",
+   "report_numbers": "LBNL-190005; FERMILAB-TM-2621-AE-E-PPD"
+  },
+  {
+   "recid": "1675260",
+   "title": "nEXO Pre-Conceptual Design Report",
+   "date": "2018-05-28",
+   "arxiv": "1805.11142",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1864594",
+   "title": "Dark matter search: the Neutron Veto in the XENONnT Detector Upgrade",
+   "date": "2020-10-12",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

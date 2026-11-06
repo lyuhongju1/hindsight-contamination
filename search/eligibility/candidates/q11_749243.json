@@ -1,0 +1,36 @@
+{
+ "queue_pos": 11,
+ "field": "collider",
+ "baseline": {
+  "recid": "749243",
+  "title": "The Beam and detector for the NA48 neutral kaon CP violations experiment at CERN",
+  "date": "2007-05",
+  "collaboration": "NA48",
+  "journal": "Nucl.Instrum.Meth.A 574 433 (2007)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 3,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1398849",
+   "title": "The NA62 Liquid Krypton calorimeter data acquisition upgrade",
+   "date": "2008-10",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2605876",
+   "title": "HIKE, High Intensity Kaon Experiments at the CERN SPS",
+   "date": "2022-11-29",
+   "arxiv": "2211.16586",
+   "report_numbers": "CERN-SPSC-2022-031; SPSC-I-257"
+  },
+  {
+   "recid": "2970787",
+   "title": "Kaon Identification Upgrade and Search for the Dark Photon Production in the $\\pi^0 \\to \\gamma A'$ Decay, at NA62",
+   "date": "2025-07-23",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

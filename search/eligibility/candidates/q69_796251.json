@@ -1,0 +1,575 @@
+{
+ "queue_pos": 69,
+ "field": "collider",
+ "baseline": {
+  "recid": "796251",
+  "title": "The ALICE experiment at the CERN LHC",
+  "date": "2008",
+  "collaboration": "ALICE",
+  "journal": "JINST 3 S08002 (2008)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 205,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1113196",
+   "title": "Upgrade of the ALICE Inner Tracking System",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1206753",
+   "title": "Performance of the ALICE Inner Tracking System and studies for the upgrade",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "914711",
+   "title": "A Level 1 Tracking Trigger for the CMS Experiment at the LHC Phase 2 Luminosity Upgrade",
+   "date": "2011-01-30",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2011-029; CMS-TS-2011-008"
+  },
+  {
+   "recid": "1186200",
+   "title": "The Upgrade of the ALICE Inner Tracking System",
+   "date": "2011-12-15",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2011-225"
+  },
+  {
+   "recid": "1121468",
+   "title": "Performance of the present ALICE Inner Tracking System and studies for the upgrade",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1210477",
+   "title": "Preparing the ALICE DAQ upgrade",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1305020",
+   "title": "Upgrade of the ALICE Experiment: Letter Of Intent",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2012-012; CERN-LHCC-I-022; ALICE-UG-001"
+  },
+  {
+   "recid": "1313322",
+   "title": "Upgrade of the ALICE Detector",
+   "date": "2012-03-02",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1231060",
+   "title": "Studies on the upgrade of the ALICE central tracker",
+   "date": "2012-07-27",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2012-285; urn:nbn:de:tuda-tuprints-31488"
+  },
+  {
+   "recid": "1203678",
+   "title": "Upgrade of the ALICE Inner Tracking System",
+   "date": "2012-11",
+   "arxiv": "1211.5216",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1323564",
+   "title": "A High-Rate Beam Test for the CMS Pixel Detector Phase I Upgrade",
+   "date": "2012-11-02",
+   "arxiv": "",
+   "report_numbers": "IEKP-KA-2012-15; CERN-THESIS-2012-445"
+  },
+  {
+   "recid": "1208965",
+   "title": "Muon Physics in ALICE: The MFT Upgrade Project",
+   "date": "2012-12",
+   "arxiv": "1212.6517",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1237707",
+   "title": "ALICE detector status and upgrade plans",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1277544",
+   "title": "ALICE Upgrade and physics perspectives",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1305021",
+   "title": "Technical Design Report for the Upgrade of the ALICE Inner Tracking System",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2013-024; ALICE-TDR-017"
+  },
+  {
+   "recid": "1306118",
+   "title": "The Upgrade of the ALICE Inner Tracking System",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1600311",
+   "title": "Upgrade of the ALICE Readout $\\&$ Trigger System",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2013-019; ALICE-TDR-015"
+  },
+  {
+   "recid": "2110771",
+   "title": "Muon arm upgrade and beampipe support in ALICE experiment at LHC",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1227191",
+   "title": "The upgrade of the ALICE Inner Tracking System",
+   "date": "2013-04-04",
+   "arxiv": "1304.1306",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1236817",
+   "title": "Development and Study of Different Muon Track Reconstruction Algorithms for the Level-1 Trigger for the CMS Muon Upgrade with GEM Detectors",
+   "date": "2013-06-04",
+   "arxiv": "1306.0858",
+   "report_numbers": "CERN-THESIS-2013-042"
+  },
+  {
+   "recid": "1239651",
+   "title": "SuperB Technical Design Report",
+   "date": "2013-06-24",
+   "arxiv": "1306.5655",
+   "report_numbers": "INFN-13-01-PI; LAL-13-01; SLAC-R-1003"
+  },
+  {
+   "recid": "1381411",
+   "title": "Development and operation of tracking detectors in silicon technology for the LHCb upgrade",
+   "date": "2013-12-23",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2013-373"
+  },
+  {
+   "recid": "1316918",
+   "title": "Upgrade of the ALICE muon trigger electronics",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1775937",
+   "title": "Position Resolution and Upgrade of the CMS Pixel Detector and Search for the Higgs Boson in the $\\tau^+ \\tau^-$ Final State",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1920698",
+   "title": "Report on SI-IT Prototype Modules R&D for the LHCb Upgrade",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": "LHCb-PUB-2014-009; CERN-LHCb-PUB-2014-009; LHCb-INT-2013-063"
+  },
+  {
+   "recid": "1448398",
+   "title": "Upgrade of the ALICE Time Projection Chamber",
+   "date": "2014-03-03",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2013-020; ALICE-TDR-016"
+  },
+  {
+   "recid": "1339754",
+   "title": "Studies on Monolithic Active Pixel Sensors and Detector Performance for the Inner Tracking System Upgrade of ALICE",
+   "date": "2014-03-26",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2014-194"
+  },
+  {
+   "recid": "1296132",
+   "title": "Irradiation study of different silicon materials for the CMS tracker upgrade",
+   "date": "2014-04-24",
+   "arxiv": "",
+   "report_numbers": "DESY-THESIS-2014-010; CERN-THESIS-2014-400"
+  },
+  {
+   "recid": "1296950",
+   "title": "The upgrade programme of the major experiments at the Large Hadron Collider",
+   "date": "2014-05-14",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1339781",
+   "title": "Position Resolution and Upgrade of the CMS Pixel Detector and Search for the Higgs Boson in the $\\tau^+\\tau^-$ Final State",
+   "date": "2014-06-13",
+   "arxiv": "",
+   "report_numbers": "IEKP-KA-2014-09; CERN-THESIS-2014-364"
+  },
+  {
+   "recid": "1859814",
+   "title": "Characterisation and Beam Test Data Analysis of 3D Silicon Pixel Detectors for the ATLAS Upgrade",
+   "date": "2014-08-01",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1311221",
+   "title": "Future Upgrade and Physics Perspectives of the ALICE TPC",
+   "date": "2014-08-15",
+   "arxiv": "1408.3484",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1333934",
+   "title": "The upgrade of the Inner Tracking System of ALICE",
+   "date": "2014-09-12",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1360098",
+   "title": "The upgrade of the ALICE Inner Tracking System - Status of the R&D on monolithic silicon pixel sensors",
+   "date": "2014-10-24",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1326638",
+   "title": "Upgrade of the ALICE Inner Tracking System",
+   "date": "2014-11-06",
+   "arxiv": "1411.1802",
+   "report_numbers": "POS(VERTEX2014)007; PoS(Vertex2014)007"
+  },
+  {
+   "recid": "1326318",
+   "title": "Design and characterization of novel monolithic pixel sensors for the ALICE ITS upgrade",
+   "date": "2014-11-21",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1333909",
+   "title": "Development of CMOS pixel sensors for the upgrade of the ALICE Inner Tracking System",
+   "date": "2014-12-10",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1380276",
+   "title": "Status of Fast Interaction Trigger for ALICE Upgrade",
+   "date": "2015",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1398309",
+   "title": "Associated Z+Higgs Boson Production in the Leptonic+Beauty Final State and the Upgrade of the Pixel Detector at CMS",
+   "date": "2015",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1415062",
+   "title": "Perspectives of the ALICE Experiment and Detector Upgrade",
+   "date": "2015",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1827445",
+   "title": "Study and development of a novel silicon pixel detector for the upgrade of the ALICE Inner Tracking System",
+   "date": "2015",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1384032",
+   "title": "The upgrade of the ALICE Inner Tracking System",
+   "date": "2015-01",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1351839",
+   "title": "Upgrade of the ALICE Inner Tracking System",
+   "date": "2015-03-09",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1351977",
+   "title": "Upgrade and physics perspective of ALICE at the LHC",
+   "date": "2015-03-10",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1614095",
+   "title": "Technical Design Report for the Upgrade of the Online-Offline Computing System",
+   "date": "2015-04-21",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2015-006; ALICE-TDR-019"
+  },
+  {
+   "recid": "1381286",
+   "title": "Energy Reconstruction and high-speed Data Transmission with FPGAs for the Upgrade of the ATLAS Liquid Argon Calorimeter at LHC",
+   "date": "2015-05-19",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2015-082"
+  },
+  {
+   "recid": "1617703",
+   "title": "Study on the Characteristics of a Silicon Pixel Chip for the ALICE-ITS Upgrade Project",
+   "date": "2015-06-30",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1632254",
+   "title": "Measurement of the Z boson pair-production cross section in proton-proton collisions at 7 and 8 TeV, and ECAL timing studies for the phase-2 upgrade of the CMS experiment",
+   "date": "2015-09-17",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2015-432"
+  },
+  {
+   "recid": "1824212",
+   "title": "Development of CMOS pixel sensors for the inner tracking system upgrade of the ALICE experiment",
+   "date": "2015-09-25",
+   "arxiv": "",
+   "report_numbers": "tel-01275027; 2015STRAE026"
+  },
+  {
+   "recid": "1623109",
+   "title": "The ALICE Inner Tracking System Upgrade",
+   "date": "2015-10-16",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1429449",
+   "title": "Study and Development of a novel Silicon Pixel Detector for the Upgrade of the ALICE Inner Tracking System",
+   "date": "2015-10-27",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2015-255"
+  },
+  {
+   "recid": "1503884",
+   "title": "Amplitude Analysis of $D^+ \\rightarrow K^- K^+ \\pi^+$ Decay with LHCb 2012 Data and RF-foil Simulations for the LHCb Upgrade",
+   "date": "2015-11-16",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2015-328"
+  },
+  {
+   "recid": "1413064",
+   "title": "Upgrade of the ALICE TPC FEE online radiation monitoring system",
+   "date": "2015-12-29",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1596411",
+   "title": "Search for Supersymmetric Top-Quark Partners Using Support Vector Machines and Upgrade of the Hadron Calorimeter Front-End Readout Control System at CMS",
+   "date": "2016",
+   "arxiv": "",
+   "report_numbers": "DESY-THESIS-2017-014"
+  },
+  {
+   "recid": "1762536",
+   "title": "Innovative low-mass cooling systems for the ALICE ITS Upgrade detector at CERN",
+   "date": "2016",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1485938",
+   "title": "The Hybrid Integrated Circuit of the ALICE Inner Tracking System upgrade",
+   "date": "2016-01",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1503845",
+   "title": "Production of the new pixel detector for the upgrade of the CMS experiment and study of anomalous couplings in the non-resonant Higgs bosons pair production in p-p collisions at $\\sqrt{s}$ = 13 TeV",
+   "date": "2016-01",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2016-052; CMS-TS-2016-008"
+  },
+  {
+   "recid": "1416546",
+   "title": "The ALICE high-level trigger read-out upgrade for LHC Run 2",
+   "date": "2016-01-19",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1503873",
+   "title": "Studies for the ALICE Inner Tracking System Upgrade",
+   "date": "2016-02-15",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2016-033; urn:nbn:de:bsz:16-heidok-206483"
+  },
+  {
+   "recid": "1462486",
+   "title": "Test Beam Measurements for the Upgrade of the CMS Pixel Detector and Measurement of the Top Quark Mass from Differential Cross Sections",
+   "date": "2016-04-22",
+   "arxiv": "",
+   "report_numbers": "DESY-THESIS-2016-010; CMS-TS-2016-010; CERN-THESIS-2016-059"
+  },
+  {
+   "recid": "1473823",
+   "title": "Upgrade of the ALICE Inner Tracking System",
+   "date": "2016-07-05",
+   "arxiv": "1607.01171",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1592067",
+   "title": "The ALICE C-RORC GBT card, a prototype readout solution for the ALICE upgrade",
+   "date": "2016-08-15",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1592079",
+   "title": "Design and test of a GBTx based board for the upgrade of the ALICE TOF readout electronics",
+   "date": "2016-08-15",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1596489",
+   "title": "The Fast Interaction Trigger Upgrade for ALICE",
+   "date": "2016-09-18",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1503524",
+   "title": "Demonstrator System for the Phase-I Trigger Readout Upgrade of the ATLAS Liquid Argon Calorimeter at the LHC",
+   "date": "2016-10-20",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2016-150"
+  },
+  {
+   "recid": "1491107",
+   "title": "Upgrade of the ALICE Inner Tracking System",
+   "date": "2016-12",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1505318",
+   "title": "The ALICE pixel detector upgrade",
+   "date": "2016-12-15",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1632262",
+   "title": "Development of the DAQ System of Triple-GEM Detectors for the CMS Muon Spectrometer Upgrade at LHC",
+   "date": "2016-12-19",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2016-215"
+  },
+  {
+   "recid": "1592298",
+   "title": "Studies for an upgrade of ALICE Inner Tracking System: Pixel chip characterization",
+   "date": "2017",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1628458",
+   "title": "Search for Supersymmetry with Multiple Charged Leptons at $\\sqrt{s}$ = 13 TeV with CMS and Radiation Tolerance of the Readout Chip for the Phase I Upgrade of the Pixel Detector",
+   "date": "2017",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1664763",
+   "title": "The ALICE ITS upgrade",
+   "date": "2017",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1727697",
+   "title": "Characterization of ALPIDE Monolithic Active Pixel Sensor for the ALICE Inner Tracking System Upgrade Using the PS Facility at CERN",
+   "date": "2017",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1624097",
+   "title": "Characterization of the Outer Barrel Modules for the upgrade of the ALICE Inner Tracking System",
+   "date": "2017-03",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1676499",
+   "title": "Search for heavy lepton resonances decaying to a Z Boson and a lepton in proton-proton at [radical]s = 8 TeV with the ATLAS detector and investigations of radiation tolerant silicon strip detectors fo",
+   "date": "2017-03-09",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1519284",
+   "title": "The Fast Interaction Trigger detector for the ALICE Upgrade",
+   "date": "2017-03-15",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1833790",
+   "title": "Search for Diboson Resonances with CMS and Pixel Barrel Detector Calibration and Upgrade",
+   "date": "2017-04",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1629874",
+   "title": "Design and Test of a GBTX-Based Board for the Upgrade of the ALICE TOF Readout Electronics",
+   "date": "2017-05-23",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1638009",
+   "title": "Development of the pixel module for the upgrade of the ALICE Inner Tracking System",
+   "date": "2017-07-13",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1610652",
+   "title": "Study of the d$E$/d$x$ resolution of a GEM Readout Chamber prototype for the upgrade of the ALICE TPC",
+   "date": "2017-07-18",
+   "arxiv": "1707.05779",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1651088",
+   "title": "The Upgrade of the PreProcessor of the ATLAS Level-1 Calorimeter Trigger for the LHC Run-2",
+   "date": "2017-07-27",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

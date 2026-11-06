@@ -1,0 +1,78 @@
+{
+ "queue_pos": 44,
+ "field": "astroparticle",
+ "baseline": {
+  "recid": "1123894",
+  "title": "IceTop: The surface component of IceCube",
+  "date": "2012-07",
+  "collaboration": "IceCube",
+  "journal": "Nucl.Instrum.Meth.A 700 188 (2013)",
+  "arxiv": "1207.6326"
+ },
+ "n_candidate_docs": 9,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "2004326",
+   "title": "The IceCube Neutrino Observatory: search for extended sources of neutrinos and preliminary study of a communication protocol for its future upgrade",
+   "date": "2017-06-27",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1686292",
+   "title": "The IceTop Scintillator Upgrade",
+   "date": "2017-07-05",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1750463",
+   "title": "The camera system for the IceCube Upgrade",
+   "date": "2019-08-21",
+   "arxiv": "1908.07734",
+   "report_numbers": "PoS-ICRC2019-928"
+  },
+  {
+   "recid": "1751349",
+   "title": "The Scintillator Upgrade of IceTop: Performance of the prototype array",
+   "date": "2019-08-26",
+   "arxiv": "1908.09860",
+   "report_numbers": "PoS-ICRC2019-309"
+  },
+  {
+   "recid": "1892877",
+   "title": "Camera Calibration for the IceCube Upgrade and Gen2",
+   "date": "2021-07-23",
+   "arxiv": "2107.12186",
+   "report_numbers": "PoS-ICRC2021-1064"
+  },
+  {
+   "recid": "2682851",
+   "title": "Operations plans and sensitivities of the IceCube Upgrade camera system",
+   "date": "2023-07-25",
+   "arxiv": "2308.07276",
+   "report_numbers": "PoS-ICRC2023-1037"
+  },
+  {
+   "recid": "2710827",
+   "title": "The Camera System for the IceCube Upgrade",
+   "date": "2023-09-01",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3103903",
+   "title": "The acoustic calibration system for the IceCube Upgrade",
+   "date": "2025-09-26",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3171379",
+   "title": "Noise characterization and performance evaluation of new optical sensors for the IceCube Upgrade",
+   "date": "2026-06-01",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

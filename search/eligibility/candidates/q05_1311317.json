@@ -1,0 +1,71 @@
+{
+ "queue_pos": 5,
+ "field": "grav_waves",
+ "baseline": {
+  "recid": "1311317",
+  "title": "Advanced Virgo: a second-generation interferometric gravitational wave detector",
+  "date": "2014-08-18",
+  "collaboration": "VIRGO",
+  "journal": "Class.Quant.Grav. 32 024001 (2015)",
+  "arxiv": "1408.3978"
+ },
+ "n_candidate_docs": 8,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1395659",
+   "title": "GEO 600 and the GEO-HF upgrade program: successes and challenges",
+   "date": "2015-10-01",
+   "arxiv": "1510.00317",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1601165",
+   "title": "PERLE. Powerful energy recovery linac for experiments. Conceptual design report",
+   "date": "2017-05-24",
+   "arxiv": "1705.08783",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2616376",
+   "title": "E-TEST prototype design report",
+   "date": "2022-12-20",
+   "arxiv": "2212.10083",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2969543",
+   "title": "Letter of Intent: AICE -- 100m Atom Interferometer Experiment at CERN",
+   "date": "2025-09-15",
+   "arxiv": "2509.11867",
+   "report_numbers": "CERN-LHCC-2025-008; LHCC-I-042"
+  },
+  {
+   "recid": "3132850",
+   "title": "Advanced Virgo Plus for O5 -- Design Report Overview",
+   "date": "2026-03-20",
+   "arxiv": "2603.20342",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3180480",
+   "title": "Evaluating KAGRA upgrade scenarios for multimessenger observations of binary neutron stars",
+   "date": "2026-07-14",
+   "arxiv": "2607.12769",
+   "report_numbers": "JGW-P2617414; RESCEU-20/26"
+  },
+  {
+   "recid": "3188277",
+   "title": "Quantum noise reduction schemes for KAGRA post-O5 upgrade",
+   "date": "2026-08-06",
+   "arxiv": "2608.06229",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3192703",
+   "title": "Technical Proposal for the Atom Interferometer CERN Experiment (AICE) Facility",
+   "date": "2026-08-19",
+   "arxiv": "2608.18743",
+   "report_numbers": "CERN-PBC-REPORT-2026-001"
+  }
+ ]
+}

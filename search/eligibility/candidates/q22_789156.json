@@ -1,0 +1,50 @@
+{
+ "queue_pos": 22,
+ "field": "nu_accel",
+ "baseline": {
+  "recid": "789156",
+  "title": "The MiniBooNE Detector",
+  "date": "2008-06",
+  "collaboration": "MiniBooNE",
+  "journal": "Nucl.Instrum.Meth.A 599 28 (2009)",
+  "arxiv": "0806.4201"
+ },
+ "n_candidate_docs": 5,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "833934",
+   "title": "A Letter of Intent to Build a MiniBooNE Near Detector: BooNE",
+   "date": "2009-10",
+   "arxiv": "0910.2698",
+   "report_numbers": "FERMILAB-LOI-2009-02"
+  },
+  {
+   "recid": "1189818",
+   "title": "Letter of Intent: A New Investigation of $\\nu_\\mu\\rightarrow\\nu_e$ Oscillations with Improved Sensitivity in an Enhanced MiniBooNE Experiment",
+   "date": "2012-10",
+   "arxiv": "1210.2296",
+   "report_numbers": "FERMILAB-LOI-1033; FERMILAB-PROPOSAL-1033"
+  },
+  {
+   "recid": "1501882",
+   "title": "Hyper-Kamiokande Design Report",
+   "date": "2016-02-07",
+   "arxiv": "",
+   "report_numbers": "KEK-PREPRINT-2016-21; ICRR-REPORT-701-2016-1"
+  },
+  {
+   "recid": "1672899",
+   "title": "Hyper-Kamiokande Design Report",
+   "date": "2018-05-09",
+   "arxiv": "1805.04163",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2766828",
+   "title": "Towards a complete understanding of neutrino-nucleus interactions with the T2K near detector upgrade",
+   "date": "2023-09-05",
+   "arxiv": "",
+   "report_numbers": "tel-04461663; 2023IPPAX059"
+  }
+ ]
+}

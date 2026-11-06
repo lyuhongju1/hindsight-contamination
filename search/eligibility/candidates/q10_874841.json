@@ -1,0 +1,29 @@
+{
+ "queue_pos": 10,
+ "field": "astroparticle",
+ "baseline": {
+  "recid": "874841",
+  "title": "The KASCADE-Grande experiment",
+  "date": "2010",
+  "collaboration": "",
+  "journal": "Nucl.Instrum.Meth.A 620 202 (2010)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 2,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1782502",
+   "title": "Determination of the chemical composition of cosmic rays in the energy region of 5 EeV with the AMIGA upgrade of the Pierre Auger Observatory",
+   "date": "2019",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1830247",
+   "title": "Design, upgrade and characterization of the silicon photomultiplier front-end for the AMIGA detector at the Pierre Auger Observatory",
+   "date": "2020-11-12",
+   "arxiv": "2011.06633",
+   "report_numbers": "FERMILAB-PUB-20-605-AD-E-TD"
+  }
+ ]
+}

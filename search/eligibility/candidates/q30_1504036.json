@@ -1,0 +1,344 @@
+{
+ "queue_pos": 30,
+ "field": "nu_natural",
+ "baseline": {
+  "recid": "1504036",
+  "title": "The IceCube Neutrino Observatory: Instrumentation and Online Systems",
+  "date": "2016-12-15",
+  "collaboration": "IceCube",
+  "journal": "JINST 12 P03012 (2017)",
+  "arxiv": "1612.05093"
+ },
+ "n_candidate_docs": 47,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "2004326",
+   "title": "The IceCube Neutrino Observatory: search for extended sources of neutrinos and preliminary study of a communication protocol for its future upgrade",
+   "date": "2017-06-27",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1686292",
+   "title": "The IceTop Scintillator Upgrade",
+   "date": "2017-07-05",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1734368",
+   "title": "The multi-PMT optical module for the IceCube-Upgrade",
+   "date": "2019",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1750463",
+   "title": "The camera system for the IceCube Upgrade",
+   "date": "2019-08-21",
+   "arxiv": "1908.07734",
+   "report_numbers": "PoS-ICRC2019-928"
+  },
+  {
+   "recid": "1750607",
+   "title": "Dark matter searches with the IceCube Upgrade",
+   "date": "2019-08-22",
+   "arxiv": "1908.08236",
+   "report_numbers": "PoS-ICRC2019-506"
+  },
+  {
+   "recid": "1750661",
+   "title": "Characterisation of Two PMT Models for the IceCube Upgrade mDOM",
+   "date": "2019-08-22",
+   "arxiv": "1908.08446",
+   "report_numbers": "PoS-ICRC2019-1022"
+  },
+  {
+   "recid": "1751107",
+   "title": "The IceCube Upgrade - Design and Science Goals",
+   "date": "2019-08-25",
+   "arxiv": "1908.09441",
+   "report_numbers": "PoS-ICRC2019-1031"
+  },
+  {
+   "recid": "1751085",
+   "title": "The POCAM as self-calibrating light source for the IceCube Upgrade",
+   "date": "2019-08-26",
+   "arxiv": "1908.09600",
+   "report_numbers": "PoS-ICRC2019-908"
+  },
+  {
+   "recid": "1751349",
+   "title": "The Scintillator Upgrade of IceTop: Performance of the prototype array",
+   "date": "2019-08-26",
+   "arxiv": "1908.09860",
+   "report_numbers": "PoS-ICRC2019-309"
+  },
+  {
+   "recid": "1751631",
+   "title": "A multi-PMT Optical Module for the IceCube Upgrade",
+   "date": "2019-08-28",
+   "arxiv": "1908.10802",
+   "report_numbers": "PoS-ICRC2019-855"
+  },
+  {
+   "recid": "1751630",
+   "title": "Calibration LEDs in the IceCube Upgrade D-Egg modules",
+   "date": "2019-08-29",
+   "arxiv": "1908.10780",
+   "report_numbers": "PoS-ICRC2019-923"
+  },
+  {
+   "recid": "1752782",
+   "title": "An Acoustic Calibration System for the IceCube Upgrade",
+   "date": "2019-09-04",
+   "arxiv": "1909.02047",
+   "report_numbers": "PoS-ICRC2019-1030"
+  },
+  {
+   "recid": "1765534",
+   "title": "Combined sensitivity to the neutrino mass ordering with JUNO, the IceCube Upgrade, and PINGU",
+   "date": "2019-11-15",
+   "arxiv": "1911.06745",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1774688",
+   "title": "Technical Proposal: FASERnu",
+   "date": "2020-01-09",
+   "arxiv": "2001.03073",
+   "report_numbers": "CERN-LHCC-2019-017; LHCC-P-015; UCI-TR-2019-25"
+  },
+  {
+   "recid": "1801363",
+   "title": "Neutrino oscillations and PMNS unitarity with IceCube/DeepCore and the IceCube Upgrade",
+   "date": "2020-03-31",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2835820",
+   "title": "Improvements in Simulation Based Reconstruction for Neutrino Telescopes",
+   "date": "2021-05-20",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1889589",
+   "title": "Design of an Efficient, High-Throughput Photomultiplier Tube Testing Facility for the IceCube Upgrade",
+   "date": "2021-07-21",
+   "arxiv": "2107.09954",
+   "report_numbers": "PoS-ICRC2021-1056"
+  },
+  {
+   "recid": "1889621",
+   "title": "The Wavelength-shifting Optical Module (WOM) for the IceCube Upgrade",
+   "date": "2021-07-21",
+   "arxiv": "2107.10194",
+   "report_numbers": "PoS-ICRC2021-1038"
+  },
+  {
+   "recid": "1892614",
+   "title": "Design and performance of the multi-PMT optical module for IceCube Upgrade",
+   "date": "2021-07-23",
+   "arxiv": "2107.11383",
+   "report_numbers": "PoS-ICRC2021-1070"
+  },
+  {
+   "recid": "1892877",
+   "title": "Camera Calibration for the IceCube Upgrade and Gen2",
+   "date": "2021-07-23",
+   "arxiv": "2107.12186",
+   "report_numbers": "PoS-ICRC2021-1064"
+  },
+  {
+   "recid": "1901940",
+   "title": "Advances in IceCube ice modelling & what to expect from the Upgrade",
+   "date": "2021-08-06",
+   "arxiv": "2108.03291",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1904155",
+   "title": "The Acoustic Module for the IceCube Upgrade",
+   "date": "2021-08-12",
+   "arxiv": "2108.05631",
+   "report_numbers": "PoS-ICRC2021-1059"
+  },
+  {
+   "recid": "2682825",
+   "title": "Sensitivity of the IceCube Upgrade to Atmospheric Neutrino Oscillations",
+   "date": "2023-07-25",
+   "arxiv": "2307.15295",
+   "report_numbers": "PoS-ICRC2023-1036"
+  },
+  {
+   "recid": "2682851",
+   "title": "Operations plans and sensitivities of the IceCube Upgrade camera system",
+   "date": "2023-07-25",
+   "arxiv": "2308.07276",
+   "report_numbers": "PoS-ICRC2023-1037"
+  },
+  {
+   "recid": "2682893",
+   "title": "Detailed investigations of PMTs in optical sensors for neutrino telescopes such as IceCube Upgrade",
+   "date": "2023-07-25",
+   "arxiv": "2307.15091",
+   "report_numbers": "PoS-ICRC2023-984"
+  },
+  {
+   "recid": "2683068",
+   "title": "A new simulation framework for IceCube Upgrade calibration using IceCube Upgrade Camera system",
+   "date": "2023-07-25",
+   "arxiv": "2308.06247",
+   "report_numbers": "PoS-ICRC2023-1071"
+  },
+  {
+   "recid": "2683384",
+   "title": "D-Egg: a Dual PMT Optical Module for the IceCube Upgrade",
+   "date": "2023-07-25",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2683941",
+   "title": "Characterization and testing of the IceCube Upgrade mDOM",
+   "date": "2023-07-25",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2710827",
+   "title": "The Camera System for the IceCube Upgrade",
+   "date": "2023-09-01",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2782255",
+   "title": "Acceptance Tests of more than 10 000 Photomultiplier Tubes for the multi-PMT Digital Optical Modules of the IceCube Upgrade",
+   "date": "2024-04-30",
+   "arxiv": "2404.19589",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2867300",
+   "title": "The IceCube Upgrade: status and prospects for advances with GeV neutrinos",
+   "date": "2024-12-17",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2867850",
+   "title": "Resolution Limiting Factors in Low-Energy Cascade Zenith Angle Reconstruction with the IceCube Upgrade",
+   "date": "2025-01-09",
+   "arxiv": "2501.06257",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2944106",
+   "title": "Impact of Hole-ice Calibration on High Energy Event Reconstruction with the IceCube Upgrade",
+   "date": "2025-07-09",
+   "arxiv": "2507.07062",
+   "report_numbers": "PoS-ICRC2025-1029"
+  },
+  {
+   "recid": "2945000",
+   "title": "A co-deployed dust-logging instrument for the IceCube Upgrade and IceCube-Gen2",
+   "date": "2025-07-11",
+   "arxiv": "2507.08430",
+   "report_numbers": "PoS-ICRC2025-1034"
+  },
+  {
+   "recid": "2952352",
+   "title": "Prospective Sensitivity to Solar Dark Matter using the IceCube Upgrade",
+   "date": "2025-07-20",
+   "arxiv": "2507.14943",
+   "report_numbers": "PoS-ICRC2025-486"
+  },
+  {
+   "recid": "2954318",
+   "title": "Performance Study of the IceCube Upgrade Camera System",
+   "date": "2025-07-24",
+   "arxiv": "2507.18525",
+   "report_numbers": "PoS-ICRC2025-1069"
+  },
+  {
+   "recid": "2958132",
+   "title": "The LED calibration systems for the mDOM and D-Egg sensor modules of the IceCube Upgrade: Design, production, testing and use in module calibration",
+   "date": "2025-08-05",
+   "arxiv": "2508.03822",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2970027",
+   "title": "Physics potential of the IceCube Upgrade for atmospheric neutrino oscillations",
+   "date": "2025-09-16",
+   "arxiv": "2509.13066",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3067024",
+   "title": "Prospective Sensitity to WIMP Dark Matter with the IceCube Upgrade",
+   "date": "2025-09-24",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3067256",
+   "title": "Dark matter searches in the Galactic Center with IceCube-DeepCore and IceCube-Upgrade",
+   "date": "2025-09-24",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3103903",
+   "title": "The acoustic calibration system for the IceCube Upgrade",
+   "date": "2025-09-26",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3075256",
+   "title": "The forward physics facility: Physics opportunities and conceptual design",
+   "date": "2025-10-30",
+   "arxiv": "2510.26260",
+   "report_numbers": "CERN-PBC-Notes-2025-010"
+  },
+  {
+   "recid": "3152715",
+   "title": "Sensitivity Projections for Low-Mass Dark Matter Annihilation with the IceCube Upgrade",
+   "date": "2026-05-07",
+   "arxiv": "2605.06600",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3171379",
+   "title": "Noise characterization and performance evaluation of new optical sensors for the IceCube Upgrade",
+   "date": "2026-06-01",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3188578",
+   "title": "Estimating the sensitivity of the IceCube Upgrade to probe the interior of the Earth using atmospheric neutrino oscillations",
+   "date": "2026-08-06",
+   "arxiv": "2608.06543",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3197524",
+   "title": "Astrophysical Sensitivity Projections for the IceCube Upgrade",
+   "date": "2026-08-28",
+   "arxiv": "2608.28395",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3205690",
+   "title": "IceCube Upgrade status and perspectives",
+   "date": "2026-09-21",
+   "arxiv": "2609.24387",
+   "report_numbers": ""
+  }
+ ]
+}

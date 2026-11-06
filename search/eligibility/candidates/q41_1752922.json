@@ -1,0 +1,29 @@
+{
+ "queue_pos": 41,
+ "field": "double_beta",
+ "baseline": {
+  "recid": "1752922",
+  "title": "The CUPID-Mo experiment for neutrinoless double-beta decay: performance and prospects",
+  "date": "2019-09-06",
+  "collaboration": "",
+  "journal": "Eur.Phys.J.C 80 44 (2020)",
+  "arxiv": "1909.02994"
+ },
+ "n_candidate_docs": 2,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1792256",
+   "title": "CUPID: CUORE Upgrade with Particle IDentification",
+   "date": "2020-03-21",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2897083",
+   "title": "CUPID, the Cuore upgrade with particle identification",
+   "date": "2025-03-01",
+   "arxiv": "2503.02894",
+   "report_numbers": ""
+  }
+ ]
+}

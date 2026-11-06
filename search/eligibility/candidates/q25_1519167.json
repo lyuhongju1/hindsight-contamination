@@ -1,0 +1,71 @@
+{
+ "queue_pos": 25,
+ "field": "collider",
+ "baseline": {
+  "recid": "1519167",
+  "title": "The Beam and detector of the NA62 experiment at CERN",
+  "date": "2017-03-24",
+  "collaboration": "NA62",
+  "journal": "JINST 12 P05025 (2017)",
+  "arxiv": "1703.08501"
+ },
+ "n_candidate_docs": 8,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1766126",
+   "title": "Investigation of performance and the influence of environmental conditions on strip detectors for the ATLAS Inner Tracker Upgrade",
+   "date": "2019-07",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1803476",
+   "title": "Prototyping of the trigger-matching software for the NA62 data acquisition upgrade",
+   "date": "2020-06-23",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2020914",
+   "title": "Considerations for the VELO detector at the LHCb Upgrade II",
+   "date": "2022",
+   "arxiv": "",
+   "report_numbers": "LHCb-PUB-2022-001; CERN-LHCb-PUB-2022-001"
+  },
+  {
+   "recid": "2605876",
+   "title": "HIKE, High Intensity Kaon Experiments at the CERN SPS",
+   "date": "2022-11-29",
+   "arxiv": "2211.16586",
+   "report_numbers": "CERN-SPSC-2022-031; SPSC-I-257"
+  },
+  {
+   "recid": "2864103",
+   "title": "Upgrade of the ATLAS tracking detector and measurement of the Higgs boson production cross-section at 13.6 TeV",
+   "date": "2024",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2024-270"
+  },
+  {
+   "recid": "2922157",
+   "title": "Upgrade of the ATLAS tracking detector and measurement of the Higgs boson production cross section ad 13.6 TeV",
+   "date": "2024",
+   "arxiv": "",
+   "report_numbers": "tel-05065747; 2024UNIP7135"
+  },
+  {
+   "recid": "2781036",
+   "title": "Technical Design Report of the Spin Physics Detector at NICA",
+   "date": "2024-04-12",
+   "arxiv": "2404.08317",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2970787",
+   "title": "Kaon Identification Upgrade and Search for the Dark Photon Production in the $\\pi^0 \\to \\gamma A'$ Decay, at NA62",
+   "date": "2025-07-23",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

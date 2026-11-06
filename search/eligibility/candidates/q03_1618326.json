@@ -1,0 +1,29 @@
+{
+ "queue_pos": 3,
+ "field": "dark_matter",
+ "baseline": {
+  "recid": "1618326",
+  "title": "The XENON1T Dark Matter Experiment",
+  "date": "2017-08-23",
+  "collaboration": "XENON",
+  "journal": "Eur.Phys.J.C 77 881 (2017)",
+  "arxiv": "1708.07051"
+ },
+ "n_candidate_docs": 2,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1675260",
+   "title": "nEXO Pre-Conceptual Design Report",
+   "date": "2018-05-28",
+   "arxiv": "1805.11142",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1864594",
+   "title": "Dark matter search: the Neutron Veto in the XENONnT Detector Upgrade",
+   "date": "2020-10-12",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

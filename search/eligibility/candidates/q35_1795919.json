@@ -1,0 +1,22 @@
+{
+ "queue_pos": 35,
+ "field": "grav_waves",
+ "baseline": {
+  "recid": "1795919",
+  "title": "Overview of KAGRA: Detector design and construction history",
+  "date": "2020-05-12",
+  "collaboration": "KAGRA",
+  "journal": "PTEP 2021 05A101 (2021)",
+  "arxiv": "2005.05574"
+ },
+ "n_candidate_docs": 1,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "3180480",
+   "title": "Evaluating KAGRA upgrade scenarios for multimessenger observations of binary neutron stars",
+   "date": "2026-07-14",
+   "arxiv": "2607.12769",
+   "report_numbers": "JGW-P2617414; RESCEU-20/26"
+  }
+ ]
+}

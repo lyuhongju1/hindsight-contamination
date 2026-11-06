@@ -1,0 +1,22 @@
+{
+ "queue_pos": 66,
+ "field": "collider",
+ "baseline": {
+  "recid": "747550",
+  "title": "The HARP detector at the CERN PS",
+  "date": "2007-02",
+  "collaboration": "HARP",
+  "journal": "Nucl.Instrum.Meth.A 571 527 (2007)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 1,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1598703",
+   "title": "Sensitivity and Background Estimates for Phase-II of the COMET Experiment",
+   "date": "2016-09",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

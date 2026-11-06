@@ -1,0 +1,29 @@
+{
+ "queue_pos": 56,
+ "field": "nu_accel",
+ "baseline": {
+  "recid": "1384774",
+  "title": "The NuMI Neutrino Beam",
+  "date": "2015-07-23",
+  "collaboration": "",
+  "journal": "Nucl.Instrum.Meth.A 806 279 (2016)",
+  "arxiv": "1507.06690"
+ },
+ "n_candidate_docs": 2,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1779524",
+   "title": "Deep Underground Neutrino Experiment (DUNE), Far Detector Technical Design Report, Volume I Introduction to DUNE",
+   "date": "2020-02-07",
+   "arxiv": "2002.02967",
+   "report_numbers": "FERMILAB-PUB-20-024-ND; FERMILAB-DESIGN-2020-01"
+  },
+  {
+   "recid": "2628199",
+   "title": "Upgrade of the Near Detector ND280 and its expected impact on the T2K sensitivity and on the study of neutrino-nucleus interactions",
+   "date": "2022-09-27",
+   "arxiv": "",
+   "report_numbers": "tel-03935726; 2022SORUS348"
+  }
+ ]
+}

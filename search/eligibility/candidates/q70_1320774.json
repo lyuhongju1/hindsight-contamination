@@ -1,0 +1,85 @@
+{
+ "queue_pos": 70,
+ "field": "collider",
+ "baseline": {
+  "recid": "1320774",
+  "title": "The COMPASS Setup for Physics with Hadron Beams",
+  "date": "2014-10-07",
+  "collaboration": "COMPASS",
+  "journal": "Nucl.Instrum.Meth.A 779 69 (2015)",
+  "arxiv": "1410.1797"
+ },
+ "n_candidate_docs": 10,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1637993",
+   "title": "The MPGD-based Photon Detectors for the Upgrade of COMPASS RICH-1",
+   "date": "2016-10",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1498892",
+   "title": "Hybrid MPGD-based detectors of single photons for the upgrade of COMPASS RICH-1",
+   "date": "2016-10-06",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1755819",
+   "title": "Upgrade of the COMPASS calorimetric trigger and determination of the charged-pion polarizability",
+   "date": "2017",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1611225",
+   "title": "MPGD-based photon detector upgrade for COMPASS RICH",
+   "date": "2017-07-17",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1642893",
+   "title": "The MPGD-based photon detectors for the upgrade of COMPASS RICH-1",
+   "date": "2017-12-21",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1667846",
+   "title": "The novel photon detectors based on MPGD technologies for the upgrade of COMPASS RICH-1",
+   "date": "2018-04-13",
+   "arxiv": "1804.05765",
+   "report_numbers": "AIDA-2020-CONF-2018-008\n"
+  },
+  {
+   "recid": "1680721",
+   "title": "The MPGD-Based Photon Detectors for the upgrade of COMPASS RICH-1 and beyond",
+   "date": "2018-07-02",
+   "arxiv": "1807.00816",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1684784",
+   "title": "Letter of Intent: A New QCD facility at the M2 beam line of the CERN SPS (COMPASS++/AMBER)",
+   "date": "2018-08-02",
+   "arxiv": "1808.00848",
+   "report_numbers": "CERN-SPSC-2019-003; SPSC-I-250"
+  },
+  {
+   "recid": "1746136",
+   "title": "The MPGD-Based Photon Detectors for the upgrade of COMPASS RICH-1",
+   "date": "2019-07-20",
+   "arxiv": "1907.10482",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1801942",
+   "title": "MPGD-based photon detectors for the upgrade of COMPASS RICH-1 and beyond",
+   "date": "2020-06-18",
+   "arxiv": "2006.10447",
+   "report_numbers": ""
+  }
+ ]
+}

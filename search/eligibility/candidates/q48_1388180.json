@@ -1,0 +1,29 @@
+{
+ "queue_pos": 48,
+ "field": "nu_accel",
+ "baseline": {
+  "recid": "1388180",
+  "title": "The Detector System of The Daya Bay Reactor Neutrino Experiment",
+  "date": "2015-08-17",
+  "collaboration": "Daya Bay",
+  "journal": "Nucl.Instrum.Meth.A 811 133 (2016)",
+  "arxiv": "1508.03943"
+ },
+ "n_candidate_docs": 2,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1799546",
+   "title": "TAO Conceptual Design Report: A Precision Measurement of the Reactor Antineutrino Spectrum with Sub-percent Energy Resolution",
+   "date": "2020-05-18",
+   "arxiv": "2005.08745",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2646631",
+   "title": "STCF conceptual design report (Volume 1): Physics & detector",
+   "date": "2023-03-28",
+   "arxiv": "2303.15790",
+   "report_numbers": ""
+  }
+ ]
+}

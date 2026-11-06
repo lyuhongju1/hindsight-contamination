@@ -1,0 +1,211 @@
+{
+ "queue_pos": 61,
+ "field": "collider",
+ "baseline": {
+  "recid": "747655",
+  "title": "The COMPASS experiment at CERN",
+  "date": "2007-01",
+  "collaboration": "COMPASS",
+  "journal": "Nucl.Instrum.Meth.A 577 455 (2007)",
+  "arxiv": "hep-ex/0703049"
+ },
+ "n_candidate_docs": 28,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "807926",
+   "title": "The characterisation of the multianode photomultiplier tubes for the RICH-1 upgrade project at COMPASS",
+   "date": "2008",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "807972",
+   "title": "The COMPASS RICH-1 detector upgrade",
+   "date": "2008",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1223670",
+   "title": "Upgrade of the COMPASS calorimetric trigger",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1448398",
+   "title": "Upgrade of the ALICE Time Projection Chamber",
+   "date": "2014-03-03",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2013-020; ALICE-TDR-016"
+  },
+  {
+   "recid": "1291852",
+   "title": "Ion backflow studies for the ALICE TPC upgrade with GEMs",
+   "date": "2014-04-17",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1341090",
+   "title": "An Upgrade Proposal from the PHENIX Collaboration",
+   "date": "2015-01-25",
+   "arxiv": "1501.06197",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1614098",
+   "title": "CMS Technical Design Report for the Muon Endcap GEM Upgrade",
+   "date": "2015-06-03",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2015-012; CMS-TDR-013"
+  },
+  {
+   "recid": "1632264",
+   "title": "Study of Triple-GEM detectors for the CMS muon spectrometer upgrade at LHC and study of the forward-backward charge asymmetry for the search of extra neutral gauge bosons",
+   "date": "2016-04-27",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2016-341"
+  },
+  {
+   "recid": "1637993",
+   "title": "The MPGD-based Photon Detectors for the Upgrade of COMPASS RICH-1",
+   "date": "2016-10",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1498892",
+   "title": "Hybrid MPGD-based detectors of single photons for the upgrade of COMPASS RICH-1",
+   "date": "2016-10-06",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1755819",
+   "title": "Upgrade of the COMPASS calorimetric trigger and determination of the charged-pion polarizability",
+   "date": "2017",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1611225",
+   "title": "MPGD-based photon detector upgrade for COMPASS RICH",
+   "date": "2017-07-17",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1816103",
+   "title": "The Phase-2 Upgrade of the CMS Muon Detectors",
+   "date": "2017-09-12",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2017-012; CMS-TDR-016"
+  },
+  {
+   "recid": "1642893",
+   "title": "The MPGD-based photon detectors for the upgrade of COMPASS RICH-1",
+   "date": "2017-12-21",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1700053",
+   "title": "The novel photon detectors based on MPGD technologies for COMPASS RICH-1 upgrade",
+   "date": "2018-01",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1667846",
+   "title": "The novel photon detectors based on MPGD technologies for the upgrade of COMPASS RICH-1",
+   "date": "2018-04-13",
+   "arxiv": "1804.05765",
+   "report_numbers": "AIDA-2020-CONF-2018-008\n"
+  },
+  {
+   "recid": "1680721",
+   "title": "The MPGD-Based Photon Detectors for the upgrade of COMPASS RICH-1 and beyond",
+   "date": "2018-07-02",
+   "arxiv": "1807.00816",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1684784",
+   "title": "Letter of Intent: A New QCD facility at the M2 beam line of the CERN SPS (COMPASS++/AMBER)",
+   "date": "2018-08-02",
+   "arxiv": "1808.00848",
+   "report_numbers": "CERN-SPSC-2019-003; SPSC-I-250"
+  },
+  {
+   "recid": "1763924",
+   "title": "Micropattern Gas Detectors for the CMS Experiment’s Muon System Upgrade: Performance Studies and Commissioning of the first GEM Detectors",
+   "date": "2019",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1830314",
+   "title": "New pixel-detector technologies for the ATLAS ITk upgrade and the CLIC vertex detector",
+   "date": "2019",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1766126",
+   "title": "Investigation of performance and the influence of environmental conditions on strip detectors for the ATLAS Inner Tracker Upgrade",
+   "date": "2019-07",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1746136",
+   "title": "The MPGD-Based Photon Detectors for the upgrade of COMPASS RICH-1",
+   "date": "2019-07-20",
+   "arxiv": "1907.10482",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1830306",
+   "title": "High-Voltage CMOS Pixel Detectors for the ATLAS ITk Upgrade",
+   "date": "2020",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1801572",
+   "title": "CMS phase-II upgrade with GEM detector",
+   "date": "2020-06-12",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1801942",
+   "title": "MPGD-based photon detectors for the upgrade of COMPASS RICH-1 and beyond",
+   "date": "2020-06-18",
+   "arxiv": "2006.10447",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2864103",
+   "title": "Upgrade of the ATLAS tracking detector and measurement of the Higgs boson production cross-section at 13.6 TeV",
+   "date": "2024",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2024-270"
+  },
+  {
+   "recid": "2922157",
+   "title": "Upgrade of the ATLAS tracking detector and measurement of the Higgs boson production cross section ad 13.6 TeV",
+   "date": "2024",
+   "arxiv": "",
+   "report_numbers": "tel-05065747; 2024UNIP7135"
+  },
+  {
+   "recid": "2781036",
+   "title": "Technical Design Report of the Spin Physics Detector at NICA",
+   "date": "2024-04-12",
+   "arxiv": "2404.08317",
+   "report_numbers": ""
+  }
+ ]
+}

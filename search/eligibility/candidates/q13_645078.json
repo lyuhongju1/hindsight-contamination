@@ -1,0 +1,22 @@
+{
+ "queue_pos": 13,
+ "field": "double_beta",
+ "baseline": {
+  "recid": "645078",
+  "title": "Technical design and performance of the NEMO 3 detector",
+  "date": "2004-02",
+  "collaboration": "",
+  "journal": "Nucl.Instrum.Meth.A 536 79 (2005)",
+  "arxiv": "physics/0402115"
+ },
+ "n_candidate_docs": 1,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "649344",
+   "title": "A New $Ge^{76}$ Double Beta Decay Experiment at LNGS: Letter of Intent",
+   "date": "2004-03",
+   "arxiv": "hep-ex/0404039",
+   "report_numbers": ""
+  }
+ ]
+}

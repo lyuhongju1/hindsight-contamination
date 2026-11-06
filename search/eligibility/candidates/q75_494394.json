@@ -1,0 +1,36 @@
+{
+ "queue_pos": 75,
+ "field": "collider",
+ "baseline": {
+  "recid": "494394",
+  "title": "The NA49 large acceptance hadron detector",
+  "date": "1999-01",
+  "collaboration": "NA49",
+  "journal": "Nucl.Instrum.Meth.A 430 210 (1999)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 3,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1614066",
+   "title": "ALICE transition-radiation detector",
+   "date": "2001",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2001-021; ALICE-TDR-9; LYCEN-2001-97; ALICE-TDR-9; CERN-LHCC-2001-021; LYCEN-2001-97"
+  },
+  {
+   "recid": "857075",
+   "title": "Letter of Intent: An International Muon Ionization Cooling Experiment (MICE)",
+   "date": "2001-11",
+   "arxiv": "",
+   "report_numbers": "MICE-NOTE-1"
+  },
+  {
+   "recid": "1841917",
+   "title": "Upgrade of the NA61/SHINE Detector",
+   "date": "2020-10-04",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

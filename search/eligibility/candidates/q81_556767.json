@@ -1,0 +1,225 @@
+{
+ "queue_pos": 81,
+ "field": "collider",
+ "baseline": {
+  "recid": "556767",
+  "title": "The BaBar detector",
+  "date": "2001-04",
+  "collaboration": "BaBar",
+  "journal": "Nucl.Instrum.Meth.A 479 1 (2002)",
+  "arxiv": "hep-ex/0105044"
+ },
+ "n_candidate_docs": 30,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "596052",
+   "title": "BABAR level 1 drift chamber trigger upgrade",
+   "date": "2002-09",
+   "arxiv": "hep-ex/0209063",
+   "report_numbers": "SLAC-PUB-9546; PIC-2002-THAP09"
+  },
+  {
+   "recid": "620001",
+   "title": "The BABAR event building and level 3 trigger farm upgrade",
+   "date": "2003-05",
+   "arxiv": "physics/0305136",
+   "report_numbers": "SLAC-PUB-9666; CHEP-2003-MOGT003"
+  },
+  {
+   "recid": "646576",
+   "title": "Rapid 3D track reconstruction with the BABAR trigger upgrade",
+   "date": "2004-02",
+   "arxiv": "",
+   "report_numbers": "SLAC-PUB-10460"
+  },
+  {
+   "recid": "652202",
+   "title": "Rapid 3D track reconstruction with the BABAR trigger upgrade",
+   "date": "2004-05",
+   "arxiv": "",
+   "report_numbers": "SLAC-PUB-10461"
+  },
+  {
+   "recid": "652834",
+   "title": "BaBar forward endcap upgrade",
+   "date": "2004-06",
+   "arxiv": "",
+   "report_numbers": "SLAC-PUB-10477"
+  },
+  {
+   "recid": "657150",
+   "title": "Gas system upgrade for the BaBar IFR detector at SLAC",
+   "date": "2004-07",
+   "arxiv": "",
+   "report_numbers": "SLAC-PUB-10471"
+  },
+  {
+   "recid": "695446",
+   "title": "The BaBar level 1 drift-chamber trigger upgrade with 3D tracking",
+   "date": "2005",
+   "arxiv": "",
+   "report_numbers": "SLAC-REPRINT-2005-143"
+  },
+  {
+   "recid": "724185",
+   "title": "The BaBar muon system upgrade.",
+   "date": "2005",
+   "arxiv": "physics/0609039",
+   "report_numbers": "SLAC-PUB-12080; BABAR-TALK-06-156"
+  },
+  {
+   "recid": "1218211",
+   "title": "GRID technologies in monte carlo production, level-1 driftchamber trigger upgrade and the search for lepton flavour violoation in $e^+e^- \\to \\mu,\\tau$ at BaBar",
+   "date": "2005",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "701711",
+   "title": "The BaBar gas bubbler upgrade and evaluation",
+   "date": "2005-08",
+   "arxiv": "",
+   "report_numbers": "SLAC-TN-05-054"
+  },
+  {
+   "recid": "708020",
+   "title": "Hardware Testing of the BaBar Drift Chamber Electronics Upgrade",
+   "date": "2006-01-04",
+   "arxiv": "",
+   "report_numbers": "SLAC-TN-05-072"
+  },
+  {
+   "recid": "751067",
+   "title": "SuperB: A High-Luminosity Asymmetric e+ e- Super Flavor Factory. Conceptual Design Report",
+   "date": "2007-05-18",
+   "arxiv": "0709.0451",
+   "report_numbers": "SLAC-R-856; INFN-AE-07-02; LAL-07-15; INFN-AE-07-2"
+  },
+  {
+   "recid": "798792",
+   "title": "Technical Design Report for PANDA Electromagnetic Calorimeter (EMC)",
+   "date": "2008-10",
+   "arxiv": "0810.1216",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1084797",
+   "title": "The LHCb upgrade",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1391030",
+   "title": "The LHCb Upgrade",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": "LHCb-PROC-2011-062; CERN-LHCb-PROC-2011-062"
+  },
+  {
+   "recid": "1391029",
+   "title": "Letter of Intent for the LHCb Upgrade",
+   "date": "2011-03-29",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2011-001"
+  },
+  {
+   "recid": "1204789",
+   "title": "Mu2e Conceptual Design Report",
+   "date": "2012-11",
+   "arxiv": "1211.7019",
+   "report_numbers": "FERMILAB-TM-2545; FERMILAB-DESIGN-2012-03"
+  },
+  {
+   "recid": "1313308",
+   "title": "The LHCb Upgrade",
+   "date": "2012-12",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1223386",
+   "title": "Technical design report for the PANDA (AntiProton Annihilations at Darmstadt) Straw Tube Tracker",
+   "date": "2013",
+   "arxiv": "1205.5441",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1239651",
+   "title": "SuperB Technical Design Report",
+   "date": "2013-06-24",
+   "arxiv": "1306.5655",
+   "report_numbers": "INFN-13-01-PI; LAL-13-01; SLAC-R-1003"
+  },
+  {
+   "recid": "1297302",
+   "title": "Research and Development activities at INFN Pisa on a new drift chamber for the MEG experiment upgrade",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1459141",
+   "title": "Upgrade to the front-end electronics of the BESIII muon identification system",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1684416",
+   "title": "Study of double charm B decays with the LHCb experiment at CERN and track reconstruction for the LHCb upgrade",
+   "date": "2017-09-27",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2017-254"
+  },
+  {
+   "recid": "1706097",
+   "title": "Study of Double Charm B Decays with the LHCb Experiment at CERN and Track Reconstruction for the LHCb Upgrade",
+   "date": "2018",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1701915",
+   "title": "Belle II Experiment: Status and Upgrade",
+   "date": "2018-11-02",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1705023",
+   "title": "CEPC Conceptual Design Report: Volume 2 - Physics & Detector",
+   "date": "2018-11-23",
+   "arxiv": "1811.10545",
+   "report_numbers": "IHEP-CEPC-DR-2018-02; IHEP-EP-2018-01; IHEP-TH-2018-01"
+  },
+  {
+   "recid": "1715000",
+   "title": "Evidence for an $\\eta_c$(1S)$\\pi^-$ exotic resonance at LHCb and development of the Experiment Control System for the RICH upgrade",
+   "date": "2018-12",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2018-243"
+  },
+  {
+   "recid": "1826128",
+   "title": "Angular analysis of $B^0 \\to K^{*0} e^+e^-$ decays with the LHCb detector and upgrade of calorimeter electronics",
+   "date": "2020-07-22",
+   "arxiv": "",
+   "report_numbers": "tel-02967612; 2020UPASS126"
+  },
+  {
+   "recid": "2646631",
+   "title": "STCF conceptual design report (Volume 1): Physics & detector",
+   "date": "2023-03-28",
+   "arxiv": "2303.15790",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2898516",
+   "title": "R&D of KLM Upgrade for Direct Measurement of Neutral Hadron Momentum via Time-of-Flight in Belle II",
+   "date": "2025-03-08",
+   "arxiv": "2503.06128",
+   "report_numbers": ""
+  }
+ ]
+}

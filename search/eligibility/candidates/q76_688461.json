@@ -1,0 +1,57 @@
+{
+ "queue_pos": 76,
+ "field": "collider",
+ "baseline": {
+  "recid": "688461",
+  "title": "The Upgraded D0 Detector",
+  "date": "2005-07",
+  "collaboration": "D0",
+  "journal": "Nucl.Instrum.Meth.A 565 463 (2006)",
+  "arxiv": "physics/0507191"
+ },
+ "n_candidate_docs": 6,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "863543",
+   "title": "P-986 Letter of Intent: Medium-Energy Antiproton Physics at Fermilab",
+   "date": "2009-02-05",
+   "arxiv": "",
+   "report_numbers": "FERMILAB-LOI-0986"
+  },
+  {
+   "recid": "844788",
+   "title": "Di-$J/\\psi$ Studies, Level 3 Tracking and the D0 Run IIb Upgrade",
+   "date": "2009-10",
+   "arxiv": "",
+   "report_numbers": "FERMILAB-THESIS-2009-53"
+  },
+  {
+   "recid": "1223386",
+   "title": "Technical design report for the PANDA (AntiProton Annihilations at Darmstadt) Straw Tube Tracker",
+   "date": "2013",
+   "arxiv": "1205.5441",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1381411",
+   "title": "Development and operation of tracking detectors in silicon technology for the LHCb upgrade",
+   "date": "2013-12-23",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2013-373"
+  },
+  {
+   "recid": "1500630",
+   "title": "sPHENIX preConceptual Design Report",
+   "date": "2015-10-27",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1715000",
+   "title": "Evidence for an $\\eta_c$(1S)$\\pi^-$ exotic resonance at LHCb and development of the Experiment Control System for the RICH upgrade",
+   "date": "2018-12",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2018-243"
+  }
+ ]
+}

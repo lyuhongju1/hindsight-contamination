@@ -1,0 +1,141 @@
+{
+ "queue_pos": 23,
+ "field": "nu_natural",
+ "baseline": {
+  "recid": "607144",
+  "title": "The Super-Kamiokande detector",
+  "date": "2002-01",
+  "collaboration": "Super-Kamiokande",
+  "journal": "Nucl.Instrum.Meth.A 501 418 (2003)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 18,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "649344",
+   "title": "A New $Ge^{76}$ Double Beta Decay Experiment at LNGS: Letter of Intent",
+   "date": "2004-03",
+   "arxiv": "hep-ex/0404039",
+   "report_numbers": ""
+  },
+  {
+   "recid": "927502",
+   "title": "Letter of Intent: The Hyper-Kamiokande Experiment --- Detector Design and Physics Potential ---",
+   "date": "2011-09",
+   "arxiv": "1109.3262",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1108046",
+   "title": "The Long Baseline Neutrino Experiment (LBNE) Water Cherenkov Detector (WCD) Conceptual Design Report (CDR)",
+   "date": "2012-04",
+   "arxiv": "1204.2295",
+   "report_numbers": "FERMILAB-PUB-12-0947-PPD"
+  },
+  {
+   "recid": "1320073",
+   "title": "EURECA Conceptual Design Report",
+   "date": "2014-10-02",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1333398",
+   "title": "Letter of Intent to Construct a nuPRISM Detector in the J-PARC Neutrino Beamline",
+   "date": "2014-12-09",
+   "arxiv": "1412.3086",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1501882",
+   "title": "Hyper-Kamiokande Design Report",
+   "date": "2016-02-07",
+   "arxiv": "",
+   "report_numbers": "KEK-PREPRINT-2016-21; ICRR-REPORT-701-2016-1"
+  },
+  {
+   "recid": "1625555",
+   "title": "J-PARC accelerator and neutrino beamline upgrade programme",
+   "date": "2017-09-20",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1762753",
+   "title": "Development of the scintillating fibre tracker technology for the LHCb upgrade and the LHC beam profile monitoring system",
+   "date": "2018",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1672899",
+   "title": "Hyper-Kamiokande Design Report",
+   "date": "2018-05-09",
+   "arxiv": "1805.04163",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1907003",
+   "title": "Search for heavy neutrinos in the T2K experiment and upgrade of the near detector ND280",
+   "date": "2020-09-25",
+   "arxiv": "",
+   "report_numbers": "tel-03297119; 2020UPASP031"
+  },
+  {
+   "recid": "1931069",
+   "title": "Upgrade of Honda atmospheric neutrino flux calculation with implementing recent hadron interaction measurements",
+   "date": "2021",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2611962",
+   "title": "The Upgrade of the T2K ND280 Detector",
+   "date": "2022",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2628199",
+   "title": "Upgrade of the Near Detector ND280 and its expected impact on the T2K sensitivity and on the study of neutrino-nucleus interactions",
+   "date": "2022-09-27",
+   "arxiv": "",
+   "report_numbers": "tel-03935726; 2022SORUS348"
+  },
+  {
+   "recid": "2620141",
+   "title": "System upgrade for $\\mu$Bq/m$^3$ level $^{222}$Rn concentration measurement",
+   "date": "2023-01-03",
+   "arxiv": "2301.00959",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2639547",
+   "title": "Characterization of charge spreading and gain of encapsulated resistive Micromegas detectors for the upgrade of the T2K Near Detector Time Projection Chambers",
+   "date": "2023-03-08",
+   "arxiv": "2303.04481",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2640910",
+   "title": "System upgrade for $\\mu$Bq/m$^{3}$ level $^{222}$Rn concentration measurement",
+   "date": "2023-03-08",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2766828",
+   "title": "Towards a complete understanding of neutrino-nucleus interactions with the T2K near detector upgrade",
+   "date": "2023-09-05",
+   "arxiv": "",
+   "report_numbers": "tel-04461663; 2023IPPAX059"
+  },
+  {
+   "recid": "3115330",
+   "title": "Neutrino interactions in the ND280 upgrade era and beyond: theoretical modelling and experimental observations at T2K",
+   "date": "2025-09-04",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

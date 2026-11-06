@@ -1,0 +1,29 @@
+{
+ "queue_pos": 68,
+ "field": "collider",
+ "baseline": {
+  "recid": "506979",
+  "title": "Spherical neutral detector for VEPP-2M collider",
+  "date": "1999-09",
+  "collaboration": "",
+  "journal": "Nucl.Instrum.Meth.A 449 125 (2000)",
+  "arxiv": "hep-ex/9909015"
+ },
+ "n_candidate_docs": 2,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "557599",
+   "title": "SND upgrade",
+   "date": "2001-05",
+   "arxiv": "hep-ex/0105093",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1800021",
+   "title": "Upgrade of the SND electromagnetic calorimeter",
+   "date": "2020-06-05",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

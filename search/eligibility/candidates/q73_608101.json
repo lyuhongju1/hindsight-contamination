@@ -1,0 +1,92 @@
+{
+ "queue_pos": 73,
+ "field": "collider",
+ "baseline": {
+  "recid": "608101",
+  "title": "STAR detector overview",
+  "date": "2002-04",
+  "collaboration": "STAR",
+  "journal": "Nucl.Instrum.Meth.A 499 624 (2003)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 11,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1489516",
+   "title": "The STAR integrated tracking upgrade project",
+   "date": "2007-08",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "762573",
+   "title": "The STAR tracking upgrade",
+   "date": "2007-10",
+   "arxiv": "0710.0172",
+   "report_numbers": ""
+  },
+  {
+   "recid": "811131",
+   "title": "Upgrade of the calibration procedure for a STAR time-of-flight detector with new electronics",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1227191",
+   "title": "The upgrade of the ALICE Inner Tracking System",
+   "date": "2013-04-04",
+   "arxiv": "1304.1306",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1513058",
+   "title": "Prototype sector production for the STAR inner TPC upgrade",
+   "date": "2017-02-07",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1697993",
+   "title": "The RHIC Beam Energy Scan Phase II: Physics and Upgrades",
+   "date": "2018-10-10",
+   "arxiv": "1810.04767",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1763924",
+   "title": "Micropattern Gas Detectors for the CMS Experiment’s Muon System Upgrade: Performance Studies and Commissioning of the first GEM Detectors",
+   "date": "2019",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1936148",
+   "title": "Electron Ion Collider Conceptual Design Report 2021",
+   "date": "2021-02-09",
+   "arxiv": "",
+   "report_numbers": "BNL-221006-2021-FORE"
+  },
+  {
+   "recid": "1851900",
+   "title": "Upgrade of hardware controls for the STAR experiment at RHIC",
+   "date": "2021-03-16",
+   "arxiv": "2103.09231",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2646631",
+   "title": "STCF conceptual design report (Volume 1): Physics & detector",
+   "date": "2023-03-28",
+   "arxiv": "2303.15790",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2907985",
+   "title": "Technology developments for LHCb Upgrade II",
+   "date": "2025-04-03",
+   "arxiv": "2504.03088",
+   "report_numbers": "LHCb-PUB-2025-002; CERN-LHCb-PUB-2025-002"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "queue_pos": 8,
+ "field": "other",
+ "baseline": {
+  "recid": "955239",
+  "title": "AGATA - Advanced Gamma Tracking Array",
+  "date": "2011-11",
+  "collaboration": "",
+  "journal": "Nucl.Instrum.Meth.A 668 26 (2012)",
+  "arxiv": "1111.5731"
+ },
+ "n_candidate_docs": 2,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1592112",
+   "title": "A new preprocessing and control board for the phase 2 electronics of AGATA experiment",
+   "date": "2016-08-15",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2671446",
+   "title": "AGATA phase 2 advancements in front-end electronics",
+   "date": "2023-06-19",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

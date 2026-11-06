@@ -1,0 +1,260 @@
+{
+ "queue_pos": 65,
+ "field": "collider",
+ "baseline": {
+  "recid": "541364",
+  "title": "The Belle Detector",
+  "date": "2000-12",
+  "collaboration": "Belle",
+  "journal": "Nucl.Instrum.Meth.A 479 117 (2002)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 35,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "617072",
+   "title": "The Belle Silicon Vertex Detector: Present performance and upgrade plans",
+   "date": "2003",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1602306",
+   "title": "Studies of a proximity focusing aerogel RICH for the Belle upgrade",
+   "date": "2004",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "668560",
+   "title": "Letter of intent for KEK Super $B$ Factory",
+   "date": "2004-06",
+   "arxiv": "",
+   "report_numbers": "KEK-REPORT-2004-4"
+  },
+  {
+   "recid": "773772",
+   "title": "Status and upgrade plans of the Belle silicon vertex detector",
+   "date": "2007",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1406337",
+   "title": "Development of 144ch HAPD for aerogel RICH for Belle upgrade",
+   "date": "2007",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "754459",
+   "title": "Upgrade of the Level 1 Global Trigger System in the Belle Experiment",
+   "date": "2007-04",
+   "arxiv": "",
+   "report_numbers": "RT2007-PS2A004"
+  },
+  {
+   "recid": "751067",
+   "title": "SuperB: A High-Luminosity Asymmetric e+ e- Super Flavor Factory. Conceptual Design Report",
+   "date": "2007-05-18",
+   "arxiv": "0709.0451",
+   "report_numbers": "SLAC-R-856; INFN-AE-07-02; LAL-07-15; INFN-AE-07-2"
+  },
+  {
+   "recid": "807921",
+   "title": "Development of an HAPD with 144 channels for the aerogel RICH of the Belle upgrade",
+   "date": "2008",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "881785",
+   "title": "Upgrade studies for the Belle silicon vertex detector",
+   "date": "2008-08",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "803527",
+   "title": "Prospects for Upgrade of KEKB",
+   "date": "2008-11",
+   "arxiv": "0811.4165",
+   "report_numbers": "UCHEP-08-07"
+  },
+  {
+   "recid": "812675",
+   "title": "Belle calorimeter upgrade",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "822886",
+   "title": "Belle electromagnetic calorimeter and its sBelle upgrade",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "852850",
+   "title": "Study of an HAPD with 144 channels for the Aerogel RICH of the Belle upgrade",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "875348",
+   "title": "Belle II Technical Design Report",
+   "date": "2010-11",
+   "arxiv": "1011.0352",
+   "report_numbers": "KEK-REPORT-2010-1"
+  },
+  {
+   "recid": "902161",
+   "title": "Electromagnetic Calorimeter Upgrade for Belle2",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1219229",
+   "title": "Belle2c calorimeter upgrade (status and plan)",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1223386",
+   "title": "Technical design report for the PANDA (AntiProton Annihilations at Darmstadt) Straw Tube Tracker",
+   "date": "2013",
+   "arxiv": "1205.5441",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1247130",
+   "title": "Belle Tracker Upgrade",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1286369",
+   "title": "Upgrade of the electromagnetic calorimeter for Belle-II",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1239651",
+   "title": "SuperB Technical Design Report",
+   "date": "2013-06-24",
+   "arxiv": "1306.5655",
+   "report_numbers": "INFN-13-01-PI; LAL-13-01; SLAC-R-1003"
+  },
+  {
+   "recid": "1459141",
+   "title": "Upgrade to the front-end electronics of the BESIII muon identification system",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1498739",
+   "title": "APD readout for Belle II endcap calorimeter upgrade with undoped Cesium Iodide crystals",
+   "date": "2016-03-14",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1592058",
+   "title": "A low noise front-end for the Belle2 forward electromagnetic calorimeter upgrade",
+   "date": "2016-08-15",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1629876",
+   "title": "A Low Noise Front End for the Belle II Forward Electromagnetic Calorimeter Upgrade",
+   "date": "2017-03-27",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1611232",
+   "title": "The BELLE Electromagnetic Calorimeter and its Upgrade to BelleII",
+   "date": "2017-07-20",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1684416",
+   "title": "Study of double charm B decays with the LHCb experiment at CERN and track reconstruction for the LHCb upgrade",
+   "date": "2017-09-27",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2017-254"
+  },
+  {
+   "recid": "1706097",
+   "title": "Study of Double Charm B Decays with the LHCb Experiment at CERN and Track Reconstruction for the LHCb Upgrade",
+   "date": "2018",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1701915",
+   "title": "Belle II Experiment: Status and Upgrade",
+   "date": "2018-11-02",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1705023",
+   "title": "CEPC Conceptual Design Report: Volume 2 - Physics & Detector",
+   "date": "2018-11-23",
+   "arxiv": "1811.10545",
+   "report_numbers": "IHEP-CEPC-DR-2018-02; IHEP-EP-2018-01; IHEP-TH-2018-01"
+  },
+  {
+   "recid": "1715000",
+   "title": "Evidence for an $\\eta_c$(1S)$\\pi^-$ exotic resonance at LHCb and development of the Experiment Control System for the RICH upgrade",
+   "date": "2018-12",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2018-243"
+  },
+  {
+   "recid": "1826128",
+   "title": "Angular analysis of $B^0 \\to K^{*0} e^+e^-$ decays with the LHCb detector and upgrade of calorimeter electronics",
+   "date": "2020-07-22",
+   "arxiv": "",
+   "report_numbers": "tel-02967612; 2020UPASS126"
+  },
+  {
+   "recid": "2088823",
+   "title": "Studies of b Hadron Decays to Charmonium and the LHCb Upgrade and Operation",
+   "date": "2021",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2021-114"
+  },
+  {
+   "recid": "2512528",
+   "title": "Firmware Development of the PCI-express-based High-Speed Readout Board in the Upgrade of the Belle II DAQ System",
+   "date": "2021-10-16",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2971735",
+   "title": "Development and Testing of Depleted Monolithic Active Pixel Sensors in 180nm CMOS technology for the Belle II VTX Upgrade",
+   "date": "2025",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2898516",
+   "title": "R&D of KLM Upgrade for Direct Measurement of Neutral Hadron Momentum via Time-of-Flight in Belle II",
+   "date": "2025-03-08",
+   "arxiv": "2503.06128",
+   "report_numbers": ""
+  }
+ ]
+}

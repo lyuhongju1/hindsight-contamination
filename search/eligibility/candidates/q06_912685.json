@@ -1,0 +1,22 @@
+{
+ "queue_pos": 6,
+ "field": "nu_accel",
+ "baseline": {
+  "recid": "912685",
+  "title": "Underground operation of the ICARUS T600 LAr-TPC: first results",
+  "date": "2011-06",
+  "collaboration": "",
+  "journal": "JINST 6 P07011 (2011)",
+  "arxiv": "1106.0975"
+ },
+ "n_candidate_docs": 1,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1410824",
+   "title": "Long-Baseline Neutrino Facility (LBNF) and Deep Underground Neutrino Experiment (DUNE)",
+   "date": "2015-12-18",
+   "arxiv": "1512.06148",
+   "report_numbers": "FERMILAB-DESIGN-2016-02"
+  }
+ ]
+}

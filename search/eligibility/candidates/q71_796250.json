@@ -1,0 +1,183 @@
+{
+ "queue_pos": 71,
+ "field": "collider",
+ "baseline": {
+  "recid": "796250",
+  "title": "The TOTEM experiment at the CERN Large Hadron Collider",
+  "date": "2008",
+  "collaboration": "TOTEM",
+  "journal": "JINST 3 S08007 (2008)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 24,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "914711",
+   "title": "A Level 1 Tracking Trigger for the CMS Experiment at the LHC Phase 2 Luminosity Upgrade",
+   "date": "2011-01-30",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2011-029; CMS-TS-2011-008"
+  },
+  {
+   "recid": "1323564",
+   "title": "A High-Rate Beam Test for the CMS Pixel Detector Phase I Upgrade",
+   "date": "2012-11-02",
+   "arxiv": "",
+   "report_numbers": "IEKP-KA-2012-15; CERN-THESIS-2012-445"
+  },
+  {
+   "recid": "1309326",
+   "title": "Upgrade of the TOTEM DAQ using the Scalable Readout System (SRS)",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1281184",
+   "title": "TOTEM Upgrade Proposal",
+   "date": "2013-06-10",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2013-009; LHCC-P-007"
+  },
+  {
+   "recid": "1264327",
+   "title": "Upgrade of the TOTEM DAQ using the  Scalable Readout System (SRS)",
+   "date": "2013-11-08",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1288175",
+   "title": "Development of the data acquisition system for the Triple-GEM detectors for the upgrade of the CMS forward muon spectrometer",
+   "date": "2014-03-27",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1462486",
+   "title": "Test Beam Measurements for the Upgrade of the CMS Pixel Detector and Measurement of the Top Quark Mass from Differential Cross Sections",
+   "date": "2016-04-22",
+   "arxiv": "",
+   "report_numbers": "DESY-THESIS-2016-010; CMS-TS-2016-010; CERN-THESIS-2016-059"
+  },
+  {
+   "recid": "1457986",
+   "title": "The timing upgrade project of the TOTEM Roman Pots detectors",
+   "date": "2016-07-11",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1632262",
+   "title": "Development of the DAQ System of Triple-GEM Detectors for the CMS Muon Spectrometer Upgrade at LHC",
+   "date": "2016-12-19",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2016-215"
+  },
+  {
+   "recid": "1509914",
+   "title": "Diamond Detectors for the TOTEM Timing Upgrade",
+   "date": "2017-01-18",
+   "arxiv": "1701.05227",
+   "report_numbers": "CERN-EP-2016-317; CERN-PH-EP-2016-317"
+  },
+  {
+   "recid": "1684416",
+   "title": "Study of double charm B decays with the LHCb experiment at CERN and track reconstruction for the LHCb upgrade",
+   "date": "2017-09-27",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2017-254"
+  },
+  {
+   "recid": "1830317",
+   "title": "Jet substructure techniques for the search of diboson resonances at the LHC and performance evaluation of the ATLAS phase-II inner tracker Layouts",
+   "date": "2018",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1852732",
+   "title": "Upgrade of the Global Muon Trigger for the Compact Muon Solenoid experiment at CERN",
+   "date": "2018",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1723860",
+   "title": "Performance of prototype GE1 ∕ 1 chambers for the CMS muon spectrometer upgrade",
+   "date": "2019-03-06",
+   "arxiv": "1903.02186",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1763955",
+   "title": "A 4D real-time tracking device for the LHCb Upgrade II",
+   "date": "2019-05-23",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2156282",
+   "title": "Applications of Crystal Collimation to the CERN Large Hadron Collider (LHC) and its High Luminosity Upgrade Project (HL-LHC)",
+   "date": "2020-12-01",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2021-022"
+  },
+  {
+   "recid": "1864482",
+   "title": "Top-quark pair production cross-section measurements in the all-hadronic decay channel at the ATLAS experiment and hardware-based track reconstruction for the ATLAS trigger HL-LHC upgrade",
+   "date": "2021",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2156947",
+   "title": "New physics hunt at the Large Hadron Collider with the ATLAS detector : search for heavy exotic resonances and upgrade of the Transition Radiation Tracker DAQ system",
+   "date": "2021",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2141681",
+   "title": "Studies of the opto-electronic chain for the LHCb RICH upgrade",
+   "date": "2021-06-18",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2021-350"
+  },
+  {
+   "recid": "2715573",
+   "title": "Prospects of Finding New Fundamental Physics and Upgrade Studies with the ATLAS detector at the LHC",
+   "date": "2023",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2023-204"
+  },
+  {
+   "recid": "2751236",
+   "title": "Searches for Higgs pair production and probing the Higgs self couplings in the HH $\\to bb\\tau\\tau$ decay channel at the ATLAS Experiment and performance studies for the High-Granularity Timing Detecto",
+   "date": "2023-12-11",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2024-002"
+  },
+  {
+   "recid": "2864103",
+   "title": "Upgrade of the ATLAS tracking detector and measurement of the Higgs boson production cross-section at 13.6 TeV",
+   "date": "2024",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2024-270"
+  },
+  {
+   "recid": "2922157",
+   "title": "Upgrade of the ATLAS tracking detector and measurement of the Higgs boson production cross section ad 13.6 TeV",
+   "date": "2024",
+   "arxiv": "",
+   "report_numbers": "tel-05065747; 2024UNIP7135"
+  },
+  {
+   "recid": "3186106",
+   "title": "Search for Higgs Boson Pair and Detector Upgrade on the CMS Experiment",
+   "date": "2024-05-24",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

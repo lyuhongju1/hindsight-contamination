@@ -1,0 +1,92 @@
+{
+ "queue_pos": 52,
+ "field": "nu_accel",
+ "baseline": {
+  "recid": "786324",
+  "title": "The Magnetized Steel and Scintillator Calorimeters of the MINOS Experiment",
+  "date": "2008-05",
+  "collaboration": "MINOS",
+  "journal": "Nucl.Instrum.Meth.A 596 190 (2008)",
+  "arxiv": "0805.3170"
+ },
+ "n_candidate_docs": 11,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "900279",
+   "title": "Interim Design Report",
+   "date": "2011-03",
+   "arxiv": "1112.2853",
+   "report_numbers": "IDS-NF-020; BNL-96453-2011; CERN-ATS-2011-216; EUROnu-WP1-05; FERMILAB-PUB-11-581-APC; RAL-TR-2011-018; IDS-NF-20; BNL-9"
+  },
+  {
+   "recid": "1117009",
+   "title": "$\\nu$STORM - Neutrinos from STORed Muons: Letter of Intent",
+   "date": "2012-06",
+   "arxiv": "1206.0294",
+   "report_numbers": "FERMILAB-LOI-1028"
+  },
+  {
+   "recid": "1204789",
+   "title": "Mu2e Conceptual Design Report",
+   "date": "2012-11",
+   "arxiv": "1211.7019",
+   "report_numbers": "FERMILAB-TM-2545; FERMILAB-DESIGN-2012-03"
+  },
+  {
+   "recid": "1240419",
+   "title": "The International Linear Collider Technical Design Report - Volume 4: Detectors",
+   "date": "2013-06-26",
+   "arxiv": "1306.6329",
+   "report_numbers": "ILC-REPORT-2013-040; ANL-HEP-TR-13-20; BNL-100603-2013-IR; IRFU-13-59; CERN-ATS-2013-037; COCKCROFT-13-10; CLNS-13-2085;"
+  },
+  {
+   "recid": "1375024",
+   "title": "Upgrade of the Minos+ Experiment Data Acquisition for the High Energy NuMI Beam Run",
+   "date": "2015-06-06",
+   "arxiv": "1506.02197",
+   "report_numbers": "FERMILAB-CONF-14-503-ND"
+  },
+  {
+   "recid": "1446723",
+   "title": "The Pierre Auger Observatory Upgrade - Preliminary Design Report",
+   "date": "2016-04-12",
+   "arxiv": "1604.03637",
+   "report_numbers": "FERMILAB-DESIGN-2016-05"
+  },
+  {
+   "recid": "1496097",
+   "title": "The Pierre Auger Observatory Upgrade Program",
+   "date": "2016-11-02",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1601131",
+   "title": "Technical Design Report (TDR): Searching for a Sterile Neutrino at J-PARC MLF (E56, JSNS2)",
+   "date": "2017-05-24",
+   "arxiv": "1705.08629",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1684272",
+   "title": "The DUNE Far Detector Interim Design Report Volume 1: Physics, Technology and Strategies",
+   "date": "2018-07-26",
+   "arxiv": "1807.10334",
+   "report_numbers": "Fermilab-Design-2018-02; FERMILAB-DESIGN-2018-02"
+  },
+  {
+   "recid": "1892243",
+   "title": "The Large Enriched Germanium Experiment for Neutrinoless $\\beta\\beta$ Decay",
+   "date": "2021-07-23",
+   "arxiv": "2107.11462",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2171912",
+   "title": "DUNE Offline Computing Conceptual Design Report",
+   "date": "2022-10-28",
+   "arxiv": "2210.15665",
+   "report_numbers": "FERMILAB-DESIGN-2022-01"
+  }
+ ]
+}

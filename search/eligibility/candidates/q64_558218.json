@@ -1,0 +1,29 @@
+{
+ "queue_pos": 64,
+ "field": "collider",
+ "baseline": {
+  "recid": "558218",
+  "title": "The BES upgrade",
+  "date": "2001",
+  "collaboration": "BES",
+  "journal": "Nucl.Instrum.Meth.A 458 627 (2001)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 2,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1229229",
+   "title": "A high density time to digital converter module for BESIII end-cap TOF upgrade",
+   "date": "2012-06",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1351220",
+   "title": "Clock auto-synchronization method for BESIII ETOF upgrade",
+   "date": "2015-03-09",
+   "arxiv": "1503.02382",
+   "report_numbers": ""
+  }
+ ]
+}

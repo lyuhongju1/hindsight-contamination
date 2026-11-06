@@ -1,0 +1,85 @@
+{
+ "queue_pos": 36,
+ "field": "nu_accel",
+ "baseline": {
+  "recid": "661854",
+  "title": "Design, construction and tests of the ICARUS T600 detector",
+  "date": "2004-07",
+  "collaboration": "ICARUS",
+  "journal": "Nucl.Instrum.Meth.A 527 329 (2004)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 10,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "2637171",
+   "title": "Letter of Intent: DOUBLE-LAr: Liquid Argon Imaging Chambers at FNAL",
+   "date": "2008",
+   "arxiv": "",
+   "report_numbers": "FERMILAB-LOI-2008-01"
+  },
+  {
+   "recid": "1392796",
+   "title": "LUX-ZEPLIN (LZ) Conceptual Design Report",
+   "date": "2015-09-09",
+   "arxiv": "1509.02910",
+   "report_numbers": "LBNL-190005; FERMILAB-TM-2621-AE-E-PPD"
+  },
+  {
+   "recid": "1410824",
+   "title": "Long-Baseline Neutrino Facility (LBNF) and Deep Underground Neutrino Experiment (DUNE)",
+   "date": "2015-12-18",
+   "arxiv": "1512.06148",
+   "report_numbers": "FERMILAB-DESIGN-2016-02"
+  },
+  {
+   "recid": "1414945",
+   "title": "Long-Baseline Neutrino Facility (LBNF) and Deep Underground Neutrino Experiment (DUNE)",
+   "date": "2016-01-12",
+   "arxiv": "1601.02984",
+   "report_numbers": "FERMILAB-DESIGN-2016-04"
+  },
+  {
+   "recid": "1606328",
+   "title": "The Single-Phase ProtoDUNE Technical Design Report",
+   "date": "2017-06-21",
+   "arxiv": "1706.07081",
+   "report_numbers": "FERMILAB-DESIGN-2017-02"
+  },
+  {
+   "recid": "1662909",
+   "title": "Measurements of ion mobility and GEM discharge studies for the upgrade of the ALICE time projection chamber",
+   "date": "2018-02-07",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2018-014; GSI-2019-00229"
+  },
+  {
+   "recid": "1779524",
+   "title": "Deep Underground Neutrino Experiment (DUNE), Far Detector Technical Design Report, Volume I Introduction to DUNE",
+   "date": "2020-02-07",
+   "arxiv": "2002.02967",
+   "report_numbers": "FERMILAB-PUB-20-024-ND; FERMILAB-DESIGN-2020-01"
+  },
+  {
+   "recid": "1779525",
+   "title": "Deep Underground Neutrino Experiment (DUNE), Far Detector Technical Design Report, Volume II: DUNE Physics",
+   "date": "2020-02-07",
+   "arxiv": "2002.03005",
+   "report_numbers": "FERMILAB-PUB-20-025-ND; FERMILAB-DESIGN-2020-02"
+  },
+  {
+   "recid": "1779526",
+   "title": "Deep Underground Neutrino Experiment (DUNE), Far Detector Technical Design Report, Volume IV: Far Detector Single-phase Technology",
+   "date": "2020-02-07",
+   "arxiv": "2002.03010",
+   "report_numbers": "FERMILAB-PUB-20-027-ND; FERMILAB-DESIGN-2020-04"
+  },
+  {
+   "recid": "2734573",
+   "title": "The DUNE Far Detector Vertical Drift Technology. Technical Design Report",
+   "date": "2023-12-05",
+   "arxiv": "2312.03130",
+   "report_numbers": "FERMILAB-TM-2813-LBNF"
+  }
+ ]
+}

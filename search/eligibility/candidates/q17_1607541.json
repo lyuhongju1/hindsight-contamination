@@ -1,0 +1,14 @@
+{
+ "queue_pos": 17,
+ "field": "astroparticle",
+ "baseline": {
+  "recid": "1607541",
+  "title": "The DArk Matter Particle Explorer mission",
+  "date": "2017-06-26",
+  "collaboration": "DAMPE",
+  "journal": "Astropart.Phys. 95 6 (2017)",
+  "arxiv": "1706.08453"
+ },
+ "n_candidate_docs": 0,
+ "candidate_upgrade_docs": []
+}

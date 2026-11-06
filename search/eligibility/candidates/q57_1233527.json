@@ -1,0 +1,29 @@
+{
+ "queue_pos": 57,
+ "field": "collider",
+ "baseline": {
+  "recid": "1233527",
+  "title": "The BABAR Detector: Upgrades, Operation and Performance",
+  "date": "2013-05-15",
+  "collaboration": "BaBar",
+  "journal": "Nucl.Instrum.Meth.A 729 615 (2013)",
+  "arxiv": "1305.3560"
+ },
+ "n_candidate_docs": 2,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1239651",
+   "title": "SuperB Technical Design Report",
+   "date": "2013-06-24",
+   "arxiv": "1306.5655",
+   "report_numbers": "INFN-13-01-PI; LAL-13-01; SLAC-R-1003"
+  },
+  {
+   "recid": "1713705",
+   "title": "FCC-ee: The Lepton Collider",
+   "date": "2018-12-18",
+   "arxiv": "",
+   "report_numbers": "CERN-ACC-2018-0057"
+  }
+ ]
+}

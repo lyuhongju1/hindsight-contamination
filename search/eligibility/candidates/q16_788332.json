@@ -1,0 +1,64 @@
+{
+ "queue_pos": 16,
+ "field": "nu_natural",
+ "baseline": {
+  "recid": "788332",
+  "title": "The Borexino detector at the Laboratori Nazionali del Gran Sasso",
+  "date": "2008-06",
+  "collaboration": "Borexino",
+  "journal": "Nucl.Instrum.Meth.A 600 568 (2009)",
+  "arxiv": "0806.2400"
+ },
+ "n_candidate_docs": 7,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "900279",
+   "title": "Interim Design Report",
+   "date": "2011-03",
+   "arxiv": "1112.2853",
+   "report_numbers": "IDS-NF-020; BNL-96453-2011; CERN-ATS-2011-216; EUROnu-WP1-05; FERMILAB-PUB-11-581-APC; RAL-TR-2011-018; IDS-NF-20; BNL-9"
+  },
+  {
+   "recid": "1392796",
+   "title": "LUX-ZEPLIN (LZ) Conceptual Design Report",
+   "date": "2015-09-09",
+   "arxiv": "1509.02910",
+   "report_numbers": "LBNL-190005; FERMILAB-TM-2621-AE-E-PPD"
+  },
+  {
+   "recid": "1613496",
+   "title": "First Simultaneous Precision Spectroscopy of $pp$, $^7$Be, and $pep$ Solar Neutrinos with Borexino Phase-II",
+   "date": "2017-07-28",
+   "arxiv": "1707.09279",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1613521",
+   "title": "Limiting neutrino magnetic moments with Borexino Phase-II solar neutrino data",
+   "date": "2017-07-28",
+   "arxiv": "1707.09355",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1703691",
+   "title": "Solar Neutrinos Spectroscopy with Borexino Phase-II",
+   "date": "2018-11-07",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1733988",
+   "title": "Constraints on flavor-diagonal non-standard neutrino interactions from Borexino Phase-II",
+   "date": "2019-05-09",
+   "arxiv": "1905.03512",
+   "report_numbers": "IP/BBSR/2019-2"
+  },
+  {
+   "recid": "1892243",
+   "title": "The Large Enriched Germanium Experiment for Neutrinoless $\\beta\\beta$ Decay",
+   "date": "2021-07-23",
+   "arxiv": "2107.11462",
+   "report_numbers": ""
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "queue_pos": 40,
+ "field": "dark_matter",
+ "baseline": {
+  "recid": "1210572",
+  "title": "XMASS detector",
+  "date": "2013-01",
+  "collaboration": "",
+  "journal": "Nucl.Instrum.Meth.A 716 78 (2013)",
+  "arxiv": "1301.2815"
+ },
+ "n_candidate_docs": 1,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1392796",
+   "title": "LUX-ZEPLIN (LZ) Conceptual Design Report",
+   "date": "2015-09-09",
+   "arxiv": "1509.02910",
+   "report_numbers": "LBNL-190005; FERMILAB-TM-2621-AE-E-PPD"
+  }
+ ]
+}

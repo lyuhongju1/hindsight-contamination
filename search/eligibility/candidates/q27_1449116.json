@@ -1,0 +1,29 @@
+{
+ "queue_pos": 27,
+ "field": "double_beta",
+ "baseline": {
+  "recid": "1449116",
+  "title": "CUORE-0 detector: design, construction and operation",
+  "date": "2016-04-19",
+  "collaboration": "CUORE",
+  "journal": "JINST 11 P07009 (2016)",
+  "arxiv": "1604.05465"
+ },
+ "n_candidate_docs": 2,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1664516",
+   "title": "Improved Limit on Neutrinoless Double-$\\beta$ Decay of $^{76}$Ge from GERDA Phase II",
+   "date": "2018-03-26",
+   "arxiv": "1803.11100",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2897083",
+   "title": "CUPID, the Cuore upgrade with particle identification",
+   "date": "2025-03-01",
+   "arxiv": "2503.02894",
+   "report_numbers": ""
+  }
+ ]
+}

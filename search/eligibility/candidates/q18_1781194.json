@@ -1,0 +1,29 @@
+{
+ "queue_pos": 18,
+ "field": "collider",
+ "baseline": {
+  "recid": "1781194",
+  "title": "The CLAS12 Spectrometer at Jefferson Laboratory",
+  "date": "2020-04-11",
+  "collaboration": "",
+  "journal": "Nucl.Instrum.Meth.A 959 163419 (2020)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 2,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1865964",
+   "title": "The large inner Micromegas modules for the Atlas Muon Spectrometer upgrade: Construction, quality control and characterization",
+   "date": "2021-05-28",
+   "arxiv": "2105.13709",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3195426",
+   "title": "White Paper on a Novel FFA-Based CEBAF Upgrade to 22 GeV",
+   "date": "2026-08-24",
+   "arxiv": "2608.23387",
+   "report_numbers": "JLAB-ACC-26-4928"
+  }
+ ]
+}

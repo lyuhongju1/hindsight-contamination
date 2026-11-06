@@ -1,0 +1,36 @@
+{
+ "queue_pos": 29,
+ "field": "nu_accel",
+ "baseline": {
+  "recid": "826184",
+  "title": "The OPERA experiment in the CERN to Gran Sasso neutrino beam",
+  "date": "2009-04",
+  "collaboration": "",
+  "journal": "JINST 4 P04018 (2009)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 3,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "875348",
+   "title": "Belle II Technical Design Report",
+   "date": "2010-11",
+   "arxiv": "1011.0352",
+   "report_numbers": "KEK-REPORT-2010-1"
+  },
+  {
+   "recid": "900279",
+   "title": "Interim Design Report",
+   "date": "2011-03",
+   "arxiv": "1112.2853",
+   "report_numbers": "IDS-NF-020; BNL-96453-2011; CERN-ATS-2011-216; EUROnu-WP1-05; FERMILAB-PUB-11-581-APC; RAL-TR-2011-018; IDS-NF-20; BNL-9"
+  },
+  {
+   "recid": "1774688",
+   "title": "Technical Proposal: FASERnu",
+   "date": "2020-01-09",
+   "arxiv": "2001.03073",
+   "report_numbers": "CERN-LHCC-2019-017; LHCC-P-015; UCI-TR-2019-25"
+  }
+ ]
+}

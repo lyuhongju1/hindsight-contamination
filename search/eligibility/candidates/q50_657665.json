@@ -1,0 +1,36 @@
+{
+ "queue_pos": 50,
+ "field": "collider",
+ "baseline": {
+  "recid": "657665",
+  "title": "Basic Instrumentation for Hall A at Jefferson Lab",
+  "date": "2004",
+  "collaboration": "",
+  "journal": "Nucl.Instrum.Meth.A 522 294 (2004)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 3,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "668704",
+   "title": "JLab's Hall A after the 12-GeV upgrade",
+   "date": "2004",
+   "arxiv": "",
+   "report_numbers": "JLAB-PHY-03-66"
+  },
+  {
+   "recid": "1799588",
+   "title": "Experimental Study of the 3He and Neutron Spin Structures at Low Q2 and the Upgrade of the JLab Polarized 3He Target",
+   "date": "2019",
+   "arxiv": "",
+   "report_numbers": "JLAB-PHY-19-3137; DOE/OR/23177-4912"
+  },
+  {
+   "recid": "1943951",
+   "title": "Precise Beam Energy Determination for Hall A after the CEBAF 12 GeV Upgrade",
+   "date": "2021-10-12",
+   "arxiv": "2110.06281",
+   "report_numbers": ""
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "queue_pos": 54,
+ "field": "collider",
+ "baseline": {
+  "recid": "471582",
+  "title": "The HERMES spectrometer",
+  "date": "1998-06",
+  "collaboration": "HERMES",
+  "journal": "Nucl.Instrum.Meth.A 417 230 (1998)",
+  "arxiv": "hep-ex/9806008"
+ },
+ "n_candidate_docs": 4,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "537380",
+   "title": "TESLA: The superconducting electron positron linear collider with an integrated X-ray laser laboratory. Technical design report. Pt. 6: Appendices. Chapter 3: Electron scattering with polarized target",
+   "date": "2000-11",
+   "arxiv": "hep-ph/0011299",
+   "report_numbers": "DESY-00-160; TPR-00-20; DESY-01-011; DESY-01-011FC; DESY-TESLA-2001-23; DESY-TESLA-FEL-2001-05; ECFA-2001-209"
+  },
+  {
+   "recid": "1614066",
+   "title": "ALICE transition-radiation detector",
+   "date": "2001",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2001-021; ALICE-TDR-9; LYCEN-2001-97; ALICE-TDR-9; CERN-LHCC-2001-021; LYCEN-2001-97"
+  },
+  {
+   "recid": "706933",
+   "title": "A Letter of Intent for a Neutrino Scattering Experiment on the Booster Neutrino Meanline: FINeSSE",
+   "date": "2003-11-23",
+   "arxiv": "",
+   "report_numbers": "FERMILAB-PROPOSAL-0946"
+  },
+  {
+   "recid": "3182080",
+   "title": "A Letter of Intent for a Neutrino Scattering Experiment on the Booster Neutrino Beamline: FINeSSE",
+   "date": "2005-03-21",
+   "arxiv": "",
+   "report_numbers": "FERMILAB-LOI-2005-03"
+  }
+ ]
+}

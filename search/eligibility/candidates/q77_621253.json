@@ -1,0 +1,36 @@
+{
+ "queue_pos": 77,
+ "field": "collider",
+ "baseline": {
+  "recid": "621253",
+  "title": "The CEBAF Large Acceptance Spectrometer (CLAS)",
+  "date": "2003",
+  "collaboration": "CLAS",
+  "journal": "Nucl.Instrum.Meth.A 503 513 (2003)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 3,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "769023",
+   "title": "The JLab upgrade — Studies of the nucleon with CLAS12",
+   "date": "2007-11",
+   "arxiv": "0711.4741",
+   "report_numbers": "JLAB-PHY-07-745"
+  },
+  {
+   "recid": "800622",
+   "title": "CLAS12 and its initial Science Program at the Jefferson Lab Upgrade",
+   "date": "2008-10",
+   "arxiv": "0810.4718",
+   "report_numbers": "JLAB-PHY-08-884"
+  },
+  {
+   "recid": "1854065",
+   "title": "Deep Underground Neutrino Experiment (DUNE) Near Detector Conceptual Design Report",
+   "date": "2021-03-25",
+   "arxiv": "2103.13910",
+   "report_numbers": "FERMILAB-PUB-21-067-E-LBNF-PPD-SCD-T"
+  }
+ ]
+}

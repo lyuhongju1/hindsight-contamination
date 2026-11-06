@@ -1,0 +1,575 @@
+{
+ "queue_pos": 62,
+ "field": "collider",
+ "baseline": {
+  "recid": "796888",
+  "title": "The ATLAS Experiment at the CERN Large Hadron Collider",
+  "date": "2008",
+  "collaboration": "ATLAS",
+  "journal": "JINST 3 S08003 (2008)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 605,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "803629",
+   "title": "The ATLAS SCT: Commissioning experience and SLHC upgrade",
+   "date": "2008-10",
+   "arxiv": "",
+   "report_numbers": "ATL-INDET-PROC-2008-002; ATL-COM-INDET-2008-017"
+  },
+  {
+   "recid": "878044",
+   "title": "ATLAS strips upgrade",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "878047",
+   "title": "IBL: ATLAS pixel upgrade",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "880582",
+   "title": "Upgrade of the tracking and trigger system ATLAS and CMS",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "895378",
+   "title": "The super-LHC, a luminosity upgrade",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1654180",
+   "title": "Upgrade of the BOC for the ATLAS Pixel Insertable B-Layer",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1654201",
+   "title": "Hardware studies for the upgrade of the ATLAS Central Trigger Processor",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "854687",
+   "title": "Design and performance of the ABCN-25 readout chip for ATLAS inner detector upgrade",
+   "date": "2009-10",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "893437",
+   "title": "ATLAS upgrade",
+   "date": "2010",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "901505",
+   "title": "ATLAS upgrade: Meeting the challenges of the sLHC",
+   "date": "2010",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1323754",
+   "title": "Development of an optical link card for the upgrade phase II of TileCal experiment",
+   "date": "2010-05",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1196698",
+   "title": "ATLAS LAr calorimeters readout electronics upgrade \\&  for sLHC",
+   "date": "2010-08-14",
+   "arxiv": "",
+   "report_numbers": "ATL-LARG-PROC-2010-010; ATL-COM-LARG-2010-024"
+  },
+  {
+   "recid": "1609508",
+   "title": "ATLAS Insertable B-Layer Technical Design Report",
+   "date": "2010-09-15",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2010-013; ATLAS-TDR-19"
+  },
+  {
+   "recid": "875110",
+   "title": "Upgrade of the ATLAS Muon Trigger for the SLHC",
+   "date": "2010-11",
+   "arxiv": "1011.0163",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1196729",
+   "title": "ATLAS Tracker Upgrade: Silicon Strip Detectors for the sLHC",
+   "date": "2010-11-12",
+   "arxiv": "",
+   "report_numbers": "ATL-UPGRADE-PROC-2010-007; ATL-COM-UPGRADE-2010-025"
+  },
+  {
+   "recid": "1296566",
+   "title": "Thermo-mechanical characterisation of low density carbon foams and composite materials for the ATLAS upgrade",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2011-340"
+  },
+  {
+   "recid": "914711",
+   "title": "A Level 1 Tracking Trigger for the CMS Experiment at the LHC Phase 2 Luminosity Upgrade",
+   "date": "2011-01-30",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2011-029; CMS-TS-2011-008"
+  },
+  {
+   "recid": "1196770",
+   "title": "The ATLAS Liquid Argon Calorimeter: One year of LHC operation and future upgrade plans for HL-LHC",
+   "date": "2011-05-20",
+   "arxiv": "",
+   "report_numbers": "ATL-LARG-PROC-2011-001; ATL-COM-LARG-2011-003"
+  },
+  {
+   "recid": "927574",
+   "title": "ATLAS IBL: A Challenging first step for ATLAS Upgrade at the sLHC",
+   "date": "2011-09",
+   "arxiv": "1109.3372",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1196816",
+   "title": "Silicon Strip Detectors for the ATLAS HL-LHC Upgrade",
+   "date": "2011-09-13",
+   "arxiv": "",
+   "report_numbers": "ATL-UPGRADE-PROC-2011-005; ATL-COM-UPGRADE-2011-018"
+  },
+  {
+   "recid": "1196810",
+   "title": "Silicon sensor technologies for the ATLAS IBL upgrade.",
+   "date": "2011-09-14",
+   "arxiv": "",
+   "report_numbers": "ATL-INDET-PROC-2011-006; ATL-COM-INDET-2011-049"
+  },
+  {
+   "recid": "1196841",
+   "title": "Upgrade Plans for ATLAS Forward Calorimetry for the HL-LHC",
+   "date": "2011-09-28",
+   "arxiv": "",
+   "report_numbers": "ATL-LARG-PROC-2011-002; ATL-COM-LARG-2011-017"
+  },
+  {
+   "recid": "1196861",
+   "title": "Upgrade plans for ATLAS Forward Calorimetry for the HL-LHC",
+   "date": "2011-10-14",
+   "arxiv": "",
+   "report_numbers": "ATL-LARG-PROC-2011-004; ATL-COM-LARG-2011-028"
+  },
+  {
+   "recid": "1196868",
+   "title": "Design and assembly of double-sided silicon strip module prototypes for the ATLAS upgrade strip tracker.",
+   "date": "2011-11-04",
+   "arxiv": "",
+   "report_numbers": "ATL-UPGRADE-PUB-2011-002; ATL-COM-UPGRADE-2011-021"
+  },
+  {
+   "recid": "1196883",
+   "title": "Functional Super Read Out Driver Demonstrator for the Phase II Upgrade of the ATLAS Tile Calorimeter",
+   "date": "2011-11-15",
+   "arxiv": "",
+   "report_numbers": "ATL-TILECAL-PROC-2011-018; ATL-COM-TILECAL-2011-051"
+  },
+  {
+   "recid": "1209924",
+   "title": "An FPGA based Topological Processor prototype for the ATLAS Level-1 Trigger upgrade",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1211185",
+   "title": "Neutron and proton tests of different technologies for the upgrade of the cold readout electronics of the ATLAS Hadronic End-cap Calorimeter",
+   "date": "2012",
+   "arxiv": "1301.3750",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1211242",
+   "title": "Upgrade and integration of the configuration and monitoring tools for the ATLAS Online farm",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1215911",
+   "title": "Development and implementation of optimal filtering in a Virtex FPGA for the upgrade of the ATLAS LAr calorimeter readout",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1216993",
+   "title": "The upgrade of the PreProcessor system of the ATLAS level-1 calorimeter trigger",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1324659",
+   "title": "The sROD demonstrator for the ATLAS Tile Calorimeter Upgrade",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1402887",
+   "title": "Letter of Intent for the Phase-II Upgrade of the ATLAS Experiment",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": "LHCC-I-023; CERN-LHCC-2012-022"
+  },
+  {
+   "recid": "1085976",
+   "title": "ATLAS Upgrade for the HL-LHC: Meeting the challenges of a five-fold increase in collision rate",
+   "date": "2012-01",
+   "arxiv": "1201.5469",
+   "report_numbers": "ATL-UPGRADE-PROC-2012-003"
+  },
+  {
+   "recid": "1429430",
+   "title": "A study of materials used for muon chambers at the CMS Experiment at the LHC: interaction with gas, new materials and new technologies for detector upgrade",
+   "date": "2012-02-16",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2012-426"
+  },
+  {
+   "recid": "1196997",
+   "title": "ATLAS Offline Data Quality System Upgrade",
+   "date": "2012-05-18",
+   "arxiv": "",
+   "report_numbers": "ATL-SOFT-PROC-2012-036; ATL-COM-SOFT-2012-138"
+  },
+  {
+   "recid": "1196986",
+   "title": "Upgrade and integration of the configuration and monitoring tools for the ATLAS Online farm",
+   "date": "2012-05-21",
+   "arxiv": "",
+   "report_numbers": "ATL-DAQ-PROC-2012-005; ATL-COM-DAQ-2012-068"
+  },
+  {
+   "recid": "1197022",
+   "title": "The Upgrade of the ATLAS Inner Detector",
+   "date": "2012-06-12",
+   "arxiv": "",
+   "report_numbers": "ATL-INDET-PROC-2012-009; ATL-COM-INDET-2012-034"
+  },
+  {
+   "recid": "1197077",
+   "title": "Upgrade project and plans for the ATLAS detector and trigger",
+   "date": "2012-06-15",
+   "arxiv": "",
+   "report_numbers": "ATL-DAQ-PROC-2012-022; ATL-COM-DAQ-2012-119"
+  },
+  {
+   "recid": "1123912",
+   "title": "sPHENIX: An Upgrade Concept from the PHENIX Collaboration",
+   "date": "2012-07",
+   "arxiv": "1207.6378",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1197105",
+   "title": "Upgrade Project and Plans for the ATLAS Detector and Trigger",
+   "date": "2012-07-31",
+   "arxiv": "",
+   "report_numbers": "ATL-DAQ-PROC-2012-045; ATL-COM-DAQ-2012-137"
+  },
+  {
+   "recid": "1196974",
+   "title": "The RPC-based proposal for the ATLAS forward muon trigger upgrade in view of super-LHC",
+   "date": "2012-10",
+   "arxiv": "1210.6728",
+   "report_numbers": "ATL-MUON-PROC-2012-001; ATL-COM-MUON-2012-010"
+  },
+  {
+   "recid": "1204789",
+   "title": "Mu2e Conceptual Design Report",
+   "date": "2012-11",
+   "arxiv": "1211.7019",
+   "report_numbers": "FERMILAB-TM-2545; FERMILAB-DESIGN-2012-03"
+  },
+  {
+   "recid": "1323564",
+   "title": "A High-Rate Beam Test for the CMS Pixel Detector Phase I Upgrade",
+   "date": "2012-11-02",
+   "arxiv": "",
+   "report_numbers": "IEKP-KA-2012-15; CERN-THESIS-2012-445"
+  },
+  {
+   "recid": "1215161",
+   "title": "Evaluation of novel KEK/HPK n-in-p pixel sensors for ATLAS upgrade with testbeam",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1219490",
+   "title": "ATLAS level-1 calorimeter trigger upgrade for phase-I",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1220108",
+   "title": "Performance of the AMBFTK board for the FastTracker processor for the ATLAS detector upgrade",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1220450",
+   "title": "The upgrade of the ATLAS Level-1 Central Trigger Processor",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1223386",
+   "title": "Technical design report for the PANDA (AntiProton Annihilations at Darmstadt) Straw Tube Tracker",
+   "date": "2013",
+   "arxiv": "1205.5441",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1226315",
+   "title": "Characterization of the FE-I4B pixel readout chip production run for the ATLAS insertable B-layer upgrade",
+   "date": "2013",
+   "arxiv": "1304.4424",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1229116",
+   "title": "Development of a readout link board for the demonstrator of the ATLAS Tile calorimeter upgrade",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1237724",
+   "title": "ATLAS future plans: Upgrade and the physics with high luminosity",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1247133",
+   "title": "The upgrade of the ATLAS silicon strip tracker",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1250178",
+   "title": "Upgrade project and plans for the ATLAS detector and trigger",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1250180",
+   "title": "Upgrade plans for the ATLAS calorimeters",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1257250",
+   "title": "Upgrade project and plans for the ATLAS detector and ﬁrst level trigger",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1257252",
+   "title": "The ATLAS Data Acquisition and High Level Trigger Systems: Experience and Upgrade Plans",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1257864",
+   "title": "ATLAS and CMS Upgrade Plans",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1290414",
+   "title": "ATLAS Level-1 trigger upgrade studies with the Tile Calorimeter for the high luminosity LHC",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1290808",
+   "title": "Development of large size Micromegas detectors for the upgrade of the ATLAS experiments",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1306113",
+   "title": "The Phase-2 Upgrade of the Silicon Strip Tracker of the ATLAS experiment",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1309199",
+   "title": "Upgrade of the first level muon trigger in the end-cap new small wheel region of the ATLAS detector",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1309297",
+   "title": "Upgrade of the ATLAS Level-1 trigger with an FPGA based Topological Processor",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1852978",
+   "title": "Measurement of the Inclusive $pp \\rightarrow Z/\\gamma^* \\rightarrow e^+e^-$ Cross Section at $\\sqrt {s} = 7$ TeV with the ATLAS Experiment and Design Studies for a First Level Track Trigger for the AT",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2961262",
+   "title": "Tracking Performance of the Proposed Inner Tracker Layout for the ATLAS Phase-II Upgrade",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": "ATL-UPGRADE-PUB-2013-001"
+  },
+  {
+   "recid": "1614083",
+   "title": "New Small Wheel Technical Design Report",
+   "date": "2013-06-03",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2013-006; ATLAS-TDR-020; CERN-LHCC-2013-006; ATLAS-TDR-020"
+  },
+  {
+   "recid": "1614084",
+   "title": "Fast TracKer (FTK) Technical Design Report",
+   "date": "2013-06-03",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2013-007; ATLAS-TDR-021"
+  },
+  {
+   "recid": "1236817",
+   "title": "Development and Study of Different Muon Track Reconstruction Algorithms for the Level-1 Trigger for the CMS Muon Upgrade with GEM Detectors",
+   "date": "2013-06-04",
+   "arxiv": "1306.0858",
+   "report_numbers": "CERN-THESIS-2013-042"
+  },
+  {
+   "recid": "1240499",
+   "title": "Performance of the ATLAS Liquid Argon Calorimeter after three years of LHC operation and plans for a future upgrade",
+   "date": "2013-06-28",
+   "arxiv": "1306.6756",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1246011",
+   "title": "A radiation-hard dual channel 4-bit pipeline for a 12-bit 40 MS/s ADC prototypewith extended dynamic range for the ATLAS Liquid Argon Calorimeter readout electronics upgradeat the CERN LHC",
+   "date": "2013-07-31",
+   "arxiv": "1308.0028",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1296374",
+   "title": "Low mass hybrid pixel detectors for the high luminosity LHC upgrade",
+   "date": "2013-08-22",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2013-219; BONN-IR-2013-18"
+  },
+  {
+   "recid": "1615722",
+   "title": "Technical Design Report for the Phase-I Upgrade of the ATLAS TDAQ System",
+   "date": "2013-09-20",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2013-018; ATLAS-TDR-023"
+  },
+  {
+   "recid": "1381411",
+   "title": "Development and operation of tracking detectors in silicon technology for the LHCb upgrade",
+   "date": "2013-12-23",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2013-373"
+  },
+  {
+   "recid": "1302158",
+   "title": "ATLAS Nightly Build System Upgrade",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1315582",
+   "title": "Performance of the ATLAS Liquid Argon Calorimeter after three years of LHC operation and plans for a future upgrade",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1316918",
+   "title": "Upgrade of the ALICE muon trigger electronics",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1320910",
+   "title": "Upgrade of the Trigger Readout System of the ATLAS Liquid Argon Calorimeters",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1339782",
+   "title": "Electrical Tests of the ATLAS Phase-II Strip Tracker Upgrade",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2014-183"
+  },
+  {
+   "recid": "1367376",
+   "title": "The upgrade of the ATLAS High Level Trigger and data acquisition systems and their integration",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1601429",
+   "title": "Search for Dark Matter in the Upgraded High Luminosity LHC at CERN: Sensitivity of ATLAS phase II upgrade to dark matter production",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1768369",
+   "title": "A Silicon Strip Detector for the Phase II High Luminosity Upgrade of the ATLAS Detector at the Large Hadron Collider",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "queue_pos": 42,
+ "field": "grav_waves",
+ "baseline": {
+  "recid": "625917",
+  "title": "Detector Description and Performance for the First Coincidence Observations between LIGO and GEO",
+  "date": "2003-08",
+  "collaboration": "LIGO Scientific",
+  "journal": "Nucl.Instrum.Meth.A 517 154 (2004)",
+  "arxiv": "gr-qc/0308043"
+ },
+ "n_candidate_docs": 0,
+ "candidate_upgrade_docs": []
+}

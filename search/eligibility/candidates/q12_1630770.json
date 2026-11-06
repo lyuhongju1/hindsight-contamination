@@ -1,0 +1,29 @@
+{
+ "queue_pos": 12,
+ "field": "dark_matter",
+ "baseline": {
+  "recid": "1630770",
+  "title": "Initial Performance of the COSINE-100 Experiment",
+  "date": "2017-10-15",
+  "collaboration": "",
+  "journal": "Eur.Phys.J.C 78 107 (2018)",
+  "arxiv": "1710.05299"
+ },
+ "n_candidate_docs": 2,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "2774580",
+   "title": "Upgrade of the NaI(Tl) crystal encapsulation for the NEON experiment",
+   "date": "2024-04-02",
+   "arxiv": "2404.03691",
+   "report_numbers": "JINST 19 P10020"
+  },
+  {
+   "recid": "2846743",
+   "title": "Radiopurity measurements of liquid scintillator for the COSINE-100 Upgrade",
+   "date": "2024-11-07",
+   "arxiv": "2411.05256",
+   "report_numbers": ""
+  }
+ ]
+}

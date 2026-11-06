@@ -1,0 +1,14 @@
+{
+ "queue_pos": 21,
+ "field": "grav_waves",
+ "baseline": {
+  "recid": "1704344",
+  "title": "KAGRA: 2.5 Generation Interferometric Gravitational Wave Detector",
+  "date": "2018-11-20",
+  "collaboration": "KAGRA",
+  "journal": "Nature Astron. 3 35 (2019)",
+  "arxiv": "1811.08079"
+ },
+ "n_candidate_docs": 0,
+ "candidate_upgrade_docs": []
+}

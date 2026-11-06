@@ -1,0 +1,14 @@
+{
+ "queue_pos": 14,
+ "field": "grav_waves",
+ "baseline": {
+  "recid": "1111836",
+  "title": "Virgo: a laser interferometer to detect gravitational waves",
+  "date": "2012",
+  "collaboration": "VIRGO",
+  "journal": "JINST 7 P03012 (2012)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 0,
+ "candidate_upgrade_docs": []
+}

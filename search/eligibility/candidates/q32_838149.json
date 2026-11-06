@@ -1,0 +1,197 @@
+{
+ "queue_pos": 32,
+ "field": "collider",
+ "baseline": {
+  "recid": "838149",
+  "title": "Design and Construction of the BESIII Detector",
+  "date": "2009-11",
+  "collaboration": "BESIII",
+  "journal": "Nucl.Instrum.Meth.A 614 345 (2010)",
+  "arxiv": "0911.4960"
+ },
+ "n_candidate_docs": 26,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1127597",
+   "title": "A GEANT4 Simulation Studyof BESIII endcap TOF Upgrade",
+   "date": "2012-08",
+   "arxiv": "1208.3049",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1223386",
+   "title": "Technical design report for the PANDA (AntiProton Annihilations at Darmstadt) Straw Tube Tracker",
+   "date": "2013",
+   "arxiv": "1205.5441",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1236192",
+   "title": "Prototype of time digitizing system for BESIII endcap TOF upgrade",
+   "date": "2013-05-30",
+   "arxiv": "1305.7033",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1297629",
+   "title": "MRPC detector for the upgrade of BESIII E-TOF",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1295487",
+   "title": "Test of high time resolution MRPC with different readout modes for the BESIII upgrade",
+   "date": "2014-05-08",
+   "arxiv": "1405.2115",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1307416",
+   "title": "Simulation of the BESIII Endcap Time of Flight Upgrade",
+   "date": "2014-07-23",
+   "arxiv": "1407.6168",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2941691",
+   "title": "Major upgrade for the Beijing Electron-Positron Collider and its physics results",
+   "date": "2014-09-23",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1319697",
+   "title": "MRPC detector for the BESIII E-TOF upgrade",
+   "date": "2014-09-30",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1395734",
+   "title": "CEPC-SPPC Preliminary Conceptual Design Report. 1. Physics and Detector",
+   "date": "2015-03",
+   "arxiv": "",
+   "report_numbers": "IHEP-CEPC-DR-2015-01; IHEP-TH-2015-01; IHEP-EP-2015-01"
+  },
+  {
+   "recid": "1401216",
+   "title": "Upgrade of Beam Energy Measurement System at BEPC-II",
+   "date": "2015-10-27",
+   "arxiv": "1510.08167",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1407138",
+   "title": "The cosmic ray test of MRPCs for the BESIII ETOF upgrade",
+   "date": "2015-11-28",
+   "arxiv": "1511.08959",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1426521",
+   "title": "The test of the electronics system for the BESIII ETOF upgrade",
+   "date": "2016-03-07",
+   "arxiv": "1603.02073",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1444986",
+   "title": "The upgrade system of BESIII ETOF with MRPC technology",
+   "date": "2016-04-10",
+   "arxiv": "1604.02701",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1456791",
+   "title": "Monte-Carlo study of the MRPC prototype for the upgrade of BESIII",
+   "date": "2016-05-07",
+   "arxiv": "1605.02155",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1513368",
+   "title": "BESIII ETOF upgrade readout electronics commissioning",
+   "date": "2017-01-12",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2731162",
+   "title": "Study of MRPC technology for BESIII endcap-TOF upgrade",
+   "date": "2017-12-01",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1671900",
+   "title": "The Upgrade of Endcap TOF in BESIII",
+   "date": "2018-05-03",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1715000",
+   "title": "Evidence for an $\\eta_c$(1S)$\\pi^-$ exotic resonance at LHCb and development of the Experiment Control System for the RICH upgrade",
+   "date": "2018-12",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2018-243"
+  },
+  {
+   "recid": "1727075",
+   "title": "Development of MAPS-based detector ladders for the BESIII inner tracker upgrade",
+   "date": "2019-04-21",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2062137",
+   "title": "Operation of the new CGEM Inner Tracker for the Upgrade of the BESIII Experiment",
+   "date": "2022-02-17",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2094719",
+   "title": "The CGEM-IT: An Upgrade for the BESIII Experiment",
+   "date": "2022-04-28",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2646631",
+   "title": "STCF conceptual design report (Volume 1): Physics & detector",
+   "date": "2023-03-28",
+   "arxiv": "2303.15790",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2781036",
+   "title": "Technical Design Report of the Spin Physics Detector at NICA",
+   "date": "2024-04-12",
+   "arxiv": "2404.08317",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2841399",
+   "title": "Semileptonic decays of charmed mesons at LHCb and monitoring of the Upgrade I Vertex Locator",
+   "date": "2024-05-29",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2898516",
+   "title": "R&D of KLM Upgrade for Direct Measurement of Neutral Hadron Momentum via Time-of-Flight in Belle II",
+   "date": "2025-03-08",
+   "arxiv": "2503.06128",
+   "report_numbers": ""
+  },
+  {
+   "recid": "3087334",
+   "title": "Direct wind control software of the BEPCII Upgrade superconducting magnet",
+   "date": "2025-04-30",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

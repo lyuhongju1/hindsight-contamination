@@ -1,0 +1,29 @@
+{
+ "queue_pos": 72,
+ "field": "collider",
+ "baseline": {
+  "recid": "878496",
+  "title": "Studies of the performance of the ATLAS detector using cosmic-ray muons",
+  "date": "2010-11",
+  "collaboration": "ATLAS",
+  "journal": "Eur.Phys.J.C 71 1593 (2011)",
+  "arxiv": "1011.6665"
+ },
+ "n_candidate_docs": 2,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1503524",
+   "title": "Demonstrator System for the Phase-I Trigger Readout Upgrade of the ATLAS Liquid Argon Calorimeter at the LHC",
+   "date": "2016-10-20",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2016-150"
+  },
+  {
+   "recid": "1831492",
+   "title": "The search for new physics in the diphoton decay channel and the upgrade of the Tile-Calorimeter electronics of the ATLAS detector",
+   "date": "2017",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

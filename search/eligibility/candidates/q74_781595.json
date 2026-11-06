@@ -1,0 +1,22 @@
+{
+ "queue_pos": 74,
+ "field": "collider",
+ "baseline": {
+  "recid": "781595",
+  "title": "The WASA Detector Facility at CELSIUS",
+  "date": "2008-03",
+  "collaboration": "CELSIUS/WASA",
+  "journal": "Nucl.Instrum.Meth.A 594 339 (2008)",
+  "arxiv": "0803.2657"
+ },
+ "n_candidate_docs": 1,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1781672",
+   "title": "Design Studies for a Tracking Upgrade of the Crystal Barrel Experiment at ELSA and Installation of a Tracking Test Bench",
+   "date": "2010",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "queue_pos": 4,
+ "field": "double_beta",
+ "baseline": {
+  "recid": "1634658",
+  "title": "Upgrade for Phase II of the Gerda experiment",
+  "date": "2017-11-04",
+  "collaboration": "GERDA",
+  "journal": "Eur.Phys.J.C 78 388 (2018)",
+  "arxiv": "1711.01452"
+ },
+ "n_candidate_docs": 14,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1613897",
+   "title": "Mitigation of$^{42}$ Ar/$^{42}$ K background for the GERDA Phase II experiment",
+   "date": "2017-08-01",
+   "arxiv": "1708.00226",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1654913",
+   "title": "Virtual depth by active background suppression: Revisiting the cosmic muon induced background of GERDA Phase II",
+   "date": "2018-02-14",
+   "arxiv": "1802.05040",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1664516",
+   "title": "Improved Limit on Neutrinoless Double-$\\beta$ Decay of $^{76}$Ge from GERDA Phase II",
+   "date": "2018-03-26",
+   "arxiv": "1803.11100",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1771747",
+   "title": "Search for neutrinoless double beta decay with GERDA Phase II",
+   "date": "2018-10-09",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1733421",
+   "title": "Recent results from GERDA Phase II",
+   "date": "2018-12-14",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1716233",
+   "title": "Characterization of 30$^{76}$Ge enriched Broad Energy Ge detectors for GERDA Phase II",
+   "date": "2019-01-19",
+   "arxiv": "1901.06590",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1752720",
+   "title": "Modeling of GERDA Phase II data",
+   "date": "2019-09-05",
+   "arxiv": "1909.02522",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1792260",
+   "title": "Post-upgrade performance of GERDA Phase II",
+   "date": "2020-03-21",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1892243",
+   "title": "The Large Enriched Germanium Experiment for Neutrinoless $\\beta\\beta$ Decay",
+   "date": "2021-07-23",
+   "arxiv": "2107.11462",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2039321",
+   "title": "Pulse shape analysis in Gerda Phase II",
+   "date": "2022-02-27",
+   "arxiv": "2202.13355",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2151699",
+   "title": "Modeling of the GERDA data after the upgrade",
+   "date": "2022-09",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2147510",
+   "title": "Search for exotic physics in double-β decays with GERDA Phase II",
+   "date": "2022-09-04",
+   "arxiv": "2209.01671",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2611028",
+   "title": "Liquid argon light collection and veto modeling in GERDA Phase II",
+   "date": "2022-12-06",
+   "arxiv": "2212.02856",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2755757",
+   "title": "Latest results from GERDA Phase II experiment on $^{76}$Ge double-beta decay and exotic decay searches",
+   "date": "2024-01-30",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

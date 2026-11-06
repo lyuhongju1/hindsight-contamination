@@ -18,3 +18,7 @@ Assessing all 81 baselines would require dating and alternative-finding agents f
 ## Effect on the frozen seed
 
 None. The same seed and the same caps are used.
+
+## A1 addendum: I6 boundary (2026-11-06, before any eligibility assessment)
+
+I6 requires the adoption commitment to be public ≥ 18 months before the earliest training cutoff among the confirmatory models. The earliest such cutoff is taken, conservatively, as early 2025. The I6 boundary is therefore fixed at **commitment date ≤ 2023-06-30**.

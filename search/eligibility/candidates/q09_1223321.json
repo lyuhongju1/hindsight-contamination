@@ -1,0 +1,57 @@
+{
+ "queue_pos": 9,
+ "field": "precision",
+ "baseline": {
+  "recid": "1223321",
+  "title": "The MEG detector for ${\\mu}^+\\to e^+{\\gamma}$ decay search",
+  "date": "2013-03-10",
+  "collaboration": "",
+  "journal": "Eur.Phys.J.C 73 2365 (2013)",
+  "arxiv": "1303.2348"
+ },
+ "n_candidate_docs": 6,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "1373220",
+   "title": "New result from the MEG Experiment at PSI and the MEG upgrade",
+   "date": "2015-03",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1796513",
+   "title": "Improving the search for the $\\mu\\to e\\gamma$ decay: the final MEG result and the new tracker for its upgrade",
+   "date": "2017-05-29",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1675260",
+   "title": "nEXO Pre-Conceptual Design Report",
+   "date": "2018-05-28",
+   "arxiv": "1805.11142",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1793149",
+   "title": "Towards a new generation of Charged Lepton Flavour Violation searches at the Paul Scherrer Institut: The MEG upgrade and the Mu3e experiment",
+   "date": "2020",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1890347",
+   "title": "The Search for μ+ → e+γ with 10–14 Sensitivity: The Upgrade of the MEG Experiment",
+   "date": "2021-07-22",
+   "arxiv": "2107.10767",
+   "report_numbers": ""
+  },
+  {
+   "recid": "2768133",
+   "title": "Test and characterization of SiPMs for the upgrade of MEGII high resolution Timing Counter",
+   "date": "2024-03-05",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

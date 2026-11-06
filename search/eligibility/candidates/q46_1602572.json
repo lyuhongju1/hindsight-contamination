@@ -1,0 +1,14 @@
+{
+ "queue_pos": 46,
+ "field": "dark_matter",
+ "baseline": {
+  "recid": "1602572",
+  "title": "Performance of the EDELWEISS-III experiment for direct dark matter searches",
+  "date": "2017-06-04",
+  "collaboration": "EDELWEISS",
+  "journal": "JINST 12 P08010 (2017)",
+  "arxiv": "1706.01070"
+ },
+ "n_candidate_docs": 0,
+ "candidate_upgrade_docs": []
+}

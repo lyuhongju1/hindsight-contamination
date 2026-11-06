@@ -1,0 +1,575 @@
+{
+ "queue_pos": 59,
+ "field": "collider",
+ "baseline": {
+  "recid": "796887",
+  "title": "The CMS Experiment at the CERN LHC",
+  "date": "2008-08",
+  "collaboration": "CMS",
+  "journal": "JINST 3 S08004 (2008)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 515,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "851670",
+   "title": "The upgrade programme of the CMS Tracker at SLHC",
+   "date": "2008",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "818661",
+   "title": "CMS pixel detector upgrade",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "870588",
+   "title": "The upgrade of the CMS tracker for super-LHC",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "878040",
+   "title": "The CMS track trigger upgrade for SLHC",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "878045",
+   "title": "Upgrade of the CMS pixel detector",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "878046",
+   "title": "CMS tracker upgrade",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "880582",
+   "title": "Upgrade of the tracking and trigger system ATLAS and CMS",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "895378",
+   "title": "The super-LHC, a luminosity upgrade",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "886744",
+   "title": "The CMS pixel detector and challenges (prospectives) for its upgrade",
+   "date": "2009-06-30",
+   "arxiv": "",
+   "report_numbers": "CMS-CR-2009-178"
+  },
+  {
+   "recid": "866095",
+   "title": "Upgrade plans for the CMS pixel barrel detector",
+   "date": "2010",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "880432",
+   "title": "Developments for the Upgrade of the CMS HCAL Front-End Electronics",
+   "date": "2010",
+   "arxiv": "",
+   "report_numbers": "FERMILAB-CONF-10-746-PPD"
+  },
+  {
+   "recid": "881562",
+   "title": "Upgrade of the CSC endcap muon port card at CMS",
+   "date": "2010",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "886439",
+   "title": "CMS pixel upgrade project",
+   "date": "2010",
+   "arxiv": "1101.5977",
+   "report_numbers": ""
+  },
+  {
+   "recid": "893431",
+   "title": "Tracking trigger upgrade plans for CMS at SLHC",
+   "date": "2010",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "945777",
+   "title": "The upgrade of the CMS pixel detector for LHC phase 1",
+   "date": "2010-09",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "902160",
+   "title": "CMS Hadron Endcap calorimeter upgrade studies for Super-LHC",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "902214",
+   "title": "Study of various photomultiplier tubes for window events: Upgrade \\&  for CMS Hadron Forward calorimeters",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "918152",
+   "title": "Upgrade of the CMS tracker",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "946047",
+   "title": "Planar sensors for the upgrade of the CMS pixel detector",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1086720",
+   "title": "A DC-DC converter based powering scheme for the upgrade of the CMS pixel detector",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1090802",
+   "title": "Powering for future detectors: DC-DC converters for the CMS tracker upgrade",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1206732",
+   "title": "CMS silicon tracker upgrade for HL-LHC",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1301299",
+   "title": "The Upgrade Project for the CMS Pixel Detector",
+   "date": "2011",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "914711",
+   "title": "A Level 1 Tracking Trigger for the CMS Experiment at the LHC Phase 2 Luminosity Upgrade",
+   "date": "2011-01-30",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2011-029; CMS-TS-2011-008"
+  },
+  {
+   "recid": "1217459",
+   "title": "CMS Hadronic Endcap Calorimeter Upgrade R&D  Studies",
+   "date": "2011-06",
+   "arxiv": "",
+   "report_numbers": "CMS-CR-2011-263"
+  },
+  {
+   "recid": "930849",
+   "title": "Study of the readout chip and silicon sensor degradation for the CMS pixel upgrade",
+   "date": "2011-10",
+   "arxiv": "1110.1173",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1184948",
+   "title": "The Upgrade of the CMS RPC System during the First LHC Long Shutdown",
+   "date": "2012",
+   "arxiv": "1209.1979",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1202569",
+   "title": "Tests of CMS hadron forward calorimeter upgrade readout box prototype",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1207739",
+   "title": "Upgrade of the cathode strip chamber level 1 trigger optical links at CMS",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1219217",
+   "title": "Upgrade of the CMS Hadron Calorimeter for an Upgraded LHC",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1247136",
+   "title": "Status of the CMS detector and upgrade plans",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1379758",
+   "title": "Upgrade of the CMS Tracker for the LHC at High Luminosity",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1519498",
+   "title": "Evaporative CO$_2$ cooling system for the upgrade of the CMS pixel detector at CERN",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1429430",
+   "title": "A study of materials used for muon chambers at the CMS Experiment at the LHC: interaction with gas, new materials and new technologies for detector upgrade",
+   "date": "2012-02-16",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2012-426"
+  },
+  {
+   "recid": "1193236",
+   "title": "CMS Technical Design Report for the Pixel Detector Upgrade",
+   "date": "2012-09-26",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2012-016; CMS-TDR-011"
+  },
+  {
+   "recid": "1203039",
+   "title": "Beam test results for new full-scale GEM prototypes for a future upgrade of the CMS high-$\\eta$ Muon System",
+   "date": "2012-11",
+   "arxiv": "1211.3939",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1323564",
+   "title": "A High-Rate Beam Test for the CMS Pixel Detector Phase I Upgrade",
+   "date": "2012-11-02",
+   "arxiv": "",
+   "report_numbers": "IEKP-KA-2012-15; CERN-THESIS-2012-445"
+  },
+  {
+   "recid": "1220650",
+   "title": "Low-cost, high-precision propagation delay measurement of 12-fibre MPO cables for the CMS DT electronics upgrade",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1221644",
+   "title": "CuOF: An electrical to optical interface for the upgrade of the CMS muon Drift Tubes system",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1223386",
+   "title": "Technical design report for the PANDA (AntiProton Annihilations at Darmstadt) Straw Tube Tracker",
+   "date": "2013",
+   "arxiv": "1205.5441",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1223758",
+   "title": "Trigger electronics upgrade of PHENIX muon tracker",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1247132",
+   "title": "The Phase 1 Upgrade of the CMS Pixel Detector",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1257260",
+   "title": "Performance and Upgrade Plans for the CMS Hadron Calorimeter at the LHC",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1257864",
+   "title": "ATLAS and CMS Upgrade Plans",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1290805",
+   "title": "The upgrade of the CMS muon system",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1290810",
+   "title": "Upgrade of the CMS Electromagnetic Calorimeter for High-Luminosity LHC Operation",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1290816",
+   "title": "Upgrade of the CMS Tracker",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1304043",
+   "title": "Status of the Triple-GEM project for the upgrade of the CMS Muon System",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1306115",
+   "title": "CMS outer tracker upgrade plans",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": "CMS-CR-2014-008"
+  },
+  {
+   "recid": "1309229",
+   "title": "Evaluation of irradiated barrel detector modules for the upgrade of the CMS pixel detector",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1393844",
+   "title": "CMS hadron forward calorimeter phase-I upgrade status",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1683792",
+   "title": "Robustness studies of the CMS tracker for the LHC upgrade phase I",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2013-480"
+  },
+  {
+   "recid": "1683793",
+   "title": "Testing two design pixel detector readout components for the phase I upgrade of the CMS experiment",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2013-479"
+  },
+  {
+   "recid": "1852978",
+   "title": "Measurement of the Inclusive $pp \\rightarrow Z/\\gamma^* \\rightarrow e^+e^-$ Cross Section at $\\sqrt {s} = 7$ TeV with the ATLAS Experiment and Design Studies for a First Level Track Trigger for the AT",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1236817",
+   "title": "Development and Study of Different Muon Track Reconstruction Algorithms for the Level-1 Trigger for the CMS Muon Upgrade with GEM Detectors",
+   "date": "2013-06-04",
+   "arxiv": "1306.0858",
+   "report_numbers": "CERN-THESIS-2013-042"
+  },
+  {
+   "recid": "1261310",
+   "title": "CMS Technical Design Report for the Level-1 Trigger Upgrade",
+   "date": "2013-06-18",
+   "arxiv": "",
+   "report_numbers": "CERN-LHCC-2013-011; CMS-TDR-12; CMS-TDR-012"
+  },
+  {
+   "recid": "1246782",
+   "title": "The Need for an R&D and Upgrade Program for CMS Software and Computing",
+   "date": "2013-08-06",
+   "arxiv": "1308.1247",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1266352",
+   "title": "Upgrade of the Muon Sorter in the Cathode Strip Chamber Level 1 Trigger System at CMS",
+   "date": "2013-11-20",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1381411",
+   "title": "Development and operation of tracking detectors in silicon technology for the LHCb upgrade",
+   "date": "2013-12-23",
+   "arxiv": "",
+   "report_numbers": "CERN-THESIS-2013-373"
+  },
+  {
+   "recid": "1301118",
+   "title": "Characterization of 1800 Hamamatsu R7600-M4 PMTs for CMS HF Calorimeter upgrade",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1316918",
+   "title": "Upgrade of the ALICE muon trigger electronics",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1320871",
+   "title": "Phase I and Phase II CMS upgrade",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1775937",
+   "title": "Position Resolution and Upgrade of the CMS Pixel Detector and Search for the Higgs Boson in the $\\tau^+ \\tau^-$ Final State",
+   "date": "2014",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1327605",
+   "title": "Development of a DC-DC conversion powering scheme for the CMS Phase-1 pixel upgrade",
+   "date": "2014-01-24",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1327606",
+   "title": "Studies on the upgrade of the muon system in the forward region of the CMS experiment at LHC with GEMs",
+   "date": "2014-01-29",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1287552",
+   "title": "Upgrade of the CMS tracker",
+   "date": "2014-03-25",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1288175",
+   "title": "Development of the data acquisition system for the Triple-GEM detectors for the upgrade of the CMS forward muon spectrometer",
+   "date": "2014-03-27",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1291842",
+   "title": "A study of film and foil materials for the GEM detector proposed for the CMS muon system upgrade",
+   "date": "2014-04-16",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1296132",
+   "title": "Irradiation study of different silicon materials for the CMS tracker upgrade",
+   "date": "2014-04-24",
+   "arxiv": "",
+   "report_numbers": "DESY-THESIS-2014-010; CERN-THESIS-2014-400"
+  },
+  {
+   "recid": "1294936",
+   "title": "Fast Beam Condition Monitor for CMS: performance and upgrade",
+   "date": "2014-05-08",
+   "arxiv": "1405.1926",
+   "report_numbers": "DESY-14-070; CMS-CR-2014-062"
+  },
+  {
+   "recid": "1296950",
+   "title": "The upgrade programme of the major experiments at the Large Hadron Collider",
+   "date": "2014-05-14",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1339781",
+   "title": "Position Resolution and Upgrade of the CMS Pixel Detector and Search for the Higgs Boson in the $\\tau^+\\tau^-$ Final State",
+   "date": "2014-06-13",
+   "arxiv": "",
+   "report_numbers": "IEKP-KA-2014-09; CERN-THESIS-2014-364"
+  },
+  {
+   "recid": "1360074",
+   "title": "Impact of the radiation background on the CMS muon high-eta upgrade for the LHC high luminosity scenario",
+   "date": "2014-06-27",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1360173",
+   "title": "CMS Hadron Forward Calorimeter Phase I Upgrade Status",
+   "date": "2014-06-27",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1360174",
+   "title": "The CMS electromagnetic calorimeter barrel upgrade for High-Luminosity LHC",
+   "date": "2014-06-28",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1360175",
+   "title": "Evolution studies of the CMS endcap calorimeter response and implications for the High-Luminosity LHC upgrade",
+   "date": "2014-06-28",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1859814",
+   "title": "Characterisation and Beam Test Data Analysis of 3D Silicon Pixel Detectors for the ATLAS Upgrade",
+   "date": "2014-08-01",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1375650",
+   "title": "Perspectives for the Phase II Upgrade of CMS",
+   "date": "2014-09",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1360057",
+   "title": "The Triple-GEM Project for the Phase 2 Upgrade of the CMS Muon System",
+   "date": "2014-09-08",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1320565",
+   "title": "Test Beam Campaigns for the CMS Phase I Upgrade Pixel Readout Chip",
+   "date": "2014-10-02",
+   "arxiv": "1410.1399",
+   "report_numbers": "CMS-CR-2014-231"
+  }
+ ]
+}

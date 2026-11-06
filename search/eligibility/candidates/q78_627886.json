@@ -1,0 +1,92 @@
+{
+ "queue_pos": 78,
+ "field": "collider",
+ "baseline": {
+  "recid": "627886",
+  "title": "PHENIX detector overview",
+  "date": "2003",
+  "collaboration": "PHENIX",
+  "journal": "Nucl.Instrum.Meth.A 499 469 (2003)",
+  "arxiv": ""
+ },
+ "n_candidate_docs": 11,
+ "candidate_upgrade_docs": [
+  {
+   "recid": "691777",
+   "title": "A Silicon Vertex Tracker upgrade for the PHENIX experiment at RHIC",
+   "date": "2005",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "693536",
+   "title": "PHENIX silicon vertex tracker upgrade",
+   "date": "2005",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "702151",
+   "title": "The PHENIX forward detector upgrade",
+   "date": "2005",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "777747",
+   "title": "Silicon Vertex Tracker for PHENIX Upgrade at RHIC: Capabilities and Detector Technology",
+   "date": "2007",
+   "arxiv": "0801.2947",
+   "report_numbers": ""
+  },
+  {
+   "recid": "747300",
+   "title": "PHENIX Upgrade: Novel Stripixel Detector for Heavy Quark Detection and Proton Spin Structure Measurements at RHIC Energies",
+   "date": "2007-03",
+   "arxiv": "nucl-ex/0703041",
+   "report_numbers": ""
+  },
+  {
+   "recid": "754481",
+   "title": "DAQ for Forward Silicon Tracker Upgrade for PHENIX",
+   "date": "2007-04",
+   "arxiv": "",
+   "report_numbers": "RT2007-TD-DAQ06"
+  },
+  {
+   "recid": "1398977",
+   "title": "The current performance and upgrade plans for the PHENIX data acquisition",
+   "date": "2008-10",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "811131",
+   "title": "Upgrade of the calibration procedure for a STAR time-of-flight detector with new electronics",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "827444",
+   "title": "Assembly, testing, and installation of the fast RPC muon trigger upgrade for PHENIX",
+   "date": "2009",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1094436",
+   "title": "Production of RPC gaps for the PHENIX upgrade",
+   "date": "2012",
+   "arxiv": "",
+   "report_numbers": ""
+  },
+  {
+   "recid": "1223758",
+   "title": "Trigger electronics upgrade of PHENIX muon tracker",
+   "date": "2013",
+   "arxiv": "",
+   "report_numbers": ""
+  }
+ ]
+}

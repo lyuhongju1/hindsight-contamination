@@ -1,0 +1,14 @@
+{
+ "queue_pos": 26,
+ "field": "dark_matter",
+ "baseline": {
+  "recid": "1820603",
+  "title": "Axion Dark Matter Experiment: Detailed design and operations",
+  "date": "2020-09-30",
+  "collaboration": "ADMX",
+  "journal": "Rev.Sci.Instrum. 92 124502 (2021)",
+  "arxiv": "2010.00169"
+ },
+ "n_candidate_docs": 0,
+ "candidate_upgrade_docs": []
+}
