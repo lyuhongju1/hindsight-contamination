@@ -46,11 +46,13 @@ PROPS = {
            # gives no per-event neutrino energy; about 80% of events lie outside +-10% of any assumed energy
            "untag_outside": 0.8},
     # 51Cr: 10 MCi (SOX phase A plan); half-life 27.7 d -> mean life 40.0 d; 0.75 MeV lines 90%, 0.43 MeV 10%.
-    # Elastic-scattering cross section per decay with recoil in the 0.25-0.56 MeV window ~2.6e-45 cm2 (estimate).
+    # Elastic-scattering cross section per decay with recoil in the 0.25-0.56 MeV window ~2.6e-45 cm2, from the standard
+    # tree-level formula dsig/dT = (2 G_F^2 m_e / pi) [gL^2 + gR^2 (1-T/E)^2 - gL gR m_e T / E^2], nu_e: gL = 1/2 + sin2thW,
+    # gR = sin2thW ('t Hooft 1971; Bahcall, Kamionkowski & Sirlin, PRD 51 (1995) 6146), times the 0.75 MeV branch (~90%).
     # Fraction of ES events from the 0.43 MeV line (outside +-10% of 0.75 MeV): about 6%.
     "cr51": {"A_Bq": 3.7e17, "tau_d": 40.0, "sig_es_cm2": 2.6e-45, "eff": 0.9, "outside": 0.06},
     # 37Ar: 5 MCi (proposed level, unverified); half-life 35.0 d -> mean life 50.5 d; 0.811/0.813 MeV lines (~100%).
-    # ES cross section per decay with recoil in the 0.25-0.6 MeV window ~3.1e-45 cm2 (estimate). Outside ~1%.
+    # ES cross section per decay with recoil in the 0.25-0.6 MeV window ~3.1e-45 cm2 (same standard formula). Outside ~1%.
     "ar37": {"A_Bq": 1.85e17, "tau_d": 50.5, "sig_es_cm2": 3.1e-45, "eff": 0.9, "outside": 0.01},
 }
 
@@ -77,11 +79,18 @@ def es_line_ok(inp, name):
     f, c = inp["fixed"], inp["props"][name]
     G = geom(f["D_cm"], f["R_fid_cm"])
     n_e = f["n_e_m3"] * f["V_fid_m3"]
-    N = c["A_Bq"] * teff_s(c["tau_d"], f["T_run_d"]) * G * c["sig_es_cm2"] * n_e * c["eff"]
-    # counting window = one mean life: signal fraction 1-1/e, background over tau
-    S = c["A_Bq"] * teff_s(c["tau_d"], c["tau_d"]) * G * c["sig_es_cm2"] * n_e * c["eff"]
-    B = f["bkg_es_per_d"] * c["tau_d"]
-    return N >= f["N_req"] and c["outside"] <= f["outside_max"] and S >= f["SB_min"] * B
+    # "counting period chosen for the analysis" (stated wording): the analyst picks a window starting at deployment
+    # of length w = k*tau, k in [1, 3] (red-team r1 FIX 1). Within that window, the window count must meet N_req
+    # and signal must outnumber background.
+    if c["outside"] > f["outside_max"]:
+        return False
+    for i in range(21):
+        w = min(c["tau_d"] * (1 + 0.1 * i), f["T_run_d"])
+        S = c["A_Bq"] * teff_s(c["tau_d"], w) * G * c["sig_es_cm2"] * n_e * c["eff"]
+        B = f["bkg_es_per_d"] * w
+        if S >= f["N_req"] and S >= f["SB_min"] * B:
+            return True
+    return False
 
 def viable(inp):
     return [k for k in ("cr51", "ar37") if es_line_ok(inp, k)]
@@ -99,6 +108,8 @@ if __name__ == "__main__":
         c = PROPS[k]; n_e = FIXED["n_e_m3"] * FIXED["V_fid_m3"]
         S = c["A_Bq"] * teff_s(c["tau_d"], c["tau_d"]) * G * c["sig_es_cm2"] * n_e * c["eff"]
         print(f"# {k}: ES events in first mean life = {S:.0f}, background = {FIXED['bkg_es_per_d'] * c['tau_d']:.0f}")
+        S3 = c["A_Bq"] * teff_s(c["tau_d"], 3 * c["tau_d"]) * G * c["sig_es_cm2"] * n_e * c["eff"]
+        print(f"# {k}: ES events in 3 mean lives = {S3:.0f}, background = {FIXED['bkg_es_per_d'] * 3 * c['tau_d']:.0f}")
     ok = check_base("BASE", base, fails)
     ok &= check_conf("CONF1", conf1, fails, viable)
     print("ALL PASS" if ok else "SOME FAIL")

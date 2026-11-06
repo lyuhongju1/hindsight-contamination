@@ -6,5 +6,5 @@ A shielded access chamber, 1 m across, lies beneath the detector with its centre
 The collaboration now wants to test for oscillation into a sterile state with a mass splitting near 1 eV2, using an intense artificial neutrino emitter placed in that chamber.
 The test requires at least 1500 source-induced interactions in the fiducial volume within 18 months of data.
 For at least 80% of those interactions, the neutrino energy must be known to within 10%, so that the oscillation pattern can be traced in distance over energy.
-Source-induced interactions must outnumber background events in the selected window over the counting period.
+Over the counting period chosen for the analysis, source-induced interactions in the selected energy window must outnumber background events in that window.
 The target liquid stays as it is, because the solar-neutrino programme continues.

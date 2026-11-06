@@ -1,7 +1,9 @@
 # BASE: Ce IBD events in 18 months = 5063.0
 # CONF1: Ce IBD events in 18 months = 10.1
 # cr51: ES events in first mean life = 13383, background = 4000
+# cr51: ES events in 3 mean lives = 20117, background = 12000
 # ar37: ES events in first mean life = 10072, background = 5050
+# ar37: ES events in 3 mean lives = 15141, background = 15150
 BASE     adopted_passes_nominal=True PASS
 CONF1    adopted_fails_nominal=True viable_nominal=['cr51', 'ar37'] (n_survivors=2) adopted_fails=1.000 >=1_viable=0.994 PASS
 ALL PASS
