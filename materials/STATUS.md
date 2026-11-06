@@ -12,7 +12,7 @@
 | p06 AGATA | Ethernet readout | — | — | not started |
 | p07 MEG | downstream RDC | magnetic mirror reflects low-energy positrons upstream | 1 (upstream tagger) | **r1: FIX-or-DROP (a near-target downstream RDC still works; item not narrowed); fix round queued** |
 | p08 COSINE | in-house crystal growth | home institute at 3,600 m → cosmogenic tritium | 2 (Alpha Spectra marginal; RMD/Astro-Grade) | **r1 fixes applied (gates pass; R0 x0.37-1.5, below the default x0.5 floor); r2 running** |
-| p09 NEMO-3 | 8-in. high-QE PMTs | granularity: 15 cm two-electron separation vs >=210 mm cell pitch | 1 (76 mm PMTs on small cubes) | **gates pass; r1 running** |
+| p09 NEMO-3 | 8-in. high-QE PMTs | granularity: 15 cm two-electron separation vs >=210 mm cell pitch | 1 (76 mm PMTs on small cubes) | **r1: FIX (foil mass 9 kg; survivor resolution re-derivation); fix round running** |
 | p10 Borexino | 144Ce-144Pr source | fully deuterated scintillator kills IBD | 2 (51Cr, 37Ar) | r1: CONF1 OK, wording/kprobe FIX → fixed; gates pass. **Red-team cleared** |
 | p11 KAGRA | optical levers | — | — | not started |
 | p12 MiniBooNE | PPO doping | — | — | not started |
@@ -26,3 +26,4 @@
 - **p02:** UG argon + any radon-progeny measure (> 2.25×) = C.
 - **p05:** a fill with < 50% LAB by volume ≠ adopted item; LAB plus a density-raising co-solvent or additive = C (workaround).
 - **p04:** n/a (zero-unit pair).
+- **p09:** 8-inch tubes reading small cells through light guides = C (workaround).
