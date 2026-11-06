@@ -37,3 +37,34 @@
   - max_spacing_km = 1.5 against 1.4: near-equal values, so a coin flip.
   - zen_max 65 against 55.
 - Following the coordinator's instruction, I made no changes to the encoding or the property values in this revision. These are left for a decision.
+
+## Post-run changes (keylib v4.1 + unc revision, 2026-11-05; coordinator-authorised)
+Stated numbers were changed after the first run. Each change is logged here with its reason.
+1. Grid spacing 1.4 km -> 0.7 km, in BASE, CONF1 and CONF2.
+   - Reason: knife-edge against the per-station options' cited 1.5 km (the grid for which their resolutions are quoted).
+   - Coherence side effect: the area changes from 2,300 km2 to 570 km2 (1,350 x 0.866 x 0.7^2), in all three files. 0.7 km is chosen to avoid the real 0.75 km infill value.
+2. BASE/CONF2 zenith band 0-55 -> 0-35 deg.
+   - Reason: knife-edge against the cited ~65 deg limit, once the zenith is encoded on the physical scale (sec theta).
+3. CONF1 zenith band 70-84 -> 80-84 deg (this is the CONF edit itself).
+   - Reason: knife-edge, radio "fully efficient from ~70 deg" against a band starting at 70.
+4. kprobe CONF1 angle changed from 75 to 82 deg to match the new band.
+
+## Re-encoding (no cited value changed)
+- Zenith is now encoded as sec(theta), the air-mass factor: atmospheric slant depth divided by vertical depth. This is the linear physical variable behind EM absorption and radio footprint size.
+- Energies are encoded in eV, not log10.
+- Options with no lower or upper zenith limit omit that key. This avoids a 1.0-against-1.0 coin flip.
+- No `unc` ranges were used. No source in the dossier states a precision for the decisive properties.
+
+## Fixed inputs (supersedes the earlier list)
+- spacing_km 0.7: grid geometry stated in line 1 (a definition of the instrument).
+- water_depth_m 1.3 / 0.25: the tank geometry stated in line 2.
+- duty_req 1.0: "full-time exposure" means a fraction of 1 by definition.
+- e_min_eV 1e19: the energy selection stated in line 6.
+- sec_zen_min, sec_zen_max: the band edges stated in line 8 (selection cuts).
+- res_req 0.30: the requirement stated in line 9. It is a stated threshold, not a measured quantity.
+- Still varied: station count, area, floor, number of PMTs, FD duty, and every option property.
+
+## Doubts added
+- Radio has no upper zenith limit in the key. The 85 deg in arXiv:2305.10104 is an analysis selection, not a detection limit, and the footprint grows with zenith. This is my reading and needs red-team review. With a cited 85 deg limit, the 84 deg band edge would be a knife-edge again.
+- The buried counter's 65 deg limit was set in round 1 as "vertical analysis". It is not an EM-absorption limit for a shielded counter. I kept it unchanged.
+- Each CONF has one survivor (n_survivors = 1): a covariate, now allowed by keylib v4.1.

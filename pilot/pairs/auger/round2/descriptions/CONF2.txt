@@ -1,9 +1,9 @@
-The Teral Plain Array is a ground array of 1,350 autonomous stations on a 1.4 km triangular grid covering about 2,300 km2 of high, dry grassland.
+The Teral Plain Array is a ground array of 1,350 autonomous stations on a 0.7 km triangular grid covering about 570 km2 of high, dry grassland.
 Each station is a closed polyethylene tank holding purified water to a depth of 0.25 m over an 11 m2 floor, viewed from above by two photomultipliers.
 Stations run on solar power and report through satellite timing and a radio link; all stations operate continuously.
 Each station records a single light signal in which shower electrons, photons and muons are mixed.
 Two fluorescence sites overlook the array; they measure the depth of shower maximum directly, but only on dark, clear nights, about 12% of the time.
 The goal is the mass composition of cosmic rays above 10^19 eV using the array's full-time exposure.
 This requires the muonic and electromagnetic components at ground level to be separated at each station, so that the muon number of every event is estimated.
-The composition programme uses showers with zenith angles from 0 to 55 degrees.
+The composition programme uses showers with zenith angles from 0 to 35 degrees.
 The muon number of each event must be estimated with a resolution of 30% or better at 10^19.5 eV.
