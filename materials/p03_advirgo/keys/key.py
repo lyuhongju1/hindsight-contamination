@@ -9,7 +9,7 @@ r2: the requirement is evaluated on 25 log-spaced frequencies over 20-800 Hz (ba
 The adopted item is modelled with a two-photon sideband model of a lossy detuned two-mirror resonator
 (complex reflection per sideband, loss vacuum added, then the stated total efficiency); for every draw the
 half-linewidth, detuning and injection squeeze angle are OPTIMISED to maximise the band-minimum improvement
-(coarse vectorised grid, then local refinement).
+(coarse vectorised grid 24 x 33 x 36, then multi-start local refinement).
 """
 import math, sys, os
 import numpy as np
@@ -62,7 +62,7 @@ def _rt_loss(inp):
     return (2 * fx["mirror_loss_floor"] + p["rt_loss_short_excess"]) if fx["L_aux_m"] < 50 else p["rt_loss_long"]
 
 def _fc_grid(fx, loss, g_in, D, th):
-    """Band-limited improvement (dB) for grids of input-coupling half-width g_in [Hz], detuning ratio
+    """Noise ratio (vs vacuum readout) for grids of input-coupling half-width g_in [Hz], detuning ratio
     D = Delta/gamma, and injection squeeze angle th. Returns array (..., N_FREQ) broadcast over inputs."""
     f, K = _band(fx)
     e2r = 10 ** (fx["src_dB"] / 10.0); s, a = 1.0 / e2r, e2r; eta = fx["eta"]
@@ -81,32 +81,32 @@ def _fc_grid(fx, loss, g_in, D, th):
     Nc = eta * (s - a) / 2 * (np.abs(v0) ** 2 - np.abs(v1) ** 2)
     Ns = eta * (s - a) / 2 * 2 * np.real(np.conj(v0) * v1)
     N = N0 + Nc * np.cos(2 * th) + Ns * np.sin(2 * th)
-    return -10 * np.log10(N / uu)
+    return N / uu        # noise ratio vs vacuum per frequency (improvement dB = -10 log10 of this)
 
 def fd_opt(inp, loss=None):
     """Optimise (g_in, Delta/gamma, theta) for the band-minimum improvement. Returns (bandmin_dB, params)."""
     fx = inp["fixed"]; loss = _rt_loss(inp) if loss is None else loss
-    lg = np.linspace(math.log(0.01), math.log(5000.0), 36)[:, None, None, None]
-    D = np.linspace(-4, 4, 49)[None, :, None, None]
-    th = np.linspace(0, math.pi, 72, endpoint=False)[None, None, :, None]
-    m = _fc_grid(fx, loss, np.exp(lg), D, th).min(axis=-1)
+    lg = np.linspace(math.log(0.01), math.log(5000.0), 24)[:, None, None, None]
+    D = np.linspace(-4, 4, 33)[None, :, None, None]
+    th = np.linspace(0, math.pi, 36, endpoint=False)[None, None, :, None]
+    m = -_fc_grid(fx, loss, np.exp(lg), D, th).max(axis=-1)   # maximise minus the worst-frequency noise ratio
     step0 = np.array([lg[1, 0, 0, 0] - lg[0, 0, 0, 0], D[0, 1, 0, 0] - D[0, 0, 0, 0], th[0, 0, 1, 0] - th[0, 0, 0, 0]])
     o = np.linspace(-1, 1, 7); best, x = -1e9, None
-    for flat in np.argsort(m, axis=None)[::-1][:6]:   # multi-start: refine the 6 best coarse points
+    for flat in np.argsort(m, axis=None)[::-1][:4]:   # multi-start: refine the 4 best coarse points
         i, j, k = np.unravel_index(flat, m.shape)
         xs = np.array([lg[i, 0, 0, 0], D[0, j, 0, 0], th[0, 0, k, 0]]); bs = m[i, j, k]; step = step0.copy()
-        for _ in range(12):   # local refinement: 7x7x7 grid of +-step, recentre, shrink x0.6
+        for _ in range(14):   # local refinement: 7x7x7 grid of +-step, recentre, shrink x0.6
             a_ = (xs[0] + o * step[0])[:, None, None, None]
             b_ = (xs[1] + o * step[1])[None, :, None, None]
             c_ = (xs[2] + o * step[2])[None, None, :, None]
-            mm = _fc_grid(fx, loss, np.exp(a_), b_, c_).min(axis=-1)
+            mm = -_fc_grid(fx, loss, np.exp(a_), b_, c_).max(axis=-1)
             i2, j2, k2 = np.unravel_index(np.argmax(mm), mm.shape)
             if mm[i2, j2, k2] >= bs:
                 bs = mm[i2, j2, k2]; xs = np.array([a_[i2, 0, 0, 0], b_[0, j2, 0, 0], c_[0, 0, k2, 0]])
             step = step * 0.6
         if bs > best: best, x = bs, xs
     g_l = C * loss / (4 * fx["L_aux_m"]) / (2 * math.pi)
-    return float(best), {"gamma_Hz": round(math.exp(x[0]) + g_l, 1), "Delta_over_gamma": round(float(x[1]), 2),
+    return dB(-float(best)), {"gamma_Hz": round(math.exp(x[0]) + g_l, 1), "Delta_over_gamma": round(float(x[1]), 2),
                          "theta_deg": round(math.degrees(x[2]) % 180, 1), "gamma_loss_Hz": round(g_l, 2)}
 
 def fd_improvement(inp): return (fd_opt(inp)[0],)

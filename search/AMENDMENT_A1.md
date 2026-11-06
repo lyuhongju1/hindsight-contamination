@@ -67,3 +67,5 @@ Whether the item was eventually **built and operated / approved but not built / 
 - The lineage rule still applies to zero-unit pairs: their lineages are not re-entered.
 
 **p07 MEG** is also a zero-unit pair (2026-11-06). Zero-unit pairs so far: p04, p15, p08, p07. Replacements still owed: 2, both from the resumed queue (q19 LUX and q23 Super-K are under assessment).
+
+**p11 KAGRA** is also a zero-unit pair (2026-11-06). Zero-unit pairs: p04, p15, p08, p07, p11. Replacements owed: 3. Assessment extended to q26 ADMX, q27 CUORE-0 and q30 IceCube (two daters each), in queue order.
