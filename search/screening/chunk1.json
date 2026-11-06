@@ -1,0 +1,1352 @@
+[
+{
+"recid": "471827",
+"title": "A large scale low-background liquid scintillation detector: The counting test facility at Gran Sasso",
+"earliest_date": "1998",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 406 411 (1998)",
+"authors": "64",
+"citations": "175",
+"report_numbers": ""
+},
+{
+"recid": "469359",
+"title": "A New analysis method for very high definition imaging atmospheric Cherenkov telescopes as applied to the CAT telescope",
+"earliest_date": "1998-04",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 416 425 (1998)",
+"authors": "36",
+"citations": "103",
+"report_numbers": ""
+},
+{
+"recid": "470363",
+"title": "Determination of the absolute jet energy scale in the D0 calorimeters",
+"earliest_date": "1998-05",
+"collaboration": "D0",
+"journal": "Nucl.Instrum.Meth.A 424 352 (1999)",
+"authors": "369",
+"citations": "195",
+"report_numbers": "FERMILAB-PUB-97-330-E"
+},
+{
+"recid": "471582",
+"title": "The HERMES spectrometer",
+"earliest_date": "1998-06",
+"collaboration": "HERMES",
+"journal": "Nucl.Instrum.Meth.A 417 230 (1998)",
+"authors": "228",
+"citations": "464",
+"report_numbers": "DESY-98-057"
+},
+{
+"recid": "473678",
+"title": "The Optical module of the Baikal deep underwater neutrino telescope",
+"earliest_date": "1998-06",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 420 138 (1999)",
+"authors": "32",
+"citations": "100",
+"report_numbers": "DESY-98-091"
+},
+{
+"recid": "473907",
+"title": "Calibration of Super-Kamiokande using an electron linac",
+"earliest_date": "1998-07",
+"collaboration": "Super-Kamiokande",
+"journal": "Nucl.Instrum.Meth.A 421 113 (1999)",
+"authors": "122",
+"citations": "201",
+"report_numbers": "ICRR-REPORT-423-98-19; TKU-PAP-98-07; SBHEP-98-6; LSU-HEPA-6-98; OULNS-98-05; KEK-PREPRINT-98-107; UMD-98-004; UWSEA-98-10; SBHEP98-6; UCI-98-10; TIT-HPE-98-10"
+},
+{
+"recid": "494394",
+"title": "The NA49 large acceptance hadron detector",
+"earliest_date": "1999-01",
+"collaboration": "NA49",
+"journal": "Nucl.Instrum.Meth.A 430 210 (1999)",
+"authors": "148",
+"citations": "389",
+"report_numbers": "CERN-EP-99-001; CERN-EP-99-01; CERN-EP-99-1"
+},
+{
+"recid": "506979",
+"title": "Spherical neutral detector for VEPP-2M collider",
+"earliest_date": "1999-09",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 449 125 (2000)",
+"authors": "32",
+"citations": "138",
+"report_numbers": ""
+},
+{
+"recid": "508223",
+"title": "A detailed test of the CsI(Tl) calorimeter for BELLE with photon beams of energy between 20-MeV and 5.4-GeV",
+"earliest_date": "1999-09",
+"collaboration": "Belle",
+"journal": "Nucl.Instrum.Meth.A 441 401 (2000)",
+"authors": "38",
+"citations": "190",
+"report_numbers": "KEK-PREPRINT-99-70; BELLE-PREPRINT-99-3; NWU-HEP-99-02; TIT-HPE-99-10"
+},
+{
+"recid": "509079",
+"title": "The Sudbury neutrino observatory",
+"earliest_date": "1999-10",
+"collaboration": "SNO",
+"journal": "Nucl.Instrum.Meth.A 449 172 (2000)",
+"authors": "199",
+"citations": "836",
+"report_numbers": "SNO-STR-99-025"
+},
+{
+"recid": "533473",
+"title": "The CLAS drift chamber system",
+"earliest_date": "2000",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 449 81 (2000)",
+"authors": "45",
+"citations": "205",
+"report_numbers": "JLAB-PHY-99-11"
+},
+{
+"recid": "535922",
+"title": "The K(L) / mu detector subsystem for the BELLE experiment at the KEK B factory",
+"earliest_date": "2000",
+"collaboration": "Belle",
+"journal": "Nucl.Instrum.Meth.A 449 112 (2000)",
+"authors": "36",
+"citations": "135",
+"report_numbers": ""
+},
+{
+"recid": "539158",
+"title": "Intermediate silicon layers detector for the CDF experiment",
+"earliest_date": "2000",
+"collaboration": "CDF",
+"journal": "Nucl.Instrum.Meth.A 453 84 (2000)",
+"authors": "64",
+"citations": "243",
+"report_numbers": "FERMILAB-CONF-00-399-CD"
+},
+{
+"recid": "527493",
+"title": "The Neutrino Factory: Beam and Experiments",
+"earliest_date": "2000-04",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 451 102 (2000)",
+"authors": "32",
+"citations": "116",
+"report_numbers": "CERN-EP-2000-053; FERMILAB-PUB-00-0437-AD"
+},
+{
+"recid": "539926",
+"title": "The HERMES dual-radiator ring imaging Cherenkov detector",
+"earliest_date": "2000-12",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 479 511 (2002)",
+"authors": "46",
+"citations": "169",
+"report_numbers": "DESY-00-190"
+},
+{
+"recid": "541364",
+"title": "The Belle Detector",
+"earliest_date": "2000-12",
+"collaboration": "Belle",
+"journal": "Nucl.Instrum.Meth.A 479 117 (2002)",
+"authors": "339",
+"citations": "2397",
+"report_numbers": "KEK-PROGRESS-REPORT-2000-4"
+},
+{
+"recid": "558218",
+"title": "The BES upgrade",
+"earliest_date": "2001",
+"collaboration": "BES",
+"journal": "Nucl.Instrum.Meth.A 458 627 (2001)",
+"authors": "217",
+"citations": "264",
+"report_numbers": "SLAC-REPRINT-2001-005"
+},
+{
+"recid": "560204",
+"title": "ANKE, a new facility for medium energy hadron physics at COSY-Juelich",
+"earliest_date": "2001",
+"collaboration": "ANKE",
+"journal": "Nucl.Instrum.Meth.A 462 364 (2001)",
+"authors": "92",
+"citations": "158",
+"report_numbers": ""
+},
+{
+"recid": "563294",
+"title": "Radiation hard silicon detectors developments by the RD48 (ROSE) Collaboration",
+"earliest_date": "2001",
+"collaboration": "ROSE",
+"journal": "Nucl.Instrum.Meth.A 466 308 (2001)",
+"authors": "141",
+"citations": "332",
+"report_numbers": ""
+},
+{
+"recid": "556767",
+"title": "The BaBar detector",
+"earliest_date": "2001-04",
+"collaboration": "BaBar",
+"journal": "Nucl.Instrum.Meth.A 479 1 (2002)",
+"authors": "820",
+"citations": "2494",
+"report_numbers": "SLAC-PUB-8569; BABAR-PUB-01-08"
+},
+{
+"recid": "558376",
+"title": "The ANTARES optical module",
+"earliest_date": "2001-05",
+"collaboration": "ANTARES",
+"journal": "Nucl.Instrum.Meth.A 484 369 (2002)",
+"authors": "154",
+"citations": "245",
+"report_numbers": "DAPNIA-01-05"
+},
+{
+"recid": "560272",
+"title": "The CDF Plug Upgrade Electromagnetic Calorimeter: Test Beam Results",
+"earliest_date": "2001-07",
+"collaboration": "CDF",
+"journal": "Nucl.Instrum.Meth.A 480 524 (2002)",
+"authors": "45",
+"citations": "212",
+"report_numbers": "FERMILAB-PUB-01-045-E; CDF-PUB-PLUG-UPGR-PUBLIC-5545"
+},
+{
+"recid": "598812",
+"title": "The MACRO detector at Gran Sasso",
+"earliest_date": "2002",
+"collaboration": "MACRO",
+"journal": "Nucl.Instrum.Meth.A 486 663 (2002)",
+"authors": "157",
+"citations": "105",
+"report_numbers": ""
+},
+{
+"recid": "600242",
+"title": "The tracking detector of the KLOE experiment",
+"earliest_date": "2002",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 488 51 (2002)",
+"authors": "110",
+"citations": "409",
+"report_numbers": ""
+},
+{
+"recid": "603495",
+"title": "The trigger system of the KLOE experiment",
+"earliest_date": "2002",
+"collaboration": "KLOE",
+"journal": "Nucl.Instrum.Meth.A 492 134 (2002)",
+"authors": "65",
+"citations": "136",
+"report_numbers": ""
+},
+{
+"recid": "607144",
+"title": "The Super-Kamiokande detector",
+"earliest_date": "2002-01",
+"collaboration": "Super-Kamiokande",
+"journal": "Nucl.Instrum.Meth.A 501 418 (2003)",
+"authors": "175",
+"citations": "1440",
+"report_numbers": ""
+},
+{
+"recid": "608097",
+"title": "The STAR endcap electromagnetic calorimeter",
+"earliest_date": "2002-03",
+"collaboration": "STAR",
+"journal": "Nucl.Instrum.Meth.A 499 740 (2003)",
+"authors": "46",
+"citations": "146",
+"report_numbers": ""
+},
+{
+"recid": "608096",
+"title": "The STAR barrel electromagnetic calorimeter",
+"earliest_date": "2002-04",
+"collaboration": "STAR",
+"journal": "Nucl.Instrum.Meth.A 499 725 (2003)",
+"authors": "102",
+"citations": "339",
+"report_numbers": ""
+},
+{
+"recid": "608101",
+"title": "STAR detector overview",
+"earliest_date": "2002-04",
+"collaboration": "STAR",
+"journal": "Nucl.Instrum.Meth.A 499 624 (2003)",
+"authors": "424",
+"citations": "974",
+"report_numbers": ""
+},
+{
+"recid": "589130",
+"title": "The KLOE electromagnetic calorimeter",
+"earliest_date": "2002-04-08",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 482 41216 (2002)",
+"authors": "96",
+"citations": "384",
+"report_numbers": ""
+},
+{
+"recid": "593382",
+"title": "GEANT4 - A Simulation Toolkit",
+"earliest_date": "2002-08",
+"collaboration": "GEANT4",
+"journal": "Nucl.Instrum.Meth.A 506 250 (2003)",
+"authors": "127",
+"citations": "22975",
+"report_numbers": "SLAC-PUB-9350; FERMILAB-PUB-03-339; CERN-IT-2002-003"
+},
+{
+"recid": "602284",
+"title": "The Forward time projection chamber (FTPC) in STAR",
+"earliest_date": "2002-11",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 499 713 (2003)",
+"authors": "30",
+"citations": "124",
+"report_numbers": ""
+},
+{
+"recid": "603038",
+"title": "Detection and Analysis of Tau Neutrino Interactions in DONUT Emulsion Target",
+"earliest_date": "2002-11",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 493 45 (2002)",
+"authors": "33",
+"citations": "119",
+"report_numbers": "FERMILAB-PUB-02-0460-AD"
+},
+{
+"recid": "605339",
+"title": "CUORE: A Cryogenic underground observatory for rare events",
+"earliest_date": "2002-12",
+"collaboration": "CUORE",
+"journal": "Nucl.Instrum.Meth.A 518 775 (2004)",
+"authors": "39",
+"citations": "346",
+"report_numbers": ""
+},
+{
+"recid": "621253",
+"title": "The CEBAF Large Acceptance Spectrometer (CLAS)",
+"earliest_date": "2003",
+"collaboration": "CLAS",
+"journal": "Nucl.Instrum.Meth.A 503 513 (2003)",
+"authors": "159",
+"citations": "712",
+"report_numbers": "JLAB-PHY-03-01"
+},
+{
+"recid": "627886",
+"title": "PHENIX detector overview",
+"earliest_date": "2003",
+"collaboration": "PHENIX",
+"journal": "Nucl.Instrum.Meth.A 499 469 (2003)",
+"authors": "585",
+"citations": "676",
+"report_numbers": ""
+},
+{
+"recid": "627888",
+"title": "PHENIX central arm tracking detectors",
+"earliest_date": "2003",
+"collaboration": "PHENIX",
+"journal": "Nucl.Instrum.Meth.A 499 489 (2003)",
+"authors": "127",
+"citations": "203",
+"report_numbers": ""
+},
+{
+"recid": "627889",
+"title": "PHENIX central arm particle ID detectors",
+"earliest_date": "2003",
+"collaboration": "PHENIX",
+"journal": "Nucl.Instrum.Meth.A 499 508 (2003)",
+"authors": "67",
+"citations": "155",
+"report_numbers": ""
+},
+{
+"recid": "627890",
+"title": "PHENIX calorimeter",
+"earliest_date": "2003",
+"collaboration": "PHENIX",
+"journal": "Nucl.Instrum.Meth.A 499 521 (2003)",
+"authors": "78",
+"citations": "292",
+"report_numbers": ""
+},
+{
+"recid": "627891",
+"title": "PHENIX muon arms",
+"earliest_date": "2003",
+"collaboration": "PHENIX",
+"journal": "Nucl.Instrum.Meth.A 499 537 (2003)",
+"authors": "174",
+"citations": "100",
+"report_numbers": ""
+},
+{
+"recid": "627892",
+"title": "PHENIX inner detectors",
+"earliest_date": "2003",
+"collaboration": "PHENIX",
+"journal": "Nucl.Instrum.Meth.A 499 549 (2003)",
+"authors": "50",
+"citations": "242",
+"report_numbers": ""
+},
+{
+"recid": "629262",
+"title": "Polarized Proton Collider at RHIC",
+"earliest_date": "2003",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 499 392 (2003)",
+"authors": "54",
+"citations": "131",
+"report_numbers": "FERMILAB-PUB-03-327"
+},
+{
+"recid": "629266",
+"title": "The BRAHMS experiment at RHIC",
+"earliest_date": "2003",
+"collaboration": "BRAHMS",
+"journal": "Nucl.Instrum.Meth.A 499 437 (2003)",
+"authors": "75",
+"citations": "168",
+"report_numbers": ""
+},
+{
+"recid": "629267",
+"title": "The PHOBOS detector at RHIC",
+"earliest_date": "2003",
+"collaboration": "PHOBOS",
+"journal": "Nucl.Instrum.Meth.A 499 603 (2003)",
+"authors": "106",
+"citations": "161",
+"report_numbers": ""
+},
+{
+"recid": "636731",
+"title": "The Cosmic ray experiment KASCADE",
+"earliest_date": "2003",
+"collaboration": "KASCADE",
+"journal": "Nucl.Instrum.Meth.A 513 490 (2003)",
+"authors": "47",
+"citations": "407",
+"report_numbers": ""
+},
+{
+"recid": "612342",
+"title": "The Star time projection chamber: A Unique tool for studying high multiplicity events at RHIC",
+"earliest_date": "2003-01",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 499 659 (2003)",
+"authors": "48",
+"citations": "921",
+"report_numbers": ""
+},
+{
+"recid": "621895",
+"title": "The CDF Silicon Vertex Trigger",
+"earliest_date": "2003-06",
+"collaboration": "CDF",
+"journal": "Nucl.Instrum.Meth.A 518 532 (2004)",
+"authors": "40",
+"citations": "250",
+"report_numbers": "FERMILAB-CONF-03-168-E"
+},
+{
+"recid": "625917",
+"title": "Detector Description and Performance for the First Coincidence Observations between LIGO and GEO",
+"earliest_date": "2003-08",
+"collaboration": "LIGO Scientific",
+"journal": "Nucl.Instrum.Meth.A 517 154 (2004)",
+"authors": "368",
+"citations": "252",
+"report_numbers": "FERMILAB-PUB-03-458"
+},
+{
+"recid": "637644",
+"title": "Muon track reconstruction and data selection techniques in AMANDA",
+"earliest_date": "2003-09",
+"collaboration": "AMANDA",
+"journal": "Nucl.Instrum.Meth.A 524 169 (2004)",
+"authors": "120",
+"citations": "397",
+"report_numbers": ""
+},
+{
+"recid": "633373",
+"title": "CDF Central Outer Tracker",
+"earliest_date": "2003-11",
+"collaboration": "CDF",
+"journal": "Nucl.Instrum.Meth.A 526 249 (2004)",
+"authors": "75",
+"citations": "487",
+"report_numbers": "FERMILAB-PUB-03-355-E"
+},
+{
+"recid": "648096",
+"title": "Commissioning and first tests of the MAGIC telescope",
+"earliest_date": "2004",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 518 188 (2004)",
+"authors": "76",
+"citations": "110",
+"report_numbers": ""
+},
+{
+"recid": "648101",
+"title": "KASCADE-Grande: A large acceptance, high-resolution cosmic-ray detector up to 10**18-eV",
+"earliest_date": "2004",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 518 207 (2004)",
+"authors": "53",
+"citations": "106",
+"report_numbers": ""
+},
+{
+"recid": "648167",
+"title": "A time-of-flight detector in CDF-II",
+"earliest_date": "2004",
+"collaboration": "CDF",
+"journal": "Nucl.Instrum.Meth.A 518 605 (2004)",
+"authors": "60",
+"citations": "122",
+"report_numbers": "FERMILAB-CONF-04-568"
+},
+{
+"recid": "657665",
+"title": "Basic Instrumentation for Hall A at Jefferson Lab",
+"earliest_date": "2004",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 522 294 (2004)",
+"authors": "232",
+"citations": "364",
+"report_numbers": "JLAB-PHY-03-129"
+},
+{
+"recid": "658347",
+"title": "Properties and performance of the prototype instrument for the Pierre Auger Observatory",
+"earliest_date": "2004",
+"collaboration": "Pierre Auger",
+"journal": "Nucl.Instrum.Meth.A 523 50 (2004)",
+"authors": "355",
+"citations": "958",
+"report_numbers": "FERMILAB-PUB-04-518-A-TD"
+},
+{
+"recid": "658352",
+"title": "Study of electron recombination in liquid argon with the ICARUS TPC",
+"earliest_date": "2004",
+"collaboration": "ICARUS",
+"journal": "Nucl.Instrum.Meth.A 523 275 (2004)",
+"authors": "116",
+"citations": "201",
+"report_numbers": ""
+},
+{
+"recid": "649233",
+"title": "Analysis of the liquid argon purity in the ICARUS T600 TPC",
+"earliest_date": "2004-01",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 516 68 (2004)",
+"authors": "119",
+"citations": "110",
+"report_numbers": ""
+},
+{
+"recid": "645078",
+"title": "Technical design and performance of the NEMO 3 detector",
+"earliest_date": "2004-02",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 536 79 (2005)",
+"authors": "71",
+"citations": "230",
+"report_numbers": "LAL-04-05"
+},
+{
+"recid": "648767",
+"title": "Data handling, reconstruction, and simulation for the KLOE experiment",
+"earliest_date": "2004-04",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 534 403 (2004)",
+"authors": "63",
+"citations": "123",
+"report_numbers": ""
+},
+{
+"recid": "651835",
+"title": "The K2K SciBar detector",
+"earliest_date": "2004-06",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 535 147 (2004)",
+"authors": "60",
+"citations": "115",
+"report_numbers": ""
+},
+{
+"recid": "653880",
+"title": "The DIRC particle identification system for the BaBar experiment",
+"earliest_date": "2004-06",
+"collaboration": "BaBar DIRC",
+"journal": "Nucl.Instrum.Meth.A 538 281 (2005)",
+"authors": "131",
+"citations": "224",
+"report_numbers": "SLAC-PUB-10516"
+},
+{
+"recid": "653972",
+"title": "Hadronic calibration of the ATLAS liquid argon end-cap calorimeter in the pseudorapidity region 1.6 < |$\\eta$| < 1.8 in beam tests",
+"earliest_date": "2004-07",
+"collaboration": "ATLAS Liquid Argon EMEC/HEC",
+"journal": "Nucl.Instrum.Meth.A 531 481 (2004)",
+"authors": "116",
+"citations": "181",
+"report_numbers": "MPP-2004-81"
+},
+{
+"recid": "661854",
+"title": "Design, construction and tests of the ICARUS T600 detector",
+"earliest_date": "2004-07",
+"collaboration": "ICARUS",
+"journal": "Nucl.Instrum.Meth.A 527 329 (2004)",
+"authors": "137",
+"citations": "619",
+"report_numbers": ""
+},
+{
+"recid": "658215",
+"title": "The HERMES polarized hydrogen and deuterium gas target in the HERA electron storage ring",
+"earliest_date": "2004-08",
+"collaboration": "HERMES",
+"journal": "Nucl.Instrum.Meth.A 540 68 (2005)",
+"authors": "181",
+"citations": "149",
+"report_numbers": "DESY-04-128"
+},
+{
+"recid": "699391",
+"title": "High-speed particle tracking in nuclear emulsion by last-generation automatic microscopes",
+"earliest_date": "2005",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 551 261 (2005)",
+"authors": "45",
+"citations": "149",
+"report_numbers": ""
+},
+{
+"recid": "702981",
+"title": "Design and performance of the ABCD3TA ASIC for readout of silicon strip detectors in the ATLAS semiconductor tracker",
+"earliest_date": "2005",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 552 292 (2005)",
+"authors": "203",
+"citations": "170",
+"report_numbers": ""
+},
+{
+"recid": "705112",
+"title": "The DRIFT-II dark matter detector: Design and commissioning",
+"earliest_date": "2005",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 555 173 (2005)",
+"authors": "46",
+"citations": "106",
+"report_numbers": ""
+},
+{
+"recid": "679087",
+"title": "The Muon system of the run II D0 detector",
+"earliest_date": "2005-03",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 552 372 (2005)",
+"authors": "138",
+"citations": "226",
+"report_numbers": "FERMILAB-PUB-05-034-E"
+},
+{
+"recid": "688461",
+"title": "The Upgraded D0 Detector",
+"earliest_date": "2005-07",
+"collaboration": "D0",
+"journal": "Nucl.Instrum.Meth.A 565 463 (2006)",
+"authors": "820",
+"citations": "1233",
+"report_numbers": "FERMILAB-PUB-05-341-E"
+},
+{
+"recid": "693583",
+"title": "Construction, assembly and tests of the ATLAS electromagnetic barrel calorimeter",
+"earliest_date": "2005-07",
+"collaboration": "ATLAS Electromagnetic Barrel Liquid Argon Calorimeter Group",
+"journal": "Nucl.Instrum.Meth.A 558 388 (2006)",
+"authors": "172",
+"citations": "112",
+"report_numbers": "CERN-PH-EP-2005-034"
+},
+{
+"recid": "694315",
+"title": "Study of large hemispherical photomultiplier tubes for the antares neutrino telescope",
+"earliest_date": "2005-10",
+"collaboration": "ANTARES",
+"journal": "Nucl.Instrum.Meth.A 555 132 (2005)",
+"authors": "190",
+"citations": "120",
+"report_numbers": ""
+},
+{
+"recid": "695364",
+"title": "Determination of the Jet Energy Scale at the Collider Detector at Fermilab",
+"earliest_date": "2005-10",
+"collaboration": "CDF",
+"journal": "Nucl.Instrum.Meth.A 566 375 (2006)",
+"authors": "42",
+"citations": "480",
+"report_numbers": "FERMILAB-PUB-05-470"
+},
+{
+"recid": "713388",
+"title": "The OPERA film: New nuclear emulsion for large-scale, high-precision experiments",
+"earliest_date": "2005-10-27",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 556 80 (2006)",
+"authors": "35",
+"citations": "147",
+"report_numbers": ""
+},
+{
+"recid": "716060",
+"title": "Status of the Belle silicon vertex detector",
+"earliest_date": "2006",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 560 1 (2006)",
+"authors": "96",
+"citations": "255",
+"report_numbers": ""
+},
+{
+"recid": "723263",
+"title": "Layout and performance of RPCs used in the Argo-YBJ experiment",
+"earliest_date": "2006",
+"collaboration": "Argo-YBJ",
+"journal": "Nucl.Instrum.Meth.A 562 92 (2006)",
+"authors": "108",
+"citations": "242",
+"report_numbers": ""
+},
+{
+"recid": "720904",
+"title": "Design, performance and calibration of the CMS forward calorimeter wedges",
+"earliest_date": "2006-02",
+"collaboration": "",
+"journal": "Eur.Phys.J.C 53 139 (2008)",
+"authors": "205",
+"citations": "177",
+"report_numbers": "CERN-CMS-NOTE-2006-044"
+},
+{
+"recid": "714088",
+"title": "Hardware performance of a scanning system for high speed analysis of nuclear emulsions",
+"earliest_date": "2006-04",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 568 578 (2006)",
+"authors": "48",
+"citations": "139",
+"report_numbers": ""
+},
+{
+"recid": "729961",
+"title": "The barrel modules of the ATLAS semiconductor tracker",
+"earliest_date": "2006-07",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 568 642 (2006)",
+"authors": "264",
+"citations": "285",
+"report_numbers": "ATL-COM-INDET-2006-009; ATL-INDET-PUB-2006-005"
+},
+{
+"recid": "722940",
+"title": "Energy linearity and resolution of the ATLAS electromagnetic barrel calorimeter in an electron test-beam",
+"earliest_date": "2006-08",
+"collaboration": "ATLAS Electromagnetic Barrel Calorimeter",
+"journal": "Nucl.Instrum.Meth.A 568 601 (2006)",
+"authors": "91",
+"citations": "219",
+"report_numbers": ""
+},
+{
+"recid": "727535",
+"title": "The data acquisition system for the ANTARES Neutrino Telescope",
+"earliest_date": "2006-10",
+"collaboration": "ANTARES",
+"journal": "Nucl.Instrum.Meth.A 570 107 (2007)",
+"authors": "212",
+"citations": "205",
+"report_numbers": "DAPNIA-06-252"
+},
+{
+"recid": "753174",
+"title": "Energy resolution of the barrel of the CMS electromagnetic calorimeter",
+"earliest_date": "2007",
+"collaboration": "",
+"journal": "JINST 2 P04004 (2007)",
+"authors": "260",
+"citations": "251",
+"report_numbers": "CERN-CMS-NOTE-2006-148"
+},
+{
+"recid": "742521",
+"title": "The OPERA experiment target tracker",
+"earliest_date": "2007-01",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 577 523 (2007)",
+"authors": "37",
+"citations": "124",
+"report_numbers": ""
+},
+{
+"recid": "747655",
+"title": "The COMPASS experiment at CERN",
+"earliest_date": "2007-01",
+"collaboration": "COMPASS",
+"journal": "Nucl.Instrum.Meth.A 577 455 (2007)",
+"authors": "318",
+"citations": "719",
+"report_numbers": "CERN-PH-EP-2007-001"
+},
+{
+"recid": "747550",
+"title": "The HARP detector at the CERN PS",
+"earliest_date": "2007-02",
+"collaboration": "HARP",
+"journal": "Nucl.Instrum.Meth.A 571 527 (2007)",
+"authors": "118",
+"citations": "102",
+"report_numbers": ""
+},
+{
+"recid": "746442",
+"title": "The ANTARES Optical Beacon System",
+"earliest_date": "2007-03",
+"collaboration": "ANTARES",
+"journal": "Nucl.Instrum.Meth.A 578 498 (2007)",
+"authors": "224",
+"citations": "107",
+"report_numbers": ""
+},
+{
+"recid": "749243",
+"title": "The Beam and detector for the NA48 neutral kaon CP violations experiment at CERN",
+"earliest_date": "2007-05",
+"collaboration": "NA48",
+"journal": "Nucl.Instrum.Meth.A 574 433 (2007)",
+"authors": "255",
+"citations": "357",
+"report_numbers": ""
+},
+{
+"recid": "790370",
+"title": "Design, performance, and calibration of CMS hadron-barrel calorimeter wedges",
+"earliest_date": "2007-05-28",
+"collaboration": "CMS HCAL",
+"journal": "Eur.Phys.J.C 55 159 (2008)",
+"authors": "175",
+"citations": "134",
+"report_numbers": "FERMILAB-PUB-08-246-CMS; CERN-CMS-NOTE-2006-138; CMS-NOTE-2006-138"
+},
+{
+"recid": "750044",
+"title": "The ATLAS semiconductor tracker end-cap module",
+"earliest_date": "2007-06",
+"collaboration": "ATLAS",
+"journal": "Nucl.Instrum.Meth.A 575 353 (2007)",
+"authors": "322",
+"citations": "221",
+"report_numbers": ""
+},
+{
+"recid": "755578",
+"title": "The Silicon microstrip sensors of the ATLAS semiconductor tracker",
+"earliest_date": "2007-07",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 578 98 (2007)",
+"authors": "216",
+"citations": "270",
+"report_numbers": ""
+},
+{
+"recid": "755975",
+"title": "Unfolding of differential energy spectra in the MAGIC experiment",
+"earliest_date": "2007-07",
+"collaboration": "MAGIC",
+"journal": "Nucl.Instrum.Meth.A 583 494 (2007)",
+"authors": "142",
+"citations": "126",
+"report_numbers": "MPP-2007-95"
+},
+{
+"recid": "760170",
+"title": "Response Uniformity of the ATLAS Liquid Argon Electromagnetic Calorimeter",
+"earliest_date": "2007-09",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 582 429 (2007)",
+"authors": "87",
+"citations": "134",
+"report_numbers": ""
+},
+{
+"recid": "761659",
+"title": "Implementation of the Random Forest Method for the Imaging Atmospheric Cherenkov Telescope MAGIC",
+"earliest_date": "2007-09",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 588 424 (2008)",
+"authors": "144",
+"citations": "257",
+"report_numbers": ""
+},
+{
+"recid": "761678",
+"title": "Design and Implementation of the New D0 Level-1 Calorimeter Trigger",
+"earliest_date": "2007-09",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 584 75 (2008)",
+"authors": "47",
+"citations": "141",
+"report_numbers": "FERMILAB-PUB-07-492-E"
+},
+{
+"recid": "762355",
+"title": "Systematic study of trace radioactive impurities in candidate construction materials for EXO-200",
+"earliest_date": "2007-09",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 591 490 (2008)",
+"authors": "57",
+"citations": "170",
+"report_numbers": "SLAC-PUB-12916"
+},
+{
+"recid": "771477",
+"title": "Detectors and flux instrumentation for future neutrino facilities",
+"earliest_date": "2007-12",
+"collaboration": "ISS Detector Working Group",
+"journal": "JINST 4 T05001 (2009)",
+"authors": "69",
+"citations": "124",
+"report_numbers": "FERMILAB-PUB-07-787-APC; RAL-TR-2007-24"
+},
+{
+"recid": "770512",
+"title": "ILC Reference Design Report Volume 4 - Detectors",
+"earliest_date": "2007-12",
+"collaboration": "ILC",
+"journal": "()",
+"authors": "1816",
+"citations": "135",
+"report_numbers": "FERMILAB-DESIGN-2007-02; FERMILAB-PUB-07-793-E"
+},
+{
+"recid": "784318",
+"title": "The ATLAS level-1 calorimeter trigger",
+"earliest_date": "2008",
+"collaboration": "",
+"journal": "JINST 3 P03001 (2008)",
+"authors": "77",
+"citations": "229",
+"report_numbers": "ATL-DAQ-PUB-2008-001; ATL-COM-DAQ-2008-002"
+},
+{
+"recid": "796249",
+"title": "The LHCf detector at the CERN Large Hadron Collider",
+"earliest_date": "2008",
+"collaboration": "LHCf",
+"journal": "JINST 3 S08006 (2008)",
+"authors": "32",
+"citations": "765",
+"report_numbers": ""
+},
+{
+"recid": "796250",
+"title": "The TOTEM experiment at the CERN Large Hadron Collider",
+"earliest_date": "2008",
+"collaboration": "TOTEM",
+"journal": "JINST 3 S08007 (2008)",
+"authors": "111",
+"citations": "924",
+"report_numbers": ""
+},
+{
+"recid": "796251",
+"title": "The ALICE experiment at the CERN LHC",
+"earliest_date": "2008",
+"collaboration": "ALICE",
+"journal": "JINST 3 S08002 (2008)",
+"authors": "1161",
+"citations": "4768",
+"report_numbers": ""
+},
+{
+"recid": "796888",
+"title": "The ATLAS Experiment at the CERN Large Hadron Collider",
+"earliest_date": "2008",
+"collaboration": "ATLAS",
+"journal": "JINST 3 S08003 (2008)",
+"authors": "2924",
+"citations": "13342",
+"report_numbers": ""
+},
+{
+"recid": "780136",
+"title": "Accelerator design concept for future neutrino facilities",
+"earliest_date": "2008-02",
+"collaboration": "ISS Accelerator Working Group",
+"journal": "JINST 4 P07001 (2009)",
+"authors": "52",
+"citations": "220",
+"report_numbers": "FERMILAB-PUB-08-673-AD; RAL-TR-2007-23"
+},
+{
+"recid": "780935",
+"title": "The ATLAS Transition Radiation Tracker (TRT) proportional drift tube: Design and performance",
+"earliest_date": "2008-02",
+"collaboration": "ATLAS TRT",
+"journal": "JINST 3 P02013 (2008)",
+"authors": "211",
+"citations": "346",
+"report_numbers": ""
+},
+{
+"recid": "780936",
+"title": "The ATLAS TRT barrel detector",
+"earliest_date": "2008-02",
+"collaboration": "ATLAS TRT",
+"journal": "JINST 3 P02014 (2008)",
+"authors": "212",
+"citations": "239",
+"report_numbers": ""
+},
+{
+"recid": "781595",
+"title": "The WASA Detector Facility at CELSIUS",
+"earliest_date": "2008-03",
+"collaboration": "CELSIUS/WASA",
+"journal": "Nucl.Instrum.Meth.A 594 339 (2008)",
+"authors": "85",
+"citations": "133",
+"report_numbers": ""
+},
+{
+"recid": "783020",
+"title": "Effects of Nitrogen contamination in liquid Argon",
+"earliest_date": "2008-04",
+"collaboration": "WArP",
+"journal": "JINST 5 P06003 (2010)",
+"authors": "33",
+"citations": "170",
+"report_numbers": ""
+},
+{
+"recid": "783022",
+"title": "Oxygen contamination in liquid Argon: Combined effects on ionization electron charge and scintillation light",
+"earliest_date": "2008-04",
+"collaboration": "WArP",
+"journal": "JINST 5 P05003 (2010)",
+"authors": "34",
+"citations": "126",
+"report_numbers": ""
+},
+{
+"recid": "786324",
+"title": "The Magnetized Steel and Scintillator Calorimeters of the MINOS Experiment",
+"earliest_date": "2008-05",
+"collaboration": "MINOS",
+"journal": "Nucl.Instrum.Meth.A 596 190 (2008)",
+"authors": "260",
+"citations": "469",
+"report_numbers": "FERMILAB-PUB-08-126"
+},
+{
+"recid": "787457",
+"title": "Design and Electronics Commissioning of the Physics Prototype of a Si-W Electromagnetic Calorimeter for the International Linear Collider",
+"earliest_date": "2008-05",
+"collaboration": "CALICE",
+"journal": "JINST 3 P08001 (2008)",
+"authors": "116",
+"citations": "172",
+"report_numbers": "CALICE-PUB-2008-001"
+},
+{
+"recid": "788332",
+"title": "The Borexino detector at the Laboratori Nazionali del Gran Sasso",
+"earliest_date": "2008-06",
+"collaboration": "Borexino",
+"journal": "Nucl.Instrum.Meth.A 600 568 (2009)",
+"authors": "165",
+"citations": "513",
+"report_numbers": ""
+},
+{
+"recid": "789156",
+"title": "The MiniBooNE Detector",
+"earliest_date": "2008-06",
+"collaboration": "MiniBooNE",
+"journal": "Nucl.Instrum.Meth.A 599 28 (2009)",
+"authors": "84",
+"citations": "304",
+"report_numbers": "FERMILAB-PUB-08-210"
+},
+{
+"recid": "787100",
+"title": "The FP420 \\&  Project: Higgs and New Physics with forward protons at the LHC",
+"earliest_date": "2008-06",
+"collaboration": "FP420 R&D",
+"journal": "JINST 4 T10001 (2009)",
+"authors": "96",
+"citations": "303",
+"report_numbers": "FERMILAB-FN-0825-E"
+},
+{
+"recid": "789838",
+"title": "The scintillation and ionization yield of liquid xenon for nuclear recoils",
+"earliest_date": "2008-07",
+"collaboration": "XENON10",
+"journal": "Nucl.Instrum.Meth.A 601 339 (2009)",
+"authors": "37",
+"citations": "100",
+"report_numbers": ""
+},
+{
+"recid": "809652",
+"title": "ATLAS pixel detector electronics and sensors",
+"earliest_date": "2008-07",
+"collaboration": "",
+"journal": "JINST 3 P07007 (2008)",
+"authors": "268",
+"citations": "787",
+"report_numbers": ""
+},
+{
+"recid": "796887",
+"title": "The CMS Experiment at the CERN LHC",
+"earliest_date": "2008-08",
+"collaboration": "CMS",
+"journal": "JINST 3 S08004 (2008)",
+"authors": "3099",
+"citations": "11784",
+"report_numbers": ""
+},
+{
+"recid": "796248",
+"title": "The LHCb Detector at the LHC",
+"earliest_date": "2008-08-14",
+"collaboration": "LHCb",
+"journal": "JINST 3 S08005 (2008)",
+"authors": "893",
+"citations": "5592",
+"report_numbers": "LHCb-DP-2008-001"
+},
+{
+"recid": "800773",
+"title": "The IceCube Data Acquisition System: Signal Capture, Digitization, and Timestamping",
+"earliest_date": "2008-10",
+"collaboration": "IceCube",
+"journal": "Nucl.Instrum.Meth.A 601 294 (2009)",
+"authors": "267",
+"citations": "556",
+"report_numbers": ""
+},
+{
+"recid": "803444",
+"title": "The ATLAS TRT end-cap detectors",
+"earliest_date": "2008-10",
+"collaboration": "",
+"journal": "JINST 3 P10003 (2008)",
+"authors": "213",
+"citations": "186",
+"report_numbers": ""
+},
+{
+"recid": "798792",
+"title": "Technical Design Report for PANDA Electromagnetic Calorimeter (EMC)",
+"earliest_date": "2008-10",
+"collaboration": "PANDA",
+"journal": "()",
+"authors": "399",
+"citations": "154",
+"report_numbers": ""
+},
+{
+"recid": "802597",
+"title": "Response of the CALICE Si-W electromagnetic calorimeter physics prototype to electrons",
+"earliest_date": "2008-11-14",
+"collaboration": "CALICE",
+"journal": "Nucl.Instrum.Meth.A 608 372 (2009)",
+"authors": "152",
+"citations": "117",
+"report_numbers": "CALICE Analysis Note CAN-008; CALICE-CAN-2008-002; CALICE-PUB-2008-002"
+},
+{
+"recid": "826181",
+"title": "The CMS barrel calorimeter response to particle beams from 2-GeV/c to 350-GeV/c",
+"earliest_date": "2009",
+"collaboration": "USCMS; ECAL/HCAL",
+"journal": "Eur.Phys.J.C 60 359 (2009)",
+"authors": "572",
+"citations": "144",
+"report_numbers": "FERMILAB-PUB-08-661-E-PPD; CERN-CMS-NOTE-2008-034"
+},
+{
+"recid": "820112",
+"title": "Testbeam studies of production modules of the ATLAS tile calorimeter",
+"earliest_date": "2009-03",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 606 362 (2009)",
+"authors": "225",
+"citations": "174",
+"report_numbers": "ATL-TILECAL-PUB-2009-002; ATL-COM-TILECAL-2009-004"
+},
+{
+"recid": "826184",
+"title": "The OPERA experiment in the CERN to Gran Sasso neutrino beam",
+"earliest_date": "2009-04",
+"collaboration": "",
+"journal": "JINST 4 P04018 (2009)",
+"authors": "262",
+"citations": "336",
+"report_numbers": ""
+},
+{
+"recid": "826754",
+"title": "The Fluorescence Detector of the Pierre Auger Observatory",
+"earliest_date": "2009-07",
+"collaboration": "Pierre Auger",
+"journal": "Nucl.Instrum.Meth.A 620 227 (2010)",
+"authors": "520",
+"citations": "545",
+"report_numbers": "FERMILAB-PUB-09-385-A-CD-PPD-TD"
+},
+{
+"recid": "833863",
+"title": "Alignment of the CMS Silicon Tracker during Commissioning with Cosmic Rays",
+"earliest_date": "2009-10",
+"collaboration": "CMS",
+"journal": "JINST 5 T03009 (2010)",
+"authors": "2420",
+"citations": "145",
+"report_numbers": "CMS-CFT-09-003"
+},
+{
+"recid": "834354",
+"title": "Performance and Operation of the CMS Electromagnetic Calorimeter",
+"earliest_date": "2009-10",
+"collaboration": "CMS",
+"journal": "JINST 5 T03010 (2010)",
+"authors": "2420",
+"citations": "123",
+"report_numbers": "CMS-CFT-09-004"
+},
+{
+"recid": "835485",
+"title": "Precise Mapping of the Magnetic Field in the CMS Barrel Yoke using Cosmic Rays",
+"earliest_date": "2009-10",
+"collaboration": "CMS",
+"journal": "JINST 5 T03021 (2010)",
+"authors": "2420",
+"citations": "202",
+"report_numbers": "CMS-CFT-09-015"
+},
+{
+"recid": "836839",
+"title": "The Layer 0 Inner Silicon Detector of the D0 Experiment",
+"earliest_date": "2009-11",
+"collaboration": "D0",
+"journal": "Nucl.Instrum.Meth.A 622 298 (2010)",
+"authors": "49",
+"citations": "202",
+"report_numbers": "FERMILAB-PUB-09-581-E"
+},
+{
+"recid": "838149",
+"title": "Design and Construction of the BESIII Detector",
+"earliest_date": "2009-11",
+"collaboration": "BESIII",
+"journal": "Nucl.Instrum.Meth.A 614 345 (2010)",
+"authors": "331",
+"citations": "1675",
+"report_numbers": ""
+},
+{
+"recid": "837874",
+"title": "Performance of the CMS Drift Tube Chambers with Cosmic Rays",
+"earliest_date": "2009-11",
+"collaboration": "CMS",
+"journal": "JINST 5 T03015 (2010)",
+"authors": "2420",
+"citations": "100",
+"report_numbers": "CMS-CFT-09-012"
+},
+{
+"recid": "837890",
+"title": "Identification and Filtering of Uncharacteristic Noise in the CMS Hadron Calorimeter",
+"earliest_date": "2009-11",
+"collaboration": "CMS",
+"journal": "JINST 5 T03014 (2010)",
+"authors": "2420",
+"citations": "110",
+"report_numbers": "CMS-CFT-09-019"
+},
+{
+"recid": "838158",
+"title": "Performance of the CMS Hadron Calorimeter with Cosmic Ray Muons and LHC Beam Data",
+"earliest_date": "2009-11",
+"collaboration": "CMS",
+"journal": "JINST 5 T03012 (2010)",
+"authors": "2420",
+"citations": "199",
+"report_numbers": "CMS-CFT-09-009"
+},
+{
+"recid": "838160",
+"title": "Performance of CMS Muon Reconstruction in Cosmic-Ray Events",
+"earliest_date": "2009-11",
+"collaboration": "CMS",
+"journal": "JINST 5 T03022 (2010)",
+"authors": "2420",
+"citations": "183",
+"report_numbers": "CMS-CFT-09-014"
+},
+{
+"recid": "835665",
+"title": "SiD Letter of Intent",
+"earliest_date": "2009-11",
+"collaboration": "",
+"journal": "()",
+"authors": "246",
+"citations": "157",
+"report_numbers": "SLAC-R-989; FERMILAB-LOI-2009-01; FERMILAB-PUB-09-681-E"
+},
+{
+"recid": "851168",
+"title": "Trigger and Aperture of the Surface Detector Array of the Pierre Auger Observatory",
+"earliest_date": "2010",
+"collaboration": "Pierre Auger",
+"journal": "Nucl.Instrum.Meth.A 613 29 (2010)",
+"authors": "486",
+"citations": "323",
+"report_numbers": "FERMILAB-PUB-10-094-A-PPD-TD"
+}
+]

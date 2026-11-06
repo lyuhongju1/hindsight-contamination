@@ -1,0 +1,5 @@
+2026-11-06T05:28:08.990358+00:00	baselines_nima	155	155	j "Nucl.Instrum.Meth.A" and de 1998->2020 and ac 30+ and topcite 100+
+2026-11-06T05:28:10.463650+00:00	baselines_jinst	120	120	j JINST and de 1998->2020 and ac 30+ and topcite 100+
+2026-11-06T05:28:11.250881+00:00	baselines_epjc_instr	43	43	j "Eur.Phys.J.C" and inspire_categories.term:Instrumentation and de 1998->2020 and ac 30+ and topcite 100+
+2026-11-06T05:28:11.703062+00:00	baselines_ptep_instr	6	6	j PTEP and inspire_categories.term:Instrumentation and de 1998->2020 and ac 30+ and topcite 100+
+2026-11-06T05:28:15.349218+00:00	baselines_arxiv_insdet	369	369	arxiv_eprints.categories:physics.ins-det and de 1998->2020 and ac 30+ and topcite 100+

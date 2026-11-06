@@ -1,0 +1,1342 @@
+[
+{
+"recid": "1608856",
+"title": "Low-mass dark matter search with CDMSlite",
+"earliest_date": "2017-07-06",
+"collaboration": "SuperCDMS",
+"journal": "Phys.Rev.D 97 022002 (2018)",
+"authors": "107",
+"citations": "336",
+"report_numbers": "FERMILAB-PUB-17-265-AE"
+},
+{
+"recid": "1609258",
+"title": "Study of the material of the ATLAS inner detector for Run 2 of the LHC",
+"earliest_date": "2017-07-10",
+"collaboration": "ATLAS",
+"journal": "JINST 12 P12009 (2017)",
+"authors": "2869",
+"citations": "162",
+"report_numbers": "CERN-EP-2017-081"
+},
+{
+"recid": "1611008",
+"title": "Results on MeV-scale dark matter from a gram-scale cryogenic calorimeter operated above ground",
+"earliest_date": "2017-07-20",
+"collaboration": "CRESST",
+"journal": "Eur.Phys.J.C 77 637 (2017)",
+"authors": "48",
+"citations": "239",
+"report_numbers": ""
+},
+{
+"recid": "1611708",
+"title": "DarkSide-20k: A 20 tonne two-phase LAr TPC for direct dark matter detection at LNGS",
+"earliest_date": "2017-07-25",
+"collaboration": "DarkSide-20k",
+"journal": "Eur.Phys.J.Plus 133 131 (2018)",
+"authors": "286",
+"citations": "560",
+"report_numbers": "FERMILAB-PUB-17-298-PPD"
+},
+{
+"recid": "1614152",
+"title": "Improved performance of the LHCb Outer Tracker in LHC Run 2",
+"earliest_date": "2017-08-02",
+"collaboration": "LHCb Outer Tracker Group",
+"journal": "JINST 12 P11016 (2017)",
+"authors": "39",
+"citations": "212",
+"report_numbers": "CERN-LHCB-DP-2017-001"
+},
+{
+"recid": "1616124",
+"title": "Qubit compatible superconducting interconnects",
+"earliest_date": "2017-08-14",
+"collaboration": "",
+"journal": "Quantum Sci.Technol. 3 014005 (2017)",
+"authors": "30",
+"citations": "136",
+"report_numbers": ""
+},
+{
+"recid": "1618326",
+"title": "The XENON1T Dark Matter Experiment",
+"earliest_date": "2017-08-23",
+"collaboration": "XENON",
+"journal": "Eur.Phys.J.C 77 881 (2017)",
+"authors": "144",
+"citations": "368",
+"report_numbers": ""
+},
+{
+"recid": "1618319",
+"title": "Dark Matter Results From 54-Ton-Day Exposure of PandaX-II Experiment",
+"earliest_date": "2017-08-23",
+"collaboration": "PandaX-II",
+"journal": "Phys.Rev.Lett. 119 181302 (2017)",
+"authors": "56",
+"citations": "1240",
+"report_numbers": ""
+},
+{
+"recid": "1622264",
+"title": "The Large Enriched Germanium Experiment for Neutrinoless Double Beta Decay (LEGEND)",
+"earliest_date": "2017-09-06",
+"collaboration": "LEGEND",
+"journal": "AIP Conf.Proc. 1894 020027 (2017)",
+"authors": "232",
+"citations": "362",
+"report_numbers": ""
+},
+{
+"recid": "1630949",
+"title": "Sensitivity and Discovery Potential of nEXO to Neutrinoless Double Beta Decay",
+"earliest_date": "2017-10-13",
+"collaboration": "nEXO",
+"journal": "Phys.Rev.C 97 065503 (2018)",
+"authors": "154",
+"citations": "317",
+"report_numbers": "LLNL-JRNL-737682"
+},
+{
+"recid": "1630770",
+"title": "Initial Performance of the COSINE-100 Experiment",
+"earliest_date": "2017-10-15",
+"collaboration": "",
+"journal": "Eur.Phys.J.C 78 107 (2018)",
+"authors": "52",
+"citations": "157",
+"report_numbers": ""
+},
+{
+"recid": "1631986",
+"title": "First Results from CUORE: A Search for Lepton Number Violation via $0\\nu\\beta\\beta$ Decay of $^{130}$Te",
+"earliest_date": "2017-10-22",
+"collaboration": "CUORE",
+"journal": "Phys.Rev.Lett. 120 132501 (2018)",
+"authors": "164",
+"citations": "394",
+"report_numbers": ""
+},
+{
+"recid": "1633639",
+"title": "Search for Neutrinoless Double-β Decay in $^{76}$Ge with the Majorana Demonstrator",
+"earliest_date": "2017-10-31",
+"collaboration": "Majorana",
+"journal": "Phys.Rev.Lett. 120 132502 (2018)",
+"authors": "129",
+"citations": "240",
+"report_numbers": ""
+},
+{
+"recid": "1634658",
+"title": "Upgrade for Phase II of the Gerda experiment",
+"earliest_date": "2017-11-04",
+"collaboration": "GERDA",
+"journal": "Eur.Phys.J.C 78 388 (2018)",
+"authors": "114",
+"citations": "119",
+"report_numbers": ""
+},
+{
+"recid": "1634668",
+"title": "Discovery of a big void in Khufu's Pyramid by observation of cosmic-ray muons",
+"earliest_date": "2017-11-05",
+"collaboration": "",
+"journal": "Nature 552 386 (2017)",
+"authors": "34",
+"citations": "176",
+"report_numbers": ""
+},
+{
+"recid": "1644362",
+"title": "Identification of heavy-flavour jets with the CMS detector in pp collisions at 13 TeV",
+"earliest_date": "2017-12-19",
+"collaboration": "CMS",
+"journal": "JINST 13 P05011 (2018)",
+"authors": "2265",
+"citations": "1518",
+"report_numbers": "CMS-BTV-16-002; CERN-EP-2017-326"
+},
+{
+"recid": "1648154",
+"title": "The design of the MEG II experiment",
+"earliest_date": "2018-01-15",
+"collaboration": "MEG II",
+"journal": "Eur.Phys.J.C 78 380 (2018)",
+"authors": "75",
+"citations": "534",
+"report_numbers": ""
+},
+{
+"recid": "1650574",
+"title": "EuPRAXIA@SPARC_LAB Design study towards a compact FEL facility at LNF",
+"earliest_date": "2018-01-26",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 909 134 (2018)",
+"authors": "120",
+"citations": "123",
+"report_numbers": ""
+},
+{
+"recid": "1653181",
+"title": "First Measurements of Beam Backgrounds at SuperKEKB",
+"earliest_date": "2018-02-05",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 914 69 (2019)",
+"authors": "70",
+"citations": "112",
+"report_numbers": "AIDA-2020-PUB-2018-005"
+},
+{
+"recid": "1654804",
+"title": "The P2 experiment",
+"earliest_date": "2018-02-13",
+"collaboration": "",
+"journal": "Eur.Phys.J.A 54 208 (2018)",
+"authors": "46",
+"citations": "238",
+"report_numbers": ""
+},
+{
+"recid": "1655569",
+"title": "Projected WIMP sensitivity of the LUX-ZEPLIN dark matter experiment",
+"earliest_date": "2018-02-16",
+"collaboration": "LZ",
+"journal": "Phys.Rev.D 101 052002 (2020)",
+"authors": "178",
+"citations": "532",
+"report_numbers": "FERMILAB-PUB-18-054-AE-PPD"
+},
+{
+"recid": "1656820",
+"title": "First Result on the Neutrinoless Double-$\\beta$ Decay of $^{82}Se$ with CUPID-0",
+"earliest_date": "2018-02-21",
+"collaboration": "CUPID-0",
+"journal": "Phys.Rev.Lett. 120 232502 (2018)",
+"authors": "51",
+"citations": "131",
+"report_numbers": ""
+},
+{
+"recid": "1658704",
+"title": "Ionization electron signal processing in single phase LArTPCs. Part I. Algorithm Description and quantitative evaluation with MicroBooNE simulation",
+"earliest_date": "2018-02-23",
+"collaboration": "MicroBooNE",
+"journal": "JINST 13 P07006 (2018)",
+"authors": "168",
+"citations": "195",
+"report_numbers": "FERMILAB-PUB-18-056-ND-PPD"
+},
+{
+"recid": "1657385",
+"title": "Limits on Light Weakly Interacting Massive Particles from the First 102.8 kg ${\\times}$ day Data of the CDEX-10 Experiment",
+"earliest_date": "2018-02-25",
+"collaboration": "CDEX",
+"journal": "Phys.Rev.Lett. 120 241301 (2018)",
+"authors": "73",
+"citations": "205",
+"report_numbers": ""
+},
+{
+"recid": "1658490",
+"title": "Production and Integration of the ATLAS Insertable B-Layer",
+"earliest_date": "2018-03-02",
+"collaboration": "ATLAS IBL",
+"journal": "JINST 13 T05008 (2018)",
+"authors": "377",
+"citations": "993",
+"report_numbers": "FERMILAB-PUB-18-826-V"
+},
+{
+"recid": "1664305",
+"title": "COHERENT 2018 at the Spallation Neutron Source",
+"earliest_date": "2018-03-24",
+"collaboration": "COHERENT",
+"journal": "()",
+"authors": "79",
+"citations": "109",
+"report_numbers": ""
+},
+{
+"recid": "1667027",
+"title": "Ionization electron signal processing in single phase LArTPCs. Part II. Data/simulation comparison and performance in MicroBooNE",
+"earliest_date": "2018-04-07",
+"collaboration": "MicroBooNE",
+"journal": "JINST 13 P07007 (2018)",
+"authors": "171",
+"citations": "163",
+"report_numbers": "FERMILAB-PUB-18-096-ND"
+},
+{
+"recid": "1659009",
+"title": "GET: A generic electronics system for TPCs and nuclear physics instrumentation",
+"earliest_date": "2018-04-11",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 887 81 (2018)",
+"authors": "64",
+"citations": "120",
+"report_numbers": ""
+},
+{
+"recid": "1667194",
+"title": "Search for sterile neutrinos at the DANSS experiment",
+"earliest_date": "2018-04-11",
+"collaboration": "DANSS",
+"journal": "Phys.Lett.B 787 56 (2018)",
+"authors": "31",
+"citations": "288",
+"report_numbers": ""
+},
+{
+"recid": "1667449",
+"title": "Performance of the CMS muon detector and muon reconstruction with proton-proton collisions at $\\sqrt{s}=$ 13 TeV",
+"earliest_date": "2018-04-12",
+"collaboration": "CMS",
+"journal": "JINST 13 P06015 (2018)",
+"authors": "2333",
+"citations": "1547",
+"report_numbers": "CMS-MUO-16-001; CERN-EP-2018-058"
+},
+{
+"recid": "1788790",
+"title": "Demonstration of sub-3 ps temporal resolution with a superconducting nanowire single-photon detector",
+"earliest_date": "2018-04-18",
+"collaboration": "",
+"journal": "Nature Photon. 14 250 (2020)",
+"authors": "34",
+"citations": "352",
+"report_numbers": "FERMILAB-PUB-20-149-V"
+},
+{
+"recid": "1670791",
+"title": "First Dark Matter Constraints from a SuperCDMS Single-Charge Sensitive Detector",
+"earliest_date": "2018-04-27",
+"collaboration": "SuperCDMS",
+"journal": "Phys.Rev.Lett. 121 051301 (2018)",
+"authors": "101",
+"citations": "415",
+"report_numbers": "FERMILAB-PUB-18-150-AE"
+},
+{
+"recid": "1673126",
+"title": "The NUMEN project: NUclear Matrix Elements for Neutrinoless double beta decay",
+"earliest_date": "2018-05-08",
+"collaboration": "NUMEN",
+"journal": "Eur.Phys.J.A 54 72 (2018)",
+"authors": "127",
+"citations": "188",
+"report_numbers": ""
+},
+{
+"recid": "1672899",
+"title": "Hyper-Kamiokande Design Report",
+"earliest_date": "2018-05-09",
+"collaboration": "Hyper-Kamiokande",
+"journal": "()",
+"authors": "314",
+"citations": "1546",
+"report_numbers": ""
+},
+{
+"recid": "1675260",
+"title": "nEXO Pre-Conceptual Design Report",
+"earliest_date": "2018-05-28",
+"collaboration": "nEXO",
+"journal": "()",
+"authors": "169",
+"citations": "156",
+"report_numbers": ""
+},
+{
+"recid": "1675772",
+"title": "Dark Matter Search Results from a One Ton-Year Exposure of XENON1T",
+"earliest_date": "2018-05-31",
+"collaboration": "XENON",
+"journal": "Phys.Rev.Lett. 121 111302 (2018)",
+"authors": "120",
+"citations": "2689",
+"report_numbers": ""
+},
+{
+"recid": "1676617",
+"title": "Dark matter direct search sensitivity of the PandaX-4T experiment",
+"earliest_date": "2018-06-06",
+"collaboration": "PandaX",
+"journal": "Sci.China Phys.Mech.Astron. 62 31011 (2019)",
+"authors": "62",
+"citations": "234",
+"report_numbers": ""
+},
+{
+"recid": "1679408",
+"title": "The SABRE project and the SABRE Proof-of-Principle",
+"earliest_date": "2018-06-25",
+"collaboration": "SABRE",
+"journal": "Eur.Phys.J.C 79 363 (2019)",
+"authors": "49",
+"citations": "140",
+"report_numbers": ""
+},
+{
+"recid": "1685035",
+"title": "A Letter of Intent for MATHUSLA: A Dedicated Displaced Vertex Detector above ATLAS or CMS.",
+"earliest_date": "2018-07-17",
+"collaboration": "MATHUSLA",
+"journal": "()",
+"authors": "64",
+"citations": "118",
+"report_numbers": "CERN-LHCC-2018-025; LHCC-I-031"
+},
+{
+"recid": "1684272",
+"title": "The DUNE Far Detector Interim Design Report Volume 1: Physics, Technology and Strategies",
+"earliest_date": "2018-07-26",
+"collaboration": "DUNE",
+"journal": "()",
+"authors": "1100",
+"citations": "285",
+"report_numbers": "Fermilab-Design-2018-02; FERMILAB-DESIGN-2018-02"
+},
+{
+"recid": "1684784",
+"title": "Letter of Intent: A New QCD facility at the M2 beam line of the CERN SPS (COMPASS++/AMBER)",
+"earliest_date": "2018-08-02",
+"collaboration": "",
+"journal": "()",
+"authors": "265",
+"citations": "204",
+"report_numbers": "CERN-SPSC-2019-003; SPSC-I-250"
+},
+{
+"recid": "1685111",
+"title": "PTOLEMY: A Proposal for Thermal Relic Detection of Massive Neutrinos and Directional Detection of MeV Dark Matter",
+"earliest_date": "2018-08-06",
+"collaboration": "PTOLEMY",
+"journal": "()",
+"authors": "51",
+"citations": "171",
+"report_numbers": ""
+},
+{
+"recid": "1685350",
+"title": "Searches for electron interactions induced by new physics in the EDELWEISS-III Germanium bolometers",
+"earliest_date": "2018-08-07",
+"collaboration": "EDELWEISS",
+"journal": "Phys.Rev.D 98 082004 (2018)",
+"authors": "42",
+"citations": "119",
+"report_numbers": ""
+},
+{
+"recid": "1689384",
+"title": "Deep neural network for pixel-level electromagnetic particle identification in the MicroBooNE liquid argon time projection chamber",
+"earliest_date": "2018-08-22",
+"collaboration": "MicroBooNE",
+"journal": "Phys.Rev.D 99 092001 (2019)",
+"authors": "172",
+"citations": "121",
+"report_numbers": "FERMILAB-PUB-18-231-ND"
+},
+{
+"recid": "1691860",
+"title": "Search for Low-Mass Dark Matter with CDMSlite Using a Profile Likelihood Fit",
+"earliest_date": "2018-08-27",
+"collaboration": "SuperCDMS",
+"journal": "Phys.Rev.D 99 062001 (2019)",
+"authors": "102",
+"citations": "226",
+"report_numbers": "FERMILAB-PUB-18-435-AE"
+},
+{
+"recid": "1692193",
+"title": "Baikal-GVD: status and prospects",
+"earliest_date": "2018-08-30",
+"collaboration": "Baikal-GVD",
+"journal": "EPJ Web Conf. 191 01006 (2018)",
+"authors": "51",
+"citations": "102",
+"report_numbers": ""
+},
+{
+"recid": "1693245",
+"title": "Measurement of the Electron Antineutrino Oscillation with 1958 Days of Operation at Daya Bay",
+"earliest_date": "2018-09-06",
+"collaboration": "Daya Bay",
+"journal": "Phys.Rev.Lett. 121 241805 (2018)",
+"authors": "204",
+"citations": "382",
+"report_numbers": ""
+},
+{
+"recid": "1693412",
+"title": "Performance of reconstruction and identification of $\\tau$ leptons decaying to hadrons and $\\nu_\\tau$ in pp collisions at $\\sqrt{s}=$ 13 TeV",
+"earliest_date": "2018-09-08",
+"collaboration": "CMS",
+"journal": "JINST 13 P10005 (2018)",
+"authors": "2297",
+"citations": "527",
+"report_numbers": "CMS-TAU-16-003; CERN-EP-2018-229"
+},
+{
+"recid": "1704344",
+"title": "KAGRA: 2.5 Generation Interferometric Gravitational Wave Detector",
+"earliest_date": "2018-11-20",
+"collaboration": "KAGRA",
+"journal": "Nature Astron. 3 35 (2019)",
+"authors": "194",
+"citations": "735",
+"report_numbers": "JGW-P1809243"
+},
+{
+"recid": "1705661",
+"title": "Results of a Search for Sub-GeV Dark Matter Using 2013 LUX Data",
+"earliest_date": "2018-11-27",
+"collaboration": "LUX",
+"journal": "Phys.Rev.Lett. 122 131301 (2019)",
+"authors": "98",
+"citations": "230",
+"report_numbers": ""
+},
+{
+"recid": "1707967",
+"title": "Electron and photon energy calibration with the ATLAS detector using 2015–2016 LHC proton-proton collision data",
+"earliest_date": "2018-12-10",
+"collaboration": "ATLAS",
+"journal": "JINST 14 P03017 (2019)",
+"authors": "2939",
+"citations": "390",
+"report_numbers": "CERN-EP-2018-296"
+},
+{
+"recid": "1713706",
+"title": "FCC Physics Opportunities",
+"earliest_date": "2018-12-14",
+"collaboration": "FCC",
+"journal": "Eur.Phys.J.C 79 474 (2019)",
+"authors": "1364",
+"citations": "1235",
+"report_numbers": "CERN-ACC-2018-0056"
+},
+{
+"recid": "1711192",
+"title": "COMET Phase-I Technical Design Report",
+"earliest_date": "2018-12-21",
+"collaboration": "COMET",
+"journal": "PTEP 2020 033C01 (2020)",
+"authors": "194",
+"citations": "359",
+"report_numbers": ""
+},
+{
+"recid": "1711174",
+"title": "Technical Proposal for FASER: ForwArd Search ExpeRiment at the LHC",
+"earliest_date": "2018-12-21",
+"collaboration": "FASER",
+"journal": "()",
+"authors": "35",
+"citations": "256",
+"report_numbers": "CERN-LHCC-2018-036; LHCC-P-013; UCI-TR-2018-22; KYUSHU-RCAPP-2018-07"
+},
+{
+"recid": "1711636",
+"title": "Design and performance of the LHCb trigger and full real-time reconstruction in Run 2 of the LHC",
+"earliest_date": "2018-12-27",
+"collaboration": "LHCb",
+"journal": "JINST 14 P04013 (2019)",
+"authors": "82",
+"citations": "356",
+"report_numbers": "CERN-LHCb-DP-2019-001"
+},
+{
+"recid": "1712099",
+"title": "Piezoelectrically Tuned Multimode Cavity Search for Axion Dark Matter",
+"earliest_date": "2018-12-28",
+"collaboration": "ADMX",
+"journal": "Phys.Rev.Lett. 121 261302 (2018)",
+"authors": "34",
+"citations": "206",
+"report_numbers": "FERMILAB-PUB-18-702-AD-AE"
+},
+{
+"recid": "1713023",
+"title": "A New Approach for Measuring the Muon Anomalous Magnetic Moment and Electric Dipole Moment",
+"earliest_date": "2019-01-10",
+"collaboration": "",
+"journal": "PTEP 2019 053C02 (2019)",
+"authors": "96",
+"citations": "357",
+"report_numbers": ""
+},
+{
+"recid": "1713435",
+"title": "Searching for low-mass dark matter particles with a massive Ge bolometer operated above-ground",
+"earliest_date": "2019-01-11",
+"collaboration": "EDELWEISS",
+"journal": "Phys.Rev.D 99 082003 (2019)",
+"authors": "41",
+"citations": "313",
+"report_numbers": ""
+},
+{
+"recid": "1713643",
+"title": "T2K ND280 Upgrade - Technical Design Report",
+"earliest_date": "2019-01-11",
+"collaboration": "T2K",
+"journal": "()",
+"authors": "409",
+"citations": "216",
+"report_numbers": "CERN-SPSC-2019-001 (SPSC-TDR-006)"
+},
+{
+"recid": "1717494",
+"title": "Physics Beyond Colliders at CERN: Beyond the Standard Model Working Group Report",
+"earliest_date": "2019-01-20",
+"collaboration": "",
+"journal": "J.Phys.G 47 010501 (2020)",
+"authors": "33",
+"citations": "795",
+"report_numbers": "CERN-PBC-REPORT-2018-007"
+},
+{
+"recid": "1716850",
+"title": "A new experimental approach to probe QCD axion dark matter in the mass range above 40 $\\mu$eV",
+"earliest_date": "2019-01-22",
+"collaboration": "MADMAX",
+"journal": "Eur.Phys.J.C 79 186 (2019)",
+"authors": "31",
+"citations": "207",
+"report_numbers": "DESY-19-011; DESY 19-011"
+},
+{
+"recid": "1717203",
+"title": "Double Chooz $\\theta_{13}$ measurement via total neutron capture detection",
+"earliest_date": "2019-01-27",
+"collaboration": "Double Chooz",
+"journal": "Nature Phys. 16 558 (2020)",
+"authors": "94",
+"citations": "264",
+"report_numbers": ""
+},
+{
+"recid": "1720078",
+"title": "Electron reconstruction and identification in the ATLAS experiment using the 2015 and 2016 LHC proton-proton collision data at $\\sqrt{s}$ = 13 TeV",
+"earliest_date": "2019-02-11",
+"collaboration": "ATLAS",
+"journal": "Eur.Phys.J.C 79 639 (2019)",
+"authors": "2939",
+"citations": "825",
+"report_numbers": "CERN-EP-2018-273"
+},
+{
+"recid": "1719421",
+"title": "Dark Matter Search Results from the Complete Exposure of the PICO-60 C$_3$F$_8$ Bubble Chamber",
+"earliest_date": "2019-02-11",
+"collaboration": "PICO",
+"journal": "Phys.Rev.D 100 022001 (2019)",
+"authors": "72",
+"citations": "564",
+"report_numbers": "FERMILAB-PUB-19-073-AE-E"
+},
+{
+"recid": "1722510",
+"title": "XENON1T dark matter data analysis: Signal and background models and statistical inference",
+"earliest_date": "2019-02-28",
+"collaboration": "XENON",
+"journal": "Phys.Rev.D 99 112009 (2019)",
+"authors": "126",
+"citations": "110",
+"report_numbers": ""
+},
+{
+"recid": "1724943",
+"title": "Performance of missing transverse momentum reconstruction in proton-proton collisions at $\\sqrt{s} =$ 13 TeV using the CMS detector",
+"earliest_date": "2019-03-14",
+"collaboration": "CMS",
+"journal": "JINST 14 P07004 (2019)",
+"authors": "2287",
+"citations": "862",
+"report_numbers": "CMS-JME-17-001; CERN-EP-2018-335"
+},
+{
+"recid": "1726391",
+"title": "First Results from the AMoRE-Pilot neutrinoless double beta decay experiment",
+"earliest_date": "2019-03-22",
+"collaboration": "",
+"journal": "Eur.Phys.J.C 79 791 (2019)",
+"authors": "110",
+"citations": "137",
+"report_numbers": ""
+},
+{
+"recid": "1726478",
+"title": "Search for a Dark Matter-Induced Annual Modulation Signal in NaI(Tl) with the COSINE-100 Experiment",
+"earliest_date": "2019-03-25",
+"collaboration": "COSINE-100",
+"journal": "Phys.Rev.Lett. 123 031302 (2019)",
+"authors": "48",
+"citations": "166",
+"report_numbers": ""
+},
+{
+"recid": "1732511",
+"title": "Constraints on Spin-Independent Nucleus Scattering with sub-GeV Weakly Interacting Massive Particle Dark Matter from the CDEX-1B Experiment at the China Jinping Underground Laboratory",
+"earliest_date": "2019-05-01",
+"collaboration": "CDEX",
+"journal": "Phys.Rev.Lett. 123 161301 (2019)",
+"authors": "71",
+"citations": "184",
+"report_numbers": ""
+},
+{
+"recid": "1736784",
+"title": "Exploring $\\hbox {CE}\\nu \\hbox {NS}$ with NUCLEUS at the Chooz nuclear power plant",
+"earliest_date": "2019-05-24",
+"collaboration": "NUCLEUS",
+"journal": "Eur.Phys.J.C 79 1018 (2019)",
+"authors": "37",
+"citations": "133",
+"report_numbers": ""
+},
+{
+"recid": "1738655",
+"title": "Exploring low-energy neutrino physics with the Coherent Neutrino Nucleus Interaction Experiment",
+"earliest_date": "2019-06-05",
+"collaboration": "CONNIE",
+"journal": "Phys.Rev.D 100 092005 (2019)",
+"authors": "33",
+"citations": "138",
+"report_numbers": "FERMILAB-PUB-19-302-CD-PPD"
+},
+{
+"recid": "1739338",
+"title": "XENON1T Dark Matter Data Analysis: Signal Reconstruction, Calibration and Event Selection",
+"earliest_date": "2019-06-11",
+"collaboration": "XENON",
+"journal": "Phys.Rev.D 100 052014 (2019)",
+"authors": "128",
+"citations": "110",
+"report_numbers": ""
+},
+{
+"recid": "1739633",
+"title": "Final result of CUPID-0 phase-I in the search for the $^{82}$Se Neutrinoless Double-$\\beta$ Decay",
+"earliest_date": "2019-06-12",
+"collaboration": "CUPID",
+"journal": "Phys.Rev.Lett. 123 032501 (2019)",
+"authors": "44",
+"citations": "122",
+"report_numbers": ""
+},
+{
+"recid": "1744770",
+"title": "CUPID pre-CDR",
+"earliest_date": "2019-07-22",
+"collaboration": "CUPID",
+"journal": "()",
+"authors": "160",
+"citations": "192",
+"report_numbers": ""
+},
+{
+"recid": "1746583",
+"title": "Calibration of the charge and energy loss per unit length of the MicroBooNE liquid argon time projection chamber using muons and protons",
+"earliest_date": "2019-07-26",
+"collaboration": "MicroBooNE",
+"journal": "JINST 15 P03022 (2020)",
+"authors": "188",
+"citations": "107",
+"report_numbers": "FERMILAB-PUB-19-357-ND"
+},
+{
+"recid": "1747015",
+"title": "Constraints on Light Dark Matter Particles Interacting with Electrons from DAMIC at SNOLAB",
+"earliest_date": "2019-07-29",
+"collaboration": "DAMIC",
+"journal": "Phys.Rev.Lett. 123 181802 (2019)",
+"authors": "34",
+"citations": "316",
+"report_numbers": "FERMILAB-PUB-19-432-AE-SCD"
+},
+{
+"recid": "1747114",
+"title": "Search for Light Dark Matter Interactions Enhanced by the Migdal Effect or Bremsstrahlung in XENON1T",
+"earliest_date": "2019-07-30",
+"collaboration": "XENON",
+"journal": "Phys.Rev.Lett. 123 241803 (2019)",
+"authors": "134",
+"citations": "364",
+"report_numbers": ""
+},
+{
+"recid": "1747555",
+"title": "Electron and photon performance measurements with the ATLAS detector using the 2015–2017 LHC proton-proton collision data",
+"earliest_date": "2019-07-31",
+"collaboration": "ATLAS",
+"journal": "JINST 14 P12006 (2019)",
+"authors": "2939",
+"citations": "1252",
+"report_numbers": "CERN-EP-2019-145"
+},
+{
+"recid": "1748271",
+"title": "Detecting and Studying High-Energy Collider Neutrinos with FASER at the LHC",
+"earliest_date": "2019-08-06",
+"collaboration": "FASER",
+"journal": "Eur.Phys.J.C 80 61 (2020)",
+"authors": "47",
+"citations": "257",
+"report_numbers": "CERN-EP-2019-160; KYUSHU-RCAPP-2019-003; SLAC-PUB-17460, UCI-TR-2019-19; SLAC-PUB-17460,\n  UCI-TR-2019-19"
+},
+{
+"recid": "1752922",
+"title": "The CUPID-Mo experiment for neutrinoless double-beta decay: performance and prospects",
+"earliest_date": "2019-09-06",
+"collaboration": "",
+"journal": "Eur.Phys.J.C 80 44 (2020)",
+"authors": "89",
+"citations": "119",
+"report_numbers": ""
+},
+{
+"recid": "1754140",
+"title": "Improved Upper Limit on the Neutrino Mass from a Direct Kinematic Method by KATRIN",
+"earliest_date": "2019-09-13",
+"collaboration": "KATRIN",
+"journal": "Phys.Rev.Lett. 123 221802 (2019)",
+"authors": "208",
+"citations": "665",
+"report_numbers": ""
+},
+{
+"recid": "1760320",
+"title": "Extended Search for the Invisible Axion with the Axion Dark Matter Experiment",
+"earliest_date": "2019-10-18",
+"collaboration": "ADMX",
+"journal": "Phys.Rev.Lett. 124 101303 (2020)",
+"authors": "42",
+"citations": "631",
+"report_numbers": "FERMILAB-PUB-19-569-AD-AE-PPD"
+},
+{
+"recid": "1759874",
+"title": "The LUX-ZEPLIN (LZ) Experiment",
+"earliest_date": "2019-10-20",
+"collaboration": "LZ",
+"journal": "Nucl.Instrum.Meth.A 953 163047 (2020)",
+"authors": "381",
+"citations": "345",
+"report_numbers": "FERMILAB-PUB-19-555-AE-E"
+},
+{
+"recid": "1764050",
+"title": "THEIA: an advanced optical neutrino detector",
+"earliest_date": "2019-11-08",
+"collaboration": "Theia",
+"journal": "Eur.Phys.J.C 80 416 (2020)",
+"authors": "78",
+"citations": "221",
+"report_numbers": ""
+},
+{
+"recid": "1764448",
+"title": "ATLAS data quality operations and performance for 2015–2018 data-taking",
+"earliest_date": "2019-11-11",
+"collaboration": "ATLAS",
+"journal": "JINST 15 P04003 (2020)",
+"authors": "2953",
+"citations": "783",
+"report_numbers": "CERN-EP-2019-207"
+},
+{
+"recid": "1767427",
+"title": "Constraints on dark photons and axionlike particles from the SuperCDMS Soudan experiment",
+"earliest_date": "2019-11-26",
+"collaboration": "SuperCDMS",
+"journal": "Phys.Rev.D 101 052008 (2020)",
+"authors": "113",
+"citations": "106",
+"report_numbers": "FERMILAB-PUB-19-666-AE-TD"
+},
+{
+"recid": "1769184",
+"title": "Performance of the reconstruction and identification of high-momentum muons in proton-proton collisions at $\\sqrt{s} =$ 13 TeV",
+"earliest_date": "2019-12-07",
+"collaboration": "CMS",
+"journal": "JINST 15 P02027 (2020)",
+"authors": "2302",
+"citations": "157",
+"report_numbers": "CMS-MUO-17-001; CERN-EP-2019-238"
+},
+{
+"recid": "1774688",
+"title": "Technical Proposal: FASERnu",
+"earliest_date": "2020-01-09",
+"collaboration": "FASER",
+"journal": "()",
+"authors": "71",
+"citations": "182",
+"report_numbers": "CERN-LHCC-2019-017; LHCC-P-015; UCI-TR-2019-25"
+},
+{
+"recid": "1777942",
+"title": "A cryogenic silicon interferometer for gravitational-wave detection",
+"earliest_date": "2020-01-30",
+"collaboration": "LIGO",
+"journal": "Class.Quant.Grav. 37 165003 (2020)",
+"authors": "113",
+"citations": "240",
+"report_numbers": "LIGO-P1800072"
+},
+{
+"recid": "1778151",
+"title": "Measurement of the Permanent Electric Dipole Moment of the Neutron",
+"earliest_date": "2020-01-31",
+"collaboration": "",
+"journal": "Phys.Rev.Lett. 124 081803 (2020)",
+"authors": "84",
+"citations": "1108",
+"report_numbers": ""
+},
+{
+"recid": "1779523",
+"title": "Deep Underground Neutrino Experiment (DUNE), Far Detector Technical Design Report, Volume III: DUNE Far Detector Technical Coordination",
+"earliest_date": "2020-02-07",
+"collaboration": "DUNE",
+"journal": "JINST 15 T08009 (2020)",
+"authors": "970",
+"citations": "106",
+"report_numbers": "FERMILAB-PUB-20-026-ND"
+},
+{
+"recid": "1779524",
+"title": "Deep Underground Neutrino Experiment (DUNE), Far Detector Technical Design Report, Volume I Introduction to DUNE",
+"earliest_date": "2020-02-07",
+"collaboration": "DUNE",
+"journal": "JINST 15 T08008 (2020)",
+"authors": "970",
+"citations": "814",
+"report_numbers": "FERMILAB-PUB-20-024-ND; FERMILAB-DESIGN-2020-01"
+},
+{
+"recid": "1779526",
+"title": "Deep Underground Neutrino Experiment (DUNE), Far Detector Technical Design Report, Volume IV: Far Detector Single-phase Technology",
+"earliest_date": "2020-02-07",
+"collaboration": "DUNE",
+"journal": "JINST 15 T08010 (2020)",
+"authors": "936",
+"citations": "322",
+"report_numbers": "FERMILAB-PUB-20-027-ND; FERMILAB-DESIGN-2020-04"
+},
+{
+"recid": "1779525",
+"title": "Deep Underground Neutrino Experiment (DUNE), Far Detector Technical Design Report, Volume II: DUNE Physics",
+"earliest_date": "2020-02-07",
+"collaboration": "DUNE",
+"journal": "()",
+"authors": "970",
+"citations": "961",
+"report_numbers": "FERMILAB-PUB-20-025-ND; FERMILAB-DESIGN-2020-02"
+},
+{
+"recid": "1781552",
+"title": "SND@LHC",
+"earliest_date": "2020-02-20",
+"collaboration": "SHiP",
+"journal": "()",
+"authors": "343",
+"citations": "119",
+"report_numbers": "CERN-LHCC-2020-002; LHCC-I-035"
+},
+{
+"recid": "1783221",
+"title": "Pileup mitigation at CMS in 13 TeV data",
+"earliest_date": "2020-03-01",
+"collaboration": "CMS",
+"journal": "JINST 15 P09018 (2020)",
+"authors": "2305",
+"citations": "675",
+"report_numbers": "CMS-JME-18-001; CERN-EP-2020-017"
+},
+{
+"recid": "1783306",
+"title": "First germanium-based constraints on sub-MeV Dark Matter with the EDELWEISS experiment",
+"earliest_date": "2020-03-02",
+"collaboration": "EDELWEISS",
+"journal": "Phys.Rev.Lett. 125 141301 (2020)",
+"authors": "41",
+"citations": "289",
+"report_numbers": ""
+},
+{
+"recid": "1783752",
+"title": "International Large Detector: Interim Design Report",
+"earliest_date": "2020-03-02",
+"collaboration": "ILD Concept Group",
+"journal": "()",
+"authors": "343",
+"citations": "201",
+"report_numbers": "DESY-20-034; KEK 2019-57"
+},
+{
+"recid": "1784455",
+"title": "Energy resolution and linearity of XENON1T in the MeV energy range",
+"earliest_date": "2020-03-08",
+"collaboration": "XENON",
+"journal": "Eur.Phys.J.C 80 785 (2020)",
+"authors": "142",
+"citations": "109",
+"report_numbers": ""
+},
+{
+"recid": "1787822",
+"title": "MADMAX Status Report",
+"earliest_date": "2020-03-24",
+"collaboration": "",
+"journal": "()",
+"authors": "45",
+"citations": "115",
+"report_numbers": ""
+},
+{
+"recid": "1788529",
+"title": "Track finding at Belle II",
+"earliest_date": "2020-03-27",
+"collaboration": "Belle II Tracking Group",
+"journal": "Comput.Phys.Commun. 259 107610 (2021)",
+"authors": "58",
+"citations": "146",
+"report_numbers": ""
+},
+{
+"recid": "1781194",
+"title": "The CLAS12 Spectrometer at Jefferson Laboratory",
+"earliest_date": "2020-04-11",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 959 163419 (2020)",
+"authors": "203",
+"citations": "187",
+"report_numbers": ""
+},
+{
+"recid": "1791648",
+"title": "Identification of heavy, energetic, hadronically decaying particles using machine-learning techniques",
+"earliest_date": "2020-04-17",
+"collaboration": "CMS",
+"journal": "JINST 15 P06005 (2020)",
+"authors": "2304",
+"citations": "317",
+"report_numbers": "CMS-JME-18-002; CERN-EP-2020-037"
+},
+{
+"recid": "1793218",
+"title": "Performance of the ATLAS muon triggers in Run 2",
+"earliest_date": "2020-04-28",
+"collaboration": "ATLAS",
+"journal": "JINST 15 P09015 (2020)",
+"authors": "2967",
+"citations": "716",
+"report_numbers": "CERN-EP-2020-031"
+},
+{
+"recid": "1795919",
+"title": "Overview of KAGRA: Detector design and construction history",
+"earliest_date": "2020-05-12",
+"collaboration": "KAGRA",
+"journal": "PTEP 2021 05A101 (2021)",
+"authors": "200",
+"citations": "1027",
+"report_numbers": ""
+},
+{
+"recid": "1796355",
+"title": "Sensitivity of a tonne-scale NEXT detector for neutrinoless double beta decay searches",
+"earliest_date": "2020-05-13",
+"collaboration": "NEXT",
+"journal": "JHEP 2021 164 (2021)",
+"authors": "98",
+"citations": "110",
+"report_numbers": ""
+},
+{
+"recid": "1799546",
+"title": "TAO Conceptual Design Report: A Precision Measurement of the Reactor Antineutrino Spectrum with Sub-percent Energy Resolution",
+"earliest_date": "2020-05-18",
+"collaboration": "JUNO",
+"journal": "()",
+"authors": "596",
+"citations": "178",
+"report_numbers": ""
+},
+{
+"recid": "1798503",
+"title": "The GLUEX beamline and detector",
+"earliest_date": "2020-05-28",
+"collaboration": "GlueX",
+"journal": "Nucl.Instrum.Meth.A 987 164807 (2021)",
+"authors": "191",
+"citations": "155",
+"report_numbers": "JLAB-PHY-20-3195"
+},
+{
+"recid": "1798459",
+"title": "Constraints on low-mass, relic dark matter candidates from a surface-operated SuperCDMS single-charge sensitive detector",
+"earliest_date": "2020-05-28",
+"collaboration": "SuperCDMS",
+"journal": "Phys.Rev.D 102 091101 (2020)",
+"authors": "118",
+"citations": "235",
+"report_numbers": "FERMILAB-PUB-20-296-AE-TD"
+},
+{
+"recid": "1800401",
+"title": "New high-sensitivity searches for neutrons converting into antineutrons and/or sterile neutrons at the HIBEAM/NNBAR experiment at the European Spallation Source",
+"earliest_date": "2020-06-08",
+"collaboration": "",
+"journal": "J.Phys.G 48 070501 (2021)",
+"authors": "114",
+"citations": "102",
+"report_numbers": ""
+},
+{
+"recid": "1801861",
+"title": "Performance of the CMS Level-1 trigger in proton-proton collisions at $\\sqrt{s} =$ 13 TeV",
+"earliest_date": "2020-06-17",
+"collaboration": "CMS",
+"journal": "JINST 15 P10017 (2020)",
+"authors": "2342",
+"citations": "1079",
+"report_numbers": "CMS-TRG-17-001; CERN-EP-2020-065"
+},
+{
+"recid": "1803362",
+"title": "Experimental evidence of neutrinos produced in the CNO fusion cycle in the Sun",
+"earliest_date": "2020-06-26",
+"collaboration": "BOREXINO",
+"journal": "Nature 587 577 (2020)",
+"authors": "96",
+"citations": "270",
+"report_numbers": ""
+},
+{
+"recid": "1806875",
+"title": "First results on ProtoDUNE-SP liquid argon time projection chamber performance from a beam test at the CERN Neutrino Platform",
+"earliest_date": "2020-07-13",
+"collaboration": "DUNE",
+"journal": "JINST 15 P12004 (2020)",
+"authors": "995",
+"citations": "216",
+"report_numbers": "FERMILAB-PUB-20-059-AD-ESH-LBNF-ND-SCD; CERN-EP-2020-125"
+},
+{
+"recid": "1807808",
+"title": "Projected WIMP sensitivity of the XENONnT dark matter experiment",
+"earliest_date": "2020-07-17",
+"collaboration": "XENON",
+"journal": "JCAP 11 031 (2020)",
+"authors": "139",
+"citations": "482",
+"report_numbers": ""
+},
+{
+"recid": "1809053",
+"title": "Light Dark Matter Search with a High-Resolution Athermal Phonon Detector Operated Above Ground",
+"earliest_date": "2020-07-21",
+"collaboration": "SuperCDMS",
+"journal": "Phys.Rev.Lett. 127 061801 (2021)",
+"authors": "124",
+"citations": "198",
+"report_numbers": ""
+},
+{
+"recid": "1808700",
+"title": "Operation of the ATLAS trigger system in Run 2",
+"earliest_date": "2020-07-24",
+"collaboration": "ATLAS",
+"journal": "JINST 15 P10004 (2020)",
+"authors": "2959",
+"citations": "413",
+"report_numbers": "CERN-EP-2020-109"
+},
+{
+"recid": "1811777",
+"title": "Mechanical quantum sensing in the search for dark matter",
+"earliest_date": "2020-08-13",
+"collaboration": "",
+"journal": "Quantum Sci.Technol. 6 024002 (2021)",
+"authors": "35",
+"citations": "182",
+"report_numbers": "FERMILAB-PUB-20-378-QIS-T"
+},
+{
+"recid": "1811905",
+"title": "Supernova neutrino burst detection with the Deep Underground Neutrino Experiment",
+"earliest_date": "2020-08-15",
+"collaboration": "DUNE",
+"journal": "Eur.Phys.J.C 81 423 (2021)",
+"authors": "980",
+"citations": "239",
+"report_numbers": "FERMILAB-PUB-20-380-LBNF; FERMILAB-PUB-20-380-LBNF"
+},
+{
+"recid": "1812795",
+"title": "The first round result from the TianQin-1 satellite",
+"earliest_date": "2020-08-20",
+"collaboration": "",
+"journal": "Class.Quant.Grav. 37 185013 (2020)",
+"authors": "58",
+"citations": "115",
+"report_numbers": ""
+},
+{
+"recid": "1812969",
+"title": "Measurement of space charge effects in the MicroBooNE LArTPC using cosmic muons",
+"earliest_date": "2020-08-22",
+"collaboration": "MicroBooNE",
+"journal": "JINST 15 P12037 (2020)",
+"authors": "186",
+"citations": "114",
+"report_numbers": "FERMILAB-PUB-20-367-ND"
+},
+{
+"recid": "1813026",
+"title": "The TianQin project: current progress on science and technology",
+"earliest_date": "2020-08-24",
+"collaboration": "TianQin",
+"journal": "PTEP 2021 05A107 (2021)",
+"authors": "108",
+"citations": "407",
+"report_numbers": ""
+},
+{
+"recid": "1813379",
+"title": "Calibration and performance of the LHCb calorimeters in Run 1 and 2 at the LHC",
+"earliest_date": "2020-08-26",
+"collaboration": "",
+"journal": "()",
+"authors": "87",
+"citations": "128",
+"report_numbers": "CERN-LHCb-DP-2020-001"
+},
+{
+"recid": "1814792",
+"title": "An Update to the Letter of Intent for MATHUSLA: Search for Long-Lived Particles at the HL-LHC",
+"earliest_date": "2020-09-03",
+"collaboration": "MATHUSLA",
+"journal": "()",
+"authors": "83",
+"citations": "127",
+"report_numbers": "CERN-LHCC-2020-014; LHCC-I-031-ADD-1"
+},
+{
+"recid": "1817003",
+"title": "Final Results of GERDA on the Search for Neutrinoless Double-$\\beta$ Decay",
+"earliest_date": "2020-09-13",
+"collaboration": "GERDA",
+"journal": "Phys.Rev.Lett. 125 252502 (2020)",
+"authors": "114",
+"citations": "677",
+"report_numbers": ""
+},
+{
+"recid": "1818175",
+"title": "Overview of KAGRA: Calibration, detector characterization, physical environmental monitors, and the geophysics interferometer",
+"earliest_date": "2020-09-19",
+"collaboration": "KAGRA",
+"journal": "PTEP 2021 05A102 (2021)",
+"authors": "243",
+"citations": "186",
+"report_numbers": ""
+},
+{
+"recid": "1818841",
+"title": "Technical design of the phase I Mu3e experiment",
+"earliest_date": "2020-09-24",
+"collaboration": "Mu3e",
+"journal": "Nucl.Instrum.Meth.A 1014 165679 (2021)",
+"authors": "105",
+"citations": "248",
+"report_numbers": ""
+},
+{
+"recid": "1820603",
+"title": "Axion Dark Matter Experiment: Detailed design and operations",
+"earliest_date": "2020-09-30",
+"collaboration": "ADMX",
+"journal": "Rev.Sci.Instrum. 92 124502 (2021)",
+"authors": "51",
+"citations": "104",
+"report_numbers": "FERMILAB-PUB-20-331-AD-E-QIS"
+},
+{
+"recid": "1821587",
+"title": "The Payload for Ultrahigh Energy Observations (PUEO): a white paper",
+"earliest_date": "2020-10-06",
+"collaboration": "PUEO",
+"journal": "JINST 16 P08035 (2021)",
+"authors": "50",
+"citations": "162",
+"report_numbers": ""
+},
+{
+"recid": "1826016",
+"title": "Conceptual design of BabyIAXO, the intermediate stage towards the International Axion Observatory",
+"earliest_date": "2020-10-22",
+"collaboration": "IAXO",
+"journal": "JHEP 05 137 (2021)",
+"authors": "126",
+"citations": "152",
+"report_numbers": ""
+},
+{
+"recid": "1826001",
+"title": "Design and Sensitivity of the Radio Neutrino Observatory in Greenland (RNO-G)",
+"earliest_date": "2020-10-23",
+"collaboration": "RNO-G",
+"journal": "JINST 16 P03025 (2021)",
+"authors": "110",
+"citations": "275",
+"report_numbers": ""
+},
+{
+"recid": "1829750",
+"title": "Calibration Strategy of the JUNO Experiment",
+"earliest_date": "2020-11-12",
+"collaboration": "JUNO",
+"journal": "JHEP 03 004 (2021)",
+"authors": "595",
+"citations": "111",
+"report_numbers": ""
+},
+{
+"recid": "1836363",
+"title": "Electron and photon reconstruction and identification with the CMS experiment at the CERN LHC",
+"earliest_date": "2020-12-12",
+"collaboration": "CMS",
+"journal": "JINST 16 P05014 (2021)",
+"authors": "2333",
+"citations": "959",
+"report_numbers": "CMS-EGM-17-001; CERN-EP-2020-219"
+},
+{
+"recid": "1837171",
+"title": "The upgrade of the ALICE TPC with GEMs and continuous readout",
+"earliest_date": "2020-12-17",
+"collaboration": "ALICE TPC",
+"journal": "JINST 16 P03022 (2021)",
+"authors": "235",
+"citations": "127",
+"report_numbers": ""
+},
+{
+"recid": "1838384",
+"title": "The CMS Phase-1 Pixel Detector Upgrade",
+"earliest_date": "2020-12-22",
+"collaboration": "CMS Tracker Group",
+"journal": "JINST 16 P02027 (2021)",
+"authors": "801",
+"citations": "382",
+"report_numbers": ""
+}
+]

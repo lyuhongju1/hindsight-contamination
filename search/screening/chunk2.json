@@ -1,0 +1,1352 @@
+[
+{
+"recid": "853935",
+"title": "Measurement of the response of the ATLAS liquid argon barrel calorimeter to electrons at the 2004 combined test-beam",
+"earliest_date": "2010",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 614 400 (2010)",
+"authors": "54",
+"citations": "110",
+"report_numbers": ""
+},
+{
+"recid": "874841",
+"title": "The KASCADE-Grande experiment",
+"earliest_date": "2010",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 620 202 (2010)",
+"authors": "63",
+"citations": "270",
+"report_numbers": ""
+},
+{
+"recid": "861153",
+"title": "CMS Tracking Performance Results from Early LHC Operation",
+"earliest_date": "2010",
+"collaboration": "CMS",
+"journal": "Eur.Phys.J.C 70 1165 (2010)",
+"authors": "2087",
+"citations": "355",
+"report_numbers": "CERN-PH-EP-2010-019; CMS-TRK-10-001"
+},
+{
+"recid": "840027",
+"title": "Readiness of the ATLAS Liquid Argon Calorimeter for LHC Collisions",
+"earliest_date": "2010",
+"collaboration": "ATLAS",
+"journal": "Eur.Phys.J.C 70 723 (2010)",
+"authors": "2791",
+"citations": "255",
+"report_numbers": ""
+},
+{
+"recid": "853395",
+"title": "The ATLAS Inner Detector commissioning and calibration",
+"earliest_date": "2010",
+"collaboration": "ATLAS",
+"journal": "Eur.Phys.J.C 70 787 (2010)",
+"authors": "2592",
+"citations": "453",
+"report_numbers": ""
+},
+{
+"recid": "856179",
+"title": "The ATLAS Simulation Infrastructure",
+"earliest_date": "2010",
+"collaboration": "ATLAS",
+"journal": "Eur.Phys.J.C 70 823 (2010)",
+"authors": "2593",
+"citations": "3808",
+"report_numbers": ""
+},
+{
+"recid": "859286",
+"title": "Commissioning of the ATLAS Muon Spectrometer with Cosmic Rays",
+"earliest_date": "2010",
+"collaboration": "ATLAS",
+"journal": "Eur.Phys.J.C 70 875 (2010)",
+"authors": "2592",
+"citations": "196",
+"report_numbers": ""
+},
+{
+"recid": "842653",
+"title": "The ALICE TPC, a large 3-dimensional tracking device with fast readout for ultra-high multiplicity events",
+"earliest_date": "2010-01",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 622 316 (2010)",
+"authors": "76",
+"citations": "868",
+"report_numbers": ""
+},
+{
+"recid": "841752",
+"title": "Alignment of the ALICE Inner Tracking System with cosmic-ray tracks",
+"earliest_date": "2010-01",
+"collaboration": "ALICE",
+"journal": "JINST 5 P03003 (2010)",
+"authors": "1054",
+"citations": "503",
+"report_numbers": ""
+},
+{
+"recid": "845761",
+"title": "Calibration and Characterization of the IceCube Photomultiplier Tube",
+"earliest_date": "2010-02",
+"collaboration": "IceCube",
+"journal": "Nucl.Instrum.Meth.A 618 139 (2010)",
+"authors": "258",
+"citations": "425",
+"report_numbers": ""
+},
+{
+"recid": "846347",
+"title": "$b$-Jet Identification in the D0 Experiment",
+"earliest_date": "2010-02",
+"collaboration": "D0",
+"journal": "Nucl.Instrum.Meth.A 620 490 (2010)",
+"authors": "457",
+"citations": "192",
+"report_numbers": "FERMILAB-PUB-10-037-E"
+},
+{
+"recid": "848958",
+"title": "Construction and Commissioning of the CALICE Analog Hadron Calorimeter Prototype",
+"earliest_date": "2010-03",
+"collaboration": "CALICE",
+"journal": "JINST 5 P05004 (2010)",
+"authors": "230",
+"citations": "228",
+"report_numbers": "DESY-10-032; CALICE-PUB-2010-001"
+},
+{
+"recid": "857738",
+"title": "Expression of Interest for a Novel Search for CP Violation in the Neutrino Sector: DAEdALUS",
+"earliest_date": "2010-06",
+"collaboration": "",
+"journal": "()",
+"authors": "45",
+"citations": "100",
+"report_numbers": ""
+},
+{
+"recid": "862205",
+"title": "Calibration of the LIGO Gravitational Wave Detectors in the Fifth Science Run",
+"earliest_date": "2010-07",
+"collaboration": "LIGO Scientific",
+"journal": "Nucl.Instrum.Meth.A 624 223 (2010)",
+"authors": "537",
+"citations": "154",
+"report_numbers": ""
+},
+{
+"recid": "863749",
+"title": "Readiness of the ATLAS Tile Calorimeter for LHC collisions",
+"earliest_date": "2010-07",
+"collaboration": "ATLAS",
+"journal": "Eur.Phys.J.C 70 1193 (2010)",
+"authors": "2577",
+"citations": "341",
+"report_numbers": "CERN-PH-EP-2010-024"
+},
+{
+"recid": "878496",
+"title": "Studies of the performance of the ATLAS detector using cosmic-ray muons",
+"earliest_date": "2010-11",
+"collaboration": "ATLAS",
+"journal": "Eur.Phys.J.C 71 1593 (2011)",
+"authors": "2465",
+"citations": "124",
+"report_numbers": ""
+},
+{
+"recid": "875348",
+"title": "Belle II Technical Design Report",
+"earliest_date": "2010-11",
+"collaboration": "Belle-II",
+"journal": "()",
+"authors": "410",
+"citations": "1862",
+"report_numbers": "KEK-REPORT-2010-1"
+},
+{
+"recid": "879626",
+"title": "Time Projection Chambers for the T2K Near Detectors",
+"earliest_date": "2010-12",
+"collaboration": "T2K ND280 TPC",
+"journal": "Nucl.Instrum.Meth.A 637 25 (2011)",
+"authors": "89",
+"citations": "337",
+"report_numbers": ""
+},
+{
+"recid": "892303",
+"title": "The MPD detector at the NICA heavy-ion collider at JINR",
+"earliest_date": "2011",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 628 99 (2011)",
+"authors": "150",
+"citations": "107",
+"report_numbers": ""
+},
+{
+"recid": "945726",
+"title": "Upgrade of the Alpha Magnetic Spectrometer (AMS-02) for long term operation on the International Space Station (ISS)",
+"earliest_date": "2011",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 654 639 (2011)",
+"authors": "35",
+"citations": "112",
+"report_numbers": ""
+},
+{
+"recid": "946038",
+"title": "Conceptual design and infrastructure for the installation of the first AGATA sub-array at LNL",
+"earliest_date": "2011",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 654 88 (2011)",
+"authors": "110",
+"citations": "106",
+"report_numbers": ""
+},
+{
+"recid": "885206",
+"title": "Advanced Functionality for Radio Analysis in the Offline Software Framework of the Pierre Auger Observatory",
+"earliest_date": "2011-01",
+"collaboration": "Pierre Auger",
+"journal": "Nucl.Instrum.Meth.A 635 92 (2011)",
+"authors": "470",
+"citations": "123",
+"report_numbers": "FERMILAB-PUB-11-027-AE-CD-TD"
+},
+{
+"recid": "884423",
+"title": "Muon and Cosmogenic Neutron Detection in Borexino",
+"earliest_date": "2011-01",
+"collaboration": "Borexino",
+"journal": "JINST 6 P05005 (2011)",
+"authors": "88",
+"citations": "117",
+"report_numbers": ""
+},
+{
+"recid": "894497",
+"title": "Material screening and selection for XENON100",
+"earliest_date": "2011-03",
+"collaboration": "",
+"journal": "Astropart.Phys. 35 43 (2011)",
+"authors": "40",
+"citations": "128",
+"report_numbers": ""
+},
+{
+"recid": "895584",
+"title": "ANTARES: the first undersea neutrino telescope",
+"earliest_date": "2011-04",
+"collaboration": "ANTARES",
+"journal": "Nucl.Instrum.Meth.A 656 11 (2011)",
+"authors": "285",
+"citations": "881",
+"report_numbers": ""
+},
+{
+"recid": "912952",
+"title": "The T2K Experiment",
+"earliest_date": "2011-06",
+"collaboration": "T2K",
+"journal": "Nucl.Instrum.Meth.A 659 106 (2011)",
+"authors": "523",
+"citations": "1324",
+"report_numbers": ""
+},
+{
+"recid": "912685",
+"title": "Underground operation of the ICARUS T600 LAr-TPC: first results",
+"earliest_date": "2011-06",
+"collaboration": "",
+"journal": "JINST 6 P07011 (2011)",
+"authors": "77",
+"citations": "217",
+"report_numbers": ""
+},
+{
+"recid": "915810",
+"title": "Missing transverse energy performance of the CMS detector",
+"earliest_date": "2011-06",
+"collaboration": "CMS",
+"journal": "JINST 6 P09001 (2011)",
+"authors": "2185",
+"citations": "398",
+"report_numbers": "CERN-PH-EP-2011-051; CMS-JME-10-009"
+},
+{
+"recid": "916568",
+"title": "Momentum measurement by the Multiple Coulomb Scattering method in the OPERA lead emulsion target",
+"earliest_date": "2011-06",
+"collaboration": "OPERA",
+"journal": "New J.Phys. 14 013026 (2012)",
+"authors": "186",
+"citations": "104",
+"report_numbers": ""
+},
+{
+"recid": "919443",
+"title": "Determination of Jet Energy Calibration and Transverse Momentum Resolution in CMS",
+"earliest_date": "2011-07",
+"collaboration": "CMS",
+"journal": "JINST 6 P11002 (2011)",
+"authors": "2226",
+"citations": "1460",
+"report_numbers": "CERN-PH-EP-2011-102; CMS-JME-10-011"
+},
+{
+"recid": "929904",
+"title": "Performance of tau-lepton reconstruction and identification in CMS",
+"earliest_date": "2011-09",
+"collaboration": "CMS",
+"journal": "JINST 7 P01001 (2012)",
+"authors": "2253",
+"citations": "336",
+"report_numbers": "CERN-PH-EP-2011-137; CMS-TAU-11-001"
+},
+{
+"recid": "939619",
+"title": "Absolute luminosity measurements with the LHCb detector at the LHC",
+"earliest_date": "2011-10",
+"collaboration": "LHCb",
+"journal": "JINST 7 P01010 (2012)",
+"authors": "573",
+"citations": "128",
+"report_numbers": "LHCB-PAPER-2011-015; CERN-PH-EP-2011-157"
+},
+{
+"recid": "945863",
+"title": "Measurements of the T2K neutrino beam properties using the INGRID on-axis near detector",
+"earliest_date": "2011-11",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 694 211 (2012)",
+"authors": "432",
+"citations": "201",
+"report_numbers": ""
+},
+{
+"recid": "947063",
+"title": "The T2K ND280 Off-Axis Pi-Zero Detector",
+"earliest_date": "2011-11",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 686 48 (2012)",
+"authors": "61",
+"citations": "195",
+"report_numbers": ""
+},
+{
+"recid": "955239",
+"title": "AGATA - Advanced Gamma Tracking Array",
+"earliest_date": "2011-11",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 668 26 (2012)",
+"authors": "354",
+"citations": "353",
+"report_numbers": ""
+},
+{
+"recid": "1083543",
+"title": "New air fluorescence detectors employed in the Telescope Array experiment",
+"earliest_date": "2012",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 676 54 (2012)",
+"authors": "138",
+"citations": "356",
+"report_numbers": ""
+},
+{
+"recid": "1111836",
+"title": "Virgo: a laser interferometer to detect gravitational waves",
+"earliest_date": "2012",
+"collaboration": "VIRGO",
+"journal": "JINST 7 P03012 (2012)",
+"authors": "336",
+"citations": "355",
+"report_numbers": ""
+},
+{
+"recid": "1084119",
+"title": "The Tunka-133 EAS Cherenkov light array: status of 2011",
+"earliest_date": "2012-01",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 692 98 (2012)",
+"authors": "37",
+"citations": "134",
+"report_numbers": ""
+},
+{
+"recid": "1085711",
+"title": "The surface detector array of the Telescope Array experiment",
+"earliest_date": "2012-01",
+"collaboration": "Telescope Array",
+"journal": "Nucl.Instrum.Meth.A 689 87 (2013)",
+"authors": "137",
+"citations": "545",
+"report_numbers": ""
+},
+{
+"recid": "1090921",
+"title": "A side-by-side comparison of Daya Bay antineutrino detectors",
+"earliest_date": "2012-02",
+"collaboration": "Daya Bay",
+"journal": "Nucl.Instrum.Meth.A 685 78 (2012)",
+"authors": "241",
+"citations": "200",
+"report_numbers": ""
+},
+{
+"recid": "1087338",
+"title": "NEXT-100 Technical Design Report (TDR): Executive Summary",
+"earliest_date": "2012-02",
+"collaboration": "NEXT",
+"journal": "JINST 7 T06001 (2012)",
+"authors": "85",
+"citations": "166",
+"report_numbers": ""
+},
+{
+"recid": "1088706",
+"title": "The EXO-200 detector, part I: Detector design and construction",
+"earliest_date": "2012-02",
+"collaboration": "",
+"journal": "JINST 7 P05010 (2012)",
+"authors": "81",
+"citations": "225",
+"report_numbers": ""
+},
+{
+"recid": "1094170",
+"title": "The MICE Muon Beam on ISIS and the beam-line instrumentation of the Muon Ionization Cooling Experiment",
+"earliest_date": "2012-03",
+"collaboration": "MICE",
+"journal": "JINST 7 P05009 (2012)",
+"authors": "185",
+"citations": "165",
+"report_numbers": "FERMILAB-PUB-12-886-APC"
+},
+{
+"recid": "1111140",
+"title": "The T2K Fine-Grained Detectors",
+"earliest_date": "2012-04",
+"collaboration": "T2K ND280 FGD",
+"journal": "Nucl.Instrum.Meth.A 696 1 (2012)",
+"authors": "47",
+"citations": "263",
+"report_numbers": ""
+},
+{
+"recid": "1116533",
+"title": "The ArgoNeuT Detector in the NuMI Low-Energy Beam Line at Fermilab",
+"earliest_date": "2012-05",
+"collaboration": "",
+"journal": "JINST 7 P10019 (2012)",
+"authors": "38",
+"citations": "220",
+"report_numbers": "FERMILAB-PUB-12-877-PPD"
+},
+{
+"recid": "1118729",
+"title": "Performance of CMS Muon Reconstruction in $pp$ Collision Events at $\\sqrt{s}=7$ TeV",
+"earliest_date": "2012-06",
+"collaboration": "CMS",
+"journal": "JINST 7 P10002 (2012)",
+"authors": "2277",
+"citations": "1435",
+"report_numbers": "CMS-MUO-10-004; CERN-PH-EP-2012-173"
+},
+{
+"recid": "1123894",
+"title": "IceTop: The surface component of IceCube",
+"earliest_date": "2012-07",
+"collaboration": "IceCube",
+"journal": "Nucl.Instrum.Meth.A 700 188 (2013)",
+"authors": "282",
+"citations": "383",
+"report_numbers": ""
+},
+{
+"recid": "1122965",
+"title": "Hadronic energy resolution of a highly granular scintillator-steel hadron calorimeter using software compensation techniques",
+"earliest_date": "2012-07",
+"collaboration": "CALICE",
+"journal": "JINST 7 P09017 (2012)",
+"authors": "166",
+"citations": "112",
+"report_numbers": "MPP-2012-116; CALICE-PUB-2012-002"
+},
+{
+"recid": "1123408",
+"title": "Borexino calibrations: Hardware, Methods, and Results",
+"earliest_date": "2012-07",
+"collaboration": "Borexino",
+"journal": "JINST 7 P10018 (2012)",
+"authors": "96",
+"citations": "101",
+"report_numbers": ""
+},
+{
+"recid": "1124068",
+"title": "Technical Design Report for the: PANDA Micro Vertex Detector",
+"earliest_date": "2012-07",
+"collaboration": "PANDA",
+"journal": "()",
+"authors": "460",
+"citations": "118",
+"report_numbers": ""
+},
+{
+"recid": "1127702",
+"title": "An improved method for measuring muon energy using the truncated mean of dE/dx",
+"earliest_date": "2012-08",
+"collaboration": "IceCube",
+"journal": "Nucl.Instrum.Meth.A 703 190 (2013)",
+"authors": "270",
+"citations": "104",
+"report_numbers": ""
+},
+{
+"recid": "1184943",
+"title": "Prototype ATLAS IBL Modules using the FE-I4A Front-End Readout Chip",
+"earliest_date": "2012-09",
+"collaboration": "ATLAS IBL",
+"journal": "JINST 7 P11010 (2012)",
+"authors": "295",
+"citations": "187",
+"report_numbers": "AIDA-PUB-2012-010"
+},
+{
+"recid": "1186337",
+"title": "Antennas for the Detection of Radio Emission Pulses from Cosmic-Ray",
+"earliest_date": "2012-09",
+"collaboration": "Pierre Auger",
+"journal": "JINST 7 P10011 (2012)",
+"authors": "515",
+"citations": "199",
+"report_numbers": "FERMILAB-PUB-12-522-AD-AE-CD-TD"
+},
+{
+"recid": "1202984",
+"title": "The Large Underground Xenon (LUX) Experiment",
+"earliest_date": "2012-11",
+"collaboration": "LUX",
+"journal": "Nucl.Instrum.Meth.A 704 111 (2013)",
+"authors": "94",
+"citations": "419",
+"report_numbers": ""
+},
+{
+"recid": "1198435",
+"title": "Performance of the LHCb muon system",
+"earliest_date": "2012-11",
+"collaboration": "",
+"journal": "JINST 8 P02022 (2013)",
+"authors": "75",
+"citations": "527",
+"report_numbers": "LHCB-DP-2012-002"
+},
+{
+"recid": "1202496",
+"title": "The LHCb Trigger and its Performance in 2011",
+"earliest_date": "2012-11",
+"collaboration": "",
+"journal": "JINST 8 P04022 (2013)",
+"authors": "83",
+"citations": "966",
+"report_numbers": "LHCb-DP-2012-004"
+},
+{
+"recid": "1203133",
+"title": "Identification of b-Quark Jets with the CMS Experiment",
+"earliest_date": "2012-11",
+"collaboration": "CMS",
+"journal": "JINST 8 P04013 (2013)",
+"authors": "2201",
+"citations": "1209",
+"report_numbers": "CMS-BTV-12-001; CERN-PH-EP-2012-262"
+},
+{
+"recid": "1204778",
+"title": "Performance of the LHCb RICH detector at the LHC",
+"earliest_date": "2012-11",
+"collaboration": "LHCb RICH Group",
+"journal": "Eur.Phys.J.C 73 2431 (2013)",
+"authors": "98",
+"citations": "874",
+"report_numbers": "CERN-LHCB-DP-2012-003; LHCB-DP-2012-003"
+},
+{
+"recid": "1204789",
+"title": "Mu2e Conceptual Design Report",
+"earliest_date": "2012-11",
+"collaboration": "Mu2e",
+"journal": "()",
+"authors": "230",
+"citations": "166",
+"report_numbers": "FERMILAB-TM-2545; FERMILAB-DESIGN-2012-03"
+},
+{
+"recid": "1207593",
+"title": "The GERDA experiment for the search of $0\\nu\\beta\\beta$  decay in $^{76}$Ge",
+"earliest_date": "2012-12",
+"collaboration": "GERDA",
+"journal": "Eur.Phys.J.C 73 2330 (2013)",
+"authors": "138",
+"citations": "322",
+"report_numbers": ""
+},
+{
+"recid": "1223386",
+"title": "Technical design report for the PANDA (AntiProton Annihilations at Darmstadt) Straw Tube Tracker",
+"earliest_date": "2013",
+"collaboration": "PANDA",
+"journal": "Eur.Phys.J.A 49 25 (2013)",
+"authors": "477",
+"citations": "132",
+"report_numbers": ""
+},
+{
+"recid": "1210572",
+"title": "XMASS detector",
+"earliest_date": "2013-01",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 716 78 (2013)",
+"authors": "48",
+"citations": "189",
+"report_numbers": ""
+},
+{
+"recid": "1210649",
+"title": "Time-Integrated Luminosity Recorded by the BABAR Detector at the PEP-II $e^+ e^-$ Collider",
+"earliest_date": "2013-01",
+"collaboration": "BaBar",
+"journal": "Nucl.Instrum.Meth.A 726 203 (2013)",
+"authors": "350",
+"citations": "156",
+"report_numbers": "BABAR-PUB-12-031; SLAC-PUB-15347"
+},
+{
+"recid": "1215713",
+"title": "Measurement of South Pole ice transparency with the IceCube LED calibration system",
+"earliest_date": "2013-01",
+"collaboration": "IceCube",
+"journal": "Nucl.Instrum.Meth.A 711 73 (2013)",
+"authors": "274",
+"citations": "358",
+"report_numbers": ""
+},
+{
+"recid": "1216891",
+"title": "MEG Upgrade Proposal",
+"earliest_date": "2013-01",
+"collaboration": "",
+"journal": "()",
+"authors": "68",
+"citations": "383",
+"report_numbers": ""
+},
+{
+"recid": "1118429",
+"title": "The T2K Side Muon Range Detector (SMRD)",
+"earliest_date": "2013-01-11",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 698 135 (2013)",
+"authors": "67",
+"citations": "154",
+"report_numbers": ""
+},
+{
+"recid": "1222129",
+"title": "Characterisation and mitigation of beam-induced backgrounds observed in the ATLAS detector during the 2011 proton-proton run",
+"earliest_date": "2013-03-01",
+"collaboration": "ATLAS",
+"journal": "JINST 8 P07004 (2013)",
+"authors": "2914",
+"citations": "209",
+"report_numbers": "CERN-PH-EP-2012-313"
+},
+{
+"recid": "1222334",
+"title": "New constraint on the existence of the $\\mu^+ \\to e^+\\gamma$ decay",
+"earliest_date": "2013-03-04",
+"collaboration": "MEG",
+"journal": "Phys.Rev.Lett. 110 201801 (2013)",
+"authors": "73",
+"citations": "725",
+"report_numbers": ""
+},
+{
+"recid": "1222499",
+"title": "Limits on spin-independent couplings of WIMP dark matter with a p-type point-contact germanium detector",
+"earliest_date": "2013-03-04",
+"collaboration": "TEXONO",
+"journal": "Phys.Rev.Lett. 110 261301 (2013)",
+"authors": "38",
+"citations": "109",
+"report_numbers": "AS-TEXONO-13-01"
+},
+{
+"recid": "1223321",
+"title": "The MEG detector for ${\\mu}^+\\to e^+{\\gamma}$ decay search",
+"earliest_date": "2013-03-10",
+"collaboration": "",
+"journal": "Eur.Phys.J.C 73 2365 (2013)",
+"authors": "80",
+"citations": "148",
+"report_numbers": ""
+},
+{
+"recid": "1223325",
+"title": "Measurement of geo-neutrinos from 1353 days of Borexino",
+"earliest_date": "2013-03-11",
+"collaboration": "Borexino",
+"journal": "Phys.Lett.B 722 295 (2013)",
+"authors": "93",
+"citations": "142",
+"report_numbers": ""
+},
+{
+"recid": "1227358",
+"title": "Design and Operation of FACT -- The First G-APD Cherenkov Telescope",
+"earliest_date": "2013-04-05",
+"collaboration": "",
+"journal": "JINST 8 P06008 (2013)",
+"authors": "54",
+"citations": "203",
+"report_numbers": ""
+},
+{
+"recid": "1228460",
+"title": "Silicon Detector Dark Matter Results from the Final Exposure of CDMS II",
+"earliest_date": "2013-04-15",
+"collaboration": "CDMS",
+"journal": "Phys.Rev.Lett. 111 251301 (2013)",
+"authors": "90",
+"citations": "852",
+"report_numbers": "FERMILAB-PUB-13-104-AE-E"
+},
+{
+"recid": "1230933",
+"title": "Cosmogenic Backgrounds in Borexino at 3800 m water-equivalent depth",
+"earliest_date": "2013-04-27",
+"collaboration": "Borexino",
+"journal": "JCAP 08 049 (2013)",
+"authors": "89",
+"citations": "139",
+"report_numbers": ""
+},
+{
+"recid": "1230941",
+"title": "SOX: Short distance neutrino Oscillations with BoreXino",
+"earliest_date": "2013-04-29",
+"collaboration": "Borexino",
+"journal": "JHEP 08 038 (2013)",
+"authors": "80",
+"citations": "183",
+"report_numbers": ""
+},
+{
+"recid": "1232965",
+"title": "Triggers for displaced decays of long-lived neutral particles in the ATLAS detector",
+"earliest_date": "2013-05-10",
+"collaboration": "ATLAS",
+"journal": "JINST 8 P07015 (2013)",
+"authors": "2917",
+"citations": "105",
+"report_numbers": "CERN-PH-EP-2013-047"
+},
+{
+"recid": "1232954",
+"title": "Demonstration of Surface Electron Rejection with Interleaved Germanium Detectors for Dark Matter Searches",
+"earliest_date": "2013-05-10",
+"collaboration": "SuperCDMS",
+"journal": "Appl.Phys.Lett. 103 164105 (2013)",
+"authors": "91",
+"citations": "110",
+"report_numbers": "FERMILAB-PUB-13-571-AE"
+},
+{
+"recid": "1233527",
+"title": "The BABAR Detector: Upgrades, Operation and Performance",
+"earliest_date": "2013-05-15",
+"collaboration": "BaBar",
+"journal": "Nucl.Instrum.Meth.A 729 615 (2013)",
+"authors": "1075",
+"citations": "252",
+"report_numbers": "BABAR-PUB-13-009; SLAC-PUB-15456"
+},
+{
+"recid": "1235030",
+"title": "Design, Calibration, and Performance of the MINERvA Detector",
+"earliest_date": "2013-05-22",
+"collaboration": "MINERvA",
+"journal": "Nucl.Instrum.Meth.A 743 130 (2014)",
+"authors": "106",
+"citations": "343",
+"report_numbers": "FERMILAB-PUB-13-111-E"
+},
+{
+"recid": "1236807",
+"title": "Performance of the Muon Identification at LHCb",
+"earliest_date": "2013-06-02",
+"collaboration": "",
+"journal": "JINST 8 P10020 (2013)",
+"authors": "41",
+"citations": "288",
+"report_numbers": "CERN-LHCB-DP-2013-001; LHCB-DP-2013-001"
+},
+{
+"recid": "1237673",
+"title": "A Study of Electron Recombination Using Highly Ionizing Particles in the ArgoNeuT Liquid Argon TPC",
+"earliest_date": "2013-06-07",
+"collaboration": "ArgoNeuT",
+"journal": "JINST 8 P08005 (2013)",
+"authors": "32",
+"citations": "203",
+"report_numbers": "FERMILAB-PUB-13-184-E"
+},
+{
+"recid": "1237915",
+"title": "Energy Calibration and Resolution of the CMS Electromagnetic Calorimeter in $pp$ Collisions at $\\sqrt{s} = 7$ TeV",
+"earliest_date": "2013-06-09",
+"collaboration": "CMS",
+"journal": "JINST 8 P09009 (2013)",
+"authors": "2203",
+"citations": "485",
+"report_numbers": "CMS-EGM-11-001; CERN-PH-EP-2013-097"
+},
+{
+"recid": "1238451",
+"title": "Performance of the ALICE VZERO system",
+"earliest_date": "2013-06-13",
+"collaboration": "ALICE",
+"journal": "JINST 8 P10016 (2013)",
+"authors": "986",
+"citations": "572",
+"report_numbers": "CERN-PH-EP-2013-082"
+},
+{
+"recid": "1238907",
+"title": "First results on low-mass WIMPs from the CDEX-1 experiment at the China Jinping underground laboratory",
+"earliest_date": "2013-06-18",
+"collaboration": "CDEX",
+"journal": "Phys.Rev.D 88 052004 (2013)",
+"authors": "78",
+"citations": "100",
+"report_numbers": ""
+},
+{
+"recid": "1239494",
+"title": "The background in the $0 \\nu \\beta \\beta$ experiment GERDA",
+"earliest_date": "2013-06-21",
+"collaboration": "GERDA",
+"journal": "Eur.Phys.J.C 74 2764 (2014)",
+"authors": "113",
+"citations": "129",
+"report_numbers": ""
+},
+{
+"recid": "1239980",
+"title": "Improved measurement of the $2\\nu\\beta\\beta$ half-life of $^{136}$Xe with the EXO-200 detector",
+"earliest_date": "2013-06-25",
+"collaboration": "EXO-200",
+"journal": "Phys.Rev.C 89 015502 (2014)",
+"authors": "97",
+"citations": "308",
+"report_numbers": ""
+},
+{
+"recid": "1240419",
+"title": "The International Linear Collider Technical Design Report - Volume 4: Detectors",
+"earliest_date": "2013-06-26",
+"collaboration": "",
+"journal": "()",
+"authors": "82",
+"citations": "728",
+"report_numbers": "ILC-REPORT-2013-040; ANL-HEP-TR-13-20; BNL-100603-2013-IR; IRFU-13-59; CERN-ATS-2013-037; COCKCROFT-13-10; CLNS-13-2085; DESY-13-062; FERMILAB-TM-2554; IHEP-AC-ILC-2013-001; INFN-13-04-LNF; JAI-2013-001; JINR-E9-2013-35; JLAB-R-2013-01; KEK-REPORT-2013-1; KNU-CHEP-ILC-2013-1; LLNL-TR-635539; SLAC-R-1004; ILC-HIGRADE-REPORT-2013-003"
+},
+{
+"recid": "1240504",
+"title": "The Performance of the CMS Muon Detector in Proton-Proton Collisions at $\\sqrt{s}$ = 7 TeV at the LHC",
+"earliest_date": "2013-06-28",
+"collaboration": "CMS",
+"journal": "JINST 8 P11002 (2013)",
+"authors": "2263",
+"citations": "313",
+"report_numbers": "CMS-MUO-11-001; CERN-PH-EP-2013-072"
+},
+{
+"recid": "1240622",
+"title": "Calibration of the Super-Kamiokande Detector",
+"earliest_date": "2013-06-29",
+"collaboration": "",
+"journal": "Nucl.Instrum.Meth.A 737 253 (2014)",
+"authors": "133",
+"citations": "239",
+"report_numbers": ""
+},
+{
+"recid": "1241773",
+"title": "Search for Solar Axions by the CERN Axion Solar Telescope with $^3$He Buffer Gas: Closing the Hot Dark Matter Gap",
+"earliest_date": "2013-07-08",
+"collaboration": "CAST",
+"journal": "Phys.Rev.Lett. 112 091302 (2014)",
+"authors": "75",
+"citations": "221",
+"report_numbers": ""
+},
+{
+"recid": "1242991",
+"title": "Pulse shape discrimination for GERDA Phase I data",
+"earliest_date": "2013-07-09",
+"collaboration": "",
+"journal": "Eur.Phys.J.C 73 2583 (2013)",
+"authors": "114",
+"citations": "145",
+"report_numbers": ""
+},
+{
+"recid": "1242993",
+"title": "Present status and future perspectives of the NEXT experiment",
+"earliest_date": "2013-07-15",
+"collaboration": "NEXT",
+"journal": "Adv.High Energy Phys. 2014 907067 (2014)",
+"authors": "76",
+"citations": "102",
+"report_numbers": "IFIC-13-46"
+},
+{
+"recid": "1243603",
+"title": "Physics at the CLIC e+e- Linear Collider -- Input to the Snowmass process 2013",
+"earliest_date": "2013-07-19",
+"collaboration": "CLIC Detector; Physics Study",
+"journal": "()",
+"authors": "124",
+"citations": "150",
+"report_numbers": ""
+},
+{
+"recid": "1245018",
+"title": "The Long-Baseline Neutrino Experiment: Exploring Fundamental Symmetries of the Universe",
+"earliest_date": "2013-07-28",
+"collaboration": "LBNE",
+"journal": "()",
+"authors": "495",
+"citations": "541",
+"report_numbers": "BNL-101354-2013-JA; BNL-101354-2014-JA; FERMILAB-PUB-14-022; LA-UR-14-20881; BNL-101354-2014-JA; FERMILAB-PUB-14-022; LA-UR-14-20881"
+},
+{
+"recid": "1251904",
+"title": "nuSTORM - Neutrinos from STORed Muons: Proposal to the Fermilab PAC",
+"earliest_date": "2013-07-31",
+"collaboration": "nuSTORM",
+"journal": "()",
+"authors": "113",
+"citations": "100",
+"report_numbers": "FERMILAB-PROPOSAL-1028"
+},
+{
+"recid": "1246142",
+"title": "Final results of Borexino Phase-I on low energy solar neutrino spectroscopy",
+"earliest_date": "2013-08-02",
+"collaboration": "Borexino",
+"journal": "Phys.Rev.D 89 112007 (2014)",
+"authors": "89",
+"citations": "421",
+"report_numbers": ""
+},
+{
+"recid": "1246882",
+"title": "Measurement of the atmospheric $\\nu_\\mu$ energy spectrum from 100 GeV to 200 TeV with the ANTARES telescope",
+"earliest_date": "2013-08-07",
+"collaboration": "ANTARES",
+"journal": "Eur.Phys.J.C 73 2606 (2013)",
+"authors": "151",
+"citations": "122",
+"report_numbers": ""
+},
+{
+"recid": "1246934",
+"title": "The Majorana Demonstrator Neutrinoless Double-Beta Decay Experiment",
+"earliest_date": "2013-08-07",
+"collaboration": "Majorana",
+"journal": "Adv.High Energy Phys. 2014 365432 (2014)",
+"authors": "84",
+"citations": "266",
+"report_numbers": "LA-UR-13-24815"
+},
+{
+"recid": "1247457",
+"title": "New results on $\\nu_\\mu \\to \\nu_\\tau$ appearance with the OPERA experiment in the CNGS beam",
+"earliest_date": "2013-08-12",
+"collaboration": "OPERA",
+"journal": "JHEP 11 036 (2013)",
+"authors": "169",
+"citations": "142",
+"report_numbers": ""
+},
+{
+"recid": "1248040",
+"title": "The Electromagnetic Calorimeter for the T2K Near Detector ND280",
+"earliest_date": "2013-08-15",
+"collaboration": "T2K UK",
+"journal": "JINST 8 P10019 (2013)",
+"authors": "108",
+"citations": "168",
+"report_numbers": ""
+},
+{
+"recid": "1253835",
+"title": "Search for Low-Mass Weakly Interacting Massive Particles Using Voltage-Assisted Calorimetric Ionization Detection in the SuperCDMS Experiment",
+"earliest_date": "2013-09-12",
+"collaboration": "SuperCDMS",
+"journal": "Phys.Rev.Lett. 112 041302 (2014)",
+"authors": "80",
+"citations": "391",
+"report_numbers": "FERMILAB-PUB-13-572-AE"
+},
+{
+"recid": "1255648",
+"title": "A very intense neutrino super beam experiment for leptonic CP violation discovery based on the European spallation source linac",
+"earliest_date": "2013-09-26",
+"collaboration": "ESSnuSB",
+"journal": "Nucl.Phys.B 885 127 (2014)",
+"authors": "35",
+"citations": "200",
+"report_numbers": ""
+},
+{
+"recid": "1262678",
+"title": "First results from the LUX dark matter experiment at the Sanford Underground Research Facility",
+"earliest_date": "2013-10-30",
+"collaboration": "LUX",
+"journal": "Phys.Rev.Lett. 112 091303 (2014)",
+"authors": "102",
+"citations": "1977",
+"report_numbers": ""
+},
+{
+"recid": "1262767",
+"title": "Working Group Report: WIMP Dark Matter Direct Detection",
+"earliest_date": "2013-10-30",
+"collaboration": "",
+"journal": "()",
+"authors": "49",
+"citations": "462",
+"report_numbers": "FERMILAB-CONF-13-688-AE"
+},
+{
+"recid": "1263348",
+"title": "Observation and applications of single-electron charge signals in the XENON100 experiment",
+"earliest_date": "2013-11-05",
+"collaboration": "XENON100",
+"journal": "J.Phys.G 41 035201 (2014)",
+"authors": "80",
+"citations": "133",
+"report_numbers": ""
+},
+{
+"recid": "1264711",
+"title": "Performance of the LHCb Outer Tracker",
+"earliest_date": "2013-11-15",
+"collaboration": "LHCb Outer Tracker Group",
+"journal": "JINST 9 P01002 (2014)",
+"authors": "54",
+"citations": "409",
+"report_numbers": "LHCB-DP-2013-003"
+},
+{
+"recid": "1264659",
+"title": "Supernova Relic Neutrino Search with Neutron Tagging at Super-Kamiokande-IV",
+"earliest_date": "2013-11-15",
+"collaboration": "Super-Kamiokande",
+"journal": "Astropart.Phys. 60 41 (2015)",
+"authors": "120",
+"citations": "184",
+"report_numbers": ""
+},
+{
+"recid": "1265051",
+"title": "Energy Reconstruction Methods in the IceCube Neutrino Telescope",
+"earliest_date": "2013-11-19",
+"collaboration": "IceCube",
+"journal": "JINST 9 P03009 (2014)",
+"authors": "287",
+"citations": "475",
+"report_numbers": ""
+},
+{
+"recid": "1276484",
+"title": "Letter of Intent: The Precision IceCube Next Generation Upgrade (PINGU)",
+"earliest_date": "2014-01-09",
+"collaboration": "IceCube-PINGU",
+"journal": "()",
+"authors": "306",
+"citations": "356",
+"report_numbers": ""
+},
+{
+"recid": "1276512",
+"title": "Evidence for $\\nu_\\mu \\to \\nu_\\tau$ appearance in the CNGS neutrino beam with the OPERA experiment",
+"earliest_date": "2014-01-09",
+"collaboration": "OPERA",
+"journal": "Phys.Rev.D 89 051102 (2014)",
+"authors": "171",
+"citations": "141",
+"report_numbers": ""
+},
+{
+"recid": "1277074",
+"title": "Conceptual Design of the International Axion Observatory (IAXO)",
+"earliest_date": "2014-01-14",
+"collaboration": "",
+"journal": "JINST 9 T05002 (2014)",
+"authors": "88",
+"citations": "429",
+"report_numbers": "FERMILAB-PUB-14-476-A; BNL-106253-2014-JA"
+},
+{
+"recid": "1278235",
+"title": "NA61/SHINE facility at the CERN SPS: beams and detector system",
+"earliest_date": "2014-01-19",
+"collaboration": "NA61",
+"journal": "JINST 9 P06005 (2014)",
+"authors": "148",
+"citations": "416",
+"report_numbers": "CERN-PH-EP-2014-003"
+},
+{
+"recid": "1282483",
+"title": "Searching for neutrinoless double-beta decay of $^{130}$Te with CUORE",
+"earliest_date": "2014-02-25",
+"collaboration": "CUORE",
+"journal": "Adv.High Energy Phys. 2015 879871 (2015)",
+"authors": "120",
+"citations": "189",
+"report_numbers": ""
+},
+{
+"recid": "1282944",
+"title": "Search for Majorana neutrinos with the first two years of EXO-200 data",
+"earliest_date": "2014-02-27",
+"collaboration": "EXO-200",
+"journal": "Nature 510 229 (2014)",
+"authors": "93",
+"citations": "547",
+"report_numbers": ""
+},
+{
+"recid": "1283158",
+"title": "Search for Low-Mass Weakly Interacting Massive Particles with SuperCDMS",
+"earliest_date": "2014-02-28",
+"collaboration": "SuperCDMS",
+"journal": "Phys.Rev.Lett. 112 241302 (2014)",
+"authors": "95",
+"citations": "736",
+"report_numbers": "FERMILAB-PUB-14-042-AE"
+},
+{
+"recid": "1283819",
+"title": "Radiogenic and Muon-Induced Backgrounds in the LUX Dark Matter Detector",
+"earliest_date": "2014-03-05",
+"collaboration": "",
+"journal": "Astropart.Phys. 62 33 (2015)",
+"authors": "80",
+"citations": "120",
+"report_numbers": ""
+},
+{
+"recid": "1285228",
+"title": "Alignment of the CMS Tracker with LHC and Cosmic Ray Data",
+"earliest_date": "2014-03-10",
+"collaboration": "CMS",
+"journal": "JINST 9 P06009 (2014)",
+"authors": "2399",
+"citations": "120",
+"report_numbers": "CMS-TRK-11-002; CERN-PH-EP-2014-028"
+},
+{
+"recid": "1286849",
+"title": "Calibration and performance of the photon sensor response of FACT -- The First G-APD Cherenkov telescope",
+"earliest_date": "2014-03-23",
+"collaboration": "",
+"journal": "JINST 9 P10012 (2014)",
+"authors": "36",
+"citations": "109",
+"report_numbers": ""
+},
+{
+"recid": "1291129",
+"title": "Exploring the Neutrinoless Double Beta Decay in the Inverted Neutrino Hierarchy with Bolometric Detectors",
+"earliest_date": "2014-04-17",
+"collaboration": "CUORE",
+"journal": "Eur.Phys.J.C 74 3096 (2014)",
+"authors": "119",
+"citations": "108",
+"report_numbers": ""
+},
+{
+"recid": "1291133",
+"title": "Muon reconstruction efficiency and momentum resolution of the ATLAS experiment in proton-proton collisions at $\\sqrt{s}$ = 7 TeV in 2010",
+"earliest_date": "2014-04-17",
+"collaboration": "ATLAS",
+"journal": "Eur.Phys.J.C 74 3034 (2014)",
+"authors": "2917",
+"citations": "171",
+"report_numbers": "CERN-PH-EP-2013-154"
+},
+{
+"recid": "1291281",
+"title": "Measurements of Inclusive Muon Neutrino and Antineutrino Charged Current Differential Cross Sections on Argon in the NuMI Antineutrino Beam",
+"earliest_date": "2014-04-18",
+"collaboration": "ArgoNeuT",
+"journal": "Phys.Rev.D 89 112003 (2014)",
+"authors": "31",
+"citations": "109",
+"report_numbers": "FERMILAB-PUB-14-104-E"
+},
+{
+"recid": "1291361",
+"title": "Limits on light WIMPs from the CDEX-1 experiment with a p-type point-contact germanium detector at the China Jingping Underground Laboratory",
+"earliest_date": "2014-04-19",
+"collaboration": "CDEX",
+"journal": "Phys.Rev.D 90 091701 (2014)",
+"authors": "74",
+"citations": "156",
+"report_numbers": ""
+},
+{
+"recid": "1293018",
+"title": "Operation and performance of the ATLAS semiconductor tracker",
+"earliest_date": "2014-04-29",
+"collaboration": "ATLAS",
+"journal": "JINST 9 P08009 (2014)",
+"authors": "2889",
+"citations": "216",
+"report_numbers": "CERN-PH-EP-2014-049"
+},
+{
+"recid": "1294119",
+"title": "Deep sea tests of a prototype of the KM3NeT digital optical module",
+"earliest_date": "2014-05-05",
+"collaboration": "KM3NeT",
+"journal": "Eur.Phys.J.C 74 3056 (2014)",
+"authors": "250",
+"citations": "105",
+"report_numbers": ""
+},
+{
+"recid": "1294934",
+"title": "Measurement of visible cross sections in proton-lead collisions at $\\sqrt{s_{\\rm NN}}$ = 5.02 TeV in van der Meer scans with the ALICE detector",
+"earliest_date": "2014-05-08",
+"collaboration": "ALICE",
+"journal": "JINST 9 P11003 (2014)",
+"authors": "941",
+"citations": "127",
+"report_numbers": "CERN-PH-EP-2014-087"
+},
+{
+"recid": "1295693",
+"title": "PandaX: A Liquid Xenon Dark Matter Experiment at CJPL",
+"earliest_date": "2014-05-12",
+"collaboration": "PandaX",
+"journal": "Sci.China Phys.Mech.Astron. 57 1476 (2014)",
+"authors": "50",
+"citations": "173",
+"report_numbers": ""
+},
+{
+"recid": "1298029",
+"title": "Description and Performance of Track and Primary-Vertex Reconstruction with the CMS Tracker",
+"earliest_date": "2014-05-26",
+"collaboration": "CMS",
+"journal": "JINST 9 P10009 (2014)",
+"authors": "2412",
+"citations": "1831",
+"report_numbers": "CMS-TRK-11-001; CERN-PH-EP-2014-070"
+},
+{
+"recid": "1298720",
+"title": "Performance of the LHCb Vertex Locator",
+"earliest_date": "2014-05-30",
+"collaboration": "",
+"journal": "JINST 9 P09007 (2014)",
+"authors": "103",
+"citations": "633",
+"report_numbers": "CERN-LHCB-DP-2014-001"
+},
+{
+"recid": "1299947",
+"title": "Conceptual design and simulation of a water Cherenkov muon veto for the XENON1T experiment",
+"earliest_date": "2014-06-09",
+"collaboration": "XENON1T",
+"journal": "JINST 9 P11006 (2014)",
+"authors": "91",
+"citations": "127",
+"report_numbers": ""
+},
+{
+"recid": "1301221",
+"title": "Measurement of Scintillation and Ionization Yield and Scintillation Pulse Shape from Nuclear Recoils in Liquid Argon",
+"earliest_date": "2014-06-18",
+"collaboration": "SCENE",
+"journal": "Phys.Rev.D 91 092007 (2015)",
+"authors": "34",
+"citations": "193",
+"report_numbers": "FERMILAB-PUB-14-204-AE-E"
+},
+{
+"recid": "1303898",
+"title": "A neural network clustering algorithm for the ATLAS silicon pixel detector",
+"earliest_date": "2014-06-30",
+"collaboration": "ATLAS",
+"journal": "JINST 9 P09009 (2014)",
+"authors": "2883",
+"citations": "231",
+"report_numbers": "CERN-PH-EP-2014-120"
+},
+{
+"recid": "1303901",
+"title": "Improved measurements of the neutrino mixing angle $\\theta_{13}$ with the Double Chooz detector",
+"earliest_date": "2014-06-30",
+"collaboration": "Double Chooz",
+"journal": "JHEP 10 086 (2014)",
+"authors": "146",
+"citations": "508",
+"report_numbers": ""
+},
+{
+"recid": "1305879",
+"title": "Results on low mass WIMPs using an upgraded CRESST-II detector",
+"earliest_date": "2014-07-11",
+"collaboration": "CRESST-II",
+"journal": "Eur.Phys.J.C 74 3184 (2014)",
+"authors": "44",
+"citations": "285",
+"report_numbers": ""
+},
+{
+"recid": "1306491",
+"title": "Measurement of the muon reconstruction performance of the ATLAS detector using 2011 and 2012 LHC proton–proton collision data",
+"earliest_date": "2014-07-15",
+"collaboration": "ATLAS",
+"journal": "Eur.Phys.J.C 74 3130 (2014)",
+"authors": "2891",
+"citations": "696",
+"report_numbers": "CERN-PH-EP-2014-151"
+},
+{
+"recid": "1306905",
+"title": "Electron and photon energy calibration with the ATLAS detector using LHC Run 1 data",
+"earliest_date": "2014-07-18",
+"collaboration": "ATLAS",
+"journal": "Eur.Phys.J.C 74 3071 (2014)",
+"authors": "2891",
+"citations": "762",
+"report_numbers": "CERN-PH-EP-2014-153"
+}
+]
