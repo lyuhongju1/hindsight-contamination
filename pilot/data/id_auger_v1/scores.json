@@ -1,0 +1,170 @@
+[
+ {
+  "pair": "auger",
+  "level": "ABS",
+  "model": "claude-opus-5-5",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "ABS",
+  "model": "claude-sonnet-4-5-20250929",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "ABS",
+  "model": "claude-sonnet-4-6",
+  "identified": 17,
+  "n": 20,
+  "rate": 0.85
+ },
+ {
+  "pair": "auger",
+  "level": "ANON",
+  "model": "claude-opus-5-5",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "ANON",
+  "model": "claude-sonnet-4-5-20250929",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "ANON",
+  "model": "claude-sonnet-4-6",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "CONF1",
+  "model": "claude-opus-5-5",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "CONF1",
+  "model": "claude-sonnet-4-5-20250929",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "CONF1",
+  "model": "claude-sonnet-4-6",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "EQ1",
+  "model": "claude-opus-5-5",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "EQ1",
+  "model": "claude-sonnet-4-5-20250929",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "EQ1",
+  "model": "claude-sonnet-4-6",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "EQ2",
+  "model": "claude-opus-5-5",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "EQ2",
+  "model": "claude-sonnet-4-5-20250929",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "EQ2",
+  "model": "claude-sonnet-4-6",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "EQ3",
+  "model": "claude-opus-5-5",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "EQ3",
+  "model": "claude-sonnet-4-5-20250929",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "EQ3",
+  "model": "claude-sonnet-4-6",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "NAME",
+  "model": "claude-opus-5-5",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "NAME",
+  "model": "claude-sonnet-4-5-20250929",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "auger",
+  "level": "NAME",
+  "model": "claude-sonnet-4-6",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ }
+]

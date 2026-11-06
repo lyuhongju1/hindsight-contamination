@@ -1,0 +1,10 @@
+EQ1 single-prop fails: ['cube_3view.p_thx2.0->twoview_bars', 'twoview_bars.p_thx0.5->twoview_bars']
+   joint props-only 58.2%; props+inputs 54.8%
+EQ2 single-prop fails: ['cube_3view.p_thx2.0->twoview_bars', 'twoview_bars.p_thx0.5->twoview_bars']
+   joint props-only 58.5%; props+inputs 54.8%
+EQ3 single-prop fails: ['cube_3view.p_thx2.0->twoview_bars', 'twoview_bars.p_thx0.5->twoview_bars']
+   joint props-only 58.6%; props+inputs 55.0%
+CONF1 single-prop fails: []
+   joint props-only 100.0%; props+inputs 100.0%
+ABS single-prop fails: ['korrin_array.p_thx2.0->dry_brindle']
+   joint props-only 63.1%; props+inputs 59.0%

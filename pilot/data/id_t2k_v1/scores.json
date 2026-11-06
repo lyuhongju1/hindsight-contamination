@@ -1,0 +1,170 @@
+[
+ {
+  "pair": "t2k_nd280",
+  "level": "ABS",
+  "model": "claude-opus-5-5",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "ABS",
+  "model": "claude-sonnet-4-5-20250929",
+  "identified": 1,
+  "n": 20,
+  "rate": 0.05
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "ABS",
+  "model": "claude-sonnet-4-6",
+  "identified": 19,
+  "n": 20,
+  "rate": 0.95
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "ANON",
+  "model": "claude-opus-5-5",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "ANON",
+  "model": "claude-sonnet-4-5-20250929",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "ANON",
+  "model": "claude-sonnet-4-6",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "CONF1",
+  "model": "claude-opus-5-5",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "CONF1",
+  "model": "claude-sonnet-4-5-20250929",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "CONF1",
+  "model": "claude-sonnet-4-6",
+  "identified": 16,
+  "n": 20,
+  "rate": 0.8
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "EQ1",
+  "model": "claude-opus-5-5",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "EQ1",
+  "model": "claude-sonnet-4-5-20250929",
+  "identified": 19,
+  "n": 20,
+  "rate": 0.95
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "EQ1",
+  "model": "claude-sonnet-4-6",
+  "identified": 10,
+  "n": 20,
+  "rate": 0.5
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "EQ2",
+  "model": "claude-opus-5-5",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "EQ2",
+  "model": "claude-sonnet-4-5-20250929",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "EQ2",
+  "model": "claude-sonnet-4-6",
+  "identified": 19,
+  "n": 20,
+  "rate": 0.95
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "EQ3",
+  "model": "claude-opus-5-5",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "EQ3",
+  "model": "claude-sonnet-4-5-20250929",
+  "identified": 16,
+  "n": 20,
+  "rate": 0.8
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "EQ3",
+  "model": "claude-sonnet-4-6",
+  "identified": 17,
+  "n": 20,
+  "rate": 0.85
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "NAME",
+  "model": "claude-opus-5-5",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "NAME",
+  "model": "claude-sonnet-4-5-20250929",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ },
+ {
+  "pair": "t2k_nd280",
+  "level": "NAME",
+  "model": "claude-sonnet-4-6",
+  "identified": 20,
+  "n": 20,
+  "rate": 1.0
+ }
+]
