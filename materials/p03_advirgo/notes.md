@@ -46,3 +46,6 @@
 - EPR has only been demonstrated on tabletops, never in a km detector; a domain expert may view it as less mature (maturity is not a physics criterion, but credibility is judged).
 - adoption_status "built and operated" is from author knowledge (AdV+ filter cavity used in O4) and was not verified with a fetched source.
 - The vertex-space limit is a facility fact; a reviewer could argue it is "infrastructure" rather than physics. It is stated as plain fact and the failure itself is optical-loss physics.
+
+## post-run changes (r2 fixes)
+- (in progress) Red team r2 FIX 1, 3 and optional topology wording applied to descriptions; key rewrite pending.

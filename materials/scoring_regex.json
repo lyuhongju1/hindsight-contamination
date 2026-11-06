@@ -89,5 +89,11 @@
   "adopted": "balanced\\s+homodyne|homodyne\\s+(readout|detection|detector)|\\bbhd\\b|local[\\s-]oscillator\\s+(beam|field|path|pick[\\s-]?off)",
   "distractor": "\\bdc\\s+readout\\b|dc[\\s-](offset|homodyne)\\s+readout|offset\\s+from\\s+the\\s+dark\\s+fringe",
   "identity": "\\bligo\\b|advanced\\s+ligo|\\baligo\\b|\\ba\\+|\\bhanford\\b|\\blivingston\\b|\\bvirgo\\b|\\bkagra\\b"
+ },
+ "p16_besiii": {
+  "item": "endcap TOF upgrade to MRPC",
+  "adopted": "\\bmrpcs?\\b|multi[\\s-]?gap\\s+resistive\\s+plate|resistive\\s+plate\\s+chamber|\\brpcs?\\b",
+  "distractor": "(plastic\\s+)?scintillat\\w*\\s+(bars?|counters?|tof)|\\bsipms?\\b|silicon\\s+photomultiplier",
+  "identity": "\\bbes\\s*iii\\b|\\bbesiii\\b|\\bbes3\\b|\\bbepc\\s*ii\\b|\\bbepcii\\b|\\bihep\\b|\\bbeijing\\b"
  }
 }

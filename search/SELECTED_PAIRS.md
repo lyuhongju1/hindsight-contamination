@@ -51,3 +51,10 @@ Materials. For each pair, the author agents (brief v2, rules 1–10) write BASE 
   - item: balanced homodyne readout (arXiv:1304.0670v7, 2019-09; both daters verified);
   - alternative not adopted: DC readout;
   - caveat: the LIGO A+ design curve (2018) may already include BHD; not on arXiv.
+- **p15 aLIGO:** zero-unit pair (author plus red-team confirmation, 2026-11-06).
+- **Second replacement:** **p16 BESIII** (838149, 2009-11)
+  - programme: BESIII endcap TOF upgrade;
+  - item: MRPC endcap TOF (arXiv:1305.7033v1, 2013-05; both daters verified);
+  - alternative not adopted: the existing plastic-scintillator endcap TOF.
+  - Field: collider (2 pairs with NA62; within the cap).
+  - The eligible-but-not-selected list is now exhausted; any further drop reopens assessment down the queue under A1.
