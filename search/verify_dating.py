@@ -68,36 +68,41 @@ def pdf_text(aid):
     return " ".join((pg.extract_text() or "") for pg in PdfReader(BytesIO(raw)).pages)
 
 def norm(s):
+    """Lower-case, ligatures expanded, hyphens removed (both line-break and in-word), spaces collapsed."""
     s = s.replace("ﬁ", "fi").replace("ﬂ", "fl").replace("‐", "-").replace("‑", "-")
-    s = re.sub(r"-\s*\n\s*", "", s)              # de-hyphenate line breaks
+    s = re.sub(r"-\s*", "", s)
     s = re.sub(r"[^a-z0-9%.]+", " ", s.lower())
     return re.sub(r"\s+", " ", s).strip()
 
-def quote_found(quote, text):
-    q, t = norm(quote), norm(text)
-    if q and q in t: return "exact"
-    qw, tw = q.split(), t.split()
-    if len(qw) < 12: return None
-    runs = any(" ".join(qw[i:i + 12]) in t for i in range(len(qw) - 11))
-    if not runs: return None
-    # in-order coverage inside a 400-word window anchored at the first 12-word run
-    for i in range(len(qw) - 11):
-        k = t.find(" ".join(qw[i:i + 12]))
-        if k >= 0:
-            start = max(0, len(t[:k].split()) - 200); win = tw[start:start + 400]; j = hit = 0
-            for w in qw:
-                while j < len(win) and win[j] != w: j += 1
-                if j < len(win): hit += 1; j += 1
-            return "fuzzy" if hit / len(qw) >= 0.85 else None
-    return None
+def squash(s):
+    """Alphanumerics only: immune to pypdf dropping or inserting spaces between words."""
+    return re.sub(r"[^a-z0-9%]", "", norm(s))
 
-def _d(x):
-    x = x.strip()[:10]
-    return date.fromisoformat(x + "-01-01" if len(x) == 4 else x + "-01" if len(x) == 7 else x)
+def quote_found(quote, text):
+    """exact: the squashed quote is a substring of the squashed text.
+    fuzzy: a 60-character squashed run of the quote is present, and the character-level similarity of the
+    quote to the text window around that run is >= 0.90 (rejects paraphrases, tolerates extraction noise)."""
+    import difflib
+    q, t = squash(quote), squash(text)
+    if not q: return None
+    if q in t: return "exact"
+    if len(q) < 60: return None
+    for i in range(0, len(q) - 59, 10):
+        k = t.find(q[i:i + 60])
+        if k >= 0:
+            win = t[max(0, k - i - 40): k - i + len(q) + 40]
+            m = difflib.SequenceMatcher(None, q, win, autojunk=False)
+            matched = sum(bl.size for bl in m.get_matching_blocks())
+            return "fuzzy" if matched / len(q) >= 0.90 else None
+    return None
 
 def months(a, b):
     a, b = _d(a), _d(b)
     return (a.year - b.year) * 12 + (a.month - b.month)
+
+def _d(x):
+    x = x.strip()[:10]
+    return date.fromisoformat(x + "-01-01" if len(x) == 4 else x + "-01" if len(x) == 7 else x)
 
 def classify(gap):
     return "Pre" if gap < -12 else "Cont" if gap <= 12 else "Post" if gap < 24 else "Post-primary"
