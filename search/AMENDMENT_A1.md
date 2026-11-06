@@ -22,3 +22,13 @@ None. The same seed and the same caps are used.
 ## A1 addendum: I6 boundary (2026-11-06, before any eligibility assessment)
 
 I6 requires the adoption commitment to be public ≥ 18 months before the earliest training cutoff among the confirmatory models. The earliest such cutoff is taken, conservatively, as early 2025. The I6 boundary is therefore fixed at **commitment date ≤ 2023-06-30**.
+
+## A1 addendum 2: one baseline per program lineage (2026-11-06, before round 2)
+
+The frame contains several baselines from the same program lineage: Virgo (2012) and Advanced Virgo (2014); GERDA (2012) and GERDA Phase II (2017); aLIGO twice; KAGRA twice; and others. Selecting two of them would put the same upgrade program, and possibly the same items, into the study twice, so the units would not be independent.
+
+**Rule:** once a baseline is selected, later queue entries from the same collaboration lineage, meaning the same experiment or its direct predecessor or successor, are **skipped** and logged as "lineage already selected". This applies identically to every field.
+
+**Skipped by this rule before round 2:**
+- q14 Virgo (2012): Advanced Virgo is selected;
+- q20 GERDA (2012): GERDA Phase II is selected.
