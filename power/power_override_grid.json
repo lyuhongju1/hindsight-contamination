@@ -1,0 +1,226 @@
+[
+ {
+  "tau": 0.5,
+  "n_per_template": 10,
+  "units": 4,
+  "power_O24": 0.624,
+  "power_O18": 0.32225,
+  "typeI_O10": 0.0245
+ },
+ {
+  "tau": 0.5,
+  "n_per_template": 10,
+  "units": 6,
+  "power_O24": 0.89325,
+  "power_O18": 0.55325,
+  "typeI_O10": 0.0215
+ },
+ {
+  "tau": 0.5,
+  "n_per_template": 10,
+  "units": 8,
+  "power_O24": 0.974,
+  "power_O18": 0.73075,
+  "typeI_O10": 0.02325
+ },
+ {
+  "tau": 0.5,
+  "n_per_template": 10,
+  "units": 10,
+  "power_O24": 0.99675,
+  "power_O18": 0.85225,
+  "typeI_O10": 0.0205
+ },
+ {
+  "tau": 0.5,
+  "n_per_template": 10,
+  "units": 12,
+  "power_O24": 0.99975,
+  "power_O18": 0.92025,
+  "typeI_O10": 0.0295
+ },
+ {
+  "tau": 0.5,
+  "n_per_template": 10,
+  "units": 14,
+  "power_O24": 1.0,
+  "power_O18": 0.957,
+  "typeI_O10": 0.02625
+ },
+ {
+  "tau": 0.5,
+  "n_per_template": 10,
+  "units": 16,
+  "power_O24": 0.99975,
+  "power_O18": 0.98025,
+  "typeI_O10": 0.03375
+ },
+ {
+  "tau": 0.5,
+  "n_per_template": 20,
+  "units": 4,
+  "power_O24": 0.6785,
+  "power_O18": 0.35825,
+  "typeI_O10": 0.02375
+ },
+ {
+  "tau": 0.5,
+  "n_per_template": 20,
+  "units": 6,
+  "power_O24": 0.938,
+  "power_O18": 0.63475,
+  "typeI_O10": 0.02075
+ },
+ {
+  "tau": 0.5,
+  "n_per_template": 20,
+  "units": 8,
+  "power_O24": 0.99,
+  "power_O18": 0.8085,
+  "typeI_O10": 0.0275
+ },
+ {
+  "tau": 0.5,
+  "n_per_template": 20,
+  "units": 10,
+  "power_O24": 0.999,
+  "power_O18": 0.91225,
+  "typeI_O10": 0.02125
+ },
+ {
+  "tau": 0.5,
+  "n_per_template": 20,
+  "units": 12,
+  "power_O24": 1.0,
+  "power_O18": 0.95575,
+  "typeI_O10": 0.0245
+ },
+ {
+  "tau": 0.5,
+  "n_per_template": 20,
+  "units": 14,
+  "power_O24": 1.0,
+  "power_O18": 0.98325,
+  "typeI_O10": 0.02725
+ },
+ {
+  "tau": 0.5,
+  "n_per_template": 20,
+  "units": 16,
+  "power_O24": 1.0,
+  "power_O18": 0.99175,
+  "typeI_O10": 0.0275
+ },
+ {
+  "tau": 1.0,
+  "n_per_template": 10,
+  "units": 4,
+  "power_O24": 0.27575,
+  "power_O18": 0.11675,
+  "typeI_O10": 0.00975
+ },
+ {
+  "tau": 1.0,
+  "n_per_template": 10,
+  "units": 6,
+  "power_O24": 0.531,
+  "power_O18": 0.22775,
+  "typeI_O10": 0.0135
+ },
+ {
+  "tau": 1.0,
+  "n_per_template": 10,
+  "units": 8,
+  "power_O24": 0.718,
+  "power_O18": 0.36525,
+  "typeI_O10": 0.015
+ },
+ {
+  "tau": 1.0,
+  "n_per_template": 10,
+  "units": 10,
+  "power_O24": 0.854,
+  "power_O18": 0.45075,
+  "typeI_O10": 0.014
+ },
+ {
+  "tau": 1.0,
+  "n_per_template": 10,
+  "units": 12,
+  "power_O24": 0.9195,
+  "power_O18": 0.57225,
+  "typeI_O10": 0.0155
+ },
+ {
+  "tau": 1.0,
+  "n_per_template": 10,
+  "units": 14,
+  "power_O24": 0.95875,
+  "power_O18": 0.6725,
+  "typeI_O10": 0.0145
+ },
+ {
+  "tau": 1.0,
+  "n_per_template": 10,
+  "units": 16,
+  "power_O24": 0.98525,
+  "power_O18": 0.73775,
+  "typeI_O10": 0.0195
+ },
+ {
+  "tau": 1.0,
+  "n_per_template": 20,
+  "units": 4,
+  "power_O24": 0.27725,
+  "power_O18": 0.113,
+  "typeI_O10": 0.01325
+ },
+ {
+  "tau": 1.0,
+  "n_per_template": 20,
+  "units": 6,
+  "power_O24": 0.5635,
+  "power_O18": 0.2535,
+  "typeI_O10": 0.01
+ },
+ {
+  "tau": 1.0,
+  "n_per_template": 20,
+  "units": 8,
+  "power_O24": 0.7585,
+  "power_O18": 0.3715,
+  "typeI_O10": 0.0085
+ },
+ {
+  "tau": 1.0,
+  "n_per_template": 20,
+  "units": 10,
+  "power_O24": 0.88225,
+  "power_O18": 0.4945,
+  "typeI_O10": 0.013
+ },
+ {
+  "tau": 1.0,
+  "n_per_template": 20,
+  "units": 12,
+  "power_O24": 0.947,
+  "power_O18": 0.6015,
+  "typeI_O10": 0.01375
+ },
+ {
+  "tau": 1.0,
+  "n_per_template": 20,
+  "units": 14,
+  "power_O24": 0.97675,
+  "power_O18": 0.68975,
+  "typeI_O10": 0.021
+ },
+ {
+  "tau": 1.0,
+  "n_per_template": 20,
+  "units": 16,
+  "power_O24": 0.99025,
+  "power_O18": 0.77175,
+  "typeI_O10": 0.017
+ }
+]
