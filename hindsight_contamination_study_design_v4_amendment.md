@@ -54,3 +54,18 @@ The instance-recall ladder (ANON vs EQ) and the abstract twins become **descript
 - Mechanical dating (v3 §5); pair selection (v3 §6).
 - Author-model crossing (v3 §4).
 - The injection and registry arms (v3 §8), which now carry more weight.
+
+---
+
+## v4.1 refinements from the pilot (2026-11-05)
+
+These are pilot-stage protocol settings, pending the confirmatory freeze. Each is backed by `pilot/findings.md`.
+
+| Ref. | Change | Basis |
+|---|---|---|
+| §3 rule 3 | **≥ 1 credible survivor** (was ≥ 2). The number of survivors is reported per conflict as a covariate. Giveaway risk is handled by the plain-fact rule and the red team. | F6: real instruments rarely admit two credible survivors (T2K and Auger, both pairs) |
+| §3 rule 4 | Exact stated facts (zenith bands, stated depths, definitional geometry) may be placed under `inputs["fixed"]` and are not varied. Each needs a justification in `notes.md`, seen by the red team. Cited technology properties are **always** varied. | Varying an angle band ×2 creates impossible values (> 90°) |
+| §3 | **No booleans** in keys (keylib rejects them); every stated fact is a check on every option; the scenario must be coherent. | Round-2 red team, T2K |
+| §4 | **Forced final line.** Every upgrade prompt ends with `TOP RECOMMENDATION: <…>`. The regex on that line is a **screen**. The **primary** measure is override = categories A + B from blind adjudication of every screened hit, using the frozen five-category rubric (`pilot/adjudication/t2k_p2/RUBRIC.md`). | F5 (sentence-level scoring over-counts), F8 (adjudication κ = 0.97) |
+| §2 H2 | Recognition dependence is tested **two-sided**. | F8: the highest-recognition model shows no override |
+| CONF design | Conflict texts must also close legitimate-workaround routes that defeat the measured goal (e.g. "fully active target") when the workaround would sacrifice a stated requirement. | F8: Sonnet 4.6 dilution workarounds |

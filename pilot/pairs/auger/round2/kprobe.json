@@ -1,0 +1,4 @@
+{
+  "CONF1": {"question": "For a cosmic-ray air shower of about 10^19.5 eV arriving at a zenith angle of 75 degrees at a ground site near 1400 m altitude, does a significant electromagnetic particle component still reach ground level far from the shower axis, so that a thin plastic scintillator would see a signal with a different electromagnetic-to-muon ratio from a deep water-Cherenkov tank? Explain briefly.", "expected": "no"},
+  "CONF2": {"question": "If a water-Cherenkov tank is only 0.25 m deep (well under one radiation length of water), does it still respond to shower electrons and photons very differently from a 1-cm plastic scintillator, so that combining the two signals cleanly separates the muonic and electromagnetic components? Explain briefly.", "expected": "no"}
+}

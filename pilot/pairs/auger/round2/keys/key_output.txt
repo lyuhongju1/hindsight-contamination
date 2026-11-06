@@ -1,0 +1,4 @@
+BASE viable alternatives (nominal): ['two_volume_tank', 'chambers_under_station', 'buried_counter']
+BASE     adopted_passes_nominal=True PASS
+CONF1    adopted_fails_nominal=True viable_nominal=['radio_antenna'] adopted_fails=0.965 >=2_viable=0.052 FAIL
+CONF2    adopted_fails_nominal=True viable_nominal=['buried_counter'] adopted_fails=1.000 >=2_viable=0.001 FAIL

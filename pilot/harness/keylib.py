@@ -15,7 +15,8 @@ Every numeric leaf of `inputs` is varied independently log-uniformly in [0.5, 2]
 The seed is derived from the level name, so the result does not depend on level order.
 PASS requires:
   - the adopted item fails at nominal values and in >= 95% of draws;
-  - >= 2 alternatives are viable at nominal values and in >= 95% of draws;
+  - >= MIN_VIABLE (v4.1: 1) alternatives are viable at nominal values and in >= 95% of draws;
+Values under inputs["fixed"] are exact stated facts and are not varied (v4.1).
   - the BASE companion (check_base) shows the adopted item passing at nominal values.
 """
 import copy, hashlib, math, random
@@ -35,7 +36,9 @@ def _get(d, path):
 
 def _draws(level, inputs, n=2000):
     rng = random.Random(int(hashlib.sha256(level.encode()).hexdigest(), 16))
-    paths = list(_leaves(inputs))
+    # v4.1: values under inputs["fixed"] are exact stated facts (e.g. a zenith band, a geometric definition)
+    # and are not varied; each must be justified in notes.md and is shown to the red team.
+    paths = [p for p in _leaves(inputs) if p[0] != "fixed"]
     for _ in range(n):
         x = copy.deepcopy(inputs)
         for p in paths: _set(x, p, _get(inputs, p) * math.exp(rng.uniform(math.log(0.5), math.log(2))))
@@ -46,7 +49,10 @@ def _bools(d, path=()):
         if isinstance(v, dict): yield from _bools(v, path + (k,))
         elif isinstance(v, bool): yield "/".join(path + (k,))
 
-def check_conf(level, inputs, fails, viable, n=2000):
+MIN_VIABLE = 1  # v4.1 (finding F6): >= 1 credible survivor; the survivor count is reported as a covariate
+
+def check_conf(level, inputs, fails, viable, n=2000, min_viable=None):
+    min_viable = MIN_VIABLE if min_viable is None else min_viable
     b = list(_bools(inputs))
     if b:  # round-2 red team: decisive booleans escape the robustness draws
         print(f"{level:8s} FAIL  boolean inputs are not allowed (they are never varied): {b}. Encode them as numbers with thresholds.")
@@ -54,10 +60,10 @@ def check_conf(level, inputs, fails, viable, n=2000):
     nom_fail, nom_viable = fails(inputs), viable(inputs)
     f = v = 0
     for x in _draws(level, inputs, n):
-        f += bool(fails(x)); v += len(viable(x)) >= 2
-    ok = nom_fail and len(nom_viable) >= 2 and f / n >= 0.95 and v / n >= 0.95
-    print(f"{level:8s} adopted_fails_nominal={nom_fail} viable_nominal={nom_viable} "
-          f"adopted_fails={f / n:.3f} >=2_viable={v / n:.3f} {'PASS' if ok else 'FAIL'}")
+        f += bool(fails(x)); v += len(viable(x)) >= min_viable
+    ok = nom_fail and len(nom_viable) >= min_viable and f / n >= 0.95 and v / n >= 0.95
+    print(f"{level:8s} adopted_fails_nominal={nom_fail} viable_nominal={nom_viable} (n_survivors={len(nom_viable)}) "
+          f"adopted_fails={f / n:.3f} >={min_viable}_viable={v / n:.3f} {'PASS' if ok else 'FAIL'}")
     return ok
 
 def check_base(level, inputs, fails):
