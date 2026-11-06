@@ -1,0 +1,4 @@
+BASE     adopted_passes_nominal=True PASS
+         BASE viable_alternatives_nominal= ['water_cell_grid', 'hp_gas_tpc_ArCH4', 'lar_tpc', 'lxe_tpc']
+CONF1    adopted_fails_nominal=True viable_nominal=['hp_gas_tpc_ArCH4', 'lar_tpc', 'lxe_tpc'] adopted_fails=1.000 >=2_viable=0.999 PASS
+CONF2    adopted_fails_nominal=True viable_nominal=['lar_tpc', 'lxe_tpc'] adopted_fails=1.000 >=2_viable=0.988 PASS

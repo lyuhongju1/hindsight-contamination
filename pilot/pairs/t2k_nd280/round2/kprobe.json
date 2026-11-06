@@ -1,0 +1,4 @@
+{
+  "CONF1": {"question": "Would a polystyrene-based plastic scintillator read out through wavelength-shifting fibres keep most of its light output after an absorbed dose of 5 MGy? Explain briefly.", "expected": "no"},
+  "CONF2": {"question": "In a polystyrene plastic scintillator, are fewer than 1% of the nucleons hydrogen nuclei (free protons)? Explain briefly.", "expected": "no"}
+}
