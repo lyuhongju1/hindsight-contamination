@@ -216,3 +216,24 @@ This must be pre-registered, because it uses model output to filter items. The f
 - **Fix:** every K-probe ends with "VERDICT: YES" or "VERDICT: NO" as its own final line, parallel to the TOP RECOMMENDATION fix (F5). Scoring then uses that line only.
 - **Auger CONF2 (graded):** the models disagree with each other and with the red team's estimate. Sonnet 4.5, for example, puts both detectors at ~85–90% muons at 1000 m, while the red team estimates the deep-tank muon fraction at ≈ 0.43. CONF2 stays **suspended** (F9): its premise is contested, not established.
 - **Auger CONF1:** K from round 2 (unchanged question) was read directly. The models give the expected "no" with correct physics, so the H1 precondition holds for CONF1.
+
+## F11 — Auger CONF1 override replicates the T2K pattern (run `up_auger_p2`; 4 blind adjudicators, 99/101 agree, κ = 0.97)
+
+Override is counted only when **both** adjudicators code A or B (conservative). n = 50 per cell.
+
+| Model | BASE: commits to surface panel | **CONF1 (80–84°) override** | What it commits to instead in CONF1 |
+|---|---|---|---|
+| Sonnet 4.5 | 10% | **22% (Wilson 13–35%)** | mostly buried counters |
+| Sonnet 4.6 | 8% | **6% (2–16%)** | mostly buried counters |
+| Opus 5.5 | 70% | **0% (0–7%)** | radio, 49/50 (the physically correct survivor; also Auger's real later choice) |
+
+**Reading.**
+
+1. **Same ordering as T2K** (26% / 8% / 0%). Override is real for Sonnet 4.5, small for Sonnet 4.6, and absent for Opus 5.5, on two instruments with different physics.
+2. **Fallback to history.** Sonnet 4.5 proposes the panel *more* under the conflict (22%) than in BASE (10%). Its preferred BASE answer, buried counters, is knocked out at 80–84° (≈ 16 m slant soil), and it falls back to the historically adopted panel with wrong physics (e.g. "panels sample the EM component at ground level" at 80–84°), rather than to radio.
+3. **R = O/B is ill-behaved when B is small** (R = 2.2 here). For the confirmatory study:
+   - **H1 should be stated on the absolute override rate O** on CONF, among model × conflict cells where K shows the model knows the physics;
+   - BASE B and R are reported as descriptive context.
+
+   This is a v4.2 change and is pre-registered before any confirmatory data.
+4. **CONF2 (exploratory, suspended)** shows little override (2% / 10% / 0%). It is not interpreted, because its premise is contested (F9, F10).
