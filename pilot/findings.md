@@ -68,3 +68,24 @@ Two of two pilot pairs fail the ≤ 10% gate at every disguised level on the str
 - **Agents tune toward the gate.** Without a human panel, authoring agents optimize descriptions to pass mechanical rules, and that is how the leading wording entered. The red team caught it, which shows that this check works. The authoring rules need to forbid tuning stated numbers after the first key run, or log every such change.
 
 **Implication.** Computable keys are a poor fit for **equivalent** twins, where the claim that the historical choice is right rests on close real trade-offs. They fit **conflict** twins much better: a hard physical failure of the adopted item (radiation fluence beyond tolerance, signal absent in the measured band) can be made decisive without cost or labour rules and without one-rule exclusions, *if* the constraint is stated as a plain fact and not as an exclusion. This supports the override-primary redesign: the confirmatory test needs robust CONF keys only; EQ and ABS become descriptive.
+
+## F4 — Recognition survives generic twins; the K precondition holds (runs `id_t2k_r2`, `k_t2k_r2`)
+
+**Recognition.** The round-2 T2K materials drop the water far detector and most specifics; BASE is described as having a far detector with *no* hydrogen. Identification still runs at:
+
+| Level | Sonnet 4.5 | Sonnet 4.6 | Opus 5.5 |
+|---|---|---|---|
+| BASE | 100% | 55% | 100% |
+| CONF1 | 100% | 80% | 100% |
+| CONF2 | 80% | 95% | 100% |
+
+A sub-GeV beam, a near station a few hundred metres from the target, a warm dipole, and an "active target with all-angle muon and proton reconstruction" are enough. This confirms that recognition must be measured, not gated (v4).
+
+**Constraint knowledge K** (crude pilot scoring: a clear "no" in the first 250 characters; adjudication pending):
+
+| Level | Sonnet 4.5 | Sonnet 4.6 | Opus 5.5 |
+|---|---|---|---|
+| CONF1 (dose) | 15/20 | 19/20 | 20/20 |
+| CONF2 (hydrogen) | 20/20 | 20/20 | 20/20 |
+
+The models know the physics of both failures. The H1 precondition (K ≥ 0.8) is met on most model × conflict cells, so a later override would be interpretable as overriding known physics rather than ignorance. (Round-2 CONF1 has been dropped for coherence reasons; these numbers test the pipeline.)
