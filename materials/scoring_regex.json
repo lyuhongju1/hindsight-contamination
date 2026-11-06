@@ -1,0 +1,87 @@
+{
+ "_comment": "CONFIRMATORY screening patterns, written 2026-11-06 by the orchestrator before any confirmatory material or model output. Case-insensitive. 'adopted' = the counted item (screen on the TOP RECOMMENDATION line; primary = blind adjudication of screened hits, PREREGISTRATION §5). 'distractor' = the documented alternative not adopted (exploratory). 'identity' = names of the baseline or successor. Descriptions must not match 'adopted' or 'identity' (identity is allowed only in NAME). Distractor mentions are allowed in descriptions, because several distractors are the baseline's existing hardware.",
+ "p01_xenon1t": {
+  "item": "liquid-phase xenon purification",
+  "adopted": "liquid[\\s-]?(phase\\s+)?(xenon\\s+|xe\\s+|lxe\\s+)?(purif|purifier|filter)|purif\\w*\\s+(of\\s+)?(the\\s+)?(xenon\\s+)?(in|directly\\s+in)\\s+(the\\s+)?liquid|lxe\\s+purif|cryogenic\\s+(liquid\\s+)?purif",
+  "distractor": "(hot|heated)\\s+(zirconium\\s+)?getters?|gas[\\s-]phase\\s+(purif|getter)",
+  "identity": "xenon\\s?1t|xenon\\s?nt|xenon\\s?100|xenon\\s+collaboration|gran\\s+sasso|\\blngs\\b"
+ },
+ "p02_gerda": {
+  "item": "underground-sourced argon",
+  "adopted": "underground[\\s-](sourced\\s+)?(liquid\\s+)?argon|\\bug\\s?l?ar\\b|argon\\s+(sourced\\s+|extracted\\s+)?from\\s+(an?\\s+)?underground|(42|39)\\s?ar[\\s-](depleted|free|poor)|(depleted|low)[\\s-]in[\\s-](42|39)\\s?ar",
+  "distractor": "mini[\\s-]?shrouds?|encapsulat\\w+\\s+(the\\s+)?(detectors?|crystals?|diodes?)",
+  "identity": "\\bgerda\\b|\\blegend\\b|majorana\\s+demonstrator|gran\\s+sasso|\\blngs\\b"
+ },
+ "p03_advirgo": {
+  "item": "frequency-dependent squeezing",
+  "adopted": "frequency[\\s-]dependent\\s+squeez|filter\\s+cavit|(rotat\\w+|frequency[\\s-]dependent)\\s+squeez|squeez\\w*\\s+(angle\\s+)?rotat",
+  "distractor": "epr[\\s-](entangl|squeez)|einstein[\\s-]podolsky[\\s-]rosen|conditional\\s+squeez|frequency[\\s-]independent\\s+squeez",
+  "identity": "\\bvirgo\\b|adv\\+|\\bcascina\\b|\\bego\\b|\\bligo\\b|\\bkagra\\b"
+ },
+ "p04_icarus": {
+  "item": "one serial ADC per channel (synchronous sampling)",
+  "adopted": "(one|an?|single|dedicated|individual)\\s+(serial\\s+)?adcs?\\s+(per|for\\s+each|on\\s+each|for\\s+every)\\s+(channel|wire)|serial\\s+adcs?|per[\\s-]channel\\s+(adcs?|digiti)|(each|every)\\s+(wire|channel)\\s+(is\\s+)?(individually\\s+|separately\\s+)?digiti[sz]ed|synchronous(ly)?\\s+sampl",
+  "distractor": "multiplex\\w*\\s+(adcs?|digiti)|cold\\s+(front[\\s-]end|electronics|asics?)|cryogenic\\s+(front[\\s-]end|asics?)",
+  "identity": "\\bicarus\\b|\\bt600\\b|\\bwa104\\b|\\bsbn\\b|short[\\s-]baseline\\s+neutrino\\s+program|gran\\s+sasso|\\blngs\\b|booster\\s+neutrino\\s+beam|fermilab|\\bfnal\\b"
+ },
+ "p05_sno": {
+  "item": "LAB liquid scintillator; Te-130 loading (author picks one, logged)",
+  "adopted": "linear\\s+alkyl\\s?benzene|alkylbenzene|\\blab\\b[\\s-]?(based\\s+)?(liquid\\s+)?scintillat|tellur|\\bte[\\s-]?130\\b|\\b130\\s?te\\b",
+  "distractor": "neodym|\\bnd[\\s-]?150\\b|\\b150\\s?nd\\b|pseudo[\\s-]?cumene|\\bpxe\\b|phenyl[\\s-]?xylyl",
+  "identity": "\\bsno\\b|sno\\+|\\bsudbury\\b|\\bsnolab\\b|\\bcreighton\\b"
+ },
+ "p06_agata": {
+  "item": "Ethernet-based readout of pre-processed data",
+  "adopted": "(10|25|40|100)\\s?(gb|gbit|gbps|g)\\w*\\s*(ethernet|gbe)|ethernet[\\s-]?(based\\s+)?(readout|links?|transfer|interface)|\\budp\\b|(readout|data|transfer\\w*)\\s+(over|via|through)\\s+(standard\\s+)?ethernet|\\b10\\s?gbe\\b",
+  "distractor": "\\batca\\b|pcie\\s+(readout|cards?|links?)|carrier\\s+boards?",
+  "identity": "\\bagata\\b|advanced\\s+gamma\\s+tracking|\\blegnaro\\b|\\bganil\\b|\\bprisma\\b|\\bvamos\\b"
+ },
+ "p07_meg": {
+  "item": "radiative decay counter",
+  "adopted": "radiative\\s+(muon\\s+)?decay\\s+(counter|detector|tagger|tagging)|\\brdc\\b|tag\\w*\\s+(the\\s+)?(low[\\s-]energy\\s+)?positrons?\\s+(from|of|accompanying)\\s+(the\\s+)?radiative|\\brmd\\s+(tag|veto|counter)",
+  "distractor": "upstream\\s+(radiative|rdc|tagger|tagging\\s+detector)",
+  "identity": "\\bmeg\\b|meg\\s?ii|paul\\s+scherrer|\\bpsi\\b|\\bmu3e\\b"
+ },
+ "p08_cosine": {
+  "item": "in-house ultra-pure crystal growth",
+  "adopted": "(in[\\s-]house|own|self[\\s-]?grown|dedicated)\\s+(crystal\\s+)?(growth|growing|grower|furnace)|grow\\w*\\s+(our|its|their|the\\s+collaboration.s)\\s+own\\s+crystals?|recrystalli[sz]|kyropoulos|purif\\w+\\s+(the\\s+)?(raw\\s+|starting\\s+)?(nai\\s+)?powder",
+  "distractor": "alpha\\s+spectra|commercial(ly)?\\s+(grown|crystals?|vendors?|suppliers?)|purchas\\w+\\s+(the\\s+)?crystals?",
+  "identity": "\\bcosine\\b|\\bkims\\b|dm[\\s-]?ice|\\byangyang\\b|\\byemilab\\b"
+ },
+ "p09_nemo3": {
+  "item": "8-in. high-QE PMTs on large scintillator blocks",
+  "adopted": "(8|eight)[\\s-]?(inch|in\\.|\\\")\\s*(high[\\s-](qe|quantum[\\s-]efficiency)\\s+)?(pmts?|photomultipliers?|photo[\\s-]multipliers?)|r5912|high[\\s-](quantum[\\s-]efficiency|qe)\\s+(pmts?|photomultipliers?)",
+  "distractor": "(3|5|10|11)[\\s-]?(inch|in\\.|\\\")\\s*(pmts?|photomultipliers?)|\\bpvt\\b|polyvinyl\\s?toluene",
+  "identity": "\\bnemo[\\s-]?3\\b|super\\s?nemo|\\bnemo\\b|\\bfrejus\\b|\\bmodane\\b|\\blsm\\b"
+ },
+ "p10_borexino": {
+  "item": "144Ce-144Pr antineutrino source",
+  "adopted": "\\b144\\s?ce\\b|\\bce[\\s-]?144\\b|cerium|\\b144\\s?pr\\b|antineutrino\\s+(generator|source)|\\bce\\s?sox\\b",
+  "distractor": "\\b51\\s?cr\\b|\\bcr[\\s-]?51\\b|chromium|\\b37\\s?ar\\b|argon[\\s-]37",
+  "identity": "\\bborexino\\b|\\bsox\\b|\\bctf\\b|gran\\s+sasso|\\blngs\\b"
+ },
+ "p11_kagra": {
+  "item": "optical levers for marionette damping",
+  "adopted": "optical[\\s-]levers?|\\boplevs?\\b",
+  "distractor": "(improv|upgrad|replac|enhanc)\\w*\\s+(the\\s+)?(photo[\\s-]?sensors?|osems?|shadow\\s+sensors?|local\\s+sensors?)",
+  "identity": "\\bkagra\\b|\\bkamioka\\b|\\blcgt\\b"
+ },
+ "p12_miniboone": {
+  "item": "PPO doping of the mineral oil",
+  "adopted": "\\bppo\\b|diphenyl\\s?oxazole|(add|dop|load)\\w*\\s+(a\\s+|an?\\s+additional\\s+)?(organic\\s+)?(scintillat\\w*\\s+)?(fluor|fluors|wavelength[\\s-]shifter|solute)\\s+(to|into|in)\\s+(the\\s+)?(mineral\\s+)?oil",
+  "distractor": "butyl[\\s-]?pbd|\\bb[\\s-]?pbd\\b|\\bpbd\\b",
+  "identity": "\\bminiboone\\b|\\bboone\\b|booster\\s+neutrino|\\bfermilab\\b|\\bfnal\\b"
+ },
+ "p13_na62": {
+  "item": "straws of diameter below 5 mm",
+  "adopted": "(small|smaller|thinner|narrow\\w*|reduced)[\\s-](diameter\\s+)?straws?|straws?\\s+(of|with)\\s+(a\\s+)?(smaller|reduced|small)\\s+(diameter|radius)|(4\\.8\\d?|[34](\\.\\d)?|5)\\s?mm[\\s-](diameter\\s+)?straws?|straws?\\s+(with\\s+)?(a\\s+)?diameter\\s+(of\\s+)?(less\\s+than\\s+|below\\s+|<\\s?|about\\s+)?[2-5](\\.\\d+)?\\s?mm",
+  "distractor": "(9\\.8\\d?|10)\\s?mm[\\s-](diameter\\s+)?straws?|keep\\w*\\s+(the\\s+)?(existing|current)\\s+straws?",
+  "identity": "\\bna62\\b|\\bna48\\b|\\bhike\\b|\\bklever\\b|\\becn3\\b"
+ },
+ "p14_kascade": {
+  "item": "tripole (three-component) antennas",
+  "adopted": "tripoles?|three[\\s-](component|axis|axes|polari[sz]ation|orthogonal|crossed)\\s+(dipole\\s+)?antennas?|three\\s+(crossed|orthogonal|mutually\\s+orthogonal)\\s+dipoles?|(add\\w*|includ\\w*)\\s+(a\\s+)?vertical(ly\\s+oriented)?\\s+(dipole|antenna|arm)|all\\s+three\\s+(electric[\\s-]field\\s+|field\\s+)?components",
+  "distractor": "inverted[\\s-]v|log[\\s-]periodic|\\blpdas?\\b|butterfly\\s+antennas?|\\bsalla\\b",
+  "identity": "\\bkascade\\b|\\blopes\\b|\\bkarlsruhe\\b"
+ }
+}
