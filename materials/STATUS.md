@@ -11,7 +11,7 @@
 | p05 SNO | LAB scintillator | buoyancy load limit on thin acrylic sphere | 2 (PXE; LAB30/MN70 blend, not counted as LAB) | r1 FIX → fixed; r2 pending |
 | p06 AGATA | Ethernet readout | — | — | not started |
 | p07 MEG | downstream RDC | magnetic mirror reflects low-energy positrons upstream | 1 (upstream tagger) | **r1 running** |
-| p08 COSINE | in-house crystal growth | home institute at 3,600 m → cosmogenic tritium | 2 (Alpha Spectra; RMD/Astro-Grade) | **r1 running** |
+| p08 COSINE | in-house crystal growth | home institute at 3,600 m → cosmogenic tritium | 2 (Alpha Spectra marginal; RMD/Astro-Grade) | **r1: FIX (state exposure time; dru coherence; close relocation/shielding); fix round queued** |
 | p09 NEMO-3 | 8-in. high-QE PMTs | — | — | **author running** |
 | p10 Borexino | 144Ce-144Pr source | fully deuterated scintillator kills IBD | 2 (51Cr, 37Ar) | r1: CONF1 OK, wording/kprobe FIX → fixed; gates pass. **Red-team cleared** |
 | p11 KAGRA | optical levers | — | — | not started |
