@@ -1,10 +1,10 @@
-A general-purpose spectrometer runs at an electron-positron collider at centre-of-mass energies of 3 to 5 GeV, with a luminosity of 5e34 cm^-2 s^-1. Its programme is charm, tau and charmonium physics, and it identifies charged pions and kaons up to 1.2 GeV/c by time of flight over a 1.5 m flight path.
-Inside a 1.2 T superconducting solenoid sit a silicon pixel and strip tracker, a timing system and a calorimeter of fast undoped CsI crystals.
+A general-purpose spectrometer sits at a 13 TeV proton-proton collider. Its programme is soft-hadron and heavy-flavour physics, and in the endcap region (pseudorapidity 2.0 to 3.0, endcap timing position 2.5 m from the collision point) it separates charged pions, kaons and protons up to 2 GeV/c by time of flight.
+Inside a 2 T superconducting solenoid sit a silicon pixel tracker, a timing system and a silicon-tungsten sampling calorimeter.
 The barrel timing system meets its goals. Each endcap timing system is one ring of 36 plastic scintillator counters, each about 40 cm long with 600 cm^2 of face area, read out at the outer end by fine-mesh photomultipliers working in the field.
 The endcap system measures about 150 ps for pions and worse for electrons, because particles shower in the tracker endplate and support material in front of it and the secondaries reach the same counter.
-At the endcap timing position the charged-particle flux, mostly low-energy electrons and positrons from beam-induced background, is between 300 and 600 kHz/cm^2 across the endcap acceptance; over ten years of running this gives an ionizing dose of 15 kGy and a 1-MeV-neutron-equivalent fluence of 1e12 cm^-2.
-The tracker and the calorimeter are specified for this background and work at it.
+The collider delivers 5e34 cm^-2 s^-1; at the endcap timing position this gives a charged-particle flux between 1.5 MHz/cm^2 (outer edge) and 10 MHz/cm^2 (inner edge), and over the full programme the innermost point receives an ionizing dose of 100 kGy and a 1-MeV-neutron-equivalent fluence of 4e14 cm^-2.
+The tracker and the calorimeter are specified for this environment and work in it.
 Requirements:
 - Every charged track in the endcap acceptance is timed to 60 ps or better, including tracks accompanied by secondaries from upstream material.
-- The timing efficiency is at least 95% per charged track at the flux above, everywhere in the endcap acceptance.
-- Everything in the endcap region works in the 1.2 T field and at the dose and fluence above.
+- The timing efficiency is at least 95% per charged track at the local flux, everywhere in the endcap acceptance.
+- Everything in the endcap region works in the 2 T field and at the dose and fluence above.

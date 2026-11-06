@@ -91,3 +91,14 @@ Give the expected verdict.
 If no honest CONF exists for your pair, say so in `notes.md` and leave it failing. **That is an acceptable outcome.**
 
 **Final reply:** the file list, the `key_output` table, and one line per CONF naming the mechanism and its survivors.
+
+---
+
+## Lessons from round 1 (added 2026-11-06; they apply rules 1, 7 and 8, nothing new)
+
+1. **The item is what the dated quote commits to, and no narrower.** If the quote says "a radiative decay counter", then any placement of such a counter is the item. Your CONF must defeat every reasonable variant of the item, not one configuration of it (p07 MEG failed this).
+2. **Never close a workaround with a logistics, site, schedule or organisational rule** (e.g. "this work can only be done at X", "it takes N months"). These are rule-1 violations even when they read as plain facts (p08 COSINE failed this).
+3. **"Item plus an add-on that fixes it" is a workaround, scored C, not a rejection.** Close such routes with plain physical facts, or accept that they exist and say so in notes.md.
+4. **A servo, filter or design tweak that an expert would add as a matter of course defeats a noise- or rate-based conflict** (p15 aLIGO). Check for one before you build on such a mechanism.
+5. **Decide early.** Within your first few calculations, ask whether ANY physical requirement separates the item from its alternative, robustly under ×0.5–2. If the window is empty, say so: a zero-unit outcome is acceptable and honest.
+6. **Label every resolution figure as σ or FWHM**, with its source.
