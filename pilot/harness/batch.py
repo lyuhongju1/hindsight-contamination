@@ -55,7 +55,7 @@ def cmd_plan(a):
     reqs = []
     if a.task == "kprobe":  # physics-knowledge probe: the question is the whole prompt (design v2 section 4.5)
         for pair in a.pairs.split(","):
-            Q = json.load(open(os.path.join(PILOT, "pairs", pair, "round2", "kprobe.json"), encoding="utf-8"))
+            Q = json.load(open(os.path.join(PILOT, "pairs", pair, a.kround, "kprobe.json"), encoding="utf-8"))
             for level, q in Q.items():
                 prompt = q["question"]; h = hashlib.sha256(prompt.encode()).hexdigest()[:16]
                 for m in a.models.split(","):
@@ -131,5 +131,6 @@ if __name__ == "__main__":
     p = sp.add_parser("plan"); p.add_argument("--task", required=True); p.add_argument("--pairs", required=True)
     p.add_argument("--models", required=True); p.add_argument("--n", type=int, required=True); p.add_argument("--run", required=True)
     p.add_argument("--desc-dir", default="descriptions", help="e.g. round2/descriptions")
+    p.add_argument("--kround", default="round2", help="folder holding kprobe.json")
     for c in ("submit", "harvest", "status"): sp.add_parser(c).add_argument("--run", required=True)
     a = ap.parse_args(); {"plan": cmd_plan, "submit": cmd_submit, "harvest": cmd_harvest, "status": cmd_status}[a.cmd](a)

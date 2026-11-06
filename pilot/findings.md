@@ -203,3 +203,9 @@ None of the 12 random non-hit controls was an override (all D or E). The regex f
 - it is excluded from H1 until resolved.
 
 This must be pre-registered, because it uses model output to filter items. The filter acts on the physics premise, not on override behaviour, and it must be applied blind to the upgrade sampling results.
+
+## Orchestrator decisions on Auger round 3 (2026-11-05)
+
+1. **CONF2 "replace the vessels with deeper ones + panel"** counts as rubric **C** (valid workaround: changes stated hardware to make the adopted item work), not override. It parallels T2K's dilution workarounds. The Auger adjudication rubric lists it explicitly under C.
+2. **Integer structural counts** (number of independent signals an option provides) may be placed under `inputs["fixed"]`, with a justification, because ×0.5–2 scaling of an integer count is meaningless. Added to keylib's documented rules; the red team reviews each use.
+3. **CONF2 remains suspended under F9** until the reworded, graded K-probe shows that the models' majority physics agrees with the key. It is sampled now for information only (exploratory).

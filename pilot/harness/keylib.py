@@ -41,7 +41,8 @@ def _draws(level, inputs, n=2000):
     # v4.1: inputs["unc"] = {"props/option/key": [lo, hi]} gives a TIGHTER multiplicative range for a cited
     # property whose source states a precision; each entry needs that citation in notes.md (red-team reviewed).
     # Ranges wider than x0.5-2 are allowed; narrower than x0.8-1.25 are not. Encode quantities on a linear
-    # physical scale (energies in eV, not log10).
+    # physical scale (energies in eV, not log10). Integer structural counts (e.g. number of independent signals an
+    # option provides) may be placed under inputs["fixed"] with a justification in notes.md.
     unc = {k: tuple(v) for k, v in inputs.get("unc", {}).items()}
     for k, (lo, hi) in unc.items():
         if lo > 0.8 or hi < 1.25: raise ValueError(f"unc range for {k} narrower than x0.8-1.25 is not allowed")

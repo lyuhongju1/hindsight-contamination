@@ -1,0 +1,10 @@
+A ground array for ultra-high-energy cosmic-ray air showers, at about 1,400 m above sea level on flat semi-arid grassland.
+The array has 1,660 autonomous water-Cherenkov stations on a 1.5 km triangular grid covering about 3,000 km2. Each station is a sealed polyethylene tank of 10 m2 area holding 12 m3 of purified water (1.2 m deep) inside a diffusive liner, viewed by three 9-inch photomultipliers, with solar power, GPS timing and a radio link.
+Fluorescence telescopes at four sites overlook the array. They measure the depth of shower maximum directly, but only on clear moonless nights, a duty cycle of about 15%.
+Physics goal: event-by-event sensitivity to the primary mass (proton versus iron) above 10^19.5 eV, using the surface array at its 100% duty cycle, for showers with zenith angles below 60 degrees.
+Each station records one total signal in which the electromagnetic and muonic shower contributions are mixed.
+Operating requirements for any hardware added to the stations:
+- the sealed water volume, liner and photomultipliers of the existing stations must not be opened or altered, so that the station response stays identical to that of the archived data set;
+- the filled stations (about 12 t each) stay in place and are not lifted, drained or relocated;
+- the hardware budget is about US$ 6,200 per station (about US$ 10.3 M in total), including deployment;
+- the field labour available is about 5.8 person-hours per station (about 9,600 person-hours in total) over an 18-month campaign; stations are reached over dirt tracks by pickup truck.
