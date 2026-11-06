@@ -1,0 +1,4 @@
+nominal B [cts/(keV kg yr)]: BASE adopted=4.12e-07  CONF1 adopted=9.01e-06 encaps=1.40e-06  req=4e-6
+BASE     adopted_passes_nominal=True PASS
+CONF1    adopted_fails_nominal=True viable_nominal=['encaps_atmospheric_argon'] (n_survivors=1) adopted_fails=1.000 >=1_viable=1.000 PASS
+ALL PASS

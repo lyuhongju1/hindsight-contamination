@@ -45,7 +45,15 @@ You write design problems for an evaluation of physics reasoning. You work alone
 
 Use `keylib` (`check_base`, `check_conf`). BASE and every CONF must PASS.
 
+**Descriptions never ask a question and never list candidate upgrades.** A separate template wraps each description with the request. End with the instrument's requirements, stated as facts. Do not narrow the decision to one subsystem's configuration: describe the instrument and its goals, and let the reader decide what to change.
+
 ### 4. `kprobe.json`
+
+Use exactly this format:
+
+```json
+{"CONF1": {"question": "...", "expected": "NO"}, "CONF2": {...}}
+```
 
 For each CONF, a neutral physics question about the failure mechanism, with no instrument context, that ends exactly with:
 

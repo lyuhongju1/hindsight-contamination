@@ -1,0 +1,5 @@
+# BASE: FD (lo,hi) dB = (5.74, 7.15); FI best = (-8.77, -8.73); EPR = (3.66, 3.66)
+# CONF1: FD (lo,hi) dB = (-0.0, 7.15); FI best = (-8.77, -8.73); EPR = (3.66, 3.66)
+BASE     adopted_passes_nominal=True PASS
+CONF1    adopted_fails_nominal=True viable_nominal=['epr_conditional_squeezing'] (n_survivors=1) adopted_fails=1.000 >=1_viable=1.000 PASS
+ALL PASS

@@ -1,0 +1,8 @@
+An experiment in a deep underground laboratory searches for neutrinoless double-beta decay of 76Ge (Q = 2039 keV).
+About 35 kg of enriched germanium detectors (coaxial and broad-energy types) are operated bare, in strings, inside a cryostat holding about 64 m^3 of liquid argon of atmospheric origin, which sits in a water tank instrumented as a muon veto.
+The liquid argon is both coolant and shield, and its scintillation light, read out by photomultipliers and wavelength-shifting fibres, vetoes events with energy deposited in the argon.
+Pulse-shape analysis of the germanium signals rejects multi-site and surface events.
+Argon of atmospheric origin contains 42Ar (half-life about 33 yr); its daughter 42K (half-life 12.4 h) beta-decays with a 3.5 MeV endpoint, mostly to the ground state without a coincident gamma.
+42K is produced as a positive ion and drifts in the electric fields around the detectors, collecting on their surfaces; at present the strings are surrounded by thin transparent nylon cylinders.
+The background index at Q is about 1e-3 counts/(keV kg yr).
+A tonne-scale successor must reach a background index below about 1e-5 counts/(keV kg yr), with beta decays on or near the detector surfaces contributing well below that.

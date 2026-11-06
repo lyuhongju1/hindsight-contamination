@@ -1,0 +1,6 @@
+Advanced Virgo (AdV), the upgraded Virgo gravitational-wave detector at the EGO site in Cascina, Italy, in its AdV+ Phase I configuration.
+It is a dual-recycled Michelson interferometer with 3 km Fabry-Perot arm cavities, operating at 1064 nm, with ~42 kg fused-silica test masses on monolithic suspensions hung from multi-stage seismic isolators.
+At the planned arm power the radiation-pressure and shot-noise contributions to quantum noise cross in the few-tens-of-Hz region, inside the detection band.
+A squeezed-vacuum source (more than 10 dB of measured quadrature noise reduction at the source) injects into the dark port; the total efficiency from source to output photodetector is a few tens of percent loss.
+The site has long evacuated beam tubes in which auxiliary optics up to several hundred metres long can be housed.
+Requirement: at the planned arm power, the next phase must lower total quantum noise both below the crossover (radiation-pressure dominated) and well above it (shot-noise dominated), relative to the quantum noise of the interferometer with ordinary vacuum entering its output port.

@@ -1,0 +1,7 @@
+A planned experiment searches for neutrinoless double-beta decay of 76Ge (Q = 2039 keV) with 600 kg of enriched germanium detectors, operated bare in strings, in a laboratory at 3500 m water-equivalent depth.
+The strings stand in liquid argon inside a cryostat surrounded by a water tank used as a muon veto; argon scintillation light vetoes events that deposit energy in the argon, and germanium pulse-shape analysis rejects multi-site and surface events.
+In a prototype with this array design and argon of atmospheric origin, the 42K contribution at Q, after vetoes and pulse-shape cuts, was measured at 1.2e-5 counts/(keV kg yr).
+42K (half-life 12.4 h) is the daughter of 42Ar (half-life about 33 yr) and beta-decays with a 3.5 MeV endpoint, mostly without a coincident gamma; it is born as a positive ion and drifts to the detector surfaces in their electric fields.
+The argon is continuously recirculated through a cold charcoal trap; the radon that remains is emanated by the array's own cables and holders, and its progeny are also born as ions and collect on the detector surfaces.
+In the same prototype, the contribution at Q from these radon progeny (mainly 214Bi, beta endpoint 3.27 MeV) was measured at 9e-6 counts/(keV kg yr).
+The instrument's goal is a total background index at Q below 2e-5 counts/(keV kg yr), of which at most 4e-6 counts/(keV kg yr) is allotted to beta decays on or near the detector surfaces.
