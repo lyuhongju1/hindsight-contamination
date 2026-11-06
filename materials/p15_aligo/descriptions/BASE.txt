@@ -1,0 +1,9 @@
+A ground-based gravitational-wave detector is a dual-recycled Michelson interferometer with 3.5 km Fabry-Perot arm cavities and a 1064 nm laser.
+The arm cavities store about 300 kW; the 60 kg fused-silica test masses hang from four-stage pendulum suspensions on actively isolated in-vacuum platforms.
+Frequency-independent squeezed vacuum is injected at the antisymmetric port and a filter cavity for frequency-dependent squeezing is being installed.
+The signal is read with DC readout: a differential arm offset of 8 pm places 12 mW of carrier at the antisymmetric port; this offset also couples laser intensity noise and radiation-pressure torque into the readout.
+A mismatch of round-trip loss between the two arms puts a further 0.1 mW of carrier, in quadrature with the signal, at the antisymmetric port at zero offset.
+Every optic in the vacuum system, including all optics beyond the antisymmetric port, hangs from at least a three-stage pendulum suspension on an actively isolated platform.
+The relative motion between any two of these optics along the beam is below 2e-15 m per root hertz at 10 Hz, falling steeply above.
+Laser relative intensity noise reaching the antisymmetric port is 3e-10 per root hertz at 10 Hz.
+The detector must reach a displacement sensitivity of 4e-19 m per root hertz at 10 Hz and stay quantum-noise limited above 50 Hz, with each technical noise at least a factor of ten below the target across the band.

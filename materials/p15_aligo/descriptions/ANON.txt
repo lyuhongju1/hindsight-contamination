@@ -1,0 +1,8 @@
+A ground-based gravitational-wave observatory consists of two widely separated detectors, each a dual-recycled Michelson interferometer with 4 km Fabry-Perot arm cavities.
+A 1064 nm Nd:YAG laser delivers roughly 20 W to the interferometer; power recycling raises the light on the beamsplitter to several kilowatts and the arm cavities store about 100 kW.
+The 40 kg fused-silica test masses hang from quadruple pendulum suspensions on actively isolated in-vacuum platforms.
+The gravitational-wave signal leaves the antisymmetric port, passes a suspended output mode cleaner on an isolated in-vacuum platform, and is detected on in-vacuum photodiodes.
+The signal is read with DC readout: a differential arm offset of about 10 pm places tens of milliwatts of carrier at the antisymmetric port, which serves as the reference field.
+The physics goal is direct detection of gravitational waves from compact-binary coalescences between about 10 Hz and a few kHz.
+The strain sensitivity reaches about 1e-23 per root hertz near 100 Hz.
+The detectors must reach quantum-noise-limited sensitivity above roughly 50 Hz, with every technical noise at least a factor of ten below the quantum noise across the band.

@@ -18,7 +18,7 @@
 | p12 MiniBooNE | PPO doping | — | — | not started |
 | p13 NA62 | small-diameter straws | — | — | not started |
 | p14 KASCADE | tripole antennas | — | — | not started |
-| p15 aLIGO (A2 replacement) | balanced homodyne readout | — | — | author starting |
+| p15 aLIGO (A2 replacement) | balanced homodyne readout | — | — | **author: no honest conflict** (phase-noise CONF defeated by a fast phase servo; other routes hit DC readout equally); BASE passes; confirmation red team running |
 
 **Scoring notes collected from the red teams** (to be frozen into the per-pair rubrics):
 - **p03:** adopted item = rotation by an *external filter cavity*. EPR is a distinct alternative; a generic "frequency-dependent squeezing" answer = X.

@@ -14,8 +14,11 @@ FIXED = {
 
 COMMON = {
     # Sea-level cosmogenic 3H production rate in NaI: 83 +- 27 /kg/d measured (Amare et al., ANAIS, Astropart. Phys. 97 (2018) 96).
-    # Calculated estimates are lower: ACTIVIA-type ~26 /kg/d and Mei et al.-type ~36 /kg/d (as compared in the same paper).
-    # r1 fix: range widened to x0.3-1.5 (25-125 /kg/d) to cover them (see unc below).
+    # Calculated estimates are lower: TALYS-based 31.1 /kg/d (Amare et al., arXiv:1505.06102), Mei-type ~36,
+    # ACTIVIA-type ~26 /kg/d. r1 fix: range widened from x0.67-1.5 to x0.37-1.5 (31-125 /kg/d), covering the
+    # TALYS and Mei calculations. ACTIVIA is not covered: arXiv:1706.05818 attributes its lower rates to semiempirical
+    # proton-based (HEAD-2009) cross sections, and the ANAIS-25 low-energy background needed ~0.2 mBq/kg of 3H,
+    # consistent with the measured rate. With x0.3 the CONF1 robustness is 0.923 (logged in notes.md).
     "R0_per_kg_d": 83.0,
     # 3H half-life 12.32 y
     "T12_d": 12.32 * 365.25,
@@ -72,9 +75,9 @@ def viable(inp):
 def make(level):
     return {"fixed": copy.deepcopy(FIXED), "common": copy.deepcopy(COMMON), "props": copy.deepcopy(OPTIONS),
             "home": {"F_home": F_HOME[level]},
-            # R0: x0.3-1.5 spans calculated (ACTIVIA ~26, Mei ~36) to measured+1sigma (ANAIS 83+-27) values;
+            # R0: x0.37-1.5 spans the TALYS calculation (31.1) to measured+1sigma (ANAIS 83+-27), see COMMON;
             # half-life known to <1% -> clamp at minimum allowed range
-            "unc": {"common/R0_per_kg_d": [0.3, 1.5], "common/T12_d": [0.8, 1.25]}}
+            "unc": {"common/R0_per_kg_d": [0.37, 1.5], "common/T12_d": [0.8, 1.25]}}
 
 
 if __name__ == "__main__":

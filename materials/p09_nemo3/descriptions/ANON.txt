@@ -1,0 +1,10 @@
+A tracker-calorimeter double-beta-decay experiment is operated in a deep underground laboratory.
+About 10 kg of enriched isotopes (mostly 100Mo, also 82Se, 116Cd, 130Te, 150Nd, 96Zr, 48Ca) are rolled into thin source foils arranged in a cylinder of 20 sectors.
+On both sides of the foils, 6180 open drift cells operated in Geiger mode reconstruct each electron track in a 25 G solenoidal field, which separates electrons from positrons.
+The tracking volume is closed by calorimeter walls of 1940 polystyrene-based plastic scintillator blocks, about 10 cm thick, each coupled, mostly through a light guide, to a low-radioactivity 3-in. or 5-in. photomultiplier.
+The calorimeter reaches an energy resolution of 14-17% FWHM for 1 MeV electrons and a time resolution of about 250 ps at 1 MeV.
+Iron, water and wood shielding surround the detector, which sits under about 4800 m water equivalent of rock.
+The follow-up detector will hold about 100 kg of isotope in the same tracker-calorimeter layout and aims at a half-life sensitivity near 1e26 years.
+It requires an energy resolution of about 8% FWHM for 1 MeV electrons in every calorimeter cell.
+It requires a time resolution of about 400 ps at 1 MeV between two cells, to reject electrons crossing the detector from outside.
+Each electron of a decay must have its energy measured individually, and all calorimeter materials must keep 208Tl and 214Bi activity low enough for a 3 MeV region of interest.

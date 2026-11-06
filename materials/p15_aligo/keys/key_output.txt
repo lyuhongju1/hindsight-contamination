@@ -1,0 +1,6 @@
+BASE     adopted_passes_nominal=True PASS
+CONF1    adopted_fails_nominal=False viable_nominal=['dc_readout'] (n_survivors=1) adopted_fails=0.115 >=1_viable=1.000 FAIL
+CONF1slow adopted_fails_nominal=True viable_nominal=['dc_readout'] (n_survivors=1) adopted_fails=0.999 >=1_viable=1.000 PASS
+BASE      limit=4.00e-20 x_separate_reference=2.88e-22 x_dc_readout=1.20e-21
+CONF1     limit=4.00e-20 x_separate_reference=1.29e-20 x_dc_readout=1.20e-21
+CONF1slow limit=4.00e-20 x_separate_reference=4.31e-19 x_dc_readout=1.20e-21

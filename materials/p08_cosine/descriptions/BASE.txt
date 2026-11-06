@@ -4,7 +4,7 @@ The analysis threshold is 1.5 keVee. The background between 1 and 6 keVee is abo
 The collaboration's home institute, which houses its chemistry and materials laboratories, is at 30 m above sea level.
 The home institute has no underground or heavily shielded space.
 The collaboration's chemistry, crystal-growth and machining work can only be done at its home institute.
-From the final drying of the purified powder to the sealing of each finished crystal, about five months pass at the site where this work is done.
+From the final drying of the starting material to the sealing of each finished crystal, about five months pass at the site where this work is done.
 The collaboration intends to replace the array with about 200 kg of crystals and reach a background of about 1.5 counts/(kg day keV) in 1-6 keVee.
 Each new crystal must contain no more than 40 ppb of natural potassium and no more than 1.5 mBq/kg of 210Pb.
 The cosmogenic tritium activity in each new crystal at the start of data taking must not exceed 0.1 mBq/kg.
