@@ -35,7 +35,16 @@ Consequence: failure of the adopted item is deterministic (9e-6 > 4e-6 by x2.25,
 None.
 
 ## Post-run change log
-- None. Key passed on first run (BASE PASS, CONF1 PASS, adopted_fails=1.000, viable=1.000).
+- None to stated numbers. Key passed on first run (BASE PASS, CONF1 PASS, adopted_fails=1.000, viable=1.000).
+- Coordinator fix (updated AUTHOR_BRIEF: descriptions never ask a question or narrow the decision):
+  (a) removed the final question line from NAME, ANON, BASE, CONF1;
+  (b) BASE/CONF1: the requirement sentence "background index at Q from beta emitters dissolved in the argon must not
+      exceed 4e-6" was replaced by an instrument goal placed at the end: total index < 2e-5, of which at most 4e-6 is
+      allotted to beta decays on or near the detector surfaces (same 4e-6 limit; the 2e-5 total is new context, not
+      used by the key). NAME/ANON: "contribution from beta emitters in the argon" -> "beta decays on or near the
+      detector surfaces". BASE and CONF1 still differ only in the radon-progeny number;
+  (c) kprobe.json rewritten as {"CONF1": {"question", "expected"}}.
+  Key re-run unchanged (ALL PASS); forbidden-term check re-run: OK, no question marks in descriptions.
 
 ## Doubts
 - The collection-only suppression factor of encapsulation (15) is an estimate; a red team should check the full
