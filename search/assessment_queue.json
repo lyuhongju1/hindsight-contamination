@@ -1,0 +1,569 @@
+[
+ {
+  "queue_pos": 1,
+  "field": "astroparticle",
+  "recid": "598812",
+  "title": "The MACRO detector at Gran Sasso",
+  "date": "2002"
+ },
+ {
+  "queue_pos": 2,
+  "field": "collider",
+  "recid": "560204",
+  "title": "ANKE, a new facility for medium energy hadron physics at COSY-Juelich",
+  "date": "2001"
+ },
+ {
+  "queue_pos": 3,
+  "field": "dark_matter",
+  "recid": "1618326",
+  "title": "The XENON1T Dark Matter Experiment",
+  "date": "2017-08-23"
+ },
+ {
+  "queue_pos": 4,
+  "field": "double_beta",
+  "recid": "1634658",
+  "title": "Upgrade for Phase II of the Gerda experiment",
+  "date": "2017-11-04"
+ },
+ {
+  "queue_pos": 5,
+  "field": "grav_waves",
+  "recid": "1311317",
+  "title": "Advanced Virgo: a second-generation interferometric gravitational wave detector",
+  "date": "2014-08-18"
+ },
+ {
+  "queue_pos": 6,
+  "field": "nu_accel",
+  "recid": "912685",
+  "title": "Underground operation of the ICARUS T600 LAr-TPC: first results",
+  "date": "2011-06"
+ },
+ {
+  "queue_pos": 7,
+  "field": "nu_natural",
+  "recid": "509079",
+  "title": "The Sudbury neutrino observatory",
+  "date": "1999-10"
+ },
+ {
+  "queue_pos": 8,
+  "field": "other",
+  "recid": "955239",
+  "title": "AGATA - Advanced Gamma Tracking Array",
+  "date": "2011-11"
+ },
+ {
+  "queue_pos": 9,
+  "field": "precision",
+  "recid": "1223321",
+  "title": "The MEG detector for ${\\mu}^+\\to e^+{\\gamma}$ decay search",
+  "date": "2013-03-10"
+ },
+ {
+  "queue_pos": 10,
+  "field": "astroparticle",
+  "recid": "874841",
+  "title": "The KASCADE-Grande experiment",
+  "date": "2010"
+ },
+ {
+  "queue_pos": 11,
+  "field": "collider",
+  "recid": "749243",
+  "title": "The Beam and detector for the NA48 neutral kaon CP violations experiment at CERN",
+  "date": "2007-05"
+ },
+ {
+  "queue_pos": 12,
+  "field": "dark_matter",
+  "recid": "1630770",
+  "title": "Initial Performance of the COSINE-100 Experiment",
+  "date": "2017-10-15"
+ },
+ {
+  "queue_pos": 13,
+  "field": "double_beta",
+  "recid": "645078",
+  "title": "Technical design and performance of the NEMO 3 detector",
+  "date": "2004-02"
+ },
+ {
+  "queue_pos": 14,
+  "field": "grav_waves",
+  "recid": "1111836",
+  "title": "Virgo: a laser interferometer to detect gravitational waves",
+  "date": "2012"
+ },
+ {
+  "queue_pos": 15,
+  "field": "nu_accel",
+  "recid": "1504945",
+  "title": "Design and Construction of the MicroBooNE Detector",
+  "date": "2016-12-17"
+ },
+ {
+  "queue_pos": 16,
+  "field": "nu_natural",
+  "recid": "788332",
+  "title": "The Borexino detector at the Laboratori Nazionali del Gran Sasso",
+  "date": "2008-06"
+ },
+ {
+  "queue_pos": 17,
+  "field": "astroparticle",
+  "recid": "1607541",
+  "title": "The DArk Matter Particle Explorer mission",
+  "date": "2017-06-26"
+ },
+ {
+  "queue_pos": 18,
+  "field": "collider",
+  "recid": "1781194",
+  "title": "The CLAS12 Spectrometer at Jefferson Laboratory",
+  "date": "2020-04-11"
+ },
+ {
+  "queue_pos": 19,
+  "field": "dark_matter",
+  "recid": "1202984",
+  "title": "The Large Underground Xenon (LUX) Experiment",
+  "date": "2012-11"
+ },
+ {
+  "queue_pos": 20,
+  "field": "double_beta",
+  "recid": "1207593",
+  "title": "The GERDA experiment for the search of $0\\nu\\beta\\beta$  decay in $^{76}$Ge",
+  "date": "2012-12"
+ },
+ {
+  "queue_pos": 21,
+  "field": "grav_waves",
+  "recid": "1704344",
+  "title": "KAGRA: 2.5 Generation Interferometric Gravitational Wave Detector",
+  "date": "2018-11-20"
+ },
+ {
+  "queue_pos": 22,
+  "field": "nu_accel",
+  "recid": "789156",
+  "title": "The MiniBooNE Detector",
+  "date": "2008-06"
+ },
+ {
+  "queue_pos": 23,
+  "field": "nu_natural",
+  "recid": "607144",
+  "title": "The Super-Kamiokande detector",
+  "date": "2002-01"
+ },
+ {
+  "queue_pos": 24,
+  "field": "astroparticle",
+  "recid": "1227358",
+  "title": "Design and Operation of FACT -- The First G-APD Cherenkov Telescope",
+  "date": "2013-04-05"
+ },
+ {
+  "queue_pos": 25,
+  "field": "collider",
+  "recid": "1519167",
+  "title": "The Beam and detector of the NA62 experiment at CERN",
+  "date": "2017-03-24"
+ },
+ {
+  "queue_pos": 26,
+  "field": "dark_matter",
+  "recid": "1820603",
+  "title": "Axion Dark Matter Experiment: Detailed design and operations",
+  "date": "2020-09-30"
+ },
+ {
+  "queue_pos": 27,
+  "field": "double_beta",
+  "recid": "1449116",
+  "title": "CUORE-0 detector: design, construction and operation",
+  "date": "2016-04-19"
+ },
+ {
+  "queue_pos": 28,
+  "field": "grav_waves",
+  "recid": "1441153",
+  "title": "Sensitivity of the Advanced LIGO detectors at the beginning of gravitational wave astronomy",
+  "date": "2016-04-01"
+ },
+ {
+  "queue_pos": 29,
+  "field": "nu_accel",
+  "recid": "826184",
+  "title": "The OPERA experiment in the CERN to Gran Sasso neutrino beam",
+  "date": "2009-04"
+ },
+ {
+  "queue_pos": 30,
+  "field": "nu_natural",
+  "recid": "1504036",
+  "title": "The IceCube Neutrino Observatory: Instrumentation and Online Systems",
+  "date": "2016-12-15"
+ },
+ {
+  "queue_pos": 31,
+  "field": "astroparticle",
+  "recid": "636731",
+  "title": "The Cosmic ray experiment KASCADE",
+  "date": "2003"
+ },
+ {
+  "queue_pos": 32,
+  "field": "collider",
+  "recid": "838149",
+  "title": "Design and Construction of the BESIII Detector",
+  "date": "2009-11"
+ },
+ {
+  "queue_pos": 33,
+  "field": "dark_matter",
+  "recid": "1759874",
+  "title": "The LUX-ZEPLIN (LZ) Experiment",
+  "date": "2019-10-20"
+ },
+ {
+  "queue_pos": 34,
+  "field": "double_beta",
+  "recid": "1088706",
+  "title": "The EXO-200 detector, part I: Detector design and construction",
+  "date": "2012-02"
+ },
+ {
+  "queue_pos": 35,
+  "field": "grav_waves",
+  "recid": "1795919",
+  "title": "Overview of KAGRA: Detector design and construction history",
+  "date": "2020-05-12"
+ },
+ {
+  "queue_pos": 36,
+  "field": "nu_accel",
+  "recid": "661854",
+  "title": "Design, construction and tests of the ICARUS T600 detector",
+  "date": "2004-07"
+ },
+ {
+  "queue_pos": 37,
+  "field": "nu_natural",
+  "recid": "895584",
+  "title": "ANTARES: the first undersea neutrino telescope",
+  "date": "2011-04"
+ },
+ {
+  "queue_pos": 38,
+  "field": "astroparticle",
+  "recid": "648096",
+  "title": "Commissioning and first tests of the MAGIC telescope",
+  "date": "2004"
+ },
+ {
+  "queue_pos": 39,
+  "field": "collider",
+  "recid": "796248",
+  "title": "The LHCb Detector at the LHC",
+  "date": "2008-08-14"
+ },
+ {
+  "queue_pos": 40,
+  "field": "dark_matter",
+  "recid": "1210572",
+  "title": "XMASS detector",
+  "date": "2013-01"
+ },
+ {
+  "queue_pos": 41,
+  "field": "double_beta",
+  "recid": "1752922",
+  "title": "The CUPID-Mo experiment for neutrinoless double-beta decay: performance and prospects",
+  "date": "2019-09-06"
+ },
+ {
+  "queue_pos": 42,
+  "field": "grav_waves",
+  "recid": "625917",
+  "title": "Detector Description and Performance for the First Coincidence Observations between LIGO and GEO",
+  "date": "2003-08"
+ },
+ {
+  "queue_pos": 43,
+  "field": "nu_accel",
+  "recid": "1116533",
+  "title": "The ArgoNeuT Detector in the NuMI Low-Energy Beam Line at Fermilab",
+  "date": "2012-05"
+ },
+ {
+  "queue_pos": 44,
+  "field": "astroparticle",
+  "recid": "1123894",
+  "title": "IceTop: The surface component of IceCube",
+  "date": "2012-07"
+ },
+ {
+  "queue_pos": 45,
+  "field": "collider",
+  "recid": "629266",
+  "title": "The BRAHMS experiment at RHIC",
+  "date": "2003"
+ },
+ {
+  "queue_pos": 46,
+  "field": "dark_matter",
+  "recid": "1602572",
+  "title": "Performance of the EDELWEISS-III experiment for direct dark matter searches",
+  "date": "2017-06-04"
+ },
+ {
+  "queue_pos": 47,
+  "field": "grav_waves",
+  "recid": "1328453",
+  "title": "Advanced LIGO",
+  "date": "2014-11-17"
+ },
+ {
+  "queue_pos": 48,
+  "field": "nu_accel",
+  "recid": "1388180",
+  "title": "The Detector System of The Daya Bay Reactor Neutrino Experiment",
+  "date": "2015-08-17"
+ },
+ {
+  "queue_pos": 49,
+  "field": "astroparticle",
+  "recid": "1084119",
+  "title": "The Tunka-133 EAS Cherenkov light array: status of 2011",
+  "date": "2012-01"
+ },
+ {
+  "queue_pos": 50,
+  "field": "collider",
+  "recid": "657665",
+  "title": "Basic Instrumentation for Hall A at Jefferson Lab",
+  "date": "2004"
+ },
+ {
+  "queue_pos": 51,
+  "field": "dark_matter",
+  "recid": "705112",
+  "title": "The DRIFT-II dark matter detector: Design and commissioning",
+  "date": "2005"
+ },
+ {
+  "queue_pos": 52,
+  "field": "nu_accel",
+  "recid": "786324",
+  "title": "The Magnetized Steel and Scintillator Calorimeters of the MINOS Experiment",
+  "date": "2008-05"
+ },
+ {
+  "queue_pos": 53,
+  "field": "astroparticle",
+  "recid": "648101",
+  "title": "KASCADE-Grande: A large acceptance, high-resolution cosmic-ray detector up to 10**18-eV",
+  "date": "2004"
+ },
+ {
+  "queue_pos": 54,
+  "field": "collider",
+  "recid": "471582",
+  "title": "The HERMES spectrometer",
+  "date": "1998-06"
+ },
+ {
+  "queue_pos": 55,
+  "field": "dark_matter",
+  "recid": "1295693",
+  "title": "PandaX: A Liquid Xenon Dark Matter Experiment at CJPL",
+  "date": "2014-05-12"
+ },
+ {
+  "queue_pos": 56,
+  "field": "nu_accel",
+  "recid": "1384774",
+  "title": "The NuMI Neutrino Beam",
+  "date": "2015-07-23"
+ },
+ {
+  "queue_pos": 57,
+  "field": "collider",
+  "recid": "1233527",
+  "title": "The BABAR Detector: Upgrades, Operation and Performance",
+  "date": "2013-05-15"
+ },
+ {
+  "queue_pos": 58,
+  "field": "nu_accel",
+  "recid": "1235030",
+  "title": "Design, Calibration, and Performance of the MINERvA Detector",
+  "date": "2013-05-22"
+ },
+ {
+  "queue_pos": 59,
+  "field": "collider",
+  "recid": "796887",
+  "title": "The CMS Experiment at the CERN LHC",
+  "date": "2008-08"
+ },
+ {
+  "queue_pos": 60,
+  "field": "nu_accel",
+  "recid": "1468455",
+  "title": "DANSS: Detector of the reactor AntiNeutrino based on Solid Scintillator",
+  "date": "2016-06-09"
+ },
+ {
+  "queue_pos": 61,
+  "field": "collider",
+  "recid": "747655",
+  "title": "The COMPASS experiment at CERN",
+  "date": "2007-01"
+ },
+ {
+  "queue_pos": 62,
+  "field": "collider",
+  "recid": "796888",
+  "title": "The ATLAS Experiment at the CERN Large Hadron Collider",
+  "date": "2008"
+ },
+ {
+  "queue_pos": 63,
+  "field": "collider",
+  "recid": "796249",
+  "title": "The LHCf detector at the CERN Large Hadron Collider",
+  "date": "2008"
+ },
+ {
+  "queue_pos": 64,
+  "field": "collider",
+  "recid": "558218",
+  "title": "The BES upgrade",
+  "date": "2001"
+ },
+ {
+  "queue_pos": 65,
+  "field": "collider",
+  "recid": "541364",
+  "title": "The Belle Detector",
+  "date": "2000-12"
+ },
+ {
+  "queue_pos": 66,
+  "field": "collider",
+  "recid": "747550",
+  "title": "The HARP detector at the CERN PS",
+  "date": "2007-02"
+ },
+ {
+  "queue_pos": 67,
+  "field": "collider",
+  "recid": "1798503",
+  "title": "The GLUEX beamline and detector",
+  "date": "2020-05-28"
+ },
+ {
+  "queue_pos": 68,
+  "field": "collider",
+  "recid": "506979",
+  "title": "Spherical neutral detector for VEPP-2M collider",
+  "date": "1999-09"
+ },
+ {
+  "queue_pos": 69,
+  "field": "collider",
+  "recid": "796251",
+  "title": "The ALICE experiment at the CERN LHC",
+  "date": "2008"
+ },
+ {
+  "queue_pos": 70,
+  "field": "collider",
+  "recid": "1320774",
+  "title": "The COMPASS Setup for Physics with Hadron Beams",
+  "date": "2014-10-07"
+ },
+ {
+  "queue_pos": 71,
+  "field": "collider",
+  "recid": "796250",
+  "title": "The TOTEM experiment at the CERN Large Hadron Collider",
+  "date": "2008"
+ },
+ {
+  "queue_pos": 72,
+  "field": "collider",
+  "recid": "878496",
+  "title": "Studies of the performance of the ATLAS detector using cosmic-ray muons",
+  "date": "2010-11"
+ },
+ {
+  "queue_pos": 73,
+  "field": "collider",
+  "recid": "608101",
+  "title": "STAR detector overview",
+  "date": "2002-04"
+ },
+ {
+  "queue_pos": 74,
+  "field": "collider",
+  "recid": "781595",
+  "title": "The WASA Detector Facility at CELSIUS",
+  "date": "2008-03"
+ },
+ {
+  "queue_pos": 75,
+  "field": "collider",
+  "recid": "494394",
+  "title": "The NA49 large acceptance hadron detector",
+  "date": "1999-01"
+ },
+ {
+  "queue_pos": 76,
+  "field": "collider",
+  "recid": "688461",
+  "title": "The Upgraded D0 Detector",
+  "date": "2005-07"
+ },
+ {
+  "queue_pos": 77,
+  "field": "collider",
+  "recid": "621253",
+  "title": "The CEBAF Large Acceptance Spectrometer (CLAS)",
+  "date": "2003"
+ },
+ {
+  "queue_pos": 78,
+  "field": "collider",
+  "recid": "627886",
+  "title": "PHENIX detector overview",
+  "date": "2003"
+ },
+ {
+  "queue_pos": 79,
+  "field": "collider",
+  "recid": "1278235",
+  "title": "NA61/SHINE facility at the CERN SPS: beams and detector system",
+  "date": "2014-01-19"
+ },
+ {
+  "queue_pos": 80,
+  "field": "collider",
+  "recid": "629267",
+  "title": "The PHOBOS detector at RHIC",
+  "date": "2003"
+ },
+ {
+  "queue_pos": 81,
+  "field": "collider",
+  "recid": "556767",
+  "title": "The BaBar detector",
+  "date": "2001-04"
+ }
+]
