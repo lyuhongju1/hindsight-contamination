@@ -74,3 +74,11 @@ Format: `{"CONF1": {"question": "...", "expected": "no"}, "CONF2": {...}}`
 - doubts.
 
 When finished, reply only with the file list and the key_output table.
+
+---
+
+## Added after the round-2 red team (2026-11-05)
+
+8. **Every stated fact is a check on every option.** If a description states a temperature, field, rate, dose, size or composition, `viable()` must test every alternative against it. Survivors that contradict a stated fact (for example a cryogenic liquid in a "room temperature" volume) are the main failure seen so far.
+9. **No boolean properties.** `keylib` now rejects them. Encode capabilities as numbers with cited thresholds (for example a rate tolerance in Hz/cm², a dose tolerance in Gy).
+10. **Coherence of the scenario.** A conflict number must be physically coherent with the rest of the instrument. Example: a dose high enough to damage plastic implies particle rates no tracker could reconstruct, so it cannot be a near-detector constraint. Check the side effects of the edited number on every other system described.

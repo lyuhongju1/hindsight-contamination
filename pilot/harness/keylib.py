@@ -41,7 +41,16 @@ def _draws(level, inputs, n=2000):
         for p in paths: _set(x, p, _get(inputs, p) * math.exp(rng.uniform(math.log(0.5), math.log(2))))
         yield x
 
+def _bools(d, path=()):
+    for k, v in d.items():
+        if isinstance(v, dict): yield from _bools(v, path + (k,))
+        elif isinstance(v, bool): yield "/".join(path + (k,))
+
 def check_conf(level, inputs, fails, viable, n=2000):
+    b = list(_bools(inputs))
+    if b:  # round-2 red team: decisive booleans escape the robustness draws
+        print(f"{level:8s} FAIL  boolean inputs are not allowed (they are never varied): {b}. Encode them as numbers with thresholds.")
+        return False
     nom_fail, nom_viable = fails(inputs), viable(inputs)
     f = v = 0
     for x in _draws(level, inputs, n):
