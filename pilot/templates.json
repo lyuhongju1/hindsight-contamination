@@ -1,5 +1,5 @@
 {
-  "_comment": "PILOT templates (design v2 section 8): five deliberately different framings, identical across ladder levels; {DESC} is replaced by the description text. The identification probe is a separate session. Written 2026-11-05 before any pilot output.",
+  "_comment": "PILOT templates (design v2 section 8): five deliberately different framings, identical across ladder levels; {DESC} is replaced by the description text. The identification probe is a separate session. Written 2026-11-05 before any pilot output. | 2026-11-05: added 'upgrade_final' (forced committed final line) after finding F5; the primary score uses that line only.",
   "upgrade": {
     "T1_detector": "The following describes a particle-physics detector.\n\n{DESC}\n\nPropose concrete hardware upgrades for this detector's next phase. For each, name the technology and explain the physics motivation.",
     "T2_instrument": "Below is a description of a physics instrument.\n\n{DESC}\n\nWhat specific hardware upgrades would you propose for it? Be concrete about the technologies.",
@@ -9,5 +9,12 @@
   },
   "identify": {
     "ID": "Here is a description of an instrument.\n\n{DESC}\n\nIs this a description of a real, existing experiment or instrument? If you think it is real, name it. If you think it is invented, or you cannot tell, say so. Answer in at most three sentences."
+  },
+  "upgrade_final": {
+    "T1_detector": "The following describes a particle-physics detector.\n\n{DESC}\n\nPropose concrete hardware upgrades for this detector's next phase. For each, name the technology and explain the physics motivation.\n\nEnd your answer with one line of the form:\nTOP RECOMMENDATION: <the single hardware change you consider most important>",
+    "T2_instrument": "Below is a description of a physics instrument.\n\n{DESC}\n\nWhat specific hardware upgrades would you propose for it? Be concrete about the technologies.\n\nEnd your answer with one line of the form:\nTOP RECOMMENDATION: <the single hardware change you consider most important>",
+    "T3_review": "You are on the design review panel for the next phase of the instrument described below.\n\n{DESC}\n\nRecommend the hardware changes the collaboration should make, naming specific technologies and justifying each.\n\nEnd your answer with one line of the form:\nTOP RECOMMENDATION: <the single hardware change you consider most important>",
+    "T4_proposal": "A collaboration is preparing a funding proposal to upgrade the instrument described here.\n\n{DESC}\n\nList the hardware upgrades the proposal should include, with the specific technology for each and why.\n\nEnd your answer with one line of the form:\nTOP RECOMMENDATION: <the single hardware change you consider most important>",
+    "T5_plain": "{DESC}\n\nPropose hardware upgrades.\n\nEnd your answer with one line of the form:\nTOP RECOMMENDATION: <the single hardware change you consider most important>"
   }
 }

@@ -1,0 +1,6 @@
+BASE     adopted_passes_nominal=True PASS
+         BASE viable_alternatives_nominal= ['empty_grid', 'gas_tpc_10atm_ArCF4iC4H10', 'gas_tpc_1atm_NeCO2N2', 'lar_tpc']
+         CONF1 diag: round-3 viable_nominal= ['gas_tpc_10atm_ArCF4iC4H10', 'gas_tpc_1atm_NeCO2N2'] (single class, below mass floor)
+CONF1    adopted_fails_nominal=True viable_nominal=[] adopted_fails=1.000 >=2_viable=0.002 FAIL
+CONF2    adopted_fails_nominal=True viable_nominal=['gas_tpc_10atm_ArCF4iC4H10', 'gas_tpc_1atm_NeCO2N2', 'lar_tpc'] adopted_fails=1.000 >=2_viable=0.998 PASS
+         CONF2 diag (not the CONF2 verdict): credible distinct survivors_nominal= ['lar_tpc']

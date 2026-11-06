@@ -1,0 +1,6 @@
+The Kestrel Flats near station sits 410 m downstream of the production target of an accelerator neutrino beam whose flux peaks near 0.7 GeV.
+A warm dipole magnet gives a 0.15 T field over an inner volume about 6.5 m long, and gas drift chambers downstream of the target region measure the momentum and charge of tracks that leave it.
+A target region of 2.6 m x 2.3 m x 0.9 m (the last dimension along the beam) at the upstream end of the magnet is to be re-equipped as an active target in which the neutrino interactions occur and are reconstructed.
+The analysis needs the muon from each interaction reconstructed with at least 25% efficiency at every angle to the beam, including tracks perpendicular to it and backward-going tracks.
+It also needs the recoiling protons at all angles, including short tracks from protons with kinetic energy down to about 60 MeV.
+The far detector contains no hydrogen, so interactions on hydrogen nuclei are removed with a model that stays adequate only while hydrogen nuclei make up at most 2% of the target nucleons.

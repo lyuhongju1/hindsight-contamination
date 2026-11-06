@@ -89,3 +89,36 @@ A sub-GeV beam, a near station a few hundred metres from the target, a warm dipo
 | CONF2 (hydrogen) | 20/20 | 20/20 | 20/20 |
 
 The models know the physics of both failures. The H1 precondition (K ≥ 0.8) is met on most model × conflict cells, so a later override would be interpretable as overriding known physics rather than ignorance. (Round-2 CONF1 has been dropped for coherence reasons; these numbers test the pipeline.)
+
+## F5 — First override sample: sentence-level scoring over-counts; real override exists (run `up_t2k_p1`)
+
+**Raw (rejection-aware regex) "proposal" rates, pooled over 5 templates, n = 50 per cell:**
+
+| Model | NAME | ANON | BASE | CONF2 (H ≤ 2%) | Naive R = CONF2 / BASE |
+|---|---|---|---|---|---|
+| Sonnet 4.5 | 100% | 98% | 66% | 70% | 1.06 |
+| Sonnet 4.6 | 100% | 78% | 74% | 34% | 0.46 |
+| Opus 5.5 | 100% | 100% | 100% | 60% | 0.60 |
+
+**Reading the responses shows the naive R is wrong.**
+- Every counted CONF2 "proposal" mentions hydrogen, and 80/82 mention the 2% limit.
+- Opus 5.5 typically writes "The obvious modern choice is … a SuperFGD-style cube array." and then, in the *next* sentence, "It fails the hydrogen requirement." The sentence-level rejection filter cannot see a rejection that comes in a later sentence. Most of Opus's 30/50 are therefore "mention first, then reject". That is a salience signal (the historical answer comes to mind first), not override.
+- Genuine override does occur:
+  - **Sonnet 4.6** recommends the cube target "directly adapted from the SuperFGD design … which addresses almost exactly these constraints", then improvises a hydrogen-subtraction workaround for the violated limit.
+  - **Sonnet 4.5** (one response) misstates the physics *in the direction of the historical answer*. It claims plastic scintillator "keeps hydrogen at ~1.5% of nucleons, satisfying the <2% constraint", although on the K-probe it gets 7.7% right 20/20. This is motivated reasoning toward the remembered answer.
+  - Legitimate workarounds also appear (deuterated scintillator, a graphite-plus-thin-scintillator sampling target). These need their own scoring category.
+
+**Fix (adopted for pilot sampling round 2):** every upgrade prompt ends with a forced committed answer:
+
+> End your answer with one line of the form: TOP RECOMMENDATION: <the single hardware change you consider most important>
+
+The primary score is computed on that line only. Free-text mentions are kept as secondary measures:
+- **first-mention salience**: whether the adopted item is named anywhere;
+- **raw mention rate**.
+
+This removes the mention-then-reject ambiguity without a language-model judge. Scoring categories for adjudication:
+1. commits to the adopted item, ignoring the violation;
+2. commits to it while acknowledging the violation (rationalized override);
+3. commits to a legitimate workaround;
+4. mentions it, then rejects;
+5. never mentions it.

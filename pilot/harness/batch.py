@@ -20,7 +20,7 @@ THINK = {  # minimum reasoning each model allows (companion study, Amendment 10)
     "claude-opus-5-5": {"thinking": {"type": "adaptive"}, "output_config": {"effort": "low"}},
     "claude-fable-5-1": {"thinking": {"type": "adaptive"}, "output_config": {"effort": "low"}},
 }
-CAP = {"upgrade": 16000, "identify": 2000, "kprobe": 4000}
+CAP = {"upgrade": 16000, "upgrade_final": 16000, "identify": 2000, "kprobe": 4000}
 
 
 def key():
@@ -78,7 +78,7 @@ def cmd_plan(a):
                                      "template": tname, "sample": i, "model": m, "prompt": prompt, "prompt_sha256": h})
     d = run_dir(a.run)
     json.dump({"task": a.task, "cap": CAP[a.task], "created": time.time(), "requests": reqs}, open(os.path.join(d, "plan.json"), "w"))
-    out_tok = {"upgrade": 2800, "identify": 120}[a.task]
+    out_tok = {"upgrade": 2800, "upgrade_final": 2800, "identify": 120}.get(a.task, 500)
     print(f"planned {len(reqs)} requests ({a.task}); approx output {len(reqs) * out_tok / 1e6:.1f}M tokens")
 
 

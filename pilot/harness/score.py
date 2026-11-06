@@ -22,6 +22,7 @@ def load(run):
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument("--run", required=True); ap.add_argument("--task", required=True)
     a = ap.parse_args(); rows = load(a.run)
+    if a.task == "upgrade_final": a.task = "upgrade"
     if a.task == "identify":
         ID = json.load(open(os.path.join(PILOT, "identity_regex.json"), encoding="utf-8"))
         agg = defaultdict(lambda: [0, 0])
@@ -47,12 +48,16 @@ def main():
                 pats = {"adopted": T["adopted"], **{f"d_{k2}": v for k2, v in T["distractors"].items()}}
             else:
                 pats = {"adopted": "|".join(RX[p]["adopted"].values()), **{f"d_{k2}": v for k2, v in RX[p]["distractors"].items()}}
+            fl = re.findall(r"TOP RECOMMENDATION\s*:?\**\s*(.+)", r["response"], re.I)
+            final = fl[-1] if fl else None
+            c["final_missing"] += final is None
             for name, rx in pats.items():
                 c[name + "_raw"] += bool(re.search(rx, r["response"], re.I)); c[name] += proposed(rx, r["response"])
+                c[name + "_final"] += bool(final and re.search(rx, final, re.I))
         res = [{"pair": p, "level": l, "template": t, "model": m, **dict(c)} for (p, l, t, m), c in sorted(agg.items())]
         for x in res:
             ds = " ".join(f"{k[2:]}={v}" for k, v in x.items() if k.startswith("d_") and not k.endswith("_raw"))
-            print(f"{x['pair']:10s} {x['level']:6s} {x['template']:14s} {x['model']:28s} n={x['n']:3d} adopted={x.get('adopted',0):3d} (raw {x.get('adopted_raw',0):3d}) {ds} trunc={x['truncated']}")
+            print(f"{x['pair']:10s} {x['level']:6s} {x['template']:14s} {x['model']:28s} n={x['n']:3d} FINAL={x.get('adopted_final',0):3d} adopted={x.get('adopted',0):3d} (raw {x.get('adopted_raw',0):3d}) nofinal={x.get('final_missing',0)} {ds} trunc={x['truncated']}")
     json.dump(res, open(os.path.join(PILOT, "data", a.run, "scores.json"), "w"), indent=1)
 
 if __name__ == "__main__":
