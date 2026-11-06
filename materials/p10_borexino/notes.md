@@ -14,7 +14,7 @@
   - The CC-on-deuterium route is closed kinematically.
 - Coherence of deuteration:
   - Light yield is similar for deuterated aromatics. The stated value is kept, which is a mild doubt.
-  - Neutron capture on D is slow (0.5 mb) with a 6.25 MeV gamma. This is still "event-by-event neutron detection by capture gammas", so the sentence stays true.
+  - Neutron capture in C18D30 is dominated by 12C (about 65%; 3.5 mb; 4.95 MeV line), with D (0.5 mb; 6.25 MeV) second. The capture time is about 20 ms. This was corrected in r1. The sentence "event-by-event neutron detection by capture gammas" stays true.
   - Electron density per m3 is essentially unchanged.
   - Possible tritium in the deuterated solvent gives a 18.6 keV endpoint, below the 0.25 MeV threshold.
 - No CONF2 written (optional).
@@ -37,10 +37,22 @@
 - 51Cr t1/2 27.7 d with lines 0.746/0.751 MeV (~90%) and 0.426/0.431 MeV (~10%).
 - 37Ar t1/2 35.0 d with lines 0.811/0.813 MeV.
 - SOX activities: 100-150 kCi Ce and 10 MCi Cr (arXiv:1304.7721).
-- Per-decay cross sections (Ce IBD 4e-44 cm2; Cr ES 2.6e-45; Ar ES 3.1e-45 in window) are order-of-magnitude estimates, not fetched. The outcome is insensitive to them: the CONF1 failure is set by the hydrogen-1 count and the kinematic threshold.
+- Per-decay cross sections:
+  - Ce IBD: 4e-44 cm2, the IBD cross section (Vogel & Beacom, PRD 60 (1999) 053003) averaged over the 144Pr spectrum. Red team r1 independently gets 3.95e-44.
+  - Cr ES: 2.6e-45 cm2; Ar ES: 3.1e-45 cm2, both in the recoil window. They come from the standard tree-level nu-e elastic-scattering formula, dsig/dT = (2 G_F^2 m_e/pi)[gL^2 + gR^2(1-T/E)^2 - gL gR m_e T/E^2] with gL = 1/2 + sin2thW and gR = sin2thW for nu_e ('t Hooft, PLB 37 (1971) 195; Bahcall, Kamionkowski & Sirlin, PRD 51 (1995) 6146), integrated over the 0.25 MeV-to-Tmax window. Red team r1 finds them within 15%.
+  - The CONF1 failure is set by the hydrogen-1 count and the kinematic threshold, not by these values.
 
 ## Post-run change log
 - Run 1 (initial): ALL PASS. No changes to stated numbers after running.
+- Red team r1 (2026-11-06), FIX items 1-4:
+  1. The S/B sentence in BASE.txt and CONF1.txt is reworded identically to: "Over the counting period chosen for the analysis, source-induced interactions in the selected energy window must outnumber background events in that window." The minimal pair is kept. NAME/ANON keep the old wording; they are not keyed.
+     - key.py: the survivor check now lets the analyst choose the window length w = k*tau, with k in 1.0-3.0 in steps of 0.1. Both N_req and S >= B must hold within that window. Previously the window was fixed at 1 tau.
+     - At 3 tau: Cr S/B = 1.7, Ar S/B = 1.0. The best window is about 1 tau.
+     - Result unchanged: CONF1 viable 0.994, both survivors.
+  2. kprobe CONF1 is replaced by a question that asks for >= 1500 interactions with >= 80% energy-reconstructed, across all channels (expected NO).
+  3. The neutron-capture physics is corrected (12C-dominated, 4.95 MeV, about 20 ms).
+  4. The ES cross section now cites the standard formula, in notes.md and in key.py comments.
+  - Re-ran key.py (ALL PASS) and gates.py p10_borexino (GATES PASSED). No stated numbers changed.
 - Pre-run edit: BASE target mass sentence removed (the 400 t figure was inconsistent with a 4.6 m vessel). This was not a tuning change.
 
 ## Doubts

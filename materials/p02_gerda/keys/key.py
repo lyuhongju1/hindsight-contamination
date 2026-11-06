@@ -20,11 +20,13 @@ def make_inputs(b_rn):
             # adopted: argon from a source with negligible 42Ar
             # f42 = residual 42Ar/42Ar(atmospheric). 42Ar is cosmogenic (40Ar(a,2p)) in the atmosphere; argon
             # shielded underground has no production route. Not measured -> nominal 1e-3, any value < ~0.3 gives
-            # the same verdict. Removes only 42K; radon emanated inside the array is unaffected.
+            # the same verdict. Removes only 42K; radon emanated by the cryostat and recirculation system is unaffected.
             "adopted": {"f42": 1e-3},
             # survivor: atmospheric argon + detectors enclosed by mini-shrouds / encapsulation that stop ion
             # collection on surfaces. s_k: measured shroud collection suppression of 42K, 14.3 +- 2.1
-            # (Lubashevskiy et al., EPJC 78 (2018) 15, Table 2). s_rn: radon progeny are born as positive ions from
+            # (Lubashevskiy et al., EPJC 78 (2018) 15, Table 2, Sec. 3.1). Scope: a pre-cut factor in the beta
+            # region, assumed to multiply with the post-cut (veto, PSD) factors as in that paper's Table 6; b_k and
+            # b_rn are stated after cuts, so dividing them by s applies it in that way. s_rn: radon progeny are born as positive ions from
             # radon dissolved homogeneously in the argon (source outside the array), the same source geometry and
             # transport as 42K, so the same factor is taken; varied independently x0.5-2.
             "encaps": {"s_k": 14.3, "s_rn": 14.3},
