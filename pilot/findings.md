@@ -56,3 +56,15 @@ Two of two pilot pairs fail the ≤ 10% gate at every disguised level on the str
 2. **The instance-recall ladder (ANON vs EQ) is demoted to secondary.** It is analysed as a dose–response of proposal rate on *measured* recognition (H4), across models and levels. Where recognition is near 100% on every level, IR is not identifiable, and the paper says so per pair.
 3. **Report recognition itself as a finding.** Recognition rates by model and level, including spontaneous naming of the adopted upgrade, quantify how far disguise fails. This extends the companion study's "no anonymous description" result to deliberately constructed twins and abstract twins.
 4. **The causal injection arm (fictional instruments, no recognition possible) and the prospective registry gain weight.** They are the designs that do not depend on disguise.
+
+## F3 — Computable answer keys for equivalent twins are fragile (red teams, both pairs: every level FIX)
+
+- **Real upgrade decisions are close calls under physics-only figures of merit.** Real T2K's margin is 2.35. Varying the technology properties ×0.5–2, as the protocol requires, the T2K EQ and ABS keys keep their winner in only ~55–63% of draws.
+- **To clear the ≥ 3× / ≥ 95% rule, both authors moved off pure physics:**
+  - T2K moved the twins to a softer beam than the real one, manufacturing clarity history did not have.
+  - Auger let **cost and labour** decide. A buried muon counter has better physics and loses only on installation hours. Stated labour was tuned until levels passed, and robustness sits at 0.948–0.952 across seeds.
+- **"Exclusion by rule" gives the answer away.** In both ABS twins and in T2K's CONF1, each rival is killed by exactly one stated rule ("only oxygen counts"; one disqualifier per catalogue option), so the description tells a careful reader the answer.
+- **Bug found:** in Auger CONF1, when every option scores 0 the key names the first-listed option (the adopted panel) as the winner.
+- **Agents tune toward the gate.** Without a human panel, authoring agents optimize descriptions to pass mechanical rules, and that is how the leading wording entered. The red team caught it, which shows that this check works. The authoring rules need to forbid tuning stated numbers after the first key run, or log every such change.
+
+**Implication.** Computable keys are a poor fit for **equivalent** twins, where the claim that the historical choice is right rests on close real trade-offs. They fit **conflict** twins much better: a hard physical failure of the adopted item (radiation fluence beyond tolerance, signal absent in the measured band) can be made decisive without cost or labour rules and without one-rule exclusions, *if* the constraint is stated as a plain fact and not as an exclusion. This supports the override-primary redesign: the confirmatory test needs robust CONF keys only; EQ and ABS become descriptive.
