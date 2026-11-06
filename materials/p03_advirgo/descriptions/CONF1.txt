@@ -1,7 +1,7 @@
 A ground-based laser-interferometric gravitational-wave detector: a dual-recycled Michelson interferometer with 3.6 km Fabry-Perot arm cavities, operating at 1064 nm.
-The test masses are 55 kg fused-silica mirrors on monolithic suspensions; the main interferometer topology, arm power and test-mass mass are fixed as stated.
+The test masses are 55 kg fused-silica mirrors on monolithic suspensions; the main interferometer topology and its operating point, arm power and test-mass mass are fixed as stated.
 At the planned arm power, radiation-pressure noise equals shot noise at 55 Hz; below this frequency quantum noise is radiation-pressure dominated, above it shot-noise dominated.
 A squeezed-vacuum source delivers 13 dB of quadrature noise reduction at its output; the total optical efficiency from the source, through the interferometer, to the output photodetector is 90%.
 The longest straight evacuated beam path available for auxiliary optics at the vertex station is 8 m; no longer path exists or can be added at the site, and no auxiliary optics or separate auxiliary beam lines can be installed in the 3.6 km arm tubes.
-The best attainable loss of any high-reflectivity mirror at this wavelength is 5 ppm per reflection (absorption plus scatter).
-Requirement: at the stated arm power and test-mass mass, the next phase must lower total quantum noise by at least 3 dB at 20 Hz and by at least 3 dB at 800 Hz, relative to the quantum noise of the interferometer with ordinary vacuum entering its output port.
+The lowest-loss high-reflectivity mirrors available to this project have 5 ppm loss per reflection (absorption plus scatter).
+Requirement: at the stated arm power and test-mass mass, the next phase must lower total quantum noise by at least 3 dB at every frequency from 20 Hz to 800 Hz, relative to the quantum noise of the interferometer with ordinary vacuum entering its output port.

@@ -1,0 +1,4 @@
+min pitch (mm, nominal): {'pmt200_direct_large_block': 210.0, 'pmt76_direct_small_cube': 80.0, 'pmt130_direct': 138.0, 'pmt254_direct_large_block': 261.0, 'pmt76_lightguide_present': 190.0}
+BASE     adopted_passes_nominal=True PASS
+CONF1    adopted_fails_nominal=True viable_nominal=['pmt76_direct_small_cube'] (n_survivors=1) adopted_fails=1.000 >=1_viable=1.000 PASS
+ALL PASS
