@@ -1,0 +1,8 @@
+MEG at the Paul Scherrer Institute searches for the lepton-flavour-violating decay mu+ -> e+ gamma, whose signature is a 52.8 MeV positron and a 52.8 MeV photon emitted back to back and in time.
+A continuous surface mu+ beam of about 28 MeV/c stops roughly 3e7 mu+/s in a thin slanted polyethylene target at the centre of a superconducting solenoid. The solenoid field is about 1.27 T at the target and falls toward both ends of the bore.
+The positron is measured by low-mass drift chambers inside the magnet and by scintillator timing counters. The photon is measured by a liquid-xenon scintillation calorimeter of about 900 litres, read out by photomultipliers.
+The analysis uses the positron energy, the photon energy, the relative angle and the relative time.
+The dominant background is accidental: a positron from ordinary muon decay coincides with an unrelated high-energy photon. About half of these photons come from radiative muon decays in the target. Most of the rest come from positron annihilation in flight in detector material.
+The accidental background grows as the square of the stopped-muon rate. It sets the sensitivity.
+The next phase must reduce the expected accidental background in the signal region by at least 10% at the same stopped-muon rate.
+Any change may lower the signal efficiency by at most 2%.

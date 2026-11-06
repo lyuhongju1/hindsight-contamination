@@ -1,0 +1,10 @@
+A liquid-argon time projection chamber holds about 760 t of argon (about 476 t active) in two identical modules, built and operated deep underground.
+Each module holds two drift volumes that share a central cathode; the drift length is 1.5 m at 500 V/cm, giving a maximum drift time of about 1 ms.
+Ionization electrons are read by three planes of wires at 3 mm pitch (two induction planes and one collection plane), about 53,000 wires in total, some up to 9 m long.
+Scintillation light is detected by photomultipliers behind the wire planes and provides the trigger and event time.
+Wire signals leave the cryostat on cables through flanges in the vessel roof, where the readout crates are mounted; the existing readout digitizes at 10 bits with 400 ns sampling per channel.
+The detector is to be refurbished and moved to a near-surface site, under about 3 m of concrete overburden, 600 m from the target of a 1 GeV-scale accelerator neutrino beam, for a short-baseline oscillation search.
+At this site about ten cosmic-ray muons cross the detector during each 1 ms drift window.
+Requirement: every wire must be recorded continuously over the full drift time for each triggered event.
+Requirement: minimum-ionizing tracks must be reconstructed on all three planes, including the induction planes, with a signal-to-noise ratio of at least 10.
+Requirement: the readout must sustain the trigger rate of beam spills plus cosmic-ray triggers at the surface without dead time above a few percent.

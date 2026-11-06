@@ -6,4 +6,4 @@ The next programme targets pep and CNO solar neutrinos, geoneutrinos and reactor
 The acrylic sphere, the photomultiplier array and the shield water are retained. The sphere sits entirely in the shield water.
 On average, 12% of the photons emitted isotropically inside the sphere produce a photoelectron in the array.
 The next programme requires at least 400 photoelectrons per MeV of energy deposited inside the sphere.
-The sphere wall, counting its own weight, withstands a net vertical load, upward or downward, of at most 200 kg per cubic metre of contained volume, however the sphere is restrained.
+The sphere wall, counting its own weight, withstands a net vertical load, upward or downward, of at most 300 kg per cubic metre of contained volume, however the sphere is restrained.
