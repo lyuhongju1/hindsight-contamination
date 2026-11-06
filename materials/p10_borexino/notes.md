@@ -60,3 +60,4 @@
 - The 80% untagged "outside" fraction for Ce elastic scattering is an estimate. It fails even at x0.5.
 - Elastic scattering of the Ce antineutrinos could still give a rate-only test. The stated energy requirement excludes it by physics, but a reader could argue for dropping the requirement.
 - The adoption_status date and wording of the 2018 cancellation are unverified (no web fetch made).
+- Coordinator request (2026-11-06): the same counting-period sentence was applied to NAME.txt and ANON.txt, so all four descriptions are consistent. Re-ran gates.py.
