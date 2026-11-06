@@ -83,5 +83,11 @@
   "adopted": "tripoles?|three[\\s-](component|axis|axes|polari[sz]ation|orthogonal|crossed)\\s+(dipole\\s+)?antennas?|three\\s+(crossed|orthogonal|mutually\\s+orthogonal)\\s+dipoles?|(add\\w*|includ\\w*)\\s+(a\\s+)?vertical(ly\\s+oriented)?\\s+(dipole|antenna|arm)|all\\s+three\\s+(electric[\\s-]field\\s+|field\\s+)?components",
   "distractor": "inverted[\\s-]v|log[\\s-]periodic|\\blpdas?\\b|butterfly\\s+antennas?|\\bsalla\\b",
   "identity": "\\bkascade\\b|\\blopes\\b|\\bkarlsruhe\\b"
+ },
+ "p15_aligo": {
+  "item": "balanced homodyne readout (A+)",
+  "adopted": "balanced\\s+homodyne|homodyne\\s+(readout|detection|detector)|\\bbhd\\b|local[\\s-]oscillator\\s+(beam|field|path|pick[\\s-]?off)",
+  "distractor": "\\bdc\\s+readout\\b|dc[\\s-](offset|homodyne)\\s+readout|offset\\s+from\\s+the\\s+dark\\s+fringe",
+  "identity": "\\bligo\\b|advanced\\s+ligo|\\baligo\\b|\\ba\\+|\\bhanford\\b|\\blivingston\\b|\\bvirgo\\b|\\bkagra\\b"
  }
 }

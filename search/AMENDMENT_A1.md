@@ -40,3 +40,18 @@ The frozen rules define an item as a choice "adopted by the upgrade program", an
 **Interpretation applied uniformly:** an item counts if the collaboration's own document commits to it **as the program's chosen plan**. If the document presents it as one of several open options ("X or Y"; NA48/HIKE in round 2), it does not count.
 
 Whether the item was eventually **built and operated / approved but not built / cancelled** is recorded per item as an **exploratory covariate** (`adoption_status`), filled in at the materials stage. It is not a selection criterion. Rationale: the study measures whether models reproduce a collaboration's recorded choice against stated physics, and a recorded choice exists whether or not construction followed.
+
+## Amendment A2: replacement of pairs that admit no honest conflict (2026-11-06)
+
+*Before any confirmatory model sampling; no confirmatory item has been shown to any study model.*
+
+**Trigger.** p04_icarus yields no honest physical conflict for its counted item. The author found that per-channel synchronous digitisation is at least as good as multiplexing on every physical criterion; its drawbacks are cost, density and power engineering, which rule 1 excludes. The red team concurred that the earlier conflict tested a different item.
+
+**Rule.**
+- When a selected pair is concluded, after author and red-team rounds, to admit no honest physical conflict, it is **retained in the report as a zero-unit pair**.
+- It is replaced by the **next eligible-but-not-selected baseline in queue order** (any field, subject to the per-field cap of 3, the year-and-lab cap, and the lineage rule).
+- If none remain, assessment resumes down the queue under A1.
+
+**Consequence for scope, to be disclosed.** The confirmatory population becomes "baseline–upgrade pairs whose counted item admits an honest physical conflict". This is a scope restriction defined by the item's physics, not by any model behaviour.
+
+**First replacement.** q28 aLIGO → A+ (balanced homodyne readout; double-verified, arXiv:1304.0670v7, 2019-09). grav_waves rises to 3 pairs (Advanced Virgo, KAGRA, aLIGO), which is within the cap of 3. BESIII (q32) is next if needed.

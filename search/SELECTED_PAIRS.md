@@ -43,3 +43,11 @@
 ## Next stage
 
 Materials. For each pair, the author agents (brief v2, rules 1–10) write BASE plus 1–2 CONF, followed by keylib v4.1, red team, the K premise check, and recognition probes. The materials stage also records `adoption_status` per item (built and operated / approved not built / cancelled), as an exploratory covariate.
+
+## A2 update (2026-11-06)
+
+- **p04 ICARUS:** zero-unit pair (no honest physical conflict for the counted item).
+- **Replacement:** **p15 aLIGO → A+**
+  - item: balanced homodyne readout (arXiv:1304.0670v7, 2019-09; both daters verified);
+  - alternative not adopted: DC readout;
+  - caveat: the LIGO A+ design curve (2018) may already include BHD; not on arXiv.
