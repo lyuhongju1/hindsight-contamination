@@ -1,5 +1,6 @@
 """Key for p07_meg. Run: python -I key.py
-Mechanism (CONF1): magnetic mirror. The adopted on-axis tagger downstream of the target only sees low-energy
+STATUS r1: CONF1 withdrawn (no honest conflict); BASE only.
+Mechanism (withdrawn CONF1): magnetic mirror. The adopted on-axis tagger downstream of the target only sees low-energy
 positrons that reach the downstream end. If the field rises downstream (B_down > B_target), only positrons
 inside the loss cone sin^2(alpha) < B_target/B_down get through. The rest are reflected upstream.
 """
@@ -80,10 +81,9 @@ def viable(inp):
     return [s for s in ("upstream",) if passes(inp, s)]
 
 if __name__ == "__main__":
+    # r1 outcome: no honest conflict. CONF1 (downstream mirror) withdrawn to ../abandoned/ (see notes.md);
+    # only the BASE companion is checked. The r0 CONF1 key is kept as ../abandoned/key_r0.py.
     base = make(0.25)   # BASE: field falls to 0.25 T at both ends
-    conf1 = make(2.0)   # CONF1: field rises to 2.0 T downstream
-    for name, inp in (("BASE", base), ("CONF1", conf1)):
-        print(f"{name}: reach_down={reach(inp, 'downstream'):.3f} reach_up={reach(inp, 'upstream'):.3f}")
+    print(f"BASE: reach_down={reach(base, 'downstream'):.3f} reach_up={reach(base, 'upstream'):.3f}")
     ok = check_base("BASE", base, fails)
-    ok &= check_conf("CONF1", conf1, fails, viable)
     print("ALL PASS" if ok else "SOME FAIL")

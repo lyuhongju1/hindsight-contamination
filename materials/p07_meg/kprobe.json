@@ -1,1 +1,1 @@
-{"CONF1": {"question": "Positrons of 1-5 MeV are emitted isotropically from a point on the axis of a solenoid where the field is 0.5 T. On one side the field rises slowly (adiabatically) to 2.0 T over 15 cm and stays at 2.0 T. On the other side it falls to 0.25 T. Neglect scattering and energy loss. Do at least 20% of all emitted positrons pass through to the far end of the 2.0 T side? End your answer with one line: VERDICT: YES or VERDICT: NO.", "expected": "NO"}}
+{}

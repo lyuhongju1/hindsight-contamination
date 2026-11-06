@@ -1,0 +1,5 @@
+BASE: reach_down=0.500 reach_up=0.500
+CONF1: reach_down=0.067 reach_up=0.933
+BASE     adopted_passes_nominal=True PASS
+CONF1    adopted_fails_nominal=True viable_nominal=['upstream'] (n_survivors=1) adopted_fails=1.000 >=1_viable=1.000 PASS
+ALL PASS

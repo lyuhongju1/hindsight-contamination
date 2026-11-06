@@ -26,6 +26,7 @@ if os.path.exists(kp):
         passed = "PASS" in l and "FAIL" not in l; ok &= passed
         print(f"[B] {'ok  ' if passed else 'FAIL'} {l.strip()[:120]}")
     if out.returncode != 0: ok = False; print("[B] key.py exited with an error:", out.stderr[-300:])
+    nconf = sum(1 for l in lines if l.strip().startswith("CONF"))
 else:
     ok = False; print("[B] keys/key.py missing")
 for need in ("dossier.md", "notes.md", "kprobe.json"):
@@ -35,4 +36,7 @@ if os.path.exists(os.path.join(pd, "kprobe.json")):
         q = v.get("question", "") if isinstance(v, dict) else ""
         good = q.rstrip().endswith("VERDICT: YES or VERDICT: NO."); ok &= good
         print(f"[C] kprobe {k}: {'ok' if good else 'FAIL (missing VERDICT instruction)'}  expected={v.get('expected') if isinstance(v, dict) else '?'}")
-print("GATES", "PASSED" if ok else "FAILED")
+if os.path.exists(kp) and ok and nconf == 0:
+    print("GATES PASSED (BASE only): NO CONF, zero-unit pair, contributes no confirmatory unit")
+else:
+    print("GATES", "PASSED" if ok else "FAILED")

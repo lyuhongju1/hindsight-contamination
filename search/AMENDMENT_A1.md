@@ -65,3 +65,5 @@ Whether the item was eventually **built and operated / approved but not built / 
 **Clarification of the caps** (fixed before any of these assessments):
 - Zero-unit pairs do **not** count toward the per-field cap of 3 or the year-and-lab cap, because the caps exist to balance the units actually analysed.
 - The lineage rule still applies to zero-unit pairs: their lineages are not re-entered.
+
+**p07 MEG** is also a zero-unit pair (2026-11-06). Zero-unit pairs so far: p04, p15, p08, p07. Replacements still owed: 2, both from the resumed queue (q19 LUX and q23 Super-K are under assessment).

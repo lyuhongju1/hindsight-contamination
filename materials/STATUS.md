@@ -10,7 +10,7 @@
 | p04 ICARUS | serial ADC per channel | — | — | **No honest physical conflict** (r1 showed CONF tested a different item; author found per-channel synchronous digitisation dominates on physics). **Zero-unit pair; replaced under A2 by p15 aLIGO** |
 | p05 SNO | LAB scintillator | buoyancy load limit on thin acrylic sphere | 2 (PXE; LAB30/MN70 blend, not counted as LAB) | **CLEARED** (r2; densified-LAB blends scored C) |
 | p06 AGATA | Ethernet readout | — | — | not started |
-| p07 MEG | downstream RDC | magnetic mirror reflects low-energy positrons upstream | 1 (upstream tagger) | **r1: FIX-or-DROP (a near-target downstream RDC still works; item not narrowed); fix round queued** |
+| p07 MEG | downstream RDC | magnetic mirror reflects low-energy positrons upstream | 1 (upstream tagger) | **Zero-unit pair** (r1 red team + author scan: a thin near-target counter survives every coherent edit; the AIF budget that would close it contradicts a low-mass tracker). Replacement: A1 queue |
 | p08 COSINE | in-house crystal growth | home institute at 3,600 m → cosmogenic tritium | 2 (Alpha Spectra marginal; RMD/Astro-Grade) | **Zero-unit pair** (r2 + final attempt: in-house method demonstrably reaches Astro-Grade K/210Pb, so the windows are empty; altitude route needs a logistics rule). Replacement: resume A1 queue (q19 LUX) |
 | p09 NEMO-3 | 8-in. high-QE PMTs | granularity: 15 cm two-electron separation vs >=210 mm cell pitch | 1 (76 mm PMTs on small cubes) | **r1 fixes applied (survivor 8.0% FWHM derived from the 8-in. measurement); gates pass; r2 running** |
 | p10 Borexino | 144Ce-144Pr source | fully deuterated scintillator kills IBD | 2 (51Cr, 37Ar) | r1: CONF1 OK, wording/kprobe FIX → fixed; gates pass. **Red-team cleared** |
