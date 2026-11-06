@@ -82,3 +82,5 @@ Run it, save its output as `keys/key_output.txt`, and iterate on the **descripti
 - Do not include the answer, hints, or leading phrases ("modern", "state-of-the-art", "next-generation") in the descriptions.
 - Plain language, about the length of a short instrument summary in a proposal.
 - When finished, reply with the file list and the final PASS/FAIL table, and nothing else.
+
+**Permissions:** if any tool call is denied or blocked, do not work around it with another tool. Stop, and report what was blocked in your final reply.

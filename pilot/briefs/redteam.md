@@ -46,3 +46,5 @@ Now open `keys/key.py` and `keys/key_output.txt`. For each level, write in `redt
 The verdict is about the physics and the wording. Do not edit any description or key file yourself.
 
 When finished, reply with the verdict table only (level, blind agreement, verdict, one-line reason).
+
+**Permissions:** if any tool call is denied or blocked, do not work around it with another tool. Stop, and report what was blocked in your final reply.
