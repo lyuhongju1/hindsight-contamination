@@ -1,5 +1,7 @@
 # Frozen selection rules for new baseline–upgrade pairs
 
+**FROZEN 2026-11-06.** The freeze reference is the git commit that adds this line, pushed to the public repository before the search is run. The draw seed is the SHA-256 of this file as committed.
+
 *Draft for the hindsight-contamination paper (design v2, §4.1). To be frozen and deposited, with a hash, before any study model is shown any prompt about any new pair. 2026-11-04.*
 
 ---
@@ -66,7 +68,7 @@ The exact search strings are written out and deposited with the freeze, together
 - **At most 3 new pairs per field**, and at most 2 primary items per pair.
 - **At most 2 pairs sharing one baseline year and one laboratory.** The 2008 LHC detector papers would otherwise dominate.
 - If more pairs pass than are needed, draw them **at random within field** with a seed fixed in the frozen document (for example the SHA-256 of the frozen document's text before the seed line), until the target is met.
-- **Target:** with the companion study's post-baseline items, **≥ 28 primary units from ≥ 14 pairs, covering ≥ 5 fields** (see `power/README.md`).
+- **Target:** with the companion study's post-baseline items, **14 pairs (minimum 10), covering ≥ 5 fields**. Each pair is expected to yield about one conflict unit (pilot F6); see `power/power_override_results.md` and `PREREGISTRATION.md` §2.1.
 - If the frame yields fewer pairs than the target, stop at what passes and report the shortfall. Never loosen a criterion after seeing which pairs it would admit.
 
 ---
