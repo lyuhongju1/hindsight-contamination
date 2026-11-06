@@ -1,0 +1,709 @@
+{
+ "ec9b2aff8d": {
+  "custom_id": "f1d5f7a55f3cbe8bff967bfd652cd310",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF2",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "ee86d0df2f": {
+  "custom_id": "90328ed90d38e33aca2771b28c9c24f2",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "BASE",
+  "template": "T2_instrument",
+  "screen_hit": true
+ },
+ "98765cb227": {
+  "custom_id": "d3e53e85b00bcf538dfc6fe4ad0b1510",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "7d7f84b632": {
+  "custom_id": "8cd8579e3f174c2c6bd38fa1d7fb98a3",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF1",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "67196824d1": {
+  "custom_id": "8b7ecc197d27d41a306299d4cdb25270",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "40ccdb163a": {
+  "custom_id": "ed6c464ce227b5c48be6b2ebd9421db2",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T3_review",
+  "screen_hit": true
+ },
+ "b0c60ca360": {
+  "custom_id": "ee57c6edaf9295e96cff203f58f63d54",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "d649d789ac": {
+  "custom_id": "3f8f3330742f0fdcf7f449947fcb49a4",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF2",
+  "template": "T3_review",
+  "screen_hit": true
+ },
+ "e43acfb148": {
+  "custom_id": "61c9134fe6562c3a80a4af3b2490049b",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF1",
+  "template": "T1_detector",
+  "screen_hit": false
+ },
+ "306427cf1c": {
+  "custom_id": "708eec7919f1290023c261b465dd5ea5",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF1",
+  "template": "T5_plain",
+  "screen_hit": false
+ },
+ "b8e3917e15": {
+  "custom_id": "48a88402b5bc5b7d3dae643b22e3fc17",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T2_instrument",
+  "screen_hit": true
+ },
+ "b986302bcb": {
+  "custom_id": "47e85207ba5cc00c3f0742fa188ada7d",
+  "model": "claude-opus-5-5",
+  "level": "CONF1",
+  "template": "T1_detector",
+  "screen_hit": false
+ },
+ "b00d885f62": {
+  "custom_id": "a28c5edb8078258d1b6577e9412e5690",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "445bfe0671": {
+  "custom_id": "a4d5126284dbf4afc27a7c6ded54502e",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T2_instrument",
+  "screen_hit": true
+ },
+ "9b2205b1ca": {
+  "custom_id": "6b7d46f81af1adbbc95f758d725868da",
+  "model": "claude-sonnet-4-6",
+  "level": "BASE",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "73c11fe38b": {
+  "custom_id": "b63047f502835e427b6b26532a3bdc93",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T3_review",
+  "screen_hit": true
+ },
+ "fa44211dac": {
+  "custom_id": "657d7ae3cb2ce9af4734dca5e28ec138",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "b1da15d3a3": {
+  "custom_id": "d80527e7098c15877b1c2d7601507392",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF2",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "e6082742c0": {
+  "custom_id": "7941054bb47a26763b7c28de181a8c1f",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "BASE",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "acd2daf9f9": {
+  "custom_id": "4ce54429fa2f97c05fe780e8414840a7",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T2_instrument",
+  "screen_hit": true
+ },
+ "4f34cb1d6b": {
+  "custom_id": "ed05c04224f43e14655689a01197900d",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "BASE",
+  "template": "T4_proposal",
+  "screen_hit": false
+ },
+ "3812f996df": {
+  "custom_id": "061415b53ac4929d7e398381a30e416f",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "d8bc5984f4": {
+  "custom_id": "a4bf10a1b911f43357ac5a7528f2d96d",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "a2d4c97745": {
+  "custom_id": "5fa4882d65cb36464f052e0615d25ce8",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "5d1750ce6f": {
+  "custom_id": "d0fbad8e38b0775bfbd8078d9228a927",
+  "model": "claude-sonnet-4-6",
+  "level": "BASE",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "e1f8b9a90b": {
+  "custom_id": "7e7fc528e8c1383e829aba10cf9415fb",
+  "model": "claude-opus-5-5",
+  "level": "CONF2",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "ee70b6abbc": {
+  "custom_id": "1de79c8e11a864a673ac9fe76e5131d1",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "215d262139": {
+  "custom_id": "aedda6d8ce39da04c6028a493e8018ac",
+  "model": "claude-sonnet-4-6",
+  "level": "BASE",
+  "template": "T2_instrument",
+  "screen_hit": true
+ },
+ "c166b8999d": {
+  "custom_id": "051b8e668512cd45c24fa5fda7c50272",
+  "model": "claude-opus-5-5",
+  "level": "CONF2",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "48bbb326f9": {
+  "custom_id": "10933cf192560765ef1e249cfa6b0f5f",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF2",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "b07943bf03": {
+  "custom_id": "277457fb5b2cb19bf763b6d7b08d2a6e",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF2",
+  "template": "T3_review",
+  "screen_hit": false
+ },
+ "503a1b4d0c": {
+  "custom_id": "aa9a2051cdfb3fe74f5d5790d64ff08f",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "00ed6b7531": {
+  "custom_id": "8b476444bf0400217d43a92f0b5cb08c",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T2_instrument",
+  "screen_hit": true
+ },
+ "4aface5ed6": {
+  "custom_id": "fee5e0af06653569f6e52d44392e9e11",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "6f5322a1b7": {
+  "custom_id": "0700395a2a51141accf1490564d4b544",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "fc59b7f94f": {
+  "custom_id": "50f4546fef38fe57fae76a27c4b25e72",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "9dcff0c43b": {
+  "custom_id": "5667c8b4969d51b75fb7d55cd5a09d2b",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "a505e1839f": {
+  "custom_id": "0cf531fe8b8c7dc707563dc21797d121",
+  "model": "claude-sonnet-4-6",
+  "level": "BASE",
+  "template": "T3_review",
+  "screen_hit": true
+ },
+ "be743745f1": {
+  "custom_id": "1b02124f99daddf687bb5de388113e64",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "e75710c0e9": {
+  "custom_id": "7420962b4dcb1c0bf8339544b4acb198",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "BASE",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "7eefb504d4": {
+  "custom_id": "d66e6d1bbdb8656d7c12372517eb59f2",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF2",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "bd9e73c541": {
+  "custom_id": "9ed08809ce790043a2a0906cc52fc37e",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "89b648555e": {
+  "custom_id": "e5c82c68f7df124b2eb03ce014cd5434",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF2",
+  "template": "T3_review",
+  "screen_hit": true
+ },
+ "3e4db3e7d3": {
+  "custom_id": "d31e75715204be6de50fc9e39be3c982",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "ad9baa593a": {
+  "custom_id": "2149b9556ff9d44465dff6ad0506c0db",
+  "model": "claude-sonnet-4-6",
+  "level": "BASE",
+  "template": "T2_instrument",
+  "screen_hit": false
+ },
+ "ae3f95fc2f": {
+  "custom_id": "81c3dcf5c4606b13f8c6e1dacc773169",
+  "model": "claude-opus-5-5",
+  "level": "CONF1",
+  "template": "T1_detector",
+  "screen_hit": false
+ },
+ "173a2d0afb": {
+  "custom_id": "28b67e04ea4d05c34b42cba2c00b51b7",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF1",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "0b808bc221": {
+  "custom_id": "9257236a92418a56f3fb02f6a1ade894",
+  "model": "claude-sonnet-4-6",
+  "level": "BASE",
+  "template": "T3_review",
+  "screen_hit": false
+ },
+ "c37c4777b1": {
+  "custom_id": "f410a5bd3a70ff40c56f9d6aef5f8316",
+  "model": "claude-opus-5-5",
+  "level": "CONF2",
+  "template": "T1_detector",
+  "screen_hit": false
+ },
+ "e48ee000a7": {
+  "custom_id": "7c256dbd6b8f2899a980efdc96f6c26b",
+  "model": "claude-opus-5-5",
+  "level": "CONF2",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "42978b8b3a": {
+  "custom_id": "0eba6c0901ae99aff755e427225c4532",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "f3be4dc21e": {
+  "custom_id": "77228188340ae38ba48a26c35c011d36",
+  "model": "claude-opus-5-5",
+  "level": "CONF2",
+  "template": "T3_review",
+  "screen_hit": false
+ },
+ "2c08807918": {
+  "custom_id": "2bee227f64b4c1efd5c27af7366430d2",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF2",
+  "template": "T3_review",
+  "screen_hit": true
+ },
+ "539c61ce61": {
+  "custom_id": "fdc1eb70c4ba3af8add3502ebabdad16",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T2_instrument",
+  "screen_hit": true
+ },
+ "6663570777": {
+  "custom_id": "aa7623ad1fe244a645ca37e1aa054739",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T3_review",
+  "screen_hit": true
+ },
+ "e763e628a9": {
+  "custom_id": "a50097572341b1e6a8ab1f0557d72e16",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF1",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "283f15a64e": {
+  "custom_id": "b4a099aa65d42aa58ca930493a472f54",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF2",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "de725c1a87": {
+  "custom_id": "c3ad418b1eaaa5c115c1823433496322",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T3_review",
+  "screen_hit": true
+ },
+ "6fb087d48d": {
+  "custom_id": "8944ab9c56d917d486f456b5b245b3e7",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "b6b6476350": {
+  "custom_id": "14ce93f72667898b39d3d98ed165c4f5",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T3_review",
+  "screen_hit": true
+ },
+ "61568d2b96": {
+  "custom_id": "e5dc7d495cfb87415ea9cfbc3c811592",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF2",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "626d1d3139": {
+  "custom_id": "9aa28bc3505344652ab8c4498217ff9e",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF2",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "305d4050f5": {
+  "custom_id": "6d77ef52a210c35f5b4d81adc1d8b53f",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "BASE",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "459adf86be": {
+  "custom_id": "98d3ad46af04e6f3d65ded5e9f4280e8",
+  "model": "claude-sonnet-4-6",
+  "level": "BASE",
+  "template": "T3_review",
+  "screen_hit": false
+ },
+ "2a2ff47be0": {
+  "custom_id": "12145c7757038a702a5215c3ab16513f",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "81916f557b": {
+  "custom_id": "9c61b037d1f79c31f1ea53139166dca0",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T2_instrument",
+  "screen_hit": true
+ },
+ "21802b6065": {
+  "custom_id": "d2c13a1d60153e11fcfdae2a9a486b6a",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "8e5b0869ef": {
+  "custom_id": "174c15ed1f851182982b986f137ea5a1",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T3_review",
+  "screen_hit": true
+ },
+ "5b46d0e787": {
+  "custom_id": "e8241a6424208db7c25e27f317f5c871",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF1",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "a3c49ba89e": {
+  "custom_id": "03ac9726658034b68c0f1ad67fc252f7",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "4f22f96fbc": {
+  "custom_id": "93e04b943657be3f193368acb121bec1",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "c52095d112": {
+  "custom_id": "25862478e12a23a2d24462e3b4f3d432",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "BASE",
+  "template": "T2_instrument",
+  "screen_hit": true
+ },
+ "d597cc2a86": {
+  "custom_id": "840ebb439a246c505bb5caa90b76f27b",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "BASE",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "fcf012d632": {
+  "custom_id": "0c10c15ab79e21cecd6b51b39a562d19",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "6cacc6307c": {
+  "custom_id": "9e2989ae8e292aeb58dd1e228176b959",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T2_instrument",
+  "screen_hit": true
+ },
+ "bad2379a27": {
+  "custom_id": "3de48d975461947ec328546c4d2cf6ba",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF2",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "f96c28aece": {
+  "custom_id": "83ecea0035eb6fe42920b1bcb35b3b8d",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF1",
+  "template": "T3_review",
+  "screen_hit": true
+ },
+ "dfa690fb7e": {
+  "custom_id": "46480873eba76e09d61f7668daae4ef1",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T3_review",
+  "screen_hit": false
+ },
+ "0e995788ba": {
+  "custom_id": "92d9f02942b3126569c092aa7625c2cb",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF2",
+  "template": "T2_instrument",
+  "screen_hit": false
+ },
+ "1c4db09144": {
+  "custom_id": "11c7a5bda838f55b22124a044e9109f1",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "e634e24ea0": {
+  "custom_id": "0dabdd3b5c650553aaf4bf49e5362216",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF2",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "3f983cea39": {
+  "custom_id": "c388db0a58406e88c100fe4575bbaa24",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T1_detector",
+  "screen_hit": true
+ },
+ "56cfd560b9": {
+  "custom_id": "24e90df26242fe171c02c2ca65582cba",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "cd7d6a2c9a": {
+  "custom_id": "1b2c0c00ff5a4c56d3fbf31c76bf657e",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "0a94c8a29e": {
+  "custom_id": "f8a23a9c1a7633bb6af3c7f4f1009459",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "2a68a83596": {
+  "custom_id": "cdfc48ddf85b3030619e26a05d669ebd",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF2",
+  "template": "T2_instrument",
+  "screen_hit": false
+ },
+ "a50827ae05": {
+  "custom_id": "16f543c0bd5f66f2374a3cb61fe3e64a",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "b492ab33cb": {
+  "custom_id": "458de6bb6d8f489ae4dfc4ee7ce1ab4c",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T2_instrument",
+  "screen_hit": true
+ },
+ "2d98693409": {
+  "custom_id": "02bd86482680b562e0e5a30de658fa90",
+  "model": "claude-sonnet-4-6",
+  "level": "BASE",
+  "template": "T4_proposal",
+  "screen_hit": false
+ },
+ "7abd5dc5c6": {
+  "custom_id": "4c7cd6f09a98111a7aeadb156244118d",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T2_instrument",
+  "screen_hit": true
+ },
+ "e51bd8745f": {
+  "custom_id": "a0e1ce6eb4bcc7c142df310aa9e40c39",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T3_review",
+  "screen_hit": true
+ },
+ "a220a86b2f": {
+  "custom_id": "beaf79ed323b576a49d75d4544e77586",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF2",
+  "template": "T2_instrument",
+  "screen_hit": true
+ },
+ "4f6db973f7": {
+  "custom_id": "f5aeacdadf5e8b4bc46273624dcae292",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T2_instrument",
+  "screen_hit": true
+ },
+ "340f801e81": {
+  "custom_id": "47448f6a5bb6d37953b984b8c11fc76b",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF1",
+  "template": "T3_review",
+  "screen_hit": true
+ },
+ "f559a6231a": {
+  "custom_id": "d3187c45ae2f14fe170ee4fbe6619003",
+  "model": "claude-sonnet-4-6",
+  "level": "CONF1",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "ace787fc36": {
+  "custom_id": "dd96aec2c29dc21d27c69d39f41f6d95",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "243088d5f3": {
+  "custom_id": "531b30dd5b5023fe49044d6da903f005",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "CONF1",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "b74c874508": {
+  "custom_id": "2406f6b854ae70e27dac8f357a9faa37",
+  "model": "claude-sonnet-4-6",
+  "level": "BASE",
+  "template": "T4_proposal",
+  "screen_hit": true
+ },
+ "6f7966dc5f": {
+  "custom_id": "f7e287c2cf023c1451182f74fdaad349",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T3_review",
+  "screen_hit": true
+ },
+ "a29cb74426": {
+  "custom_id": "9f4f51ddab3a02c405c435ec6b72dee3",
+  "model": "claude-sonnet-4-5-20250929",
+  "level": "BASE",
+  "template": "T5_plain",
+  "screen_hit": true
+ },
+ "73a754b6d1": {
+  "custom_id": "a0bf16f7b6a137e42fe64775a396246b",
+  "model": "claude-opus-5-5",
+  "level": "BASE",
+  "template": "T5_plain",
+  "screen_hit": true
+ }
+}

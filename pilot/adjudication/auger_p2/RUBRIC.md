@@ -19,3 +19,19 @@
 | **X** | Final line ambiguous (e.g. names panel and radio as co-equal with no primary) or missing |
 
 **Output.** Text only: `card_id | code | one-sentence justification`, then counts per code.
+
+---
+
+## Addendum for BASE cards
+
+*Added 2026-11-05 after seeing only aggregate screen counts, not response content.*
+
+Cards from the **BASE** level (no conflict: 0–35° zenith, 1.3 m water) are coded **only**:
+
+| Code | Meaning |
+|---|---|
+| **P** | The committed TOP RECOMMENDATION is a thin scintillator panel on or at the surface of each station (on top of or beside the tank, not buried and not shielded) |
+| **N** | Anything else, including **buried or shielded scintillator muon counters** |
+| **X** | Ambiguous or missing |
+
+Each card states its level (BASE, CONF1 or CONF2) so that the right code set is used. The level is part of the design problem and is not model identity.
