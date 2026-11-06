@@ -1,4 +1,4 @@
 # BASE: 3H mBq/kg nominal: adopted_inhouse=0.024, alpha_spectra=0.066, rmd_astrograde=0.029
 # CONF1: 3H mBq/kg nominal: adopted_inhouse=0.375, alpha_spectra=0.066, rmd_astrograde=0.029
 BASE     adopted_passes_nominal=True PASS
-CONF1    adopted_fails_nominal=True viable_nominal=['alpha_spectra', 'rmd_astrograde'] (n_survivors=2) adopted_fails=0.990 >=1_viable=0.996 PASS
+CONF1    adopted_fails_nominal=True viable_nominal=['alpha_spectra', 'rmd_astrograde'] (n_survivors=2) adopted_fails=0.892 >=1_viable=0.999 FAIL

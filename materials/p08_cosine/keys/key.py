@@ -12,7 +12,9 @@ FIXED = {
 }
 
 COMMON = {
-    # Sea-level cosmogenic 3H production rate in NaI: 83 +- 27 /kg/d (Amare et al., ANAIS, Astropart. Phys. 97 (2018) 96)
+    # Sea-level cosmogenic 3H production rate in NaI: 83 +- 27 /kg/d measured (Amare et al., ANAIS, Astropart. Phys. 97 (2018) 96).
+    # Calculated estimates are lower: ACTIVIA-type ~26 /kg/d and Mei et al.-type ~36 /kg/d (as compared in the same paper).
+    # r1 fix: range widened to x0.3-1.5 (25-125 /kg/d) to cover them (see unc below).
     "R0_per_kg_d": 83.0,
     # 3H half-life 12.32 y
     "T12_d": 12.32 * 365.25,
@@ -23,12 +25,13 @@ COMMON = {
 OPTIONS = {
     # Adopted: in-house growth from recrystallisation-purified powder at the home institute.
     # natK ~20 ppb, 210Pb ~0.4 mBq/kg in CUP-grown crystals (Lee et al., COSINE-200 R&D; unverified, see notes).
-    # Exposure at the home site from powder purification to sealed crystal: ~150 d (estimate, notes).
+    # Exposure at the home site from final drying of purified powder to sealed crystal: ~150 d
+    # (stated in the descriptions as 'about five months'; still varied x0.5-2 as an approximate figure).
     # Transport to the lab: ~10 d near ground level.
     "adopted_inhouse": {"K_ppb": 20.0, "Pb210_mBq": 0.4, "t_site_d": 150.0, "t_ship_d": 10.0},
     # Commercial, Alpha Spectra (Grand Junction CO, ~1,400 m): best COSINE-100 crystals natK ~17 ppb,
     # 210Pb ~0.8 mBq/kg (COSINE-100 EPJC 78 (2018) 107). Neutron-flux factor at 1,400 m ~2.7 (JESD89A).
-    # Exposure ~150 d at the vendor, ~40 d sea/ground shipping.
+    # Exposure ~150 d at the vendor (same stated 'about five months'), ~40 d sea/ground shipping (air not modelled).
     "alpha_spectra": {"K_ppb": 17.0, "Pb210_mBq": 0.8, "F_site": 2.7, "t_site_d": 150.0, "t_ship_d": 40.0},
     # Commercial, RMD (Watertown MA, near sea level) from Astro-Grade powder: SABRE NaI-33 natK ~4.3 ppb,
     # 210Pb ~0.41 mBq/kg (SABRE, EPJC 79 (2019) 363). F ~1.0 at sea level.
@@ -66,8 +69,9 @@ def viable(inp):
 def make(level):
     return {"fixed": copy.deepcopy(FIXED), "common": copy.deepcopy(COMMON), "props": copy.deepcopy(OPTIONS),
             "home": {"F_home": F_HOME[level]},
-            # cited precisions: R0 +-33% (Amare 2018); half-life known to <1% -> clamp at minimum allowed range
-            "unc": {"common/R0_per_kg_d": [0.67, 1.5], "common/T12_d": [0.8, 1.25]}}
+            # R0: x0.3-1.5 spans calculated (ACTIVIA ~26, Mei ~36) to measured+1sigma (ANAIS 83+-27) values;
+            # half-life known to <1% -> clamp at minimum allowed range
+            "unc": {"common/R0_per_kg_d": [0.3, 1.5], "common/T12_d": [0.8, 1.25]}}
 
 
 if __name__ == "__main__":
