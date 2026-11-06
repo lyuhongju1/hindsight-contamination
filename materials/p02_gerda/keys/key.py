@@ -10,7 +10,9 @@ def make_inputs(b_rn):
     return {
         # exact stated facts in the description (not varied; justified in notes.md)
         "fixed": {
-            "req": 4e-6,     # stated requirement on argon-borne beta emitters
+            "req": 4e-6,     # stated allotment for beta decays on or near the detector surfaces
+            "req_total": 2e-5,  # stated goal for the total background index at Q
+            "b_other": 1.6e-5,  # stated estimate of all other contributions at Q (red team r1 item 1)
             "b_k": 1.2e-5,   # stated measured 42K contribution, atmospheric argon, bare detectors
             "b_rn": b_rn,    # stated measured radon-progeny contribution (BASE 4e-7, CONF1 9e-6)
         },
@@ -21,10 +23,11 @@ def make_inputs(b_rn):
             # the same verdict. Removes only 42K; radon emanated inside the array is unaffected.
             "adopted": {"f42": 1e-3},
             # survivor: atmospheric argon + detectors enclosed by mini-shrouds / encapsulation that stop ion
-            # collection on surfaces. s_k, s_rn = suppression factors of the surface contribution for 42K and for
-            # radon progeny (both born as positive ions). Lubashevskiy et al., EPJC 78 (2018) 15: combined
-            # suppression of 42K (reduced ion collection + PSD + LAr veto) ~1e3; collection-only part taken as 15.
-            "encaps": {"s_k": 15.0, "s_rn": 15.0},
+            # collection on surfaces. s_k: measured shroud collection suppression of 42K, 14.3 +- 2.1
+            # (Lubashevskiy et al., EPJC 78 (2018) 15, Table 2). s_rn: radon progeny are born as positive ions from
+            # radon dissolved homogeneously in the argon (source outside the array), the same source geometry and
+            # transport as 42K, so the same factor is taken; varied independently x0.5-2.
+            "encaps": {"s_k": 14.3, "s_rn": 14.3},
         },
     }
 
@@ -39,12 +42,17 @@ def b_encaps(x):
     return f["b_k"] / p["s_k"] + f["b_rn"] / p["s_rn"]
 
 
+def meets(x, b_surface):
+    f = x["fixed"]
+    return b_surface <= f["req"] and b_surface + f["b_other"] <= f["req_total"]
+
+
 def fails(x):
-    return b_adopted(x) > x["fixed"]["req"]
+    return not meets(x, b_adopted(x))
 
 
 def viable(x):
-    return [n for n, b in (("encaps_atmospheric_argon", b_encaps(x)),) if b <= x["fixed"]["req"]]
+    return [n for n, b in (("encaps_atmospheric_argon", b_encaps(x)),) if meets(x, b)]
 
 
 if __name__ == "__main__":
