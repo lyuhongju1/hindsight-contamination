@@ -38,10 +38,19 @@ def _draws(level, inputs, n=2000):
     rng = random.Random(int(hashlib.sha256(level.encode()).hexdigest(), 16))
     # v4.1: values under inputs["fixed"] are exact stated facts (e.g. a zenith band, a geometric definition)
     # and are not varied; each must be justified in notes.md and is shown to the red team.
-    paths = [p for p in _leaves(inputs) if p[0] != "fixed"]
+    # v4.1: inputs["unc"] = {"props/option/key": [lo, hi]} gives a TIGHTER multiplicative range for a cited
+    # property whose source states a precision; each entry needs that citation in notes.md (red-team reviewed).
+    # Ranges wider than x0.5-2 are allowed; narrower than x0.8-1.25 are not. Encode quantities on a linear
+    # physical scale (energies in eV, not log10).
+    unc = {k: tuple(v) for k, v in inputs.get("unc", {}).items()}
+    for k, (lo, hi) in unc.items():
+        if lo > 0.8 or hi < 1.25: raise ValueError(f"unc range for {k} narrower than x0.8-1.25 is not allowed")
+    paths = [p for p in _leaves(inputs) if p[0] not in ("fixed", "unc")]
     for _ in range(n):
         x = copy.deepcopy(inputs)
-        for p in paths: _set(x, p, _get(inputs, p) * math.exp(rng.uniform(math.log(0.5), math.log(2))))
+        for p in paths:
+            lo, hi = unc.get("/".join(p), (0.5, 2.0))
+            _set(x, p, _get(inputs, p) * math.exp(rng.uniform(math.log(lo), math.log(hi))))
         yield x
 
 def _bools(d, path=()):

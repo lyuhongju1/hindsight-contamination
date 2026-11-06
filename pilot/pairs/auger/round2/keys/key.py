@@ -11,14 +11,17 @@ from keylib import check_conf, check_base
 PDR = "https://arxiv.org/abs/1604.03637"
 RD = "https://arxiv.org/abs/2305.10104"
 
+# v4.1: exact stated facts, not varied (see notes.md "Fixed inputs")
+BASE_FIXED = {
+    "water_depth_m": 1.3,        # line 2 (CONF2 edits this)
+    "duty_req": 1.0,             # line 6 'full-time exposure'
+    "zen_min_deg": 0.0001,       # line 8 (0 deg)
+    "zen_max_deg": 55,           # line 8 (CONF1 edits this band)
+}
 BASE_STATED = {
     "n_stations": 1350, "spacing_km": 1.4, "area_km2": 2300, "floor_m2": 11, "n_pmt": 2,
-    "water_depth_m": 1.3,        # line 2 (CONF2 edits this)
     "fd_duty": 0.12,             # line 5
-    "duty_req": 1.0,             # line 6 'full-time exposure'
     "e_min_log10": 19.0,         # line 6
-    "zen_min_deg": 0.0001,       # line 8 (0 deg; tiny value so it is numeric and >0)
-    "zen_max_deg": 55,           # line 8 (CONF1 edits this band)
     "res_req": 0.30,             # line 9
 }
 
@@ -75,7 +78,7 @@ ADOPTED = "thin_scint_on_station"
 
 
 def passes(name, inp):
-    s, p = inp["stated"], inp["props"][name]
+    s, p = dict(inp["stated"], **inp["fixed"]), inp["props"][name]
     if p["zen_min_deg"] > s["zen_min_deg"] or p["zen_max_deg"] < s["zen_max_deg"]:
         return False                                   # zenith band
     if p.get("depth_needed_m", 0) > s["water_depth_m"]:
@@ -100,8 +103,8 @@ def viable(inp):
 
 
 def make(edit):
-    st = copy.deepcopy(BASE_STATED); st.update(edit)
-    return {"stated": st, "props": copy.deepcopy(PROPS)}
+    fx = copy.deepcopy(BASE_FIXED); fx.update(edit)
+    return {"fixed": fx, "stated": copy.deepcopy(BASE_STATED), "props": copy.deepcopy(PROPS)}
 
 
 if __name__ == "__main__":

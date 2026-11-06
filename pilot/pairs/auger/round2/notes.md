@@ -22,3 +22,18 @@
 - Radio max spacing 3 km and radio res 0.09 are round-1 author estimates, flagged there. A zen_min of 0.0001 stands for 0 deg, because keylib cannot vary zero.
 - The panel's depth threshold of 1.2 m is the depth at which the contrast is cited, not a measured minimum. The real minimum is lower, though well above 0.25 m.
 - The real AugerPrime Radio Detector is the CONF1 survivor, so CONF1 can be answered by recall (round-1 red team (b)).
+
+## Fixed inputs (keylib v4.1, inputs["fixed"], not varied)
+- zen_min_deg = 0 (stored as 0.0001) in BASE and CONF2, 70 in CONF1: the lower limit of the zenith band is set by definition in description line 8. It is a selection cut, not a measured property.
+- zen_max_deg = 55 in BASE and CONF2, 84 in CONF1: the upper limit of the same band, also a definitional selection cut from line 8.
+- water_depth_m = 1.3 in BASE and CONF1, 0.25 in CONF2: the tank geometry is stated as fact in line 2. It is the instrument's own construction, not a cited technology property.
+- duty_req = 1.0: line 6 says "full-time exposure", which by definition is a fraction of 1 of the time.
+- Everything else stays varied: spacing, energy, resolution requirement, FD duty, counts and areas, and all option properties (including each option's zenith limits and depth threshold).
+
+## v4.1 rerun (2026-11-05), diagnosis of the remaining FAILs
+- CONF1 has >=1 viable in 0.241 of draws. Radio's cited zen_min (70) is varied against the fixed 70, which is a coin flip. Radio's e_min_log10 and its spacing limit are also varied.
+- CONF2 has >=1 viable in 0.084 of draws. For the buried counter, three checks fail often under the draws:
+  - e_min_log10 = 17.5 against the stated 19.0. This is an encoding flaw: a log10 energy scaled by x0.5-2 is not physical. Encoding the energy linearly (10^17.5 eV against 10^19 eV) would make the check robust.
+  - max_spacing_km = 1.5 against 1.4: near-equal values, so a coin flip.
+  - zen_max 65 against 55.
+- Following the coordinator's instruction, I made no changes to the encoding or the property values in this revision. These are left for a decision.
