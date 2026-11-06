@@ -20,6 +20,8 @@
 | p14 KASCADE | tripole antennas | — | — | not started |
 | p15 aLIGO (A2 replacement) | balanced homodyne readout | — | — | **Zero-unit pair** (author + red-team confirmation: no honest conflict). **Replaced under A2 by p16 BESIII** |
 | p16 BESIII (A2 replacement) | endcap TOF upgrade to MRPC | charged flux 1.5 MHz/cm2 vs resistive-electrode rate capability (coherence doubt) | 1 (3-layer LGAD) | **Zero-unit pair** (r1: conflict needed a hadron collider, which breaks the class rule; no same-class route robust) |
+| p17 LUX (A1 resumed) | Gd-loaded LS outer detector | — | — | **author running** |
+| p18 Super-K (A1 resumed) | Gd sulfate loading | — | — | **author running** |
 
 **Scoring notes collected from the red teams** (to be frozen into the per-pair rubrics):
 - **p03:** adopted item = rotation by an *external filter cavity*. EPR is a distinct alternative; a generic "frequency-dependent squeezing" answer = X.

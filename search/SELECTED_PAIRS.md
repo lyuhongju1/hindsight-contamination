@@ -58,3 +58,19 @@ Materials. For each pair, the author agents (brief v2, rules 1–10) write BASE 
   - alternative not adopted: the existing plastic-scintillator endcap TOF.
   - Field: collider (2 pairs with NA62; within the cap).
   - The eligible-but-not-selected list is now exhausted; any further drop reopens assessment down the queue under A1.
+
+## Resumed A1 assessment (2026-11-06)
+
+| Queue | Baseline | Daters | Item (both daters) | Commitment (verified) | Alternative not adopted | Outcome |
+|---|---|---|---|---|---|---|
+| q19 | LUX (1202984, 2012-11) | D1, D2 ELIGIBLE | Gd-loaded LAB outer detector (LZ) | arXiv:1509.02910 (2015-09), both exact | Boron (TMB)-loaded scintillator veto; water-Cherenkov-only veto | **Selected as p17_lux** |
+| q23 | Super-Kamiokande (607144, 2002-01) | D1, D2 ELIGIBLE | Gd sulfate loading (SK-Gd) | earliest verified arXiv:1908.07551v1 (2019-08, D2, exact); D1 arXiv:2109.00360v1 | GdCl3 | **Selected as p18_superk** |
+
+**Caveats:**
+- **LUX:** "After LUX" (2011) proposed a generic scintillator veto; the item holds as Gd loading specifically. 2013–14 proceedings were not checked; D1 flags this as an I2 risk.
+- **Super-K:** the 2015 approval and 2013–16 proceedings have no arXiv text, so the date is an upper bound (I2 and I6 hold either way).
+- D1's second items (the LZ skin veto; the Hyper-K box-and-line PMT) were not confirmed by D2, so they are not counted (both-daters rule).
+
+**Field counts (units-bearing pairs only, per the A2 clarification):** dark_matter: XENON1T, LUX; nu_natural: SNO, Borexino, Super-K (3, at the cap).
+
+**Replacements owed after these two:** 2 (q26, q27 and q30 are under assessment).

@@ -95,5 +95,17 @@
   "adopted": "\\bmrpcs?\\b|multi[\\s-]?gap\\s+resistive\\s+plate|resistive\\s+plate\\s+chamber|\\brpcs?\\b",
   "distractor": "(plastic\\s+)?scintillat\\w*\\s+(bars?|counters?|tof)|\\bsipms?\\b|silicon\\s+photomultiplier",
   "identity": "\\bbes\\s*iii\\b|\\bbesiii\\b|\\bbes3\\b|\\bbepc\\s*ii\\b|\\bbepcii\\b|\\bihep\\b|\\bbeijing\\b"
+ },
+ "p17_lux": {
+  "item": "Gd-loaded liquid-scintillator outer detector (LZ)",
+  "adopted": "gadolinium|\\bgd\\b|gd[\\s-]?(loaded|doped|ls)\\b|\\bgdls\\b",
+  "distractor": "boron|\\btmb\\b|trimethyl\\s*borate|\\b10b\\b|water[\\s-]cherenkov\\s+(only\\s+)?veto",
+  "identity": "\\blux\\b|\\blz\\b|lux[\\s-]?zeplin|\\bzeplin\\b|\\bsurf\\b|sanford|homestake|davis\\s+(cavern|campus)"
+ },
+ "p18_superk": {
+  "item": "Gd sulfate loading of the water (SK-Gd)",
+  "adopted": "gadolinium|\\bgd\\b|gd2\\s*\\(?so4\\)?3|\\bsulfate\\b|\\bsulphate\\b",
+  "distractor": "chloride|gdcl3|gd\\s*cl",
+  "identity": "super[\\s-]?k(amiokande)?\\b|\\bsk[\\s-]?(gd|iv|v|vi|vii)?\\b|hyper[\\s-]?k|kamioka|mozumi|egads|kamland"
  }
 }
