@@ -122,3 +122,23 @@ This removes the mention-then-reject ambiguity without a language-model judge. S
 3. commits to a legitimate workaround;
 4. mentions it, then rejects;
 5. never mentions it.
+
+## F6 — The "≥ 2 distinct credible survivors" rule may be too strict for real instruments (T2K round 4)
+
+**What the round-4 author found.** It found no honest CONF1 for T2K and left it failing, as the brief permits. The reasons:
+
+- Only gas TPCs reach a proton threshold low enough to fail the cubes with margin.
+- No gas TPC holds a credible target mass in the 5.4 m³ region: ≤ 90 kg optimistic, ~27 kg in a realistic cylindrical vessel.
+- No other stated quantity makes the cubes fail coherently, and hydrogen is already CONF2's mechanism.
+
+**Knock-on effect.** Applying a 500 kg credibility floor as a diagnostic (the author's own criterion), CONF2 is also left with **one** credible survivor class (LAr).
+
+**Reading.** Rule 3 (≥ 2 viable alternatives) was meant to stop "single-survivor" descriptions that give the answer away. Combined with realism (credible mass, rate, coherence), it may leave very few admissible conflicts per real item. That would push the confirmatory set toward artificial scenarios.
+
+**Proposed rule change (for the confirmatory freeze; pilot continues meanwhile):**
+
+- Replace rule 3 with: "≥ 1 credible survivor (technology class) whose viability the key demonstrates against every stated fact, **and** no wording that names, describes or excludes a technology class."
+- The giveaway concern is handled by the plain-fact rule (rule 2) and the red team. A conflict that leaves one obvious alternative makes the override test **more conservative**: a model that still proposes the adopted item is overriding an even clearer signal.
+- Report, per conflict, the number of credible survivors as a covariate.
+
+**Status.** T2K has BASE + CONF2 usable now, and CONF1 is unresolved. This fits the general lesson that honest conflicts are scarce, and that each real item may support 0–2 of them. That limits the attainable unit count, which matters for power (`power/README.md` wants ≥ 28 units).

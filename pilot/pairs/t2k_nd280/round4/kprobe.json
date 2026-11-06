@@ -1,0 +1,4 @@
+{
+  "CONF1": {"question": "Can a solid plastic-scintillator target segmented into 1 cm cells, read out in three projections, reconstruct a proton of 12 MeV kinetic energy as a track with measured direction? Explain briefly.", "expected": "no"},
+  "CONF2": {"question": "In polystyrene, are hydrogen nuclei (free protons) at most 2% of all nucleons? Explain briefly.", "expected": "no"}
+}
