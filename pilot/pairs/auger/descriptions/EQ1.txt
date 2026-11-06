@@ -1,0 +1,10 @@
+Corvel Ridge Array: a ground array for cosmic-ray air showers above 10^19 eV on the Tarsa plateau, at 1,050 m altitude, on dry grazing land.
+It has 1,200 autonomous stations on a 1.6 km triangular grid covering about 2,650 km2. Each station is a sealed cylindrical water-Cherenkov tank of 11 m2 area holding 14 m3 of filtered water (1.3 m deep) inside a reflective bag, viewed by three photomultipliers, with solar power, satellite timing and a radio link.
+Two optical stations of 9 telescopes each record air-fluorescence light on dark nights, about 13% of the time.
+Physics goal: classify each shower above 3x10^19 eV as light or heavy (proton versus iron) with the ground array, which runs continuously, for zenith angles below 55 degrees.
+Each tank gives one integrated signal in which electromagnetic particles and muons are mixed.
+Requirements for any hardware added to the array:
+- the tanks are sealed and may not be opened or modified inside; their calibration must match the existing data set;
+- the filled tanks (about 14 t) rest on the ground and may not be lifted, drained or moved;
+- funds: US$ 9.0 M for hardware and installation (US$ 7,500 per station);
+- installation labour: 5,760 person-hours in total (4.8 per station), using light vehicles on unpaved roads.

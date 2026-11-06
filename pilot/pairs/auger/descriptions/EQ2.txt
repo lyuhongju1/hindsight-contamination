@@ -1,0 +1,10 @@
+Halden Basin Observatory: a surface array for the highest-energy cosmic rays in a high desert basin at 1,700 m altitude.
+It has 2,100 self-powered detector stations spaced 1.3 km apart on a triangular grid, covering about 3,100 km2. Each station is a closed water-Cherenkov tank 3.4 m across holding 10 m3 of purified water (1.1 m deep) inside a white liner, read out by four photomultipliers, with batteries, solar panels, GPS and a wireless link.
+A set of fluorescence telescopes on the basin rim observes about 17% of the time.
+Science requirement: a mass-sensitive observable for every shower above 2x10^19 eV recorded by the ground array, which has full duty cycle, at zenith angles up to 60 degrees, good enough to tell proton from iron showers.
+Each tank currently delivers a single combined signal of the electromagnetic and muonic parts of the shower.
+Upgrade conditions:
+- the water, liner and photomultipliers inside each tank must remain untouched, so the tank response does not change;
+- the tanks (11 t when full) stay where they are and are not raised or emptied;
+- available money: US$ 6,800 per station (US$ 14.3 M) for hardware and fitting;
+- available field labour: 9,240 person-hours (4.4 per station) in one installation campaign.

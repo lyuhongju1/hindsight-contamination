@@ -1,0 +1,10 @@
+Ostrava Flats Array: a ground array for cosmic-ray air showers above 10^19 eV on a dry alluvial plain at 900 m altitude.
+It has 1,400 autonomous stations on a 1.0 km triangular grid covering about 1,200 km2. Each station is a sealed water-Cherenkov tank of 10 m2 holding 12 m3 of purified water (1.2 m deep) inside a reflective liner, viewed by three photomultipliers, with solar power, GPS timing and a radio link.
+Fluorescence telescopes at two sites observe on dark nights, about 14% of the time.
+Goal: shower-by-shower discrimination between proton and iron primaries above 10^19 eV from the always-on ground array. The composition programme uses only showers arriving at zenith angles between 65 and 80 degrees; more vertical showers are not part of it.
+Each tank gives one integrated signal per time bin.
+Requirements for any hardware added to the array:
+- the tank interiors (water, liner, photomultipliers) must not be opened or modified; the existing calibration must remain valid;
+- full tanks (about 12 t) are not lifted, drained or moved;
+- funds: US$ 9.8 M (US$ 7,000 per station) for hardware and installation;
+- installation labour: 7,700 person-hours in total (5.5 per station).

@@ -1,0 +1,10 @@
+Nemora Array: 1,500 autonomous Halvex cells on a 1.4 km triangular grid detect cosmic-ray air showers above 10^19 eV. Each cell is a sealed drum of 1.1 m Brinol medium viewed by Quillon light sensors, and it gives one total signal that mixes the electromagnetic and muonic shower parts. Morrow optical stations measure shower development on about 14% of nights.
+Goal: tell proton from iron shower by shower, for zenith angles below 60 deg, using the always-on cell array.
+Shower physics: ln(muon number, iron / proton) = 0.30; shower-to-shower spread of ln(muon number) = 0.14 (proton) and 0.06 (iron).
+Requirements: the cell interiors must not be opened or altered; the filled cells (13 t) must not be lifted or moved; budget 3.0 credits per cell; installation labour 3.6 crew-hours per cell.
+Component catalog (cost per cell / crew-hours per cell / per-event muon-content resolution, ln units):
+- Veltrane sheet: flat 3.5 m2 panel, 1.2 cm thick, mounted on the cell lid; its electromagnetic-to-muon signal ratio is 2.4 times that of the cell; usable below 60 deg. 2.2 / 3.0 / 0.19.
+- Duolith insert: partition fitted inside the cell's Brinol volume, read separately; usable below 60 deg. 1.1 / 7.0 / 0.17.
+- Korrin plate: muon counter placed beneath the cell, which shields it from electromagnetic particles; usable below 60 deg. 6.5 / 20 / 0.14.
+- Tessaline mat: muon counter buried 2 m deep beside the cell; usable below 60 deg. 14 / 40 / 0.11.
+- Orvane loop: mast sensor that responds only to the electromagnetic cascade; at 1.4 km spacing its footprint reaches 3 or more cells only above 65 deg. 1.6 / 2.5 / 0.09.

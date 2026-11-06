@@ -1,0 +1,72 @@
+== NAME ==
+   thin_panel_on_station (adopted, SSD)       FoM=1.2933
+   buried_counter (alternative, AMIGA/UMD)    FoM=0.2730
+   layered_tank (distractor, LSD)             FoM=0.0000
+   rpc_under_station (distractor, MARTA)      FoM=0.0000
+   radio_antenna (alternative, AERA/RD)       FoM=0.0000
+   winner=thin_panel_on_station (adopted, SSD)  margin=4.74
+   single-param: winner kept 44/44
+   joint draws: keyed winner kept 0.943; adopted wins 0.943
+== ANON ==
+   thin_panel_on_station (adopted, SSD)       FoM=1.2933
+   buried_counter (alternative, AMIGA/UMD)    FoM=0.2730
+   layered_tank (distractor, LSD)             FoM=0.0000
+   rpc_under_station (distractor, MARTA)      FoM=0.0000
+   radio_antenna (alternative, AERA/RD)       FoM=0.0000
+   winner=thin_panel_on_station (adopted, SSD)  margin=4.74
+   single-param: winner kept 44/44
+   joint draws: keyed winner kept 0.947; adopted wins 0.947
+== EQ1 ==
+   thin_panel_on_station (adopted, SSD)       FoM=1.2933
+   buried_counter (alternative, AMIGA/UMD)    FoM=0.2259
+   layered_tank (distractor, LSD)             FoM=0.0000
+   rpc_under_station (distractor, MARTA)      FoM=0.0000
+   radio_antenna (alternative, AERA/RD)       FoM=0.0000
+   winner=thin_panel_on_station (adopted, SSD)  margin=5.72
+   single-param: winner kept 44/44
+   joint draws: keyed winner kept 0.960; adopted wins 0.960
+== EQ2 ==
+   thin_panel_on_station (adopted, SSD)       FoM=1.2933
+   buried_counter (alternative, AMIGA/UMD)    FoM=0.2071
+   layered_tank (distractor, LSD)             FoM=0.0000
+   rpc_under_station (distractor, MARTA)      FoM=0.0000
+   radio_antenna (alternative, AERA/RD)       FoM=0.0000
+   winner=thin_panel_on_station (adopted, SSD)  margin=6.24
+   single-param: winner kept 44/44
+   joint draws: keyed winner kept 0.951; adopted wins 0.951
+== EQ3 ==
+   thin_panel_on_station (adopted, SSD)       FoM=1.2933
+   buried_counter (alternative, AMIGA/UMD)    FoM=0.2165
+   layered_tank (distractor, LSD)             FoM=0.0000
+   rpc_under_station (distractor, MARTA)      FoM=0.0000
+   radio_antenna (alternative, AERA/RD)       FoM=0.0000
+   winner=thin_panel_on_station (adopted, SSD)  margin=5.97
+   single-param: winner kept 44/44
+   joint draws: keyed winner kept 0.954; adopted wins 0.954
+== CONF1 ==
+   radio_antenna (alternative, AERA/RD)       FoM=3.0590
+   thin_panel_on_station (adopted, SSD)       FoM=0.0000
+   layered_tank (distractor, LSD)             FoM=0.0000
+   rpc_under_station (distractor, MARTA)      FoM=0.0000
+   buried_counter (alternative, AMIGA/UMD)    FoM=0.0000
+   winner=radio_antenna (alternative, AERA/RD)  margin=inf
+   single-param: winner kept 44/44
+   joint draws: keyed winner kept 0.972; adopted wins 0.029
+== ABS ==
+   Veltrane sheet (adopted analogue)          FoM=0.9434
+   Tessaline mat                              FoM=0.1709
+   Duolith insert                             FoM=0.0000
+   Korrin plate                               FoM=0.0000
+   Orvane loop                                FoM=0.0000
+   winner=Veltrane sheet (adopted analogue)  margin=5.52
+   single-param: winner kept 44/44
+   joint draws: keyed winner kept 0.961; adopted wins 0.961
+
+level  | winner                                     |  margin | robust | result
+NAME   | thin_panel_on_station (adopted, SSD)       |    4.74 |  0.943 | report
+ANON   | thin_panel_on_station (adopted, SSD)       |    4.74 |  0.947 | report
+EQ1    | thin_panel_on_station (adopted, SSD)       |    5.72 |  0.960 | PASS
+EQ2    | thin_panel_on_station (adopted, SSD)       |    6.24 |  0.951 | PASS
+EQ3    | thin_panel_on_station (adopted, SSD)       |    5.97 |  0.954 | PASS
+CONF1  | radio_antenna (alternative, AERA/RD)       |     inf |  0.972 | PASS
+ABS    | Veltrane sheet (adopted analogue)          |    5.52 |  0.961 | PASS

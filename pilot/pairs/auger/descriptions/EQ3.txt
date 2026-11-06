@@ -1,0 +1,10 @@
+Mirelle Steppe Array: a cosmic-ray ground array on a windy steppe at 600 m altitude, built to study air showers above 10^19 eV.
+It has 900 stand-alone stations on a 1.8 km triangular grid covering about 2,500 km2. Each station is a sealed water-Cherenkov tank of 12 m2 holding 15 m3 of deionised water (1.25 m deep), viewed through a diffusing liner by two large photomultipliers, with solar power, GNSS timing and a cellular data link.
+A single fluorescence telescope site with 12 telescopes works on dark, clear nights, about 12% of the time.
+Goal: shower-by-shower discrimination between light (proton) and heavy (iron) primaries above 4x10^19 eV from the always-on ground array, for zenith angles below 50 degrees.
+The tank signal is one number per time bin that mixes the electromagnetic component and the muons.
+Constraints on any new station hardware:
+- tank interiors (water, liner, sensors) must not be opened or changed; the existing calibration and data set must stay valid;
+- full tanks (about 15 t) must not be lifted, drained or relocated;
+- budget: US$ 8.1 M (US$ 9,000 per station), including installation;
+- labour: 4,140 person-hours in total (4.6 per station), with crews driving pickups between stations.
