@@ -1,1 +1,6 @@
-{"CONF1": {"question": "Germanium detectors immersed in liquid argon suffer a background near 2 MeV from beta emitters in the argon that drift as ions onto the detector surfaces. Two such contributions are measured: one from 42K (daughter of 42Ar) and one from 214Bi and other radon progeny, the radon being emanated by materials inside the detector array. If the argon is replaced by argon containing essentially no 42Ar, while everything else is unchanged, can the remaining surface beta background fall below a limit that is smaller than the measured radon-progeny contribution alone? End your answer with one line: VERDICT: YES or VERDICT: NO.", "expected": "NO"}}
+{
+ "CONF1": {
+  "question": "Germanium detectors immersed in liquid argon suffer a background near 2 MeV from beta emitters in the argon that drift as ions onto the detector surfaces. Two such contributions are measured: one from 42K (daughter of 42Ar) and one from 214Bi and other radon progeny, the radon being emanated by the cryostat and argon-handling system and dissolved throughout the argon. If the argon is replaced by argon containing essentially no 42Ar, while everything else is unchanged, can the remaining surface beta background fall below a limit that is smaller than the measured radon-progeny contribution alone? End your answer with one line: VERDICT: YES or VERDICT: NO.",
+  "expected": "NO"
+ }
+}
