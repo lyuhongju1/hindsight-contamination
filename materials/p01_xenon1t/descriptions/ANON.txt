@@ -1,0 +1,9 @@
+A dual-phase xenon time projection chamber operates in a deep underground laboratory to search for weakly interacting massive particles scattering on xenon nuclei.
+The cryostat holds about 3.2 t of xenon, of which about 2.0 t lies inside the active volume of a cylindrical chamber roughly 1 m in diameter and 1 m tall, viewed by about 250 three-inch photomultipliers in top and bottom arrays.
+A particle interaction produces a prompt scintillation signal in the liquid and free electrons that drift upward to the liquid surface, where they are extracted into the gas and produce a delayed proportional signal; the time between the two gives the depth.
+At the operating drift field the longest drift time is close to 0.7 ms, so electronegative impurities in the xenon directly reduce the charge signal from deep events.
+The xenon is continuously extracted from the cryostat, evaporated, passed through heated zirconium getters in two parallel loops, and recondensed; a cryogenic distillation column removes krypton.
+The detector sits in a water tank instrumented as a Cherenkov muon veto.
+The electron lifetime must be at least as long as the maximum drift time.
+The background from internal radioactive contaminants must stay below that from detector materials in the inner fiducial mass of about 1.3 t.
+The instrument must reach a spin-independent cross-section sensitivity near 1.6e-47 cm^2 for a 50 GeV/c^2 particle with an exposure of about 2 t y.
