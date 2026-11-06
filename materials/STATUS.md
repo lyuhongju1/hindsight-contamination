@@ -14,8 +14,8 @@
 | p08 COSINE | in-house crystal growth | home institute at 3,600 m → cosmogenic tritium | 2 (Alpha Spectra marginal; RMD/Astro-Grade) | **Zero-unit pair** (r2 + final attempt: in-house method demonstrably reaches Astro-Grade K/210Pb, so the windows are empty; altitude route needs a logistics rule). Replacement: resume A1 queue (q19 LUX) |
 | p09 NEMO-3 | 8-in. high-QE PMTs | granularity: 15 cm two-electron separation vs >=210 mm cell pitch | 1 (76 mm PMTs on small cubes) | **CLEARED** (r2; survivor 8.5% FWHM, credible 8-11%) |
 | p10 Borexino | 144Ce-144Pr source | fully deuterated scintillator kills IBD | 2 (51Cr, 37Ar) | r1: CONF1 OK, wording/kprobe FIX → fixed; gates pass. **Red-team cleared** |
-| p11 KAGRA | optical levers | — | — | **author running** |
-| p12 MiniBooNE | PPO doping | — | — | not started |
+| p11 KAGRA | optical levers | — | — | **author: no honest conflict** (6 routes defeated by lever mounting, routine filtering or overlapping noise floors); confirmation red team running |
+| p12 MiniBooNE | PPO doping | — | — | **author running** |
 | p13 NA62 | small-diameter straws | — | — | not started |
 | p14 KASCADE | tripole antennas | — | — | not started |
 | p15 aLIGO (A2 replacement) | balanced homodyne readout | — | — | **Zero-unit pair** (author + red-team confirmation: no honest conflict). **Replaced under A2 by p16 BESIII** |
