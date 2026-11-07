@@ -1,0 +1,1010 @@
+{
+ "p01_xenon1t|BASE|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 4,
+  "truncated": 0
+ },
+ "p02_gerda|BASE|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 48,
+  "truncated": 0
+ },
+ "p01_xenon1t|NAME|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 4,
+  "truncated": 0
+ },
+ "p01_xenon1t|CONF1|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p01_xenon1t|CONF1|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 1,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p01_xenon1t|BASE|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 3,
+  "truncated": 0
+ },
+ "p02_gerda|ANON|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 5,
+  "truncated": 0
+ },
+ "p01_xenon1t|ANON|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 24,
+  "truncated": 0
+ },
+ "p01_xenon1t|CONF1|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 1,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p01_xenon1t|ANON|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 3,
+  "truncated": 0
+ },
+ "p02_gerda|BASE|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 2,
+  "truncated": 0
+ },
+ "p01_xenon1t|ANON|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p01_xenon1t|NAME|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 3,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p01_xenon1t|BASE|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p01_xenon1t|CONF1|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 24,
+  "truncated": 0
+ },
+ "p01_xenon1t|NAME|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 29,
+  "truncated": 0
+ },
+ "p01_xenon1t|CONF1|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 36,
+  "truncated": 0
+ },
+ "p02_gerda|ANON|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 45,
+  "truncated": 0
+ },
+ "p02_gerda|ANON|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p01_xenon1t|BASE|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 1,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p02_gerda|BASE|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 47,
+  "truncated": 0
+ },
+ "p01_xenon1t|ANON|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 32,
+  "truncated": 0
+ },
+ "p01_xenon1t|BASE|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p01_xenon1t|BASE|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 34,
+  "truncated": 0
+ },
+ "p02_gerda|ANON|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 49,
+  "truncated": 0
+ },
+ "p01_xenon1t|BASE|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 3,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p01_xenon1t|NAME|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 25,
+  "truncated": 0
+ },
+ "p02_gerda|ANON|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 23,
+  "truncated": 0
+ },
+ "p02_gerda|BASE|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 46,
+  "truncated": 0
+ },
+ "p02_gerda|BASE|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p01_xenon1t|NAME|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 2,
+  "truncated": 0
+ },
+ "p01_xenon1t|NAME|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 3,
+  "hits": 2,
+  "truncated": 0
+ },
+ "p02_gerda|ANON|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 45,
+  "truncated": 0
+ },
+ "p01_xenon1t|CONF1|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p01_xenon1t|ANON|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 2,
+  "truncated": 0
+ },
+ "p01_xenon1t|ANON|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 7,
+  "truncated": 0
+ },
+ "p01_xenon1t|NAME|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p02_gerda|BASE|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 48,
+  "truncated": 0
+ },
+ "p01_xenon1t|ANON|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 5,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p02_gerda|BASE|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 49,
+  "truncated": 0
+ },
+ "p02_gerda|ANON|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 42,
+  "truncated": 0
+ },
+ "p01_xenon1t|CONF1|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 8,
+  "truncated": 0
+ },
+ "p03_advirgo|ANON|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p02_gerda|NAME|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 46,
+  "truncated": 0
+ },
+ "p03_advirgo|CONF1|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 42,
+  "truncated": 0
+ },
+ "p03_advirgo|CONF1|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 45,
+  "truncated": 0
+ },
+ "p02_gerda|CONF1|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p02_gerda|NAME|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 37,
+  "truncated": 0
+ },
+ "p03_advirgo|ANON|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p03_advirgo|BASE|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 1,
+  "hits": 49,
+  "truncated": 0
+ },
+ "p03_advirgo|NAME|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p03_advirgo|BASE|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p03_advirgo|NAME|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p03_advirgo|CONF1|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p03_advirgo|BASE|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p03_advirgo|ANON|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p02_gerda|NAME|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 39,
+  "truncated": 0
+ },
+ "p03_advirgo|NAME|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 4,
+  "hits": 46,
+  "truncated": 0
+ },
+ "p03_advirgo|NAME|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p03_advirgo|ANON|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p03_advirgo|BASE|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p03_advirgo|NAME|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p03_advirgo|BASE|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 43,
+  "truncated": 0
+ },
+ "p03_advirgo|CONF1|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p02_gerda|CONF1|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 2,
+  "truncated": 0
+ },
+ "p03_advirgo|BASE|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p02_gerda|CONF1|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 33,
+  "truncated": 0
+ },
+ "p02_gerda|CONF1|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 48,
+  "truncated": 0
+ },
+ "p03_advirgo|CONF1|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 43,
+  "truncated": 0
+ },
+ "p02_gerda|NAME|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 11,
+  "truncated": 0
+ },
+ "p03_advirgo|ANON|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 48,
+  "truncated": 0
+ },
+ "p02_gerda|NAME|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p03_advirgo|CONF1|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 49,
+  "truncated": 0
+ },
+ "p03_advirgo|ANON|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p02_gerda|CONF1|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 41,
+  "truncated": 0
+ },
+ "p02_gerda|NAME|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 47,
+  "truncated": 0
+ },
+ "p03_advirgo|ANON|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 49,
+  "truncated": 0
+ },
+ "p02_gerda|CONF1|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p03_advirgo|BASE|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p03_advirgo|CONF1|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 1,
+  "hits": 48,
+  "truncated": 1
+ },
+ "p02_gerda|NAME|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 27,
+  "truncated": 0
+ },
+ "p03_advirgo|NAME|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p02_gerda|CONF1|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 34,
+  "truncated": 0
+ },
+ "p03_advirgo|NAME|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p05_sno|NAME|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p05_sno|NAME|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p05_sno|BASE|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 44,
+  "truncated": 0
+ },
+ "p09_nemo3|ANON|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 25,
+  "truncated": 0
+ },
+ "p05_sno|CONF1|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 26,
+  "truncated": 0
+ },
+ "p05_sno|BASE|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 2,
+  "truncated": 0
+ },
+ "p05_sno|CONF1|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 39,
+  "truncated": 0
+ },
+ "p05_sno|NAME|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 30,
+  "truncated": 0
+ },
+ "p09_nemo3|ANON|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p05_sno|NAME|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p05_sno|ANON|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p09_nemo3|ANON|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 8,
+  "truncated": 0
+ },
+ "p09_nemo3|ANON|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 1,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p05_sno|ANON|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 47,
+  "truncated": 0
+ },
+ "p05_sno|CONF1|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 47,
+  "truncated": 0
+ },
+ "p05_sno|ANON|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 48,
+  "truncated": 0
+ },
+ "p05_sno|BASE|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 46,
+  "truncated": 0
+ },
+ "p09_nemo3|ANON|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 4,
+  "truncated": 0
+ },
+ "p05_sno|BASE|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p05_sno|ANON|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 1,
+  "hits": 24,
+  "truncated": 0
+ },
+ "p05_sno|ANON|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p05_sno|ANON|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p05_sno|CONF1|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 39,
+  "truncated": 0
+ },
+ "p05_sno|CONF1|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 47,
+  "truncated": 0
+ },
+ "p05_sno|BASE|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p09_nemo3|ANON|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 3,
+  "truncated": 0
+ },
+ "p05_sno|NAME|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 32,
+  "truncated": 0
+ },
+ "p05_sno|CONF1|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 31,
+  "truncated": 0
+ },
+ "p09_nemo3|ANON|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 39,
+  "truncated": 0
+ },
+ "p05_sno|NAME|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 46,
+  "truncated": 0
+ },
+ "p05_sno|NAME|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 1,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p05_sno|BASE|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p05_sno|BASE|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p05_sno|ANON|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 37,
+  "truncated": 0
+ },
+ "p09_nemo3|BASE|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 2,
+  "truncated": 0
+ },
+ "p09_nemo3|BASE|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 2,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p05_sno|CONF1|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 6,
+  "truncated": 0
+ },
+ "p09_nemo3|BASE|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p09_nemo3|BASE|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p09_nemo3|BASE|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p10_borexino|ANON|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 16,
+  "truncated": 0
+ },
+ "p09_nemo3|CONF1|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 2,
+  "truncated": 0
+ },
+ "p09_nemo3|CONF1|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p10_borexino|BASE|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 17,
+  "truncated": 0
+ },
+ "p10_borexino|ANON|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 48,
+  "truncated": 0
+ },
+ "p09_nemo3|NAME|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 13,
+  "truncated": 0
+ },
+ "p10_borexino|ANON|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p09_nemo3|NAME|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 25,
+  "truncated": 0
+ },
+ "p09_nemo3|CONF1|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 1,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p09_nemo3|CONF1|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 7,
+  "truncated": 0
+ },
+ "p09_nemo3|CONF1|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p10_borexino|CONF1|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 2,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p10_borexino|ANON|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p10_borexino|CONF1|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p10_borexino|CONF1|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 14,
+  "truncated": 0
+ },
+ "p09_nemo3|NAME|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 6,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p10_borexino|BASE|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 3,
+  "truncated": 0
+ },
+ "p10_borexino|CONF1|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 8,
+  "truncated": 0
+ },
+ "p10_borexino|BASE|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p10_borexino|BASE|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 9,
+  "hits": 34,
+  "truncated": 9
+ },
+ "p10_borexino|CONF1|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 11,
+  "hits": 5,
+  "truncated": 11
+ },
+ "p10_borexino|ANON|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 14,
+  "truncated": 0
+ },
+ "p09_nemo3|BASE|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 10,
+  "truncated": 0
+ },
+ "p09_nemo3|NAME|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 6,
+  "truncated": 0
+ },
+ "p10_borexino|BASE|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 47,
+  "truncated": 0
+ },
+ "p10_borexino|CONF1|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 2,
+  "truncated": 0
+ },
+ "p10_borexino|BASE|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 1,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p10_borexino|ANON|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 1,
+  "hits": 3,
+  "truncated": 0
+ },
+ "p10_borexino|CONF1|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p10_borexino|BASE|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p10_borexino|ANON|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p09_nemo3|CONF1|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 2,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p09_nemo3|NAME|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 26,
+  "truncated": 0
+ },
+ "p09_nemo3|BASE|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 28,
+  "truncated": 0
+ },
+ "p09_nemo3|NAME|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 1,
+  "hits": 33,
+  "truncated": 0
+ },
+ "p09_nemo3|NAME|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 1,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p09_nemo3|CONF1|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 7,
+  "truncated": 0
+ },
+ "p10_borexino|NAME|claude-opus-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
+  "truncated": 0
+ },
+ "p10_borexino|NAME|claude-haiku-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 1,
+  "truncated": 0
+ },
+ "p10_borexino|NAME|claude-opus-4-5-20251101": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 9,
+  "truncated": 0
+ },
+ "p10_borexino|NAME|claude-haiku-4-5-20251001": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 0,
+  "truncated": 0
+ },
+ "p10_borexino|NAME|claude-sonnet-4-5-20250929": {
+  "n": 50,
+  "no_final": 2,
+  "hits": 3,
+  "truncated": 0
+ },
+ "p10_borexino|NAME|claude-sonnet-4-6": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 14,
+  "truncated": 0
+ },
+ "p10_borexino|NAME|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 48,
+  "truncated": 0
+ }
+}

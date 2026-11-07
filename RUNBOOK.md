@@ -111,3 +111,15 @@ Both are stricter than the standard applied to the cleared pairs (stated retaine
 | p13 NA62 | wire supports are an add-on, but the electrostatic window is only 2× and not robust anyway | no |
 
 **Only p19 is affected.** It gets a full author attempt under C1.
+
+## 2026-11-07: confirmatory sampling done
+
+- **Harvest:** 8,400 upgrade and 3,360 identification responses, 0 non-success.
+- **Truncation (§7):** three Sonnet 5.5 cells exceeded 1% truncation: p03 CONF1 (1/50), p10 BASE (9/50), p10 CONF1 (11/50). They are resampled once at a 32k cap (`data/conf_upgrade_resample`), and the results replace those cells in cards and analysis.
+- **Screen:** CONF1 hits 938/2100 and BASE hits 1162/2100 on the final line; 2,668 cards in total.
+
+**Implementation of §5 adjudication (no deviation from the frozen design).** The "two independent adjudicator agents" are run as independent Batches-API requests:
+- A = `claude-fable-5-1`, B = `claude-opus-4-8`. Neither is in the confirmatory set, so no model codes its own outputs.
+- Each request sees only the frozen RUBRIC.md and one blinded card (no model identity or template).
+- Script: `analysis/adjudicate.py`.
+- Reason: at 2,668 cards, agent-by-agent reading is not feasible; per-card requests also make every coding independent and auditable.

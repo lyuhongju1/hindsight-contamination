@@ -1,0 +1,1402 @@
+{
+ "24b766a5b0": {
+  "custom_id": "0c3cfaafdc7aa38e61c339f49dbb30ce",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "70b154e7d1": {
+  "custom_id": "9b849f07a779b16fb151dc18b2fea766",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "a80b9d8e26": {
+  "custom_id": "a24292cb8c25bffa1eeec4353fc17f49",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "b6adca2f13": {
+  "custom_id": "e189c99da3dd72b60ec3233bd081767a",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "5ae5d68c43": {
+  "custom_id": "d1bbd0306a4f00c77750b26194ff76aa",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "9a2d0b52e9": {
+  "custom_id": "99e38900a55dfda7efa58fad27fda61b",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "b0865b7d6d": {
+  "custom_id": "201c63f52082c7fb9a6e6c3d513a2c30",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "4fc8bca627": {
+  "custom_id": "550241ff239c0dbeba847a20428f11e9",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "dc2ccbb55e": {
+  "custom_id": "4f77ebbf3b38994a9391b8a1be5e4d8a",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "cf1d20ed05": {
+  "custom_id": "193be4a7b2049fa503b057a771e2288d",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "cd10b3bbf7": {
+  "custom_id": "100a33f9da1ef6c9b22de9e62adf078e",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "d5ee943174": {
+  "custom_id": "bf1a817e3617c27fca76e0939b1df08d",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "bf2929ece2": {
+  "custom_id": "84859ebc9e28fcee4eb9cdd5a409f616",
+  "model": "claude-haiku-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "cb6be50e8b": {
+  "custom_id": "eee19d56a68634f041b0b70d009c8619",
+  "model": "claude-haiku-5-5",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "fcb051533f": {
+  "custom_id": "ee3e523f7a2e74e450ce85dd035b4e3e",
+  "model": "claude-haiku-5-5",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "11f011c0d5": {
+  "custom_id": "7e6ed70c4c054dbd346efa087a9209be",
+  "model": "claude-haiku-5-5",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "ab450d9758": {
+  "custom_id": "3177255cb2e19a4e88d11db8e83643a4",
+  "model": "claude-haiku-5-5",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "63e2d4bdf9": {
+  "custom_id": "b030c4498bc1b5ed18f23b97ebe796ff",
+  "model": "claude-haiku-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "e02335101c": {
+  "custom_id": "27d82c4598467b0900d8f7f702011560",
+  "model": "claude-haiku-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "e80c20f3f4": {
+  "custom_id": "7765a6e325f0a1bdc5e32b0205649f12",
+  "model": "claude-haiku-5-5",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "e5ae93997c": {
+  "custom_id": "a9439639cafda57d0838613cb72cb7fd",
+  "model": "claude-haiku-5-5",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "a654947585": {
+  "custom_id": "c5ab9556b5e7ab639aadd9f9bf6ec2e2",
+  "model": "claude-haiku-5-5",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "55f33a2fe7": {
+  "custom_id": "759dd69702980d97d6151407d7907cb3",
+  "model": "claude-haiku-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "2fbaba0c78": {
+  "custom_id": "6c856980a3732867173351cb7b8d8936",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "e71bd20a67": {
+  "custom_id": "31a3beff748b694d2a6bea9dec753273",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "a2a40a9e9e": {
+  "custom_id": "b26bbbbc28457c7bd01f0be5c6f633d8",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "3b9e773d30": {
+  "custom_id": "4e53d18fa7fb95344a3c575e3e466a0e",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "58de53b1a1": {
+  "custom_id": "e811f20422b669b7e67d5d5c3fa2ad08",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "c6b39b612c": {
+  "custom_id": "9468767294b39ef415163a4dff63b80f",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "ac74a5ec9c": {
+  "custom_id": "e17f19693ab3b6bf4f53b036c267be84",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "efa409d6f8": {
+  "custom_id": "8d500d192b354631861d359d1ddfaccc",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "2c38487da1": {
+  "custom_id": "5a43b29056f26d729f351ab72665b262",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "048dc80646": {
+  "custom_id": "c5d14c5dbeeff5de6bdbf95c8f837e1e",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "2ec3582bc2": {
+  "custom_id": "fbb8d9c0b1e6134b37f1afb7e86531e3",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "84e7f4769d": {
+  "custom_id": "2f7c7b4a06eb8b8fc0dfee817a80d374",
+  "model": "claude-opus-5-5",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "197ec907e7": {
+  "custom_id": "c24e37ad5dd1eab02ac02fc95e9641d2",
+  "model": "claude-opus-5-5",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "35b048168e": {
+  "custom_id": "97748783263831f94ff70742ac30131c",
+  "model": "claude-opus-5-5",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "1de8926511": {
+  "custom_id": "cdd757b1cca39cef29dfaa5c346f4f90",
+  "model": "claude-opus-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "af80771a6d": {
+  "custom_id": "5c7034bb501f1d3ad5ebcf51a12981ff",
+  "model": "claude-opus-5-5",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "2bbe0a09ec": {
+  "custom_id": "e3ee2b80fd6b86f925e173d728df5d3f",
+  "model": "claude-opus-5-5",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "53364d2999": {
+  "custom_id": "a15b1d1ca4df0470f828e7208c8ef93d",
+  "model": "claude-opus-5-5",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "fd406c3398": {
+  "custom_id": "26a771ae340ede0996866b9a81ede289",
+  "model": "claude-opus-5-5",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "856e961c9d": {
+  "custom_id": "961e9fc84f68f1885b87647661b32370",
+  "model": "claude-opus-5-5",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "1cc04fa0bf": {
+  "custom_id": "c82a25b50f10c1f03c79ce8cb592b96b",
+  "model": "claude-opus-5-5",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "d894ff65cd": {
+  "custom_id": "c99bcaa391a09baa7ad1d547e8749a7c",
+  "model": "claude-opus-5-5",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "cf3933a6fc": {
+  "custom_id": "72b0af3e649775d4b43613c3fcfd9fcb",
+  "model": "claude-opus-5-5",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "9b2a960122": {
+  "custom_id": "58303529efb3314290284d8b32c48eb4",
+  "model": "claude-opus-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "fb0ebe479e": {
+  "custom_id": "72f0a2911cdb70e211570b36dbf1df36",
+  "model": "claude-opus-5-5",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "20e36d49ce": {
+  "custom_id": "0602b1385b853ed296393e5be051ea02",
+  "model": "claude-opus-5-5",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "6407db57e9": {
+  "custom_id": "70181da2b6594a4e613732f0901bc47f",
+  "model": "claude-opus-5-5",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "fd950f8bd5": {
+  "custom_id": "c28837c2ed7b907872318e1364fa9784",
+  "model": "claude-opus-5-5",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "d1c6087752": {
+  "custom_id": "907bbfb7d44ffdd2a99cc38b221c5bc3",
+  "model": "claude-opus-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "8acbe2f062": {
+  "custom_id": "2bf9c90c4d1c9826f1df515c005648ca",
+  "model": "claude-opus-5-5",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "cdddcdd15e": {
+  "custom_id": "7f5c3e31ea60e64f36d06070b18981e9",
+  "model": "claude-opus-5-5",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "efc37ee230": {
+  "custom_id": "863f18955e2cc03d58b84cfcadac4500",
+  "model": "claude-opus-5-5",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "b033865899": {
+  "custom_id": "f900dd169624bb4970f95d786bb616d2",
+  "model": "claude-opus-5-5",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "8a66674617": {
+  "custom_id": "ee1d13e9fbbd47b7fdbafba69eddf4ac",
+  "model": "claude-opus-5-5",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "cd32ab1c1c": {
+  "custom_id": "9c51ab7216270c5b66234435f2823eba",
+  "model": "claude-opus-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "2f49651234": {
+  "custom_id": "cf3515ffb38642fa3d708a518f49ecb7",
+  "model": "claude-opus-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "c33d06228b": {
+  "custom_id": "55f5ea5af4c6348747d013c1ac048994",
+  "model": "claude-opus-5-5",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "960ace1744": {
+  "custom_id": "6f9c4f5694e4cbb810ff50597fadcc64",
+  "model": "claude-opus-5-5",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "f63b340f9c": {
+  "custom_id": "db79ce7c2be6a2717bacafd5ab1e9a79",
+  "model": "claude-opus-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "c2f6d8c310": {
+  "custom_id": "1a66fa089108a007d24a51498d026cf3",
+  "model": "claude-opus-5-5",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "e0640badd4": {
+  "custom_id": "27cd147548fec9f2929f1a533746554c",
+  "model": "claude-opus-5-5",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "fc2970089d": {
+  "custom_id": "890a1dfcb424d62c24140db672d72af5",
+  "model": "claude-opus-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "e974578034": {
+  "custom_id": "b7d1b602da3d7a5f08a319c7f9113cdc",
+  "model": "claude-opus-5-5",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "a137b0d63f": {
+  "custom_id": "082991882a39b24f372f057a9443127a",
+  "model": "claude-opus-5-5",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "7c782c9fea": {
+  "custom_id": "6a656cc0164ea93d22ff623b12710086",
+  "model": "claude-opus-5-5",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "b453bbc2af": {
+  "custom_id": "43d42caaaa9c63d59b44d07daccaab7c",
+  "model": "claude-opus-5-5",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "615b125901": {
+  "custom_id": "ae44a932a24dcac3bd887dd38d0cb63d",
+  "model": "claude-opus-5-5",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "59498994a9": {
+  "custom_id": "34d5d9a56861da688f03e66424197702",
+  "model": "claude-opus-5-5",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "3e37b8fad3": {
+  "custom_id": "dfd72aa905bf73506f7173cb974f62ca",
+  "model": "claude-opus-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "e79a85bcd1": {
+  "custom_id": "c4018f68103ae795f9b69bfa7a12e678",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "315e264251": {
+  "custom_id": "811758e99e4715bcb552ba67219af2b7",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "249c59396c": {
+  "custom_id": "c745d57c3bdd7073dabb37494e183e37",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "21eb71d42f": {
+  "custom_id": "6630500a0690b6e72342ca5404cd28a8",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "15dbc218bf": {
+  "custom_id": "90738bb21c8c60ffb0b5183cfec0363f",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "525f461d24": {
+  "custom_id": "5ef856e79c7ea6fb60d7cfe3e941988a",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "c0c5ce42e0": {
+  "custom_id": "87ab8de2662a09294f2508a3c655d0e9",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "4c02b5f151": {
+  "custom_id": "1fa4852ec5508d69e5604f21ce9b077a",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "6bfeba2b50": {
+  "custom_id": "3b8409dc9441878cf6d1c9e49a39a931",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "73dccdab40": {
+  "custom_id": "37971f34a879403744f26402f583f193",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "af8af8e2ca": {
+  "custom_id": "1c64b12a4ae8c9b39910e74642caee84",
+  "model": "claude-sonnet-4-6",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "d777f45127": {
+  "custom_id": "a1b6f9dbfcddaab21d5823f629b16dde",
+  "model": "claude-sonnet-4-6",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "61aceb145a": {
+  "custom_id": "02b950ad547d1f47f4665a3bd3874c61",
+  "model": "claude-sonnet-4-6",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "310c6df0f4": {
+  "custom_id": "2340015262991b2a8840d6cb8dacbd86",
+  "model": "claude-sonnet-4-6",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "5ccf3b8e7d": {
+  "custom_id": "d03486c431d839eee9e8debd79766095",
+  "model": "claude-sonnet-4-6",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "00cd5921e0": {
+  "custom_id": "6bf2af20d296b63c9cbf65adf3a8e7a4",
+  "model": "claude-sonnet-4-6",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "7aba00a72a": {
+  "custom_id": "c1aa1397cf58df5e32e1f6a1aae4216d",
+  "model": "claude-sonnet-4-6",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "a699994190": {
+  "custom_id": "72f17ccd02cb3b177a057e0beea58401",
+  "model": "claude-sonnet-4-6",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "122ef8de53": {
+  "custom_id": "7df4401e68c11ad4b43db826677f1b20",
+  "model": "claude-sonnet-4-6",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "379d7c9357": {
+  "custom_id": "5389ce035eafdcf751e47739d1b5c9b5",
+  "model": "claude-sonnet-4-6",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "728442074d": {
+  "custom_id": "8cf225dd470fb00d6167f0b869770f9d",
+  "model": "claude-sonnet-5-5",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "4496e20c07": {
+  "custom_id": "5d2098a0c79b0ad6fa66ed2a6ada43ef",
+  "model": "claude-sonnet-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "0d6b5ee309": {
+  "custom_id": "d4d30bd09393bf9cd6f08aa6a13a76f9",
+  "model": "claude-sonnet-5-5",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "9d29734152": {
+  "custom_id": "2eb94e3b39d8f5667aa49aa53b697b42",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "cb6f0bd367": {
+  "custom_id": "07c615999743c97f2fdd5805b07068bb",
+  "model": "claude-sonnet-5-5",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "d185b0cd06": {
+  "custom_id": "54bbcd0a2b52c90b89e5f01b1760e96f",
+  "model": "claude-sonnet-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "8a6a9f4bf1": {
+  "custom_id": "975741a055c69b42fda31b2cd42d911b",
+  "model": "claude-sonnet-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "e6e88e8313": {
+  "custom_id": "052d20929deb59132cfd08c830a7e7cd",
+  "model": "claude-sonnet-5-5",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "2ddea4b707": {
+  "custom_id": "c5b4be53147934b8cb8ee5db69f8df1e",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "37614275d9": {
+  "custom_id": "b24f7d7f42002a25358f90f1dfafb86b",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": true
+ },
+ "bc337a5fc1": {
+  "custom_id": "6cf73e5998db80225769912e3a390388",
+  "model": "claude-sonnet-5-5",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "e1230ca69f": {
+  "custom_id": "cc7b80ba90efb077a55d35a56959a743",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "426f04fc3b": {
+  "custom_id": "a9beaafe0a5617d7790419cd4e985293",
+  "model": "claude-sonnet-5-5",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "85cc2e4ce7": {
+  "custom_id": "e37fe06aeef039c7079d02dcf9701ff8",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "1562df2a67": {
+  "custom_id": "020e23133509fb14014da792867b8bc9",
+  "model": "claude-sonnet-5-5",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "61ba468120": {
+  "custom_id": "cd3aa5b474b31b78675e99322262eac8",
+  "model": "claude-sonnet-5-5",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "6b20f6dd22": {
+  "custom_id": "e88dc52c9a7a252e4de09e6aaa280bb1",
+  "model": "claude-sonnet-5-5",
+  "template": "T4_proposal",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "c7aec14661": {
+  "custom_id": "191d1f41a5405a6ecc246df6ce3439a8",
+  "model": "claude-sonnet-5-5",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "39a4370a6b": {
+  "custom_id": "f77c4adcf42bed165b94ceab320b4a87",
+  "model": "claude-sonnet-5-5",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "555db99839": {
+  "custom_id": "937cb32491c9c3630f96af7e6262bb26",
+  "model": "claude-sonnet-5-5",
+  "template": "T3_review",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
+ "98739691bb": {
+  "custom_id": "a16ebb9947f38d9bde17f281848b2b5e",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "bb47691c8b": {
+  "custom_id": "0ee8bc3a5ae2dea6d054b77231eaa7a5",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "baa0e99448": {
+  "custom_id": "b68468bb0103c3cdb84d89025822d982",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "46b29c9008": {
+  "custom_id": "a64811e1490aacbc5c10ffb4b56a3165",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "bc8b1ba269": {
+  "custom_id": "7239f1bcdbbc444a37bc014937af1a37",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "911145dc60": {
+  "custom_id": "fda9f6679ad11fe49775f6fbc57be974",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "9bc3236474": {
+  "custom_id": "7cfc984b4740cd9ce31935c2da136c92",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "e76866a72e": {
+  "custom_id": "c66fb19b61c1f3e7bfe5b4c09991571d",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "1330faf1cb": {
+  "custom_id": "7f9d03f264d5c842ed55c9123958c291",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "30241cd49d": {
+  "custom_id": "7a52d3a0f7b2a0b79bbcb60c6982c5c5",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "7a6cf04172": {
+  "custom_id": "7760219759a5afadca7bc2a06f1c880d",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "b0a9585f45": {
+  "custom_id": "3fdc8d7b8e6c7021b3d9be967283e549",
+  "model": "claude-haiku-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "879b459413": {
+  "custom_id": "f8a73074909fab5d4d5bcaf1a947253b",
+  "model": "claude-haiku-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "76eb88ced4": {
+  "custom_id": "4868ddbc6f72b979e02536bbfe16786b",
+  "model": "claude-haiku-5-5",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "a8c98a9bb6": {
+  "custom_id": "b8a8ae905d9cd34189be1cfa15f91a81",
+  "model": "claude-haiku-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "2690829e57": {
+  "custom_id": "57016df6bf5f681eb8bead2f9242517c",
+  "model": "claude-haiku-5-5",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "04a4e0b122": {
+  "custom_id": "63075c2b4326256d49992a450d408805",
+  "model": "claude-haiku-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "2961f89fac": {
+  "custom_id": "1e23b1b59397cc8ee96a1e11c854aff4",
+  "model": "claude-haiku-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "8c1cfda24a": {
+  "custom_id": "3a4b3d0134f0779942e0b698516ddabc",
+  "model": "claude-haiku-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "4052d6f184": {
+  "custom_id": "3d0346353c0f1356545f6fa19bebc27c",
+  "model": "claude-haiku-5-5",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "3c8672d38f": {
+  "custom_id": "df0e1995c395633c32007405d235467d",
+  "model": "claude-haiku-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "c146cba370": {
+  "custom_id": "4b55935efab228fb5bf81bb45c973a07",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "5e35bfde2b": {
+  "custom_id": "dc155bff3438546688df1b878cb4e939",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "a1bc093beb": {
+  "custom_id": "5df43cccf16ebd9c36a7f1098f2dc31c",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "f039d2d8a9": {
+  "custom_id": "d1c55d5b391ebd9d3c7a8e9d6588ae7b",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "eab96712fa": {
+  "custom_id": "03f2a39d0dbcd8f840545b35e10551bf",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "e465f3205c": {
+  "custom_id": "6958e86ba0e0028acfc8dfee8c1d6a92",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "a1e62ccc18": {
+  "custom_id": "8edefc478bd05d97591eab7831a7b926",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "7378673826": {
+  "custom_id": "7a85e3dafa5f7dc4190a5e772ce5a700",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "fee0071f5a": {
+  "custom_id": "09571a3d0936e806d61d8390013421e1",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "5cce4f7377": {
+  "custom_id": "55240801085e79f0ba6ea2a3cc9a603c",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "60ee465ae7": {
+  "custom_id": "9b56a90107e5df5421245f01003b47ac",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "9b69b5371b": {
+  "custom_id": "a4767be92ca1ce231d9eccfdd6c4d933",
+  "model": "claude-opus-4-5-20251101",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "1fff6b18b3": {
+  "custom_id": "93a306497813d0a366dbd54ab0843057",
+  "model": "claude-opus-5-5",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "bb20a47ec0": {
+  "custom_id": "1444f0b33dc3593a247cad2b26f754a7",
+  "model": "claude-opus-5-5",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "84dab1f601": {
+  "custom_id": "0be5479799d3604322f3dca648063d83",
+  "model": "claude-opus-5-5",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "70fd6851a1": {
+  "custom_id": "50f1a77f5a6c662a9072e80175af7938",
+  "model": "claude-opus-5-5",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "87716d8575": {
+  "custom_id": "ddef08b8d5bd89d654ab192b8e9329ec",
+  "model": "claude-opus-5-5",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "3ff8db49e2": {
+  "custom_id": "cb1c7fb991e1c057ac0af4d0b41d76b0",
+  "model": "claude-opus-5-5",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "abfe96179a": {
+  "custom_id": "863fe5e747967a6e9f36646b63898266",
+  "model": "claude-opus-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "e5699a1a48": {
+  "custom_id": "c0a989f9e91009b8b471a7bf619b0fda",
+  "model": "claude-opus-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "ffab4f85a7": {
+  "custom_id": "ce09bacb0c5394578a378e8c159e7e2e",
+  "model": "claude-opus-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "ede684d786": {
+  "custom_id": "a536f7be38f046375cb04c5a754fca73",
+  "model": "claude-opus-5-5",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "db3f0f6d9d": {
+  "custom_id": "be271f074517b303d4e0195497e6abf0",
+  "model": "claude-opus-5-5",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "c2e470893b": {
+  "custom_id": "3e5bed1826a127f7bc6247ef35a0a36e",
+  "model": "claude-opus-5-5",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "306c210e1c": {
+  "custom_id": "ad7a4e39f043fc6bdc2097373ac1e74d",
+  "model": "claude-opus-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "71bb2b69f4": {
+  "custom_id": "bf5a792b47031a8ba9d723a5ed193ca1",
+  "model": "claude-opus-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "6126db85ff": {
+  "custom_id": "edd7e8797307a9cfa69bc18ccb755f00",
+  "model": "claude-opus-5-5",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "684c0cda58": {
+  "custom_id": "80848f59f23633170d6c0d17a56a71cc",
+  "model": "claude-opus-5-5",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "61082f47ab": {
+  "custom_id": "2a35961d8abe64051995b81c3eeab2aa",
+  "model": "claude-opus-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "ff76c487f3": {
+  "custom_id": "32ec4b84aef73af05a1a255f5d27966a",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "b2aed98d8f": {
+  "custom_id": "4c2455893347f0c31a7180c17a3aab20",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "00625beb75": {
+  "custom_id": "bcda1e535dc9c19464ed3db0409f85ae",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "df9a4722b7": {
+  "custom_id": "ccca0a267a01242eea89797212aebd3d",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "4f754c5f23": {
+  "custom_id": "976153c66ea9c8d79ca77b169e3f4c54",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "1546d4e772": {
+  "custom_id": "c3cc60e08571670d0325cf89d8722898",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "b0050c1ca7": {
+  "custom_id": "e6f1779d4c6ecfc2c5cec7ed735a0d79",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "aacfad5bc5": {
+  "custom_id": "fa1197d5ddb492a50c6aaa68aa8a682b",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "a2a04635a3": {
+  "custom_id": "5ee6dd8b288d2f759394aa2b38b79bfa",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "e5a62bb7e4": {
+  "custom_id": "1e0859a065de59794344b04b7fff2ef8",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "33996f3498": {
+  "custom_id": "d5d6495317e044351ff8fad62dde3d90",
+  "model": "claude-sonnet-4-6",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "95b6e4d4c8": {
+  "custom_id": "45dedceca23059f014785356fcaf7af2",
+  "model": "claude-sonnet-4-6",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "26cc837798": {
+  "custom_id": "4f94c044e8b979ee43fef90a8ba29bb2",
+  "model": "claude-sonnet-4-6",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "13e4d25dff": {
+  "custom_id": "873b6aa90a2c0703762ecc0af294bcae",
+  "model": "claude-sonnet-4-6",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "f0efb106b8": {
+  "custom_id": "98314f26f6f54d0d246ff20217960a82",
+  "model": "claude-sonnet-4-6",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "6b9b896dcb": {
+  "custom_id": "ac6b13d29df60c4fa8e244923d854256",
+  "model": "claude-sonnet-4-6",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "dead228fc8": {
+  "custom_id": "a7c410aaea663473ab1e3a56be2b7659",
+  "model": "claude-sonnet-4-6",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "eb7fc829d3": {
+  "custom_id": "f92cccfd1eab1b66c1d952c5415f6f9f",
+  "model": "claude-sonnet-4-6",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "7dfcf1579d": {
+  "custom_id": "60d5d4865449cef65ff483f7dd9b3248",
+  "model": "claude-sonnet-4-6",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "7460d250ec": {
+  "custom_id": "ab441e766747898499fe5a7da4a11544",
+  "model": "claude-sonnet-4-6",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "734ae56f69": {
+  "custom_id": "14896a8a9b88e2e9a746bbe21f9fb822",
+  "model": "claude-sonnet-4-6",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "e6cdf29a35": {
+  "custom_id": "7263003d8ed02872bd29eded25f60d9c",
+  "model": "claude-sonnet-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "66bae35708": {
+  "custom_id": "3a9c3f8048d0afd3daad64ee175b1093",
+  "model": "claude-sonnet-5-5",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "973e6422aa": {
+  "custom_id": "f504c455779b26eef776b62d0495cfce",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "6c48288c74": {
+  "custom_id": "33d9d7110270aab03934bf23d9eac248",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "adfc7065c3": {
+  "custom_id": "56cd284668c14f50142a3989e0305b32",
+  "model": "claude-sonnet-5-5",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "860b28cd64": {
+  "custom_id": "c31dd95b4fb2e7b76ff18793bacc8ded",
+  "model": "claude-sonnet-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "05ce9a0b30": {
+  "custom_id": "3c8ef6b6c0ce7522fde9825c02e9a7f2",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "71fe4fef02": {
+  "custom_id": "2e68688d1925ecc2f1549ee7c7dee295",
+  "model": "claude-sonnet-5-5",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "b3c1824e41": {
+  "custom_id": "0f86c6f5c4035a8fe1670018244f3168",
+  "model": "claude-sonnet-5-5",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "0b72bac309": {
+  "custom_id": "c6de10310f43bc937226a8cce658b4fb",
+  "model": "claude-sonnet-5-5",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "979f5d52c6": {
+  "custom_id": "6bd6dd69dfab6b7fd47db91b2fce67af",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "63695bcc44": {
+  "custom_id": "c7bbd32584d3c07506c602ef671d245c",
+  "model": "claude-sonnet-5-5",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "7a7816213e": {
+  "custom_id": "f53f937c115c111789a1cd73c19095a2",
+  "model": "claude-sonnet-5-5",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "4ad89b5682": {
+  "custom_id": "024e7c760c7a406185396c2cfd484ffa",
+  "model": "claude-sonnet-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "47056f9b7c": {
+  "custom_id": "1e6766385b138142b09feb5b38b9fd13",
+  "model": "claude-sonnet-5-5",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "76e0d20653": {
+  "custom_id": "4ac2e79d54f0219b62074fe79e717819",
+  "model": "claude-sonnet-5-5",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": false
+ },
+ "f8bc7049b0": {
+  "custom_id": "686498e9aad83ff09c5597bd2d5e6ddc",
+  "model": "claude-sonnet-5-5",
+  "template": "T3_review",
+  "level": "CONF1",
+  "regex_final_hit": false
+ }
+}

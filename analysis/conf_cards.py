@@ -34,8 +34,19 @@ def sentences(t, pair):
         s = s.strip()
         if 15 < len(s) < 600 and re.search(pat, s, re.I) and s not in out: out.append(s)
     return out[:25]
-rows = [json.loads(l) for l in open(os.path.join(RUN, "raw.jsonl"), encoding="utf-8")]
-plan = {r["cid"]: r for r in json.load(open(os.path.join(RUN, "plan.json")))["requests"]}
+
+def merged(RUN):
+    """Main run, with cells resampled at 32k (data/conf_upgrade_resample) replacing the originals (PREREGISTRATION §7)."""
+    plan = {r["cid"]: r for r in json.load(open(os.path.join(RUN, "plan.json")))["requests"]}
+    rows = [json.loads(l) for l in open(os.path.join(RUN, "raw.jsonl"), encoding="utf-8")]
+    rs = os.path.join(os.path.dirname(RUN), "conf_upgrade_resample")
+    if os.path.exists(os.path.join(rs, "raw.jsonl")):
+        rplan = {r["cid"]: r for r in json.load(open(os.path.join(rs, "plan.json")))["requests"]}
+        cells = {(r["pair"], r["level"], r["model"]) for r in rplan.values()}
+        rows = [r for r in rows if (r["pair"], r["level"], plan[r["custom_id"]]["model"]) not in cells]
+        rows += [json.loads(l) for l in open(os.path.join(rs, "raw.jsonl"), encoding="utf-8")]; plan.update(rplan)
+    return rows, plan
+rows, plan = merged(RUN)
 screen = defaultdict(lambda: {"n": 0, "no_final": 0, "hits": 0, "truncated": 0})
 groups = defaultdict(lambda: {"hit": [], "non": []})
 for r in rows:
