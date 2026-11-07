@@ -125,5 +125,11 @@
   "adopted": "(high|increased|enhanced|improved)[\\s-]+(qe|quantum[\\s-]efficiency)\\s+(pmts?|photomultipliers?)|super[\\s-]?bialkali|ultra[\\s-]?bialkali|r10408",
   "distractor": "hybrid\\s+photo[\\s-]?(detectors?|diodes?)|\\bhpds?\\b|gaasp|\\bsipms?\\b",
   "identity": "\\bmagic\\b|magic[\\s-]?(i|ii|2)\\b|la\\s+palma|roque\\s+de\\s+los\\s+muchachos|\\bcta\\b|\\bhess\\b|h\\.e\\.s\\.s"
+ },
+ "nc_p09_alt": {
+  "item": "NC alt for p09: 3-inch PMT directly coupled per small cell",
+  "adopted": "(3|three)[\\s-]?(inch|in\\.|\\\")\\s*(high[\\s-]qe\\s+)?(pmts?|photomultipliers?|tubes?)|\\b76[\\s-]?mm\\b|\\b7\\.6[\\s-]?cm\\b",
+  "distractor": "\\bsipms?\\b|silicon\\s+photomultipliers?|(1|one|2|two)[\\s-]?(inch|in\\.|\\\")\\s*(pmts?|photomultipliers?|tubes?)|multi[\\s-]?anode",
+  "identity": "\\bnemo[\\s-]?3\\b|super\\s?nemo|\\bnemo\\b|\\bfrejus\\b|\\bmodane\\b|\\blsm\\b"
  }
 }

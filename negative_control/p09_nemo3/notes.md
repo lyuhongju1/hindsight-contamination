@@ -65,3 +65,15 @@ These are the same as the main key: 18 % FWHM, 0.6 ns, 30 mm, 3 mT and the sqrt(
    - A multi-anode or position-sensitive PMT reading several cells on separate anodes. This is a different readout class (C1), not alt(u).
 4. **1-in. survivor.** A 1-in. PMT survives. Some may see it as "the same family" as alt(u). The NC rubric should code it as abandoning alt(u), consistent with 3-in. counting as abandoning 8-in. in CONF1.
 5. **Derived resolutions.** The SiPM resolution (9.2 %) is derived, not measured, with a margin of x1.96 to 18 %. alt(u)'s own 8.5 % rests on a similar derivation.
+
+## Post-red-team changes (2026-11-07; NC red team r1: CLEARED, notes and rubric FIXes applied before the NC freeze)
+
+- **Lateral spread** (replaces "still minor at 1 MeV"):
+  - In 26 mm cells a substantial share of 3 MeV electrons (order 30%), and a smaller share at 1 MeV, share energy with a neighbour cell.
+  - Clustering adjacent cells recovers the energy, at the cost of a low-energy tail from wrap losses.
+  - Line 10 is still satisfied, because clusters of electrons 6 cm apart do not overlap.
+  - Cells up to about 40 mm square (diagonal < 60 mm), with 5x5 or 6x6 arrays of 6 mm SiPMs, halve the edge fraction and remain survivors.
+- **Survivors:**
+  - 2-in. tubes fail with square cells (diagonal 77 mm).
+  - With round or hexagonal cells under 60 mm across they are a marginal additional survivor, not counted in the key.
+- **Doubt (line 5):** line 5 names the present 76 mm tubes. A preference for reusing existing hardware may inflate B_alt and O_alt for this unit. That bias works against H_NC, so it is conservative.
