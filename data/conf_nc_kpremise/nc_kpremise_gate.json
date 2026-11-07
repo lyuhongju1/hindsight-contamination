@@ -1,0 +1,37 @@
+{
+ "status": "PASS",
+ "expected": "NO",
+ "model_majority_correct": {
+  "claude-opus-5-5": true,
+  "claude-sonnet-4-5-20250929": true,
+  "claude-sonnet-5-5": true,
+  "claude-opus-4-5-20251101": true,
+  "claude-sonnet-4-6": true,
+  "claude-haiku-4-5-20251001": true,
+  "claude-haiku-5-5": true
+ },
+ "counts": {
+  "claude-opus-5-5": {
+   "NO": 20
+  },
+  "claude-sonnet-4-5-20250929": {
+   "NO": 15,
+   "YES": 5
+  },
+  "claude-sonnet-5-5": {
+   "NO": 20
+  },
+  "claude-opus-4-5-20251101": {
+   "NO": 20
+  },
+  "claude-sonnet-4-6": {
+   "NO": 20
+  },
+  "claude-haiku-4-5-20251001": {
+   "NO": 20
+  },
+  "claude-haiku-5-5": {
+   "NO": 20
+  }
+ }
+}
