@@ -1,6 +1,6 @@
 # Pre-registration: Recalled history overriding stated physics in AI detector design
 
-**Status: DRAFT v4.3** (2026-11-06; v4.3 changes H1 multiplicity and the item count, per Amendment A3, before any confirmatory sampling). It becomes binding when tagged `prereg-v4.2-frozen` in the public repository `github.com/lyuhongju1/hindsight-contamination`. That tag is created after the item set and materials are complete and **before any confirmatory sample is drawn**. After the freeze, changes are made only by dated amendments committed before they take effect.
+**Status: FROZEN v4.3** (2026-11-06). It is frozen by the public commit that adds `FREEZE_MANIFEST.md`, which holds SHA-256 hashes of this file and of every material, rubric, regex, template and script. That commit precedes any confirmatory upgrade or identification sampling. v4.3 changed H1 multiplicity and the item count under Amendment A3, before any confirmatory sampling. A git tag `prereg-v4.3-frozen` is added if permitted. Later changes require dated amendments. It becomes binding when tagged `prereg-v4.2-frozen` in the public repository `github.com/lyuhongju1/hindsight-contamination`. That tag is created after the item set and materials are complete and **before any confirmatory sample is drawn**. After the freeze, changes are made only by dated amendments committed before they take effect.
 
 **Route.** Public pre-registration with a timestamped git tag, not a journal Registered Report (PI decision 2026-11-06, for minimal PI involvement). A Zenodo snapshot may be added at the freeze.
 

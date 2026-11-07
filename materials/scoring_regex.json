@@ -8,13 +8,13 @@
  },
  "p02_gerda": {
   "item": "underground-sourced argon",
-  "adopted": "underground[\\s-](sourced\\s+)?(liquid\\s+)?argon|\\bug\\s?l?ar\\b|argon\\s+(sourced\\s+|extracted\\s+)?from\\s+(an?\\s+)?underground|(42|39)\\s?ar[\\s-](depleted|free|poor)|(depleted|low)[\\s-]in[\\s-](42|39)\\s?ar",
+  "adopted": "underground[\\s-](sourced\\s+)?(liquid\\s+)?argon|\\bug\\s?l?ar\\b|argon\\s+(sourced\\s+|extracted\\s+)?from\\s+(an?\\s+)?underground|(42|39)\\s?ar[\\s-](depleted|free|poor)|(depleted|low)[\\s-]in[\\s-](42|39)\\s?ar|\\buar\\b|argon\\s+from\\s+(an?\\s+)?underground\\s+(source|well|gas)",
   "distractor": "mini[\\s-]?shrouds?|encapsulat\\w+\\s+(the\\s+)?(detectors?|crystals?|diodes?)",
   "identity": "\\bgerda\\b|\\blegend\\b|majorana\\s+demonstrator|gran\\s+sasso|\\blngs\\b"
  },
  "p03_advirgo": {
   "item": "frequency-dependent squeezing",
-  "adopted": "frequency[\\s-]dependent\\s+squeez|filter\\s+cavit|(rotat\\w+|frequency[\\s-]dependent)\\s+squeez|squeez\\w*\\s+(angle\\s+)?rotat",
+  "adopted": "frequency[\\s-]dependent\\s+squeez|filter\\s+cavit|(rotat\\w+|frequency[\\s-]dependent)\\s+squeez|squeez\\w*\\s+(angle\\s+)?rotat|rotat\\w*\\s+(the\\s+)?squeez\\w*\\s+(angle|quadrature|ellipse)|squeez\\w*\\s+(angle|quadrature)\\s+(that\\s+)?(rotat|var)\\w*\\s+with\\s+frequency",
   "distractor": "epr[\\s-](entangl|squeez)|einstein[\\s-]podolsky[\\s-]rosen|conditional\\s+squeez|frequency[\\s-]independent\\s+squeez",
   "identity": "\\bvirgo\\b|adv\\+|\\bcascina\\b|\\bego\\b|\\bligo\\b|\\bkagra\\b"
  },
@@ -25,8 +25,8 @@
   "identity": "\\bicarus\\b|\\bt600\\b|\\bwa104\\b|\\bsbn\\b|short[\\s-]baseline\\s+neutrino\\s+program|gran\\s+sasso|\\blngs\\b|booster\\s+neutrino\\s+beam|fermilab|\\bfnal\\b"
  },
  "p05_sno": {
-  "item": "LAB liquid scintillator; Te-130 loading (author picks one, logged)",
-  "adopted": "linear\\s+alkyl\\s?benzene|alkylbenzene|\\blab\\b[\\s-]?(based\\s+)?(liquid\\s+)?scintillat|tellur|\\bte[\\s-]?130\\b|\\b130\\s?te\\b",
+  "item": "LAB liquid scintillator (author's pick; Te loading not the item)",
+  "adopted": "linear\\s+alkyl\\s?benzene|alkylbenzene|\\blab\\b[\\s-]?(based\\s+)?(liquid\\s+)?scintillat|\\blab\\b",
   "distractor": "neodym|\\bnd[\\s-]?150\\b|\\b150\\s?nd\\b|pseudo[\\s-]?cumene|\\bpxe\\b|phenyl[\\s-]?xylyl",
   "identity": "\\bsno\\b|sno\\+|\\bsudbury\\b|\\bsnolab\\b|\\bcreighton\\b"
  },

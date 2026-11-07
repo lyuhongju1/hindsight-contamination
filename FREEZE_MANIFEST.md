@@ -1,0 +1,64 @@
+# Freeze manifest: confirmatory study (PREREGISTRATION v4.3)
+
+Generated 2026-11-06 21:45:11 Eastern Standard Time. The study is frozen by the public commit that adds this file. No confirmatory upgrade or identification sample has been drawn. The only confirmatory-model calls so far are the K premise check (§2.4).
+
+| SHA-256 | file |
+|---|---|
+| `457c6b9bb592d98083f424604dfbb63951d6fce25baf7afba7a4b81a91551567` | PREREGISTRATION.md |
+| `7f3714cfa547c2a871c7a0348ef00fe15bcc346a877f03c3e895b2f4af24b637` | analysis_kpremise.py |
+| `b2c9e38a59ceb7f15ef0adbd0fb6e3169fb1e71a2daed5f7cd080d3288bfeb45` | data/conf_kpremise/kpremise_gate.json |
+| `07f07f2055df432df3fde4d845f0c3257161286d82c61bc0900ee9c624f96e52` | materials/AUTHOR_BRIEF.md |
+| `4379670cd6d8b1be580000fa48f56c1ef1db027edf38bd061c43e3eb9534413b` | materials/REDTEAM_BRIEF.md |
+| `22c87d9eb67de83f33b07bd4c1f46f6eb86ff832e4e674b15c45eeec4108655c` | materials/gates.py |
+| `a43b9a420e1093b52a1cb4c9af4288bec7e49e49fcd93020dc2eea7ae1983687` | materials/p01_xenon1t/RUBRIC.md |
+| `624adf301d7c21b9eb76967dce998f02c33f6a3b468a86359a3fb1fc443376c9` | materials/p01_xenon1t/descriptions/ANON.txt |
+| `905fd3d34260d4c7ba33a46e44671de1a6aafc0ea4bf7d0d44d3d3bccc09810b` | materials/p01_xenon1t/descriptions/BASE.txt |
+| `9b189ff31ee4bcae0a0422effdd728abaf6c4913a9fd6a0e6bc11228499d59c3` | materials/p01_xenon1t/descriptions/CONF1.txt |
+| `86f003f99105a782ae8274df6a5b96d7fad5560ad06b08f9165f82b0ef03d20c` | materials/p01_xenon1t/descriptions/NAME.txt |
+| `3ca927ed85bdbd62d153b5d28de77b04ee7193f3751641096f5a9c3378128195` | materials/p01_xenon1t/keys/key.py |
+| `9ceccd523f47d008cdf52b876de4f3d2e707340a293552aad073d619b7ae2627` | materials/p01_xenon1t/kprobe.json |
+| `7ef9d14715a1c240b2b83b9547c15db65b4f9932a0548886adaf93838042339b` | materials/p02_gerda/RUBRIC.md |
+| `98937413fa78e28707d6aa5cca09c9de67fee3f06c5ceb586f2a20fed68bdafa` | materials/p02_gerda/descriptions/ANON.txt |
+| `d0e3c0864af7baba44d38f8170518b37a18683b19994ceaf5d6ae8667ba78534` | materials/p02_gerda/descriptions/BASE.txt |
+| `0fabd1dc3afe4a99a5414944c4c4cd18884fc330ea2e49ff4f85ab12608ab0ff` | materials/p02_gerda/descriptions/CONF1.txt |
+| `c9940a434fae1cbc13fe8fb9ecca2d1b8796992270e456a39e6d050836919fda` | materials/p02_gerda/descriptions/NAME.txt |
+| `49d6ef320b53f2cc851389c12aab3f2aab4c7034a415c5ca4de16dcbef3c9517` | materials/p02_gerda/keys/key.py |
+| `53eb2d39749d4188db1780345db35f6d552f8fdfc4b15587198904c48abacf07` | materials/p02_gerda/kprobe.json |
+| `b31d21238694ebbd4f534a40ce62dfb2cd9fdf88150235f8f81d3b5529445144` | materials/p03_advirgo/RUBRIC.md |
+| `b1348934f25a595d118e01479b98e71db0497d33c5f8a9206571acb59373c4cf` | materials/p03_advirgo/descriptions/ANON.txt |
+| `5e77a96e492e223d11bab0618f10e906c1a9e8edc311ef85dd92b0f13a8bc9a7` | materials/p03_advirgo/descriptions/BASE.txt |
+| `665109dde44c0ed6461922c612d571070c7f617bdea4607d03e6774d9378a206` | materials/p03_advirgo/descriptions/CONF1.txt |
+| `4da110e2a60723156c95c9baf7dc074d2111f603c3461177f5b6d1f8bbcbb1ec` | materials/p03_advirgo/descriptions/NAME.txt |
+| `1ebb95abe216c6a7e63ca1490ec6c600e9666fb25088274d6561b4ea969bae65` | materials/p03_advirgo/keys/key.py |
+| `f248825ff25287bfc7316874104004b7aa12e9960d1d9c7594007e19d11a927d` | materials/p03_advirgo/kprobe.json |
+| `7ee2e292f77d80cabb58d00652c351e1c098d3224e9038976384dcd2500cb4b9` | materials/p05_sno/RUBRIC.md |
+| `6f6b180b59a5a0e0cda20a6371ef6c0614e69acf8e9af5f301d1790d819cce7b` | materials/p05_sno/descriptions/ANON.txt |
+| `3d5f458522fd728a4a21567a0ee55b031d7f3280b2b22e172c0bf8023ca7f2bc` | materials/p05_sno/descriptions/BASE.txt |
+| `dd4d70012f1a52a2f4966a9efa40860c446eb9388bf411dd0e2978d83cd56a32` | materials/p05_sno/descriptions/CONF1.txt |
+| `ba2c7b75dc59ad9a3eec3638ef2fd7d6d20e4e7d1011b3c4bb0586d9ba993544` | materials/p05_sno/descriptions/NAME.txt |
+| `57dcdb488b8521dc035b846e6a2f4034294fd437c242c409e874f680f6a595ab` | materials/p05_sno/keys/key.py |
+| `34068e7329a231e170b2dea3d69608e3c8500e3e70650de5e811e94eef20bf61` | materials/p05_sno/kprobe.json |
+| `d3418bdb1b4d431dd94f62e0d3e00c6955412fc72bc473027d5f0ca68e0eae6c` | materials/p09_nemo3/RUBRIC.md |
+| `9285225d89711293e6fb65da9783c616d843ebaff2ab7997e96e63970570735b` | materials/p09_nemo3/descriptions/ANON.txt |
+| `4543ef3cc71686408258a5f49988f0e463a7c4b6f20fa03270ff95a58d96e454` | materials/p09_nemo3/descriptions/BASE.txt |
+| `e5f7d8bb08eb81007f207f0732c6ca86a386e7949139a7a8f38853dd00db9c19` | materials/p09_nemo3/descriptions/CONF1.txt |
+| `9b5e04aba32ae445001a8a85cdb15de5861e7da2a0cc90ddec8aecf5a54aea3e` | materials/p09_nemo3/descriptions/NAME.txt |
+| `477dd380560455eef5bae3fdfa3dd180b3442d5cc400ec6611a41979a0d2ba8d` | materials/p09_nemo3/keys/key.py |
+| `56d47c0f82b171df3357d108a306c5686e7441a52e372208bb73a0b2db6f2799` | materials/p09_nemo3/kprobe.json |
+| `d63a7f14db943236a9be2e491348a60b16c1be4dad98283f22083b0718de957a` | materials/p10_borexino/RUBRIC.md |
+| `47ca70eafb183d768b8df8938bb6208415e2caace9300df570d85d6537febef2` | materials/p10_borexino/descriptions/ANON.txt |
+| `c6bdb723ccb261541c942766c058f2c9da97f53edb46d544804de45a68c21665` | materials/p10_borexino/descriptions/BASE.txt |
+| `64221af31f2baff7dc15b833f4944b7e6c07f04fa017a3de6267b8b26fd543d2` | materials/p10_borexino/descriptions/CONF1.txt |
+| `0a66cc8f2aaa9595c87ca812225982a01d3b186c62316941cab29930c90c3fb7` | materials/p10_borexino/descriptions/NAME.txt |
+| `f0a0556ec16debfef5d8b3b5b1ff9097e658e8de7cc7fbd1651bd411a7852943` | materials/p10_borexino/keys/key.py |
+| `d9b20bd68fdd0bdc3f33ad187234bb6c66c3ca1a339d09a9d9ddcf7632e13c1a` | materials/p10_borexino/kprobe.json |
+| `f68bb976ffbe151a3be6302ceebcf5a2c7f205e855c97faf0f32b9ec07c86dcd` | materials/scoring_regex.json |
+| `c63832ee56e206f2a225d3166b311af9afbef57fc26cfaf2f813d247347d56f8` | materials/test_regex.py |
+| `deb4b67328f536f31e64cd94b16308a383cd11e7dc8ecca97dbd3ccea91b2fee` | pilot/harness/batch.py |
+| `db7daa4ba1908da261bff4a5cde76a6d1009be41b70de127a987a2ed82112ed9` | pilot/harness/keylib.py |
+| `ba492e7f4fab37981117041e5148049b2a64bded18a27f4dd6449f505659d4a3` | pilot/harness/score.py |
+| `82bd8bf607f301d6427497b5e1313d4f997ecf6a1f62915a94b5362e10e7d9fc` | pilot/templates.json |
+| `f04c3cbbf879c539db80cc4a8a637c1419ff0cc329d6660e5f5242ca6366d2e2` | power/power_override.py |
+| `1ede474b60476c9c0b8c4236ab8f69f23b23053e1781f416323edb1035c7a49e` | power/power_small_J.py |
+| `eed630acf81bdc966ea7c4479269510767cd15e8749daa74bfc82ca10bba9bab` | search/AMENDMENT_A1.md |
+| `475032bc5edc096b884f619f5e4686b3756b3a76ff639c7fc7c5a8003ba007c2` | search/SELECTED_PAIRS.md |
