@@ -73,3 +73,5 @@ Whether the item was eventually **built and operated / approved but not built / 
 **p16 BESIII** is also a zero-unit pair (2026-11-06). Replacements owed: 4 (p08, p07, p11, p16).
 
 **p06 AGATA** and **p12 MiniBooNE** are also zero-unit pairs (2026-11-06). Zero-unit pairs: p04, p15, p08, p07, p11, p16, p06, p12. Replacements owed: 6, of which 2 are filled by p17 LUX and p18 Super-K, so **4 still open** (q26, q27, q30, q34, q37 and q38 are under assessment).
+
+**p13, p14, p17 and p18** are also zero-unit pairs (2026-11-06, batched confirmation). Units-bearing set: p02, p03, p05, p09, p10 cleared; p01 pending its r2 light check. Assessment continues in queue order (q26/q27 D1 running; p19 CUPID materials are provisional pending dating).

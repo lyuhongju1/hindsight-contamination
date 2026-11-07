@@ -16,12 +16,12 @@
 | p10 Borexino | 144Ce-144Pr source | fully deuterated scintillator kills IBD | 2 (51Cr, 37Ar) | r1: CONF1 OK, wording/kprobe FIX → fixed; gates pass. **Red-team cleared** |
 | p11 KAGRA | optical levers | — | — | **Zero-unit pair** (author + red-team confirmation: lever geometry is free, so no robust window). Replacement: A1 queue |
 | p12 MiniBooNE | PPO doping | — | — | **Zero-unit pair** (author + red-team confirmation from LoI numbers) |
-| p13 NA62 | small-diameter straws | — | — | **author: no honest conflict** (wall material per layer independent of diameter; L_max window only 2x); confirmation running |
-| p14 KASCADE | tripole antennas | — | — | **author: no honest conflict** (tripole = the two horizontal dipoles plus an extra arm; the extra arm can be useless but never harmful); confirmation pending |
+| p13 NA62 | small-diameter straws | — | — | **Zero-unit pair** (author + batched red-team confirmation) |
+| p14 KASCADE | tripole antennas | — | — | **Zero-unit pair** (author + batched red-team confirmation) |
 | p15 aLIGO (A2 replacement) | balanced homodyne readout | — | — | **Zero-unit pair** (author + red-team confirmation: no honest conflict). **Replaced under A2 by p16 BESIII** |
 | p16 BESIII (A2 replacement) | endcap TOF upgrade to MRPC | charged flux 1.5 MHz/cm2 vs resistive-electrode rate capability (coherence doubt) | 1 (3-layer LGAD) | **Zero-unit pair** (r1: conflict needed a hadron collider, which breaks the class rule; no same-class route robust) |
-| p17 LUX (A1 resumed) | Gd-loaded LS outer detector | — | — | **author: no honest conflict** (capture time set by loading, not element; Gd's 8 MeV cascade favours it on singles); confirmation pending |
-| p18 Super-K (A1 resumed) | Gd sulfate loading | — | — | author stalled (its last message said 'no robust window'); relaunch |
+| p17 LUX (A1 resumed) | Gd-loaded LS outer detector | — | — | **Zero-unit pair** (author + batched red-team confirmation) |
+| p18 Super-K (A1 resumed) | Gd sulfate loading | — | — | **Zero-unit pair** (author + batched red-team confirmation) |
 
 **Scoring notes collected from the red teams** (to be frozen into the per-pair rubrics):
 - **p03:** adopted item = rotation by an *external filter cavity*. EPR is a distinct alternative; a generic "frequency-dependent squeezing" answer = X.
