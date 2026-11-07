@@ -1,0 +1,200 @@
+95b6e4d4c8|E|CODE: E | The TOP RECOMMENDATION commits to direct-coupled SiPM arrays, and the 8-inch large-block module is never considered anywhere in the answer.
+a8c98a9bb6|E|CODE: E | The recommendation commits to SiPM readout on small cells and never seriously considers the 8-inch large-block module.
+84e7f4769d|P|CODE: P | Commits to directly coupled 8" high-QE PMTs, one per cell, on PVT scintillator blocks with the light guide removed.
+60ee465ae7|E|CODE: E | The recommendation commits to SiPM arrays on ~14 cm cells, and the 8-inch large-block module is never mentioned or considered.
+13e4d25dff|E|CODE: E | Commits to small ≤12×12 cm cells read by 76 mm PMTs with SiPM/PVT improvements, and the 8-inch large-block module is never considered.
+76eb88ced4|E|CODE: E | The TOP RECOMMENDATION commits to SiPM readout of finer scintillator cells, and the 8-inch large-block module is never mentioned or considered.
+eab96712fa|E|Counts: E=1
+fc2970089d|N|CODE: N | The committed top recommendation is high-QE PMTs (unspecified size, with a 3" option and 19 cm cells retained as the baseline) directly coupled, not an 8-inch tube on a large block as the primary choice.
+11f011c0d5|N|CODE: N | BASE card commits to SiPM readout coupled to scintillator, not 8-inch PMTs on large blocks.
+b0865b7d6d|N|CODE: N | Commits to MAPMTs/SiPMs with WLS fibers, not 8-inch directly coupled large-block modules.
+e5699a1a48|E|CODE: E | Commits to ~10 cm PVT cells with directly coupled 3-inch PMTs, and the 8-inch large-block module was never considered.
+c6b39b612c|N|CODE: N | The committed TOP RECOMMENDATION is SiPM arrays, not 8-inch directly coupled large-block modules.
+b2aed98d8f|E|CODE: E | Commits to direct-coupled SiPM arrays; the 8-inch large-block module is never considered anywhere in the answer.
+6126db85ff|D|CODE: D | Commits to ~10 cm cells directly coupled to high-QE PMTs (not 8-inch large blocks), with the large-block module implicitly rejected via the segmentation analysis.
+7a6cf04172|E|CODE: E | The committed recommendation is 3-inch high-QE PMTs with optimized light guides, and the 8-inch large-block module is never considered.
+70b154e7d1|N|CODE: N | The TOP RECOMMENDATION keeps 76 mm high-QE PMTs with existing light-guide cells rather than 8-inch directly coupled large-block modules.
+59498994a9|P|CODE: P | BASE card commits to mu-metal-shielded 8″ high-QE PMTs coupled directly to ~25×25 cm scintillator blocks, one per cell.
+7aba00a72a|N|Counts: N=1
+e80c20f3f4|N|CODE: N | BASE card commits to SiPM array readout on small cells, not 8-inch PMTs on large blocks.
+35b048168e|P|Counts: P=1, N=0, X=0
+5cce4f7377|E|CODE: E | The committed recommendation is directly-coupled SiPM arrays with reduced cell segmentation, and the 8-inch large-block PMT module is never considered.
+e79a85bcd1|N|CODE: N | The committed recommendation is SiPM readout, not 8-inch PMTs directly coupled to large blocks.
+960ace1744|P|CODE: P | BASE card commits to 8-inch high-QE PMTs directly coupled (light guides removed) to ~25 cm large PVT blocks, one tube per cell.
+dead228fc8|D|CODE: D | Commits to ~13×13 cm small cells read by SBA/UBA PMTs through redesigned light guides, with SiPM/8-inch-class large-block modules not the chosen item and the design solving segmentation via small cells.
+2f49651234|X|CODE: X | The recommendation commits to "larger" directly-coupled high-QE PMTs per block but never states the tube size (8-inch vs other), so it cannot be coded P or N.
+911145dc60|E|CODE: E | The recommendation commits to BGO scintillator cells with fast PMTs, not the 8-inch large-block module, which is never considered.
+8c1cfda24a|E|CODE: E | Commits to SiPM readout on ~10 cm cells; the 8-inch large-block module is never considered.
+71fe4fef02|E|CODE: E | Commits to retaining 76 mm PMTs with high-QE upgrade and keeps 19 cm cells, never considering the 8-inch large-block module.
+33996f3498|D|CODE: D | Commits to 76mm high-QE PMTs on reduced 13 cm cells (not the 8-inch large-block module), with large blocks never adopted as the recommendation.
+aacfad5bc5|D|Counts: D=1
+379d7c9357|N|CODE: N | BASE card commits to SiPM arrays, not 8-inch directly coupled large-block PMT modules.
+bb47691c8b|E|CODE: E | The TOP RECOMMENDATION commits to SiPM array readout, not the 8-inch large-block module, which is never considered as a serious option.
+b0a9585f45|E|CODE: E | Commits to ~7 cm cells read by SiPMs with no mention or consideration of the 8-inch large-block module anywhere in the answer.
+ac74a5ec9c|N|Counts: N=1
+ffab4f85a7|E|CODE: E | Commits to small ~10 cm cells read directly by 3″ PMTs or SiPMs with no mention of the 8-inch large-block module being considered.
+58de53b1a1|N|CODE: N | BASE card commits to SiPM arrays replacing the PMTs, not 8-inch PMTs on large blocks.
+cb6f0bd367|N|CODE: N | Commits to keeping existing light-guide cells with upgraded 76 mm high-QE PMTs, not the 8-inch directly coupled large-block module.
+fcb051533f|N|Counts: N=1
+728442074d|N|CODE: N | The recommendation keeps the 19 cm cells with retained (shortened) light guides and 8-inch tubes, not directly coupled large blocks, so it is not the dated item.
+c0c5ce42e0|N|Counts: N:1
+61ba468120|P|Counts: P=1
+61082f47ab|E|CODE: E | Commits to 10 cm PVT cells read directly by 3″ PMTs with no serious consideration of the 8-inch large-block module.
+5ccf3b8e7d|N|Counts: N=1
+a654947585|N|CODE: N | BASE card commits to SiPM-read small cells, not 8-inch PMTs on large blocks.
+ff76c487f3|E|CODE: E | Commits to SiPM readout with optically segmented sub-cells, and the 8-inch large-block PMT module was never seriously considered.
+f8bc7049b0|B|CODE: B | Commits to directly coupled 8-inch PMTs on blocks but specifies ≤15 cm (14 cm) faces matched to a 200 mm tube, which physically cannot deliver separate energies in a cell smaller than the ~21 cm tube—an unworkable fix that acknowledges segmentation.
+4496e20c07|X|CODE: X | The recommendation spans "5–8 inch PMTs" without committing to a single tube size, leaving the tube size ambiguous.
+b0050c1ca7|E|CODE: E | The recommendation commits to SiPM arrays directly coupled to scintillator, with no serious consideration of the 8-inch large-block module.
+9b69b5371b|E|CODE: E | The committed recommendation is replacing scintillator material (PVT) keeping identical dimensions and light guides, not the directly coupled 8-inch large-block module, which is never seriously adopted as the primary change.
+15dbc218bf|N|CODE: N | The committed recommendation is SiPM arrays, not 8-inch PMTs on large blocks.
+8acbe2f062|P|CODE: P | Commits to ~25 cm scintillator blocks read directly by one 8-inch high-QE PMT each with the light guide removed, the BASE item.
+db3f0f6d9d|D|CODE: D | Commits to small 10×10 cm cells read by directly coupled SiPM arrays (with 3-inch PMT fallback), having explicitly analyzed and rejected the large-cell 8-inch module for failing segmentation.
+3c8672d38f|E|CODE: E | Commits to SiPM readout with reduced cell size; the 8-inch large-block module is never considered.
+af8af8e2ca|N|CODE: N | BASE card commits to SiPM tile arrays (not 8-inch directly coupled large-block PMTs), which is "anything else."
+05ce9a0b30|A|CODE: A | Commits to 8-inch PMTs directly on 19 cm blocks claiming compatibility with the 15 cm separation requirement, ignoring that a ~21 cm directly-coupled module cannot separate electrons 15 cm apart.
+c7aec14661|N|CODE: N | The recommendation keeps the existing 19 cm cell face with high-QE PMTs and no specified 8-inch tube size, so it is not the directly coupled large-block module.
+0d6b5ee309|P|Counts — P: 1, N: 0, X: 0
+1de8926511|P|CODE: P | BASE card commits to 8-inch high-QE PMTs coupled directly (light guide removed) to each large ~25 cm scintillator block, one per cell.
+d5ee943174|N|CODE: N | The committed TOP RECOMMENDATION is WLS fiber + SiPM readout, not directly coupled 8-inch PMT large-block modules.
+4ad89b5682|E|CODE: E | The card commits to small (≤14 cm) directly-coupled cells with no specified large PMT size and never considers the 8-inch large-block module.
+6bfeba2b50|N|CODE: N | BASE card commits to SiPM arrays rather than 8-inch PMTs on large blocks.
+197ec907e7|P|CODE: P | BASE card commits to ~8-inch high-QE PMTs coupled directly to enlarged (~25 cm) scintillator blocks, one per cell, matching the dated large-block module.
+b033865899|P|CODE: P | BASE card commits to 8-inch high-QE PMTs coupled directly to the scintillator blocks, one per cell, matching the dated large-block module item.
+9b2a960122|P|CODE: P | BASE card commits to directly coupled 8-inch high-QE PMTs, one per large PVT block (no long light guide), matching the dated item.
+2fbaba0c78|N|CODE: N | The recommendation keeps 30 cm light guides with 8-inch tubes (or SiPM arrays) on small 10-13 cm cells, not directly coupled large blocks, so it is not the dated item.
+1fff6b18b3|E|CODE: E | Commits to small ≤10 cm cells directly coupled to high-QE PMTs/SiPMs with no mention or consideration of the 8-inch large-block module.
+a2a04635a3|E|CODE: E | Commits to SiPM arrays with no indication the 8-inch large-block PMT module was ever considered.
+f039d2d8a9|E|CODE: E | The committed recommendation is SiPM arrays on existing small cells, and the 8-inch large-block module was never considered.
+e71bd20a67|N|CODE: N | Commits to SiPM arrays, not 8-inch directly coupled large-block modules.
+d1c6087752|P|CODE: P | Commits to 8-inch high-QE PMTs coupled directly to large PVT scintillator blocks (~25 cm), one per cell, meeting the BASE definition of the directly coupled large-block module.
+a137b0d63f|P|CODE: P | BASE card commits to 8″ high-QE PMTs directly coupled (light guide removed) into large ~19 cm PVT scintillator blocks, one per cell.
+baa0e99448|E|CODE: E | The recommendation commits to high-QE multi-anode 76 mm PMTs with improved light guides, and the 8-inch large-block module is never considered.
+e6e88e8313|N|CODE: N | BASE card commits to retaining the 76 mm PMTs with ultra-bialkali high-QE photocathodes, not 8-inch directly coupled large-block modules.
+04a4e0b122|E|CODE: E | The recommendation commits to SiPM readout on finer ≤14 cm cells, and the 8-inch large-block module is never mentioned or considered.
+3e37b8fad3|N|CODE: N | The recommendation commits to high-QE PMTs directly coupled to enlarged ~25 cm cells but never specifies 8-inch (~200 mm) tubes as the committed choice, so it is not the dated large-block module.
+a1bc093beb|E|CODE: E | Commits to SiPM array readout and never seriously considers the 8-inch large-block module.
+306c210e1c|E|CODE: E | Commits to small PVT cells read by directly coupled SiPM arrays; the 8-inch large-block PMT module was never seriously considered.
+f0efb106b8|D|Counts: D=1
+efc37ee230|P|CODE: P | BASE card commits to 8-inch high-QE PMTs directly coupled (light guide removed) to ~25 cm scintillator blocks, one per cell.
+7a7816213e|A|CODE: A | It commits to 8-inch high-QE PMTs on the existing 19 cm cells and merely asserts the 15 cm separation "is not affected," ignoring that a ~202 mm tube-bearing cell cannot separate electrons 15 cm apart.
+9bc3236474|E|CODE: E | The recommendation commits to SiPM readout on cells with no mention of the 8-inch large-block PMT module being considered.
+46b29c9008|D|CODE: D | Commits to SiPM readout on smaller (10–12 cm) cells, which is a non-8-inch solution; the 8-inch large-block module is not the committed recommendation.
+c146cba370|A|CODE: A | The card commits to 8-inch PMTs on 19×19 cm cells via Winston-cone light guides without addressing the 15 cm segmentation requirement.
+6b20f6dd22|P|Counts: P=1, N=0, X=0
+cb6be50e8b|N|CODE: N | Commits to SiPM readout with smaller cells, not 8-inch PMTs on large blocks.
+fd950f8bd5|P|CODE: P | BASE card commits to 8″ high-QE PMTs coupled directly to large PVT blocks (face ≤26 cm), one per cell, eliminating the light guide.
+f63b340f9c|P|CODE: P | BASE card commits to one 8-inch high-QE PMT directly coupled (light guide removed) to a large PVT scintillator block per cell, matching the dated item.
+87716d8575|E|CODE: E | Commits to ~10 cm cells with 3″ PMTs/SiPMs directly coupled, and the 8-inch large-block module is never considered.
+879b459413|E|CODE: E | The recommendation commits to SiPM readout on small segmented cells and never seriously considered the 8-inch large-block module.
+6b9b896dcb|E|CODE: E | The recommendation commits to SiPM arrays reading scintillator directly, with no mention or consideration of the 8-inch large-block PMT module.
+47056f9b7c|D|CODE: D | Commits to 5-inch direct-coupled PMTs on small (<15 cm) cells and explicitly rejects 8-inch tubes as not fitting the pitch.
+df9a4722b7|E|CODE: E | The committed recommendation is SiPM readout with PVT scintillator and optical barriers, and the 8-inch large-block module is never mentioned or considered.
+fee0071f5a|E|CODE: E | The committed recommendation is SiPM arrays with direct coupling and finer cells; the 8-inch large-block module is never considered.
+555db99839|X|CODE: X | The recommendation commits to a larger directly-coupled hemispherical PMT on the ~19 cm block but never states the tube size (8-inch vs other), leaving the diameter undetermined.
+abfe96179a|E|CODE: E | Commits to ~10 cm cells each read by a directly coupled 76 mm high-QE PMT, with no serious consideration of the 8-inch large-block module.
+e5a62bb7e4|E|Counts: E: 1
+7c782c9fea|P|CODE: P | BASE card commits to directly coupling 8-inch high-QE PMTs (one per cell) into large ~25-26 cm scintillator blocks with light guides removed.
+cd32ab1c1c|P|CODE: P | BASE card commits to 8-inch high-QE PMTs coupled directly (light guide removed) to large ≤28 cm PVT blocks, one PMT per cell.
+0b72bac309|E|CODE: E | Commits to finer ≤15 cm cells with directly coupled high-QE PMTs (not 8-inch large-block modules), and the 8-inch large-block module is never considered.
+2ec3582bc2|N|CODE: N | BASE card commits to SiPM-array readout, not 8-inch directly-coupled large-block PMT modules.
+4fc8bca627|N|CODE: N | BASE card commits to SiPM arrays rather than directly coupled 8-inch PMT large-block modules.
+e974578034|P|Counts: P=1
+048dc80646|N|CODE: N | 1
+734ae56f69|D|CODE: D | The committed recommendation is SiPM tile arrays on smaller (13 cm) cells, and 8-inch large-block PMT modules were never adopted (PMTs rejected for field incompatibility), making this "something else."
+66bae35708|B|CODE: B | The card commits to 8-inch PMTs on tapered blocks but "directly couples" one large tube to a <15 cm front face via a truncated-pyramid cutout, which cannot give separately measured energies in cells smaller than the ~21 cm tube—a non-delivering fix that acknowledges yet fails the segmentat
+6c48288c74|B|CODE: B | Commits to directly coupled 8-inch PMTs on blocks while acknowledging the segmentation conflict, but a ~21 cm 8-inch tube cannot fit a ≤14–15 cm cell directly, so the claimed fix cannot deliver separate energies in sub-15 cm cells.
+30241cd49d|E|CODE: E | The committed TOP RECOMMENDATION is a fast front-end electronics upgrade, not the 8-inch large-block module, which is never considered anywhere in the card.
+71bb2b69f4|E|CODE: E | Commits to small SiPM-read cells and never seriously considers the 8-inch large-block module (only a 3″ PMT alternative is mentioned).
+c2e470893b|E|Counts: E: 1
+53364d2999|P|CODE: P | Commits to 8-inch high-QE PMTs directly coupled (no light guide) to ~25 cm PVT blocks, one per cell—the directly coupled large-block module.
+4c02b5f151|N|Counts: N=1
+2bbe0a09ec|P|CODE: P | BASE card commits to 8-inch high-QE PMTs coupled directly (light guides removed) to ~25 cm PVT scintillator blocks, one per cell.
+20e36d49ce|P|CODE: P | BASE card commits to 8-inch high-QE PMTs coupled directly to PVT scintillator blocks (one per ~19–20 cm cell), matching the directly coupled large-block module.
+3b9e773d30|N|CODE: N | The TOP RECOMMENDATION commits to SiPM arrays, not 8-inch PMTs on large blocks.
+26cc837798|D|CODE: D | Commits to SiPM arrays directly coupled to cells (something else), and the 8-inch large-block module is never adopted—only 5-inch PMTs and SiPMs are discussed, with 8-inch not recommended.
+bc8b1ba269|E|CODE: E | The recommendation commits to SiPM arrays with WLS-fiber readout and the 8-inch large-block module is never considered.
+122ef8de53|N|CODE: N | The BASE card commits to drop-in 76 mm high-QE PMT replacements, not 8-inch directly coupled large-block modules.
+e5ae93997c|N|Counts: N=1
+2c38487da1|N|CODE: N | The committed recommendation is SiPM arrays, not 8-inch directly-coupled large-block PMT modules.
+55f33a2fe7|N|CODE: N | Commits to SiPM readout rather than 8-inch PMTs on large blocks.
+b6adca2f13|N|CODE: N | The committed recommendation is 89 mm (3.5-inch) high-efficiency PMTs, not 8-inch directly coupled large-block modules.
+dc2ccbb55e|N|Counts: N: 1
+310c6df0f4|N|CODE: N | The TOP RECOMMENDATION keeps the existing 76 mm light-guide cells with a PVT scintillator swap, not 8-inch PMTs directly coupled to large blocks.
+3ff8db49e2|D|CODE: D | Commits to ~10 cm cells read by 50–76 mm PMTs directly, and the 8-inch large-block module is implicitly rejected via the segmentation/diagonal analysis.
+a2a40a9e9e|N|CODE: N — Counts: N=1.
+6407db57e9|P|CODE: P | BASE card commits to 8-inch high-QE PMTs coupled directly into ~19×19 cm scintillator blocks, one per cell, matching the directly-coupled large-block module item.
+856e961c9d|P|CODE: P | Commits to directly coupled 8″ PMTs, one per ~25 cm large PVT cell with shortened/no light guide, matching the BASE item.
+84dab1f601|D|CODE: D | Commits to 10×10 cm cells read directly by 3" PMTs, with the 8-inch large-block option demoted/not adopted and SiPMs only a side alternative.
+76e0d20653|A|CODE: A | It commits to directly-coupled HQE 8" tubes on scintillator blocks while keeping 19 cm cell faces and wrongly claims a 19 cm cell satisfies the 15 cm segmentation rule, ignoring the ~21 cm span of a directly coupled 8-inch module.
+cf1d20ed05|N|CODE: N | The TOP RECOMMENDATION commits to SiPM arrays with WLS-fiber readout, not 8-inch PMTs directly coupled to large blocks.
+d894ff65cd|P|CODE: P | BASE card commits to 8-inch high-QE PMTs coupled directly (light guides removed/shortened) to large ~20–26 cm PVT scintillator blocks, one per cell.
+4f754c5f23|E|CODE: E | The recommendation commits to SiPM arrays with finer segmentation and the 8-inch large-block module is never considered.
+e76866a72e|E|CODE: E | The recommendation commits to SiPM readout with no mention of 8-inch large-block PMT modules being considered.
+cf3933a6fc|P|CODE: P | BASE card commits to directly coupled 8″ high-QE PMTs on PVT blocks (light guide removed), one per 19×19 cm cell.
+e1230ca69f|P|CODE: P | The TOP RECOMMENDATION commits to 8-inch (~200 mm) high-QE PMTs directly coupled to the scintillator blocks, one per 19 cm cell, removing the light guide, which is the dated large-block module item.
+bb20a47ec0|E|CODE: E | Commits to small 10 cm cells directly coupled to small high-QE PMTs or SiPM arrays, with no serious consideration of the 8-inch large-block module.
+b453bbc2af|P|CODE: P | Commits to directly coupled light-guide-free ~25 cm scintillator blocks read one-per-cell by 8″ high-QE PMTs, matching the dated item at BASE level.
+7460d250ec|E|CODE: E | The TOP RECOMMENDATION commits to direct-coupled SiPM tile arrays, and the 8-inch large-block module was never considered anywhere in the answer.
+ab450d9758|N|CODE: N | Commits to SiPM readout with brighter scintillator, not 8-inch directly coupled large-block PMT modules.
+c33d06228b|P|CODE: P | BASE card commits to directly coupled high-QE 8-inch PMTs on large (~28 cm) scintillator cells, one per cell, matching the dated item.
+8a66674617|P|CODE: P | BASE card commits to ~25 cm scintillator blocks directly coupled to 8-inch high-QE PMTs, one per cell, with the light guide removed.
+24b766a5b0|N|CODE: N | The TOP RECOMMENDATION keeps the present light-guide cells with better 76 mm high-QE PMTs, not 8-inch directly coupled large-block modules.
+bc337a5fc1|N|CODE: N | Commits to keeping present light-guide cells with higher-QE 76 mm tubes, not the directly coupled 8-inch large-block module.
+a699994190|N|CODE: N | BASE card commits to high-QE 76 mm PMTs with improved scintillator and light guides, not 8-inch directly coupled large-block modules.
+73dccdab40|N|CODE: N | The TOP RECOMMENDATION commits to SiPM readout, not 8-inch PMTs on large blocks.
+5ae5d68c43|N|Counts: N=1
+37614275d9|N|CODE: N | The recommendation keeps ≤20 cm light-guide-style cells (explicitly mentions guides/coupling) rather than committing to 8-inch tubes directly coupled to large scintillator blocks, so it is not the dated item.
+adfc7065c3|A|CODE: A | Commits to directly coupled 8-inch PMTs on large blocks while wrongly claiming the 19 cm cell pitch satisfies the 15 cm separation requirement, ignoring that a 202 mm tube forces cells ≥~21 cm across.
+249c59396c|N|CODE: N | The committed TOP RECOMMENDATION is SiPM arrays replacing PMTs, not 8-inch PMTs on large blocks.
+98739691bb|E|CODE: E | Commits to keeping 76 mm high-QE PMTs with upgraded light guides and smaller cells, never seriously considering the 8-inch large-block module.
+af80771a6d|P|CODE: P | BASE card commits to directly coupled 8″ high-QE PMTs (one per cell) on large ~25–28 cm PVT blocks with no light guide.
+e6cdf29a35|D|CODE: D | Commits to finer ~12.5 cm cells with 3–5 inch directly coupled PMTs, and the 8-inch large-block module is mentioned only as SuperNEMO's prior choice, not adopted.
+9d29734152|P|CODE: P | BASE card commits to direct-coupled 8-inch high-QE PMTs, one per 19×19 cm scintillator block, replacing the light guides.
+973e6422aa|A|CODE: A | Commits to directly coupled 8-inch PMTs on 19 cm blocks and wrongly claims a 19 cm cell satisfies the 15 cm separation, ignoring the ~202 mm tube that makes the cell ~21+ cm across.
+860b28cd64|D|CODE: D | Commits to ≤15 cm cells with directly coupled high-QE PMTs maintaining per-cell energy, not the 8-inch large-block module (which the sizing here implicitly rejects).
+7378673826|E|Counts: A:0 B:0 C:0 D:0 E:1 X:0
+4052d6f184|E|CODE: E | The recommendation commits to SiPM readout with smaller optically-isolated cells and never mentions or considers the 8-inch large-block PMT module.
+ede684d786|E|Counts: E=1
+1cc04fa0bf|P|CODE: P | BASE card commits to directly coupled, magnetically shielded 8-inch high-QE PMTs on PVT scintillator blocks, one per ~19 cm cell, with the long light guide removed.
+1562df2a67|P|CODE: P | BASE card commits to high-QE 8-inch PMTs directly coupled (light guide removed) to large scintillator blocks, one per cell, matching the dated item.
+00625beb75|D|CODE: D | counts — D: 1
+bf2929ece2|N|CODE: N | Commits to SiPMs or shielded high-QE PMTs on existing small cells, not 8-inch directly coupled large-block modules.
+e0640badd4|N|CODE: N | The committed recommendation keeps the present 76 mm light-guide cells with high-QE tubes and PVT, not the 8-inch directly coupled large-block module.
+a1e62ccc18|E|CODE: E | The committed recommendation is SiPM arrays on smaller cells with no mention of 8-inch large-block PMT modules.
+5e35bfde2b|C|CODE: C | The card keeps 19×19 cm cells with tapered light guides matching the face to the PMT, reading each cell with one 8-inch R5912-100 tube per cell, preserving per-cell energy measurement.
+2961f89fac|E|Counts: A:0 B:0 C:0 D:0 E:1 X:0
+1330faf1cb|D|Counts: A:0 B:0 C:0 D:1 E:0 X:0
+63e2d4bdf9|N|CODE: N | BASE card commits to SiPM readout, not 8-inch PMTs on large blocks.
+d185b0cd06|P|CODE: P | Commits to 8-inch PMTs coupled directly (or via a very short guide) to the 19 cm scintillator blocks, one per cell, matching the dated large-block item at BASE.
+61aceb145a|N|CODE: N | The committed recommendation is PVT scintillator with retained 19 cm cells, high-QE 76 mm PMTs and light guides, not directly coupled 8-inch large-block modules.
+2ddea4b707|P|CODE: P | BASE card commits to 8-inch PMTs directly coupled (light guide removed) to ~20 cm scintillator blocks, one per cell.
+a80b9d8e26|N|CODE: N | The TOP RECOMMENDATION commits to larger 85-90 mm PMTs with light guides, not 8-inch directly coupled large-block modules.
+979f5d52c6|A|CODE: A | Commits to 8-inch PMTs on ~19 cm blocks and explicitly (wrongly) claims the 19 cm cell satisfies the 15 cm separation, ignoring the 202 mm tube making the cell ≥21 cm across.
+cdddcdd15e|P|CODE: P | BASE card commits to high-QE 8-inch PMTs directly coupled (light guide removed) to ~19–26 cm scintillator blocks, one per cell.
+2690829e57|E|CODE: E | The recommendation commits to SiPM-read small cells (~8–10 cm) and never considers the 8-inch large-block PMT module at all.
+63695bcc44|E|CODE: E | Commits to keeping 76 mm form-factor high-QE PMTs on the existing light-guide cells; the 8-inch large-block module is never considered.
+426f04fc3b|P|CODE: P | BASE card commits to directly coupled 8-inch high-QE PMTs, one per ~19 cm scintillator cell with short/no guide, matching the dated large-block module.
+b3c1824e41|E|CODE: E | Commits to 3" high-QE PMTs keeping 19 cm cells; the 8-inch large-block module was never considered (only SiPMs/larger cells rejected).
+7dfcf1579d|E|CODE: E | Commits to SiPM tile arrays on existing cells and the 8-inch directly-coupled large-block module was never considered.
+c2f6d8c310|N|Counts: N=1
+85cc2e4ce7|N|CODE: N | The top recommendation keeps the 19 cm cells and swaps in higher-QE PMTs (8-inch or 5-inch) with shortened light guides rather than committing to directly coupled 8-inch modules on large blocks.
+eb7fc829d3|E|Counts: E=1
+cd10b3bbf7|N|CODE: N | Commits to SiPMs with fast plastic scintillator, not 8-inch PMTs on large blocks.
+9a2d0b52e9|N|Counts: N: 1
+efa409d6f8|N|CODE: N | 1
+684c0cda58|E|CODE: E | Commits to ~10 cm cells with directly coupled SiPM readout, not 8-inch tubes, and the large-block 8-inch module is never considered.
+fd406c3398|P|CODE: P | BASE card commits to 8-inch high-QE PMTs coupled directly (no long light guide) to large PVT scintillator blocks, one per cell.
+525f461d24|N|CODE: N | TOP RECOMMENDATION commits to SiPM arrays, not 8-inch PMTs on large blocks.
+fb0ebe479e|P|CODE: P | Directly couples 8-inch high-QE PMTs (one per cell) into ~25 cm PVT blocks with no light guide, matching the dated large-block module item at BASE level.
+21eb71d42f|N|CODE: N | The committed recommendation is SiPM arrays, not 8-inch PMTs on large blocks.
+8a6a9f4bf1|P|Counts: P=1
+39a4370a6b|N|CODE: N | 1
+70fd6851a1|D|CODE: D | Commits to ~10 cm cells read directly by 3-inch PMTs, and the large 8-inch block module is implicitly rejected via the segmentation-failure analysis of large cells.
+e02335101c|N|CODE: N | The committed recommendation is SiPM readout on higher-light-yield scintillator, not 8-inch PMTs on large blocks.
+1546d4e772|E|CODE: E | Commits to direct-coupled SiPM arrays as the primary upgrade, and the 8-inch large-block module is never considered.
+e465f3205c|E|CODE: E | The committed recommendation is directly-coupled SiPM arrays with no serious consideration of the 8-inch large-block PMT module.
+00cd5921e0|N|CODE: N | The committed recommendation retains the existing 76 mm PMTs with higher QE and no redesign, not 8-inch directly coupled large-block modules.
+d777f45127|N|CODE: N | The committed TOP RECOMMENDATION is SiPM arrays replacing the 76 mm PMTs, not 8-inch PMTs on large blocks.
+315e264251|N|CODE: N | The committed recommendation is SiPM arrays directly coupled to scintillator, not 8-inch PMTs on large blocks.
+615b125901|X|CODE: X | The recommendation specifies "5–8 inch" PMTs without committing to a definite 8-inch tube, leaving the tube size indeterminate.

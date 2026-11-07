@@ -1,0 +1,611 @@
+80c9b6e981|P|CODE: P | The committed TOP RECOMMENDATION is underground-sourced argon as highest-priority element to suppress 42K/42Ar.
+b9d0710f38|P|CODE: P | BASE card commits to underground-sourced low-42Ar argon as the primary recommendation to cut the dominant 42K source term.
+11e33de602|P|CODE: P | BASE card commits to underground argon depleted in 42Ar as the primary fix, with mini-shrouds only as a complementary backup.
+1af5c0a6b1|P|CODE: P | BASE card commits to underground-sourced argon depleted in 42Ar as the primary fix for the dominant 42K surface term.
+f22a55c9a3|P|CODE: P | BASE card commits to underground argon procurement as the primary top recommendation to eliminate the dominant 42K surface background.
+08a74c58ab|C|Counts: C=1
+8ccb27fcc3|C|CODE: C | Top line commits to underground argon and the body also commits to mini-shrouds/ion-shielding around each string plus a ≥~6.8× faster recirculation (20→2 day) attacking the radon-progeny term, qualifying as concrete measures beyond 2.25×.
+5cc3e918f1|N|CODE: N | The TOP RECOMMENDATION commits to electrostatic surface rejection/anti-correlator electrodes, not underground argon, which is never adopted as the primary fix.
+9d6427edae|C|CODE: C | The top line pairs underground argon with a radon-tight low-emanation inner vessel (plus mini-shrouds) that isolates the array from emanation, a concrete measure cutting the radon-progeny term well below 3e-6.
+5c2344f39c|P|CODE: P | BASE card commits to underground-sourced argon as the primary element to eliminate the 42K surface background, with other measures as secondary defense-in-depth.
+9fc1a7c16f|P|CODE: P | BASE card commits to underground argon as the primary single upgrade to cut the dominant 42K background, with other measures secondary.
+dc7c0b9fdc|P|Counts: P=1
+835b044d61|C|CODE: C — counts: A:0 B:0 C:1 D:0 E:0 X:0 P:0 N:0
+3529cc00db|P|CODE: P | BASE card commits to underground-sourced argon as highest-priority primary element to cut the dominant 42K surface background.
+8d6af428d8|P|CODE: P | The TOP RECOMMENDATION commits to underground 42Ar-depleted argon around the array as the primary measure, with mini-shrouds and detectors as complementary backups.
+c4c0a041dc|C|CODE: C | Top line commits to underground argon plus nylon shrouds that geometrically suppress both 42K and 214Bi surface collection, a valid >2.25× radon-progeny measure.
+b9e0c2a742|A|CODE: A | The final commitment is underground argon alone, and the closing claim that this single change brings surface background within the 4e-6 allocation is wrong physics since radon progeny (9e-6) remains.
+6d401ae3f6|C|CODE: C | The committed top recommendation is an ion-collection barrier (electrostatic shield/grid) around the detectors that suppresses both 42K and radon-progeny surface collection, a concrete valid measure, though underground argon is only a secondary element rather than the primary commitment.
+d8a576df24|C|Counts: C=1
+6005723470|C|CODE: C | The top line commits to underground argon, and the card develops a concrete ~6.8×-class faster recirculation (20→2 days, ~5-8× reduction) plus mini-shrouds to cut the radon-progeny term.
+14ae995ff9|P|CODE: P | The TOP RECOMMENDATION commits to underground argon depleted in 42Ar as the primary fix, with shrouds and field shaping only as secondary layers.
+aca816c830|C|CODE: C | count: C=1
+77c434baf3|P|Counts: P=1
+dd5d29541a|P|CODE: P | BASE card commits to underground-sourced 42Ar-depleted argon as the primary change to cut the 42K surface term.
+e3a90dd65f|P|Counts: P=1
+3c1849cf8d|P|CODE: P | BASE card commits to underground-sourced argon as the primary element to cut the dominant 42K term, with other measures secondary.
+604db03637|P|CODE: P | The committed TOP RECOMMENDATION is underground argon as the primary element, with mini-shrouds only as secondary defense-in-depth.
+871b324faa|P|CODE: P | BASE card commits to underground argon procurement as the single primary change to eliminate the dominant 42K surface background.
+c54a318afb|P|Counts: P=1
+891e6d7092|P|CODE: P | The TOP RECOMMENDATION commits to underground-sourced argon as the primary/highest-priority element for the argon around the array.
+94199ed96f|C|CODE: C — count 1
+4a7e3180fc|P|CODE: P | BASE card commits to underground argon procurement as the primary top recommendation, with other measures as supplementary margin.
+fcfd341df9|P|CODE: P | The top recommendation commits to underground-sourced argon as the primary fix, with other measures as secondary defense-in-depth.
+8ff2406d1c|P|Counts: P=1
+d7aa0ad7e9|P|Counts: P=1
+d65d5309da|C|CODE: C | Top line commits to underground argon plus a radon-tight shroud flushed with trap-purified argon, a concrete ion-barrier measure that cuts the radon-progeny term well below the budget.
+c691b15bf5|C|CODE: C | Commits to underground argon in a radon-tight copper inner volume that itself acts as a barrier against cryostat/recirculation-emanated radon progeny, plus low-emanation component replacement and scintillating mini-shrouds, cutting the 214Bi term well below 2.25×.
+5080799dee|C|CODE: C | Top line commits to underground argon plus mini-shrouds, a concrete ion-barrier that intercepts radon-progeny drift and cuts that term well beyond 2.25×.
+4a2df724fc|P|CODE: P | The TOP RECOMMENDATION commits to underground (⁴²Ar-depleted) argon in an inner vessel around the strings as the primary upgrade.
+864fabbfd1|P|CODE: P | BASE card whose primary TOP RECOMMENDATION is underground argon depleted in 42Ar, with mini-shrouds as a supporting element.
+36baa68b14|P|CODE: P | BASE card commits to underground-sourced argon as the primary/critical change for the argon around the array.
+6fac06b563|A|CODE: A | The TOP RECOMMENDATION commits solely to underground argon (motivated by 42K reduction) while the body's radon-progeny measures are relegated to secondary options, leaving the committed primary change without addressing the radon term.
+822d6de72a|C|CODE: C | Commits to underground argon plus a radon-tight barrier and anti-ion shrouds that isolate detectors from the emanating sources, concretely cutting the radon-progeny term well past 2.25×.
+bc7256d3fe|C|Counts: C=1
+c95af4dd86|A|CODE: A | The committed TOP RECOMMENDATION is underground argon alone (addressing only 42K), which does not touch the 9e-6 radon-progeny surface term, so it fails the budget despite the body discussing other measures.
+6bf31be2eb|C|CODE: C | Primary commitment is underground argon, packaged with mini-shrouds (an ion-collection barrier giving ~25× suppression) that genuinely cuts the radon-progeny term well beyond 2.25×, though the shroud is motivated mainly by 42K.
+c0da23ba8a|C|CODE: C | count: C=1
+021ae1e0db|P|CODE: P | BASE card whose primary committed element is underground argon depleted in 42Ar (with shrouds as a backup), meeting both goals.
+5697d4b748|C|CODE: C | count: 1
+8cbe91a497|C|CODE: C | count: C=1
+72d1249052|C|Counts: C: 1
+83782c6d4c|P|CODE: P | BASE card whose committed top recommendation is underground-sourced argon depleted in 42Ar as the primary fix.
+0d82ab6d6b|P|CODE: P | BASE card commits to underground argon as the primary upgrade to eliminate the 42K surface background.
+b54bbcb59d|P|CODE: P | The top recommendation commits to underground argon as the primary fix with mini-shrouds as a secondary backup, matching BASE code P.
+1410d0f566|C|Counts — C: 1
+67db65b0e5|P|CODE: P | Primary committed change is underground argon depleted in 42Ar (the single most important change), with mini-shrouds as a complementary measure.
+4bc1724a44|P|CODE: P | BASE card commits to underground-sourced 42Ar-depleted argon as the primary fix for the 42K term.
+dfdec0f8fd|P|CODE: P | The TOP RECOMMENDATION commits to underground low-42Ar argon as the primary element for the argon around the array.
+2f92cb6627|P|CODE: P | The committed top recommendation is underground (⁴²Ar-depleted) argon for the array volume as the primary element.
+95986fc68c|C|CODE counts: C=1
+1b8e51c77e|C|CODE: C | The top line commits to underground argon but the package includes detector surface passivation (a thicker-dead-layer/surface-insensitive measure) giving a further 2-3× rejection of surface betas, a valid radon-progeny measure exceeding 2.25×.
+7de37aee05|P|CODE: P | BASE card commits to underground-sourced argon as the primary TOP RECOMMENDATION to eliminate the dominant 42K background.
+9a8e326027|P|CODE: P | The committed TOP RECOMMENDATION is underground argon for the array as the primary element, with mini-shrouds and radon trap only as complementary options.
+efcbe6f4d4|P|CODE: P | BASE card commits to underground 42Ar-depleted argon in the inner volume around the array as the primary upgrade.
+c7d00e1ab5|C|CODE: C | Top line commits to underground argon plus concrete radon-progeny measures (faster recirculation and low-emanation cryostat components) that acknowledge and cut the 9e-6 radon term.
+71596b06b1|P|CODE: P | Top recommendation commits to underground-sourced argon as the primary fix with other measures as complements/backups, and the card is BASE level.
+8551828439|P|CODE: P | BASE card whose primary TOP RECOMMENDATION is replacing atmospheric argon with underground-sourced argon for the array fill, with other measures secondary.
+ae4e09d3c6|C|Counts: C=1
+1e482e8a86|P|CODE: P | BASE card commits to underground-sourced argon as the primary recommendation to reduce the dominant 42K surface background.
+ffe3ba1f0f|P|CODE: P | Committed top recommendation is underground argon for the full fill as the primary change, with passivation and radon-barrier measures as secondary additions.
+fc72fb9367|P|CODE: P | BASE card commits to underground argon as the primary (CRITICAL) element to eliminate 42Ar/42K.
+2f89d58ef0|P|CODE: P | The committed top recommendation is underground argon for the fill around the array to reduce 42K, which meets the BASE goals.
+2e1b2b64d6|A|CODE: A | The committed TOP RECOMMENDATION is underground argon alone, motivated only by the 42K term, with no radon-progeny measure incorporated into the top line despite the body acknowledging the 9e-6 breach.
+e27f857ce0|P|Counts: P=1
+2da5413544|C|CODE: C | 1
+edae98f587|P|CODE: P | BASE card commits to underground argon (≥1000× 42Ar depletion) as the primary top recommendation, with ion-screen and radon measures as secondary complements.
+7aad72c5a4|C|CODE: C | Commits to underground argon plus a sealed radon-tight inner vessel isolating the array from the emanating cryostat/recirculation walls with ~1-day turnover, concretely cutting radon progeny from 9e-6 to ~1e-6 (>2.25×).
+5cc8788187|P|CODE: P | BASE card commits to underground-sourced argon as the primary TOP RECOMMENDATION.
+a4d87be56b|P|CODE: P | The TOP RECOMMENDATION commits to underground argon around the array as the primary change, meeting the BASE criterion for P.
+967a94b809|P|Counts: P=1
+536d9f8e3d|P|Counts: P=1
+0110ad9c8a|C|Counts: C=1
+84da57e329|P|CODE: P | The committed top recommendation is underground-sourced argon for the detector fill as the primary measure.
+70aad7b211|C|CODE: C | The primary commitment is electrostatic ion-deflection grids (an ion-collection barrier) around each string cutting surface-ion collection by ~80–90% (>2.25×) for both 42K and radon progeny, a concrete valid radon-progeny measure.
+1639a84a39|P|CODE: P | Primary committed fix is underground argon in re-entrant tubes around the strings, with shrouds as a secondary backup.
+f0ebe47f28|P|CODE: P | The committed top recommendation is underground argon to suppress 42K as the primary element, with other upgrades secondary.
+8d09a4a0af|C|Counts: C=1
+a6aed7acfa|C|Counts: C=1
+b893c61ceb|P|Counts: P=1
+369176502a|P|CODE: P | BASE card whose committed top recommendation is underground 42Ar-depleted argon around the detector array as the primary fix.
+8c9aa33f0d|P|CODE: P | BASE card whose committed TOP RECOMMENDATION is underground argon for the argon around the array as the primary element.
+500b970bdc|P|CODE: P | The committed top recommendation is underground-sourced argon as the decisive primary upgrade, with other measures as secondary margin.
+8ec8e2118b|A|CODE: A | The TOP RECOMMENDATION commits to a 42Ar/42K removal getter system targeting only 42K at the source and does not address radon progeny in the committed line, which is the breaking term.
+67f4760d14|C|Counts: C=1
+aa2fb22ec9|C|Counts: C: 1
+026688344a|P|CODE: P | BASE card commits to underground argon as the primary element to address the dominant 42K issue.
+491cde6cc9|P|CODE: P | BASE card commits to underground argon procurement as the top recommendation for the argon around the array.
+ecf9147314|A|Counts: A=1
+e7d61fcee5|P|CODE: P | BASE card commits to underground-sourced argon as the primary top recommendation to reduce the dominant 42K background.
+3ab7e2953c|A|CODE: A | 1
+dbc24fe5b1|P|CODE: P | BASE card commits to underground argon in an inner vessel around the array as the primary recommendation, with shrouds only as a fallback.
+fdb4605e86|P|CODE: P — count: 1
+58a0e9888b|P|Counts: P=1
+efa980458a|C|Counts: C: 1
+b600b19825|C|CODE: C | Top line commits to underground argon plus low-emanation materials for the argon-wetted (emanating) surfaces, a concrete radon-progeny measure re-engineering the cryostat/recirculation components that genuinely cuts that term.
+b6e5390539|C|Counts: C=1
+02703be083|P|Counts: P=1
+fb3a950bfe|P|Counts: P=1
+355a62efc5|P|CODE: P | BASE card commits to underground argon as the highest-priority, primary element to eliminate 42Ar/42K at the source.
+35d930b170|P|CODE: P | BASE card commits primarily to underground-sourced argon to eliminate 42Ar/42K, with other measures as supporting elements.
+7fcb19f265|P|Counts: P=1
+1ca944368f|D|Counts: D: 1
+70f6aefa80|N|Counts: N=1
+b0820d85e1|P|CODE: P | The TOP RECOMMENDATION's primary element is underground argon around the array (contained in a mini-shroud to make it practical), which is code P for a BASE card.
+a505523802|P|Counts: P=1
+988d93a355|C|CODE: C | Top line commits to underground argon in a radon-tight vessel isolating external radon sources, plus mini-shrouds around detectors, both valid concrete radon-progeny measures exceeding 2.25×.
+adf363c1d0|P|Counts: P=1
+5dff25d28d|P|CODE: P | BASE card commits to underground argon as the primary change to eliminate 42K, with other measures as supporting elements.
+d36bccad79|P|CODE: P | BASE card commits to underground argon as the primary change with mini-shrouds and low-emanation hardware as supporting margin.
+a35aaf1958|P|CODE: P | BASE card whose top recommendation is underground argon in the array region as the primary element, with shrouds as a secondary layer.
+e992269619|P|CODE: P | 1
+88f146d428|C|CODE: C | The TOP RECOMMENDATION couples underground argon with a sealed low-emanation electroformed-copper reentrant tube that physically isolates the detectors from the cryostat/recirculation radon, a concrete barrier cutting the radon-progeny surface term by well over 2.25×.
+49bbb6e40e|P|CODE: P | The committed top recommendation is underground 42Ar-depleted argon around the array in reentrant tubes inside the atmospheric-argon cryostat, the primary element of the package.
+b58f71f706|C|CODE: C | 1
+2d1325489a|A|Counts: A=1
+6c0d56de77|P|CODE: P | Primary commitment is underground argon depleted in 42Ar for the array, with minishrouds only as a backup, meeting the BASE criterion for P.
+cc53f07f4f|C|CODE: C | Top line packages mini-shrouds (a radon-progeny ion barrier cutting that term >2.25×) with underground argon, satisfying both goals.
+694a9b8cf2|C|Counts: C: 1
+bcfc5193d2|P|CODE: P | The TOP RECOMMENDATION commits to underground argon for the fill as the primary element, meeting the BASE criterion.
+ee00e610af|C|Counts: C=1
+e2b84f469f|C|CODE: C | Top line commits to underground argon but the answer bundles a nylon shroud intercepting drifting radon progeny (and other valid measures), providing a concrete surface-term cut >2.25×.
+b42e25eaea|P|CODE: P | The committed top recommendation is underground 42Ar-depleted argon as the primary fix for the array's argon, matching P for a BASE card.
+e39eea01ae|C|CODE: C | Commits to underground argon plus a concrete ion-collection/radon barrier (sealed electroformed-copper reentrant tubes isolating the array from the externally-emanated radon), a valid >2.25× radon-progeny measure without compromising the veto.
+4c64e0ceec|C|CODE: C | The TOP RECOMMENDATION commits to ion-blocking mini-shrouds (×20–40) around the detectors as the primary radon-progeny measure, with underground argon as a committed upgrade, forming a valid package.
+174702a7d9|P|CODE: P | The TOP RECOMMENDATION commits to underground-sourced argon as the primary element targeting the dominant 42K surface background, which is correct for a BASE card.
+52d35c19d1|C|Counts: C=1
+92ef06ca08|C|CODE: C | Top line commits to underground argon but the card also presents detector shrouds/electrostatic screening and faster recirculation as concrete radon-progeny measures (shrouds >2.25×), making it a package with a valid surface-background fix.
+e3726c51d4|P|CODE: P | BASE card commits to underground-sourced argon as the primary recommendation to suppress 42K.
+15d2b21ad3|C|CODE: C | Underground argon is the baseline paired with a ~6.5× faster full-inventory recirculation (1-day turnover) that cuts radon progeny by more than the needed 2.5×.
+cce097f3d2|C|Counts: C: 1
+e290e41a85|C|CODE: C | Top line commits to underground argon plus radon-tight mini-shrouds around the strings, a concrete ion-collection barrier that cuts the radon-progeny term by more than 2.25×.
+176fa370da|C|CODE: C | Top line commits to underground argon, but the card includes concrete radon-progeny measures (low-emanation cryostat lining to re-engineer the emanation source) giving >2.25× reduction, qualifying as C.
+d57cf1a423|P|CODE: P | BASE card commits primarily to underground argon to eliminate 42K, with shrouds and other measures as secondary elements.
+f84f652d1f|P|Counts: P=1
+abfe428bde|P|CODE: P | BASE card commits primarily to underground argon in an inner vessel around the detector strings to cut the 42K surface background.
+8783035055|P|CODE: P | The committed top recommendation is underground-sourced argon depleted in 42Ar as the primary element for the liquid argon inventory.
+b5c74dcfbb|C|CODE: C | Top line commits to underground argon plus shrouds and low-emanation components, concrete radon-progeny measures cutting that term by more than 2.25×.
+616b9aeb2a|C|Counts: C=1
+23f35dd018|P|CODE: P | BASE card commits to underground-sourced argon as the primary recommendation for the argon around the array, with other measures as supplementary.
+8885a080fa|P|CODE: P — counts: P=1
+8455076586|C|CODE: C | The top line commits to underground argon plus mini-shrouds/low-emanation components as a package, with the shroud blocking radon-progeny ion drift to achieve the needed >2.25× surface-background cut.
+3c77855fc4|C|CODE: C | Commits to underground argon plus a ~2-day turnover (≥6.8× faster recirculation, computed as factor ~2.9) that genuinely cuts the radon term by more than 2.25×.
+4c29ffdba0|C|CODE: C | Top line commits to underground argon plus a radon-tight mini-shroud forming an ion-collection barrier around the strings, a valid measure cutting the 214Bi surface term by more than 2.25×.
+e7bf3b3489|C|Counts: C=1
+4b02b50a0c|A|CODE: A — count: 1
+45873d88f9|P|CODE: P | BASE card commits to underground argon as the primary TOP RECOMMENDATION to suppress 42K, with mini-shrouds only as a secondary/contingency measure.
+0be7959638|P|CODE: P | BASE card whose top recommendation is underground argon as the primary change, with mini-shrouds only as a fallback/complement.
+4db3e4e8c6|B|Counts: B=1
+1633a012fd|P|CODE: P | The committed TOP RECOMMENDATION is underground argon as the primary change to eliminate 42K, with other measures secondary.
+2d189e3530|N|CODE: N | BASE card whose committed primary is PEN mini-shrouds with atmospheric argon, underground argon demoted to secondary/backup insurance.
+0079780fcb|P|Counts: P=1
+dfff91ef94|C|Counts: C: 1
+4fc911e43e|C|CODE: C | The top line commits to underground argon, but Recommendation 2 adds concrete faster recirculation through the trap (though its own math shows only ~2.2×, below the needed 2.25×) while Recommendation 3 adds an inner-volume argon isolation barrier around the strings, giving a committed conc
+acdb8386ed|P|CODE: P | BASE card commits primarily to underground argon for the array as the essential change to suppress 42K, with mini-shrouds only as defense-in-depth.
+474454724f|C|CODE: C | The top recommendation is underground argon packaged with a concrete ≥6.8×-equivalent faster recirculation (cycle cut from 20 to ~3 days giving 5-7× radon-progeny suppression) that cuts the radon term below allotment.
+ac37c46d84|P|Counts: P=1
+cff625b511|B|CODE: B — count: 1
+62e7fc7588|C|Counts: C=1
+c74da1ff02|A|CODE: A | 1
+0691c5302f|C|CODE: C | Top line commits to underground argon plus an ion-blocking mini-shroud barrier that stops radon progeny from reaching the detectors, a concrete measure cutting that term by the needed factor.
+9f8e5a3d28|P|CODE: P | The committed TOP RECOMMENDATION is underground argon as the primary (highest-priority) element, with shrouds as secondary add-ons.
+5ce060eedf|C|CODE: C | Top line commits to underground argon, but the answer packages it with mini-shrouds/electrodes around the detectors that cut radon-progeny surface collection well beyond 2.25×.
+a93e177c48|P|CODE: P | BASE card commits to underground argon for the array as the primary solution, correctly treating the radon term as within budget.
+2a06a23b78|C|Counts: C=1
+23aad5b530|P|CODE: P | Committed TOP RECOMMENDATION is underground/depleted argon depleted in ⁴²Ar as the primary element, which on this BASE card meets both goals.
+cd94aedfc0|P|Counts: P=1
+4a96b14c89|P|CODE: P | BASE card commits to underground argon as the primary top recommendation for the argon around the array.
+1546bacefb|P|Counts: P=1
+7d2fb5264f|C|CODE: C | The top line pairs underground argon with a radon-tight inner vessel, low-emanation trap-last recirculation loop, and mini-shrouds—concrete radon-progeny measures that cut the term well beyond 2.25×.
+c9e6962bbc|P|CODE: P | BASE card commits to underground argon in reentrant tubes around the array as the primary upgrade.
+e20d6f9e7b|P|CODE: P | Primary committed recommendation is underground argon for the full fill, with mini-shrouds only as complementary defense-in-depth.
+d290c8ecc1|P|CODE: P | BASE card commits primarily to underground-sourced depleted argon as the main fix for the dominant 42K term, with ion drift-suppression as a secondary element.
+20b024b604|C|CODE: C | Top line commits to underground argon plus mini-shrouds blocking ion-borne radon progeny and low-emanation cryostat/recirculation components—multiple valid >2.25× radon-progeny measures.
+9db7266ff9|P|Counts: P=1
+65dc65b371|P|Counts: P=1
+7de7b403ea|C|CODE: C | Top line commits to underground argon, and the answer packages it with mini-shrouds around detector strings (a valid ion-collection barrier) plus enhanced radon removal, concretely cutting the 214Bi term well above 2.25×.
+814237d401|B|Counts: B: 1
+02b0fed8af|P|CODE: P | The committed TOP RECOMMENDATION is underground argon as the primary change, with mini-shrouds only as a defense-in-depth secondary.
+d97ee062c6|C|Counts: C=1
+69f4181475|C|CODE: C | Commits to underground argon in a sealed low-emanation inner volume with a sealed barrier plus a dedicated fast purification loop (~5×) and ion-blocking shrouds—multiple valid radon-progeny measures each exceeding 2.25×.
+65e57e839b|C|Counts: C=1
+564cc9807f|P|CODE: P | The TOP RECOMMENDATION commits to underground argon around the germanium strings as the primary element, meeting the BASE criterion for P.
+fc90b2d6ec|C|Counts: C=1
+b52fab3cdd|C|CODE: C | Top line commits to underground argon and the body includes concrete radon-progeny measures (nylon mini-shrouds blocking ion drift, emanation barriers) that cut the 214Bi term by more than 2.25×.
+1241ae3edd|P|CODE: P | TOP RECOMMENDATION commits to underground argon in an inner vessel around the array as the primary element, with shielding only as backup.
+272ac5148d|C|CODE: C | Top line commits to underground argon but the answer includes nylon shrouds around detector strings that plate out radon progeny ions, a valid >2.25× ion-collection barrier measure.
+cc8a6518a4|P|CODE: P | BASE card commits to underground argon depleted in 42Ar for the inner volume around the array as the primary fix.
+3fce9c054e|C|CODE: C | Top line packages underground argon with mini-shrouds that block ion-borne 214Bi/42K collection, a concrete radon-progeny measure cutting that term by ≥4.5×.
+43fd8aa38a|C|Counts: C=1
+d5041bdb29|C|CODE: C | Commits to underground argon as the primary fill but pairs it with a concrete valid radon-progeny measure (biased electroformed copper mini-shrouds around each detector), exceeding the 2.25× threshold.
+43b98a5941|N|CODE: N | The committed top recommendation is a cryogenic argon distillation/decay loop to remove 42Ar, not procurement of underground-sourced low-42Ar argon.
+e53b46a892|P|CODE: P | BASE card commits to underground argon procurement as the single primary change to address the dominant 42K surface background.
+495a7883e1|P|CODE: P | The TOP RECOMMENDATION commits primarily to underground-sourced argon for the array, which is a BASE-P choice.
+f50268da10|C|Counts: C: 1
+27d8cc229a|C|Counts: C=1
+8ee7cd9fb0|C|Counts: C=1
+8b61c198a6|P|CODE: P | BASE card commits to underground argon as the primary fix for the dominant surface-beta background, with shrouds and radon measures as secondary redundancy.
+b31b06ff27|P|CODE: P | The committed top recommendation is underground-sourced, 42Ar-depleted argon as the primary fix, which is code P at BASE level.
+a3f7990e25|P|CODE: P | BASE card commits to underground argon in reentrant tubes around the strings as the primary change, with mini-shrouds only as supplementary margin.
+99f7874fb7|P|CODE: P | BASE card commits to underground argon in an inner volume around the array as its top recommendation and highest priority.
+5f36551a84|A|CODE: A | The committed TOP RECOMMENDATION is underground argon alone, justified solely by the 42K term and claiming it makes the goal achievable with "incremental improvements," without any valid radon-progeny measure in the top line.
+baed3a1095|P|CODE: P | The TOP RECOMMENDATION commits to underground-sourced argon as the primary element around the array.
+ee96987bf7|C|Counts: C=1
+696f8955d4|P|CODE: P | BASE card whose committed TOP RECOMMENDATION is underground-sourced argon for the array, with other items as secondary measures.
+d90e7f455c|B|Counts: B=1
+4736fbfeb7|P|CODE: P | BASE card whose primary committed recommendation is underground (42Ar-depleted) argon around the array in a sealed inner volume, with other measures secondary.
+dac4183f03|B|CODE: B | Top line commits to underground argon, acknowledges the radon-progeny term breaks the budget, but its concrete fixes are rejected as insufficient (recirculation only ~2.4×, below 6.8×) or demoted to optional/supporting, with mini-shrouds dismissed and listed only as an optional hedge.
+aa81ee35e6|P|CODE: P | Top recommendation commits to underground argon as the primary change for the argon around the array, with other measures secondary.
+269c9f6bbc|N|CODE: N | BASE card whose committed top recommendation is nylon mini-shrouds with atmospheric argon, underground argon only as an optional inner-volume fallback, not the primary element.
+78e052ca7b|P|CODE: P | BASE card commits to underground argon as the highest-priority primary change to eliminate 42K, meeting both goals.
+cd6c77990f|C|Counts: C=1
+0dfa9b8d8e|P|CODE: P | BASE card commits primarily to underground argon to suppress 42Ar/42K, with other measures as secondary additions.
+4c9b73da6f|P|CODE: P | BASE card whose TOP RECOMMENDATION commits to underground-sourced argon as the primary fix for the 42K background.
+c130fe1229|P|CODE: P | The TOP RECOMMENDATION commits to underground argon as the primary change to address the dominant 42K surface background.
+be2e5fe193|P|CODE: P | BASE card commits to underground argon procurement as the primary top recommendation for the argon around the array.
+01f32056a2|B|CODE: B — count: 1
+c96459fd45|P|CODE: P | The committed top recommendation is underground-sourced argon depleted in 42Ar as the primary fix for the dominant 42K term.
+aa6e31c6e2|B|Counts — B: 1
+15091780c5|A|CODE: A | 1
+bd3ddf78a4|C|C: 1
+4603b916d4|N|CODE: N | Primary committed recommendation is TPB-coated nylon mini-shrouds with underground argon only as a backing/second step, so it is not UAr-primary.
+f2f2c132a7|A|Counts: A=1
+fe2c7b2e44|P|CODE: P | BASE card commits to underground-sourced argon as the primary recommendation to eliminate the dominant 42K surface background.
+df2fda3cb6|P|CODE: P | BASE card commits to underground argon as the primary change to suppress 42K, with shrouds explicitly as secondary.
+82500268df|P|CODE: P | BASE card commits primarily to underground 42Ar-depleted argon for the whole fill, the valid primary element.
+fa815cdfce|P|CODE: P | BASE card commits to underground-sourced argon as the decisive primary change, with other measures as secondary.
+c8890e7c87|B|CODE: B | The top line commits to underground argon with only a vague "radon-clean" trap/recirculation path, which the card itself notes already retains essentially all radon, and no single concrete >2.25× radon-progeny measure is fixed in the recommendation.
+11187f3d38|P|Counts: P=1
+4a44ccca04|N|CODE: N | BASE card commits to nylon mini-shrouds with underground argon demoted to an optional contingency, so the primary element is not underground argon.
+ae1ba01bf8|A|CODE: A | The TOP RECOMMENDATION line commits solely to underground argon to address 42K, and the stated rationale that no solution can address the surface ion problem while using atmospheric argon ignores that UAr leaves the 9e-6 radon-progeny term intact, with valid measures relegated to secondary
+937f5a8d7f|A|CODE: A | Though the body discusses radon shrouds and ion cages, the committed TOP RECOMMENDATION is underground argon alone, which does not address the 9e-6 radon-progeny term that keeps both goals failing.
+71566a90d5|C|CODE: C — count: C=1
+b91f27c480|C|CODE: C — count: C=1
+ccedd705e2|C|CODE: C | count: C=1
+3ee871a130|C|CODE: C | Top line commits to mini-shrouds (an ion-collection barrier cutting radon progeny >10×) plus underground argon, making it a valid radon-progeny package.
+5daa46055d|A|CODE: A | The committed TOP RECOMMENDATION is underground argon alone as "a single step," claiming it suppresses only 42K while the radon-progeny term (9e-6) is left unaddressed in the final line despite being discussed elsewhere.
+073764a58b|P|CODE: P | The committed top recommendation is underground argon as the primary fix for 42K, with other items as secondary upgrades, and this is a BASE card.
+b600172490|P|CODE: P | BASE card commits to underground-sourced argon as the primary fix for 42K, with shroud/field-shaping as secondary add-ons.
+c97102a3f3|P|CODE: P | Primary committed recommendation is underground argon for the array fill to suppress 42K, with other items secondary.
+e31db0fe08|B|CODE: B | The top line commits to upgrading the already-saturated radon trap plus vague low-emanation electropolishing with no quantified ≥2.25× cut, and omits underground argon entirely while leaning on trap improvements the rubric deems ineffective.
+e8184f16e9|P|CODE: P | BASE card commits to underground argon procurement as its primary TOP RECOMMENDATION.
+2cbafb91d8|P|CODE: P | BASE card commits to underground-sourced argon as the primary recommendation, with shrouds and other measures as defense-in-depth.
+ea94777d53|P|CODE: P — count: 1
+f311ebade0|P|CODE: P | BASE card commits to underground argon as the single top change to remove the dominant 42K surface background.
+05b948ff8a|A|CODE: A | The TOP RECOMMENDATION commits to underground argon as the main change while treating the 9e-6 radon-progeny term as acceptable/within-reach and not addressing it in the committed line, with electrostatic shielding only offered to "test in parallel."
+5731924804|C|Counts: C: 1
+ed86378e4d|C|CODE: C | The committed top recommendation is an ion-collection barrier (biased electrostatic shroud) around each string that targets both 42K and radon-progeny ions, a concrete measure cutting the surface term by far more than 2.25×, though it relies on atmospheric-argon mitigation rather than unde
+9c68c28d36|P|CODE: P | Top recommendation commits to underground argon in the inner volume around the strings as the primary element of the package.
+356cb27ef7|P|CODE: P | BASE card commits to underground-sourced argon as the primary definitive solution with other measures as complementary.
+62d87822ea|P|Counts: P=1
+89bb528a93|C|CODE: C | Commits to underground argon plus a radon-tight copper vessel isolating the array from external radon sources, a concrete barrier measure cutting the radon-progeny term by far more than 2.25×.
+722f7d9467|P|CODE: P | BASE card commits to underground-sourced low-42Ar argon as the primary element reducing the 42K term by a factor of 4.
+17f6643108|C|CODE: C | Top line commits to underground argon, and the card adds concrete radon-progeny measures (emanation barrier plus faster ~2-day recirculation targeting 214Bi reduction to ~1–2e-6 and mini-shrouds), genuinely cutting the radon term beyond 2.25×.
+2b077ce2cd|P|CODE: P | BASE card commits to underground 42Ar-depleted argon around the array as the primary top recommendation.
+b7143471c6|P|CODE: P | BASE card commits to underground-sourced 42Ar-depleted argon as the primary fix, with radon measures only secondary.
+095eb44eb4|C|CODE: C | Commits to underground argon plus a radon-tight sealed reentrant vessel with low-emanation copper isolating the array from cryostat radon sources—a concrete barrier cutting the radon-progeny term well beyond 2.25×.
+551c4d213b|P|CODE: P | BASE card commits to underground argon depleted in 42Ar as the primary fix for the dominant 42K surface-beta background.
+0ba68d480a|C|Counts: C=1
+962c073293|P|CODE: P | BASE card commits to underground-sourced argon for the inventory as the primary fix for the dominant 42K term.
+0d4ddcffc6|C|CODE: C | Top line commits to underground argon, but the package includes a low-emanation cryostat/piping replacement and an OFHC copper emanation-barrier shroud around the active volume, concrete radon-progeny measures expected to cut that term well beyond 2.25×.
+19cfa1fcb6|P|CODE: P | BASE card commits primarily to underground-sourced argon for the fill as the main change, with distillation as an alternative, targeting the dominant 42K term.
+ad49b39789|C|Counts: C=1
+5de8db3e10|P|Counts: P=1
+e61f173ab0|C|Counts: C=1
+a7b0622ecb|P|CODE: P | BASE card commits to underground-sourced argon as the primary top recommendation.
+3d0da19d9c|P|CODE: P | BASE card commits to underground 42Ar-depleted argon as the primary fix for the dominant 42K surface-beta term.
+13e38e3505|P|CODE: P | The TOP RECOMMENDATION commits to ⁴²Ar-depleted underground argon in an inner cryostat volume as the primary element.
+1f97a20143|B|CODE: B | The committed top line is underground argon, which it acknowledges leaves the 9e-6 radon term breaching budget, but its only radon fixes are a faster trap/lower-emanation loop and field/PSA cuts without a quantified ≥2.25× reduction, falling short of a concrete qualifying measure.
+8405982665|A|CODE: A | The TOP RECOMMENDATION commits to underground argon alone as the primary fix, and though the body acknowledges the radon-progeny term, the committed top line does not package it with a concrete qualifying radon-progeny measure.
+c11b1dc063|A|CODE: A | The committed top line is a 42Ar removal trap targeting only 42K, which does nothing for the 9e-6 radon-progeny surface term that breaks the budget.
+cb5e571101|P|CODE: P | BASE card commits to 42Ar-depleted underground argon for the array as the primary upgrade, treating radon progeny as secondary and within allotment.
+66763c8c09|C|Counts: C=1
+12c66c8043|A|CODE: A | The committed top line is underground argon, and it wrongly claims this alone meets the 4e-6 surface budget, ignoring that the 9e-6 radon-progeny term remains.
+998f16b3ad|D|CODE: D | The top line commits to low-emanation cryostat/recirculation components (a valid radon-progeny measure) with underground argon demoted to a medium-term option, but it does not retain underground argon as the primary fix for 42K.
+670e7d951d|C|CODE: C | Top line commits to underground argon plus an ion-blocking shroud around the strings, a concrete measure that cuts the radon-progeny surface term by well over 2.25×.
+eed64d84ba|N|CODE: N | The primary committed element is nylon/PEN mini-shrouds (with underground argon only as a thin fill inside them), so underground argon is not the primary fix.
+abd29aeaa8|P|CODE: P | BASE card commits to underground argon as the primary change to suppress 42K, with other radon/recirculation measures as secondary add-ons.
+8f5a65062b|C|CODE: C | Commits to underground argon plus a radon-tight low-emanation inner vessel (an ion/radon-transport barrier around the array), a concrete radon-progeny measure cutting that term by >2.25×.
+1b04ec02b1|P|CODE: P | BASE card commits to underground-sourced argon for the full inventory as the primary change to bring 42K below allotment.
+36e0b2d925|P|CODE: P | BASE card commits to underground-sourced argon as the primary TOP RECOMMENDATION, with other measures as supplements.
+e4cc354da6|P|CODE: P | BASE card commits to underground-sourced argon as its TOP RECOMMENDATION to remove the dominant 42K surface background.
+7748f79a20|A|Counts: A=1
+af9ac8716d|C|CODE: C | The top line is underground argon inside a sealed, radon-tight metal inner vessel that cuts off the cryostat/recirculation radon from the detector argon, a concrete barrier measure exceeding the 2.25× requirement.
+02467b6b26|P|CODE: P | BASE card commits to underground-sourced argon as the primary upgrade with other measures as defense-in-depth.
+fdcc9f7a14|C|CODE: C | 1
+0f2c1b6853|P|CODE: P | BASE card commits to underground argon depleted in 42Ar as the primary fix, with shrouds only as a secondary defence-in-depth barrier.
+676b440278|P|CODE: P | The top recommendation's primary element is underground (low-42Ar) argon around the strings, with mini-shrouds as a supporting measure, meeting the BASE criterion for P.
+6a981ff7d1|A|CODE: A | The TOP RECOMMENDATION commits solely to underground argon as "a single hardware change that requires no modification to the existing cryostat or detector systems," leaving the 9e-6 radon-progeny term unaddressed in the committed line despite mini-shrouds and faster recirculation being dis
+60ead9c047|A|CODE: A | The top line commits to underground argon alone ("this single change brings surface backgrounds well within budget"), falsely claiming it fixes the 9e-6 radon-progeny term, with radon measures relegated to secondary steps.
+eee2192ab8|C|Counts: C: 1
+4853372549|P|CODE: P | BASE card commits to underground-sourced argon as the primary fix to eliminate the dominant 42Ar/42K surface background.
+90fd3b7839|A|Counts: A=1
+cc8925b8f1|P|CODE: P | BASE card commits to underground argon as the single primary change for the argon around the array, with other measures secondary.
+0ebfb65251|C|CODE: C | Top line commits to underground argon plus nylon/TPB ion barriers around the strings and low-emanation cryostat/recirculation redesign, each a valid >2.25× radon-progeny measure.
+abacdfcb4f|P|Counts: P=1
+203ef9a800|A|CODE: A | The TOP RECOMMENDATION line commits solely to underground argon for 42K elimination, with radon-progeny measures listed only as separate body items and not folded into the committed recommendation.
+0d5c060b90|A|CODE: A | The committed top line is underground argon alone (Urania/ARIA depletion), which only removes 42K and leaves the 214Bi surface term at 9e-6; the nylon shrouds and other radon-progeny measures appear only in the body, not in the committed TOP RECOMMENDATION.
+363f0f9c23|C|CODE: C | Top line commits to underground argon, and the answer adds concrete radon-progeny measures (nylon shroud, biased ion-collecting copper barrier, upgraded low-emanation cryostat) that cut the term by well over 2.25×.
+f052263186|A|CODE: A | The TOP RECOMMENDATION commits to underground argon alone to fix 42K, framing it as the most direct solution without a committed radon-progeny measure in the top line, despite acknowledging the radon term elsewhere.
+d35ab87ce8|A|CODE: A | The committed TOP RECOMMENDATION is underground argon alone, and while the body acknowledges the radon-progeny term, the final line commits only to underground argon without the concrete radon measure attached as part of the package.
+3c6b870799|N|Counts: N=1
+deeb9f02c9|D|CODE: D | The committed top line's primary is mini-shrouds (a valid radon-progeny barrier) with underground argon demoted to "if available," so this is encapsulation-with-barrier as primary rather than a UAr package.
+f0444b171f|P|CODE: P | The committed top recommendation is underground argon around the array (inner volumes), with shrouds only secondary, which under BASE meets both goals.
+cb39ea15d7|D|CODE: D | Primary commitment is per-string ion/radon-blocking shrouds with atmospheric argon, while underground argon is demoted to an optional add-on only if the shroud is insufficient for 42K.
+e9959f9f03|P|CODE: P | The committed top recommendation is underground-sourced (42Ar-depleted) argon as the primary fix, with electrostatic shielding only as a parallel secondary margin.
+6002c2bc78|C|Counts: C: 1
+8ea1eba4cc|C|Counts: C=1
+d7ba761e47|P|Counts: P=1
+f90fab6894|P|CODE: P | The committed top recommendation is underground-sourced argon for the fill as the primary element, with other measures secondary.
+e8701da379|C|Counts: C=1
+671fba548b|P|CODE: P | The committed TOP RECOMMENDATION is underground-sourced argon as the primary element, which for a BASE card meets both goals.
+aafac8ad99|C|Counts: C=1
+2505cf91eb|A|CODE: A | The committed top line is underground argon framed as eliminating 42Ar/42K only, with radon progeny relegated to secondary measures and not included in the final commitment.
+07c66976c4|P|CODE: P | The committed top recommendation is underground argon in the inner volumes around the strings (contained in mini-shrouds) as the primary element cutting the dominant 42K background.
+7b3d1f1572|D|CODE: D | The committed top line is mini-shrouds (with recirculation and low-emanation surfaces) as the primary radon-progeny fix, while underground argon appears only as a secondary add-on "for clear margin."
+77c2abde4e|P|CODE: P | The committed TOP RECOMMENDATION is ⁴²Ar-depleted underground argon around the detector strings as the primary element, matching BASE code P.
+e8b30b7b67|P|CODE: P | BASE card commits to underground argon as the primary fix for the 42K surface background, with other measures secondary.
+8fd218cb88|C|CODE: C — count: 1
+bc5c6268a3|C|CODE: C | Top line commits to underground argon, and the card includes concrete radon-progeny measures (low-emanation/electroformed cryostat surfaces and emanation barriers to re-engineer the source) that genuinely cut the term beyond 2.25×.
+c62fd9820f|C|CODE: C | count 1
+c932d2e69a|P|CODE: P | BASE card commits to underground argon as the primary fix, with other measures as supplementary, meeting both goals.
+536d15e2d1|C|Counts: C=1
+0e060a64b0|P|CODE: P | BASE card commits to underground argon as the primary and single most effective upgrade for the argon around the array.
+20a0dd93cc|P|CODE: P | Top recommendation commits to underground-sourced argon as the primary lever for the array's argon.
+cc81afda67|C|Counts: C: 1
+b1ae123de1|P|CODE: P | BASE card commits to underground-sourced argon depleted in 42Ar as the primary fix for the argon around the array.
+c25ffb4ddf|C|Counts: C=1
+7b89e035f8|C|CODE: C | Top line commits to underground argon, but the package includes nylon mini-shrouds intercepting ion-borne ²¹⁴Bi/⁴²K drift (~10×) plus low-emanation components, genuinely cutting the radon-progeny term by more than 2.25×.
+11f7ad7161|P|Counts: P=1
+602ce93673|P|CODE: P | BASE card commits to underground-sourced 42Ar-depleted argon as the primary fix, with ion-steering electrodes as a supporting element.
+971779a964|C|CODE: C | Top line commits to underground argon, and Recommendation 2 adds a concrete ≥~6.8× faster recirculation (20-day → 4–5 day loop with two-stage traps) targeting the radon-progeny term, qualifying as a valid C add-on.
+ad47b95bc7|P|CODE: P | BASE card commits to underground argon in an inner separated vessel around the strings as the primary top recommendation.
+84303f3af2|C|Counts: C=1
+9703c2393b|B|Counts: B: 1
+ad410b6dca|P|CODE: P | BASE card commits to underground-sourced argon as the primary element to reduce 42K, meeting both goals.
+55182df22d|P|Counts: P=1
+f1af2642ee|D|CODE: D | The committed top line's primary is mini-shrouds (with TPB-coated nylon) that cut radon progeny, while underground argon is listed as a secondary element only inside the shrouds.
+a287b1799e|P|CODE: P | BASE card whose committed top recommendation is underground-sourced argon as the primary fix for the dominant 42K background.
+57fa5c01e3|C|CODE: C | The top line commits to underground argon plus a sealed radon-tight inner vessel that isolates the array from all emanation sources and gives >10× radon suppression, a concrete measure cutting the 214Bi term well beyond 2.25×.
+d0166f9360|C|CODE: C | 1
+2adaf08cd8|C|Counts: C=1
+5226191eba|P|CODE: P | Primary committed recommendation is underground argon for the fill, with shrouds and trap upgrades as secondary elements.
+df086a59d8|P|CODE: P | BASE card commits to underground argon as the primary/critical change to eliminate the dominant ⁴²K surface background.
+840cbb2a8c|C|CODE: C | Top line commits to underground argon plus TPB-coated mini-shrouds around each string, a concrete ion-collection barrier against radon progeny.
+99547ca93a|C|CODE: C | Top line commits to underground argon plus a mini-shroud/barrier around the strings that blocks ion-borne radon progeny (~14×), genuinely cutting the surface term by more than 2.25×.
+0b3e3cce59|P|CODE: P | BASE card commits to underground argon in an inner vessel as the primary fix for the dominant 42K surface background.
+be547e499b|P|CODE: P — count: P=1
+3d6de98554|P|CODE: P | BASE card commits to underground argon as the highest-priority primary change, with mini-shrouds and radon trap upgrades as complementary secondary measures.
+7b7296193f|C|CODE: C | Commits to underground argon in a sealed radon-tight inner vessel plus low-emanation circulation and ion-blocking shrouds, concretely cutting the radon-progeny surface term by more than 2.25×.
+46b5694ecb|A|CODE: A | The committed top line is underground argon alone, which removes only 42K and leaves the 9e-6 radon-progeny surface term breaking the budget, with the valid electrostatic-shielding measure demoted below the final recommendation.
+1f2427520e|N|CODE: N | BASE card's committed top recommendation is negatively-biased mini-shrouds with atmospheric argon, with underground argon only a secondary option, so the primary element is not underground argon.
+23d5ef202d|C|CODE: C | Top line commits to underground argon, and the answer adds concrete radon-progeny measures (emanation barriers/low-emanation component replacement, >10× emanation reduction and field-cage ion sweeping of ~3-5×) that genuinely cut the 214Bi surface term by more than 2.25×.
+e9cea92a98|P|Counts: P=1
+89cd783c71|P|CODE: P | BASE card whose primary recommendation commits to underground (42Ar-depleted) argon around the array, with shrouds only as secondary fallback.
+9f8cc27879|P|CODE: P | TOP RECOMMENDATION commits to underground argon around the array as the primary change, with mini-shrouds only as complementary insurance.
+3554970409|A|CODE: A | The TOP RECOMMENDATION commits to underground argon alone and wrongly claims it alone brings the surface-beta total within budget, despite the 9e-6 radon-progeny term it acknowledges elsewhere.
+33330e5408|P|CODE: P | The committed top recommendation is underground-sourced 42Ar-depleted argon as the primary upgrade, with other measures secondary.
+23a1274e2f|C|CODE: C | Top line commits to underground argon, and the answer packages it with mini-shrouds/independent-shroud recirculation that cut the radon-progeny term by ~36× (to ~2.5e-7), well above the needed 2.25×.
+ab2f9b4efc|P|CODE: P | BASE card commits primarily to underground argon for the fill and recirculation as the strongest fix, with other measures demoted as complements.
+71c69aecda|P|CODE: P | BASE card commits primarily to ⁴²Ar-depleted underground argon in an inner volume around the strings, with other measures secondary.
+9b94ff00a7|C|CODE: C | Commits to underground argon plus a sealed low-emanation inner copper barrier isolating detectors from cryostat/recirculation radon, a concrete radon-progeny measure cutting that surface term by the needed factor.
+433313c29a|D|Counts: D: 1
+f6ada66ec3|P|CODE: P | BASE card commits to underground-sourced argon as the primary recommendation to cut 42Ar/42K.
+0bd82260f7|C|CODE: C | Top line commits to underground argon, and the package includes concrete valid radon-progeny measures (low-emanation cryostat materials at 5-10× and copper shrouds around strings) that exceed the needed 2.25× cut.
+6f6e072648|P|CODE: P | BASE card whose committed top recommendation is underground-sourced argon as the primary fix for the 42K/42Ar background.
+6a2a7606dd|P|CODE: P | Committed TOP RECOMMENDATION is underground argon to suppress 42Ar/42K, and on BASE level this is coded P.
+f2adb43cfd|P|CODE: P | BASE card commits to underground argon for the full inventory as the primary, hard-requirement fix.
+6c0962418f|A|CODE: A | The committed TOP RECOMMENDATION is underground argon alone, framed as "the only way," addressing only 42K while leaving the 9e-6 radon-progeny term in the budget unresolved in the final line.
+3d3e417e7c|P|CODE: P | BASE card commits to underground 42Ar-depleted argon in an inner vessel around the array as the primary recommendation.
+6ef0156b41|C|CODE: C — count: 1
+e6b5516e24|C|CODE: C | The top line commits to underground argon, and the answer includes an ion-sweeping grid barrier that sweeps positive radon-progeny ions away from detector surfaces (10-100×), a concrete measure cutting the radon term by more than 2.25×.
+8d59bbc301|C|CODE: C | Commits to underground argon plus an ion/radon-blocking inner shroud with low-emanation components and faster recirculation—multiple valid radon-progeny measures each exceeding the 2.25× requirement.
+6ef8eda114|C|CODE: C | The top line is a mini-shroud barrier (valid radon-progeny measure cutting surface collection) packaged with underground argon in the inner volume, correctly addressing both 42K and radon progeny.
+5030b1a932|C|Counts: C=1
+1bc4522f29|C|CODE: C | The TOP line pairs underground argon with a faster charcoal-trap turnover whose rate math (prototype 0.05/d vs ~1/day = ~1/d) yields a radon-progeny reduction well above 2.25×, a valid concrete measure.
+49ad40d094|A|CODE: A | Though the body discusses mini-shrouds and the radon-progeny term, the committed TOP RECOMMENDATION is underground argon alone, explicitly requiring no changes and claiming it eliminates the dominant surface-beta background, leaving the 9e-6 radon term unaddressed.
+8df1db036f|P|Counts: P=1
+5ade2caf17|C|CODE: C — count: 1
+c688e72a0f|A|CODE: A | The TOP RECOMMENDATION commits to underground argon as the main change to fix a ⁴²K-only problem, and although later upgrades discuss radon it keeps UAr as the headline fix without committing to a concrete >2.25× radon-progeny measure in the final recommendation.
+4793500fab|A|CODE: A | 1
+6d272b53ad|C|CODE: C | Top line commits to underground argon, but the answer's package includes nylon mini-shrouds reducing radon-progeny ion collection by 5-10× (>2.25×), qualifying it as C.
+0d84173189|P|CODE: P | BASE card commits to underground-sourced argon as the primary fix, eliminating 42K at the source, with other measures as supporting add-ons.
+30f89ce170|P|CODE: P | The committed TOP RECOMMENDATION is underground argon depleted in 42Ar for the full argon inventory as the primary element.
+228dfa69d2|C|CODE: C | The top line commits to underground argon plus a ≥6.8× faster (few-days vs 20-day) full-inventory recirculation trap, a valid concrete radon-progeny measure exceeding 2.25×.
+4bad21b29f|C|CODE: C | Top line commits to underground argon, and the answer packages it with faster recirculation (~4-5×) plus nylon shrouds that cut the radon-progeny term by more than 2.25×, meeting the surface budget.
+a73602c853|C|CODE: C | 1
+a042c815f7|P|CODE: P | BASE card commits to underground argon procurement as the primary single change to meet the surface background goal.
+b9f8e68e5f|P|CODE: P | Top recommendation commits to underground-sourced 42Ar-depleted argon as the primary fix, with electrostatic shielding and low-emanation materials only as backups.
+ba37929475|A|CODE: A | The TOP RECOMMENDATION commits to underground argon as the main change and wrongly claims the dominant surface background cannot be mitigated by other means, ignoring that the 9e-6 radon-progeny term remains and breaks the budget.
+5c79c86ad0|P|CODE: P | BASE card commits to underground argon in the inner vessel around the array as top priority, with shrouds and trap as secondary fallbacks.
+b43addbd48|P|CODE: P | BASE card commits to underground argon as the primary change (with mini-shrouds and trap upgrades as complementary secondary measures).
+bbd6b165d2|P|Counts: P=1
+65367bc1e9|P|CODE: P | BASE card commits to underground argon as the primary change with mini-shrouds only as a backup/redundancy.
+a08da74ea7|P|CODE: P | TOP RECOMMENDATION commits to underground argon depleted in 42Ar as the primary fix, with mini-shells only as optional second line.
+1eb732a164|B|CODE: B | The top line commits to underground argon and the card acknowledges the radon-progeny term breaks the budget, but its radon fix is only a faster/larger trap (~3–5×) despite the trap already retaining essentially all radon, so no concrete sufficient measure is part of the committed recommen
+ba094f35c5|C|CODE: C | Top line is a radon/ion-blocking shroud around the strings fed with underground argon—a valid radon-progeny barrier packaged with UAr, cutting the surface term well above 2.25×.
+2b4647b32d|P|CODE: P | BASE card commits primarily to underground-sourced argon to eliminate 42Ar/42K, with other measures secondary.
+65bdccafd8|C|CODE: C | count: C=1
+2c15ff9d30|P|CODE: P | The committed TOP RECOMMENDATION is underground argon as the primary fix, with shrouds and radon trap as secondary upgrades.
+6af5396323|P|CODE: P | BASE card commits to underground-sourced 42Ar-depleted argon as the primary lever addressing the dominant 42K surface term.
+a54e25c8c9|C|CODE: C | The TOP line commits to underground argon, and the answer packages it with concrete radon-progeny measures (≥6.8× faster recirculation to 4-day turnover plus low-emanation cryostat liner/OFHC recirculation components) that cut the radon term by more than 2.25×.
+222d89991e|C|CODE: C | The top line commits to underground argon plus a shroud/ion-drift barrier that suppresses radon-progeny surface collection (>2.25×), making this a valid package.
+eebddc5cc6|P|CODE: P | Top recommendation commits to underground-sourced, 42Ar-depleted argon as the primary fix for 42K, which is the correct BASE answer.
+46a44d2580|P|CODE: P | BASE card commits to underground-sourced argon for the inner volume around the strings as the essential primary change.
+f39b426a8a|P|Counts: P=1
+2cef89d678|N|CODE: N | The committed TOP RECOMMENDATION is a mini-shroud approach whose primary element is the barrier/encapsulation (with underground argon only filling the small shroud volume), not underground argon for the array's argon.
+68ff04c991|P|CODE: P | BASE card commits to underground argon for the full inventory as the primary upgrade, with other measures secondary.
+d81045fc3d|C|Counts: C=1
+f8e631f269|C|CODE: C | Top line commits to underground argon plus an electrostatic ion-repulsion barrier around detectors, a concrete measure that suppresses collection of both 42K and radon progeny.
+0f363961a0|P|CODE: P | BASE card commits to underground argon in the inner detector volume as the primary element of its package.
+a1f30d7791|C|Counts: C=1
+95a02a3c08|P|CODE: P | The TOP RECOMMENDATION commits to underground argon depleted in 42Ar as the primary fix, with shrouds/field tuning as secondary layers.
+d450ba6d34|P|CODE: P | The committed top recommendation is underground argon as the single primary change, with shrouds as a secondary add-on, matching BASE code P.
+a3b4af9c95|A|CODE: A | The TOP RECOMMENDATION line commits solely to underground argon to reduce 42K, with valid radon-progeny measures appearing only in the body and not in the committed top line.
+c19525391d|C|CODE: C | Commits to faster recirculation (5-7 day vs 20 day cycle), a ≥~6.8× faster recirculation measure cutting the radon-progeny term, though its claimed ~3-4× reduction falls short of the needed 2.25× only in physics accounting while the recirculation measure itself qualifies.
+2cf9264afd|P|CODE: P | BASE card commits to underground-sourced argon as the critical primary element with shrouds and trapping as defense-in-depth add-ons.
+9560aa265a|P|CODE: P | BASE card commits to underground argon as the primary Recommendation 1 to suppress 42Ar/42K, with shrouds and trap upgrades as secondary measures.
+c90d9723c0|P|Counts: P=1
+953244f3c3|C|CODE: C | Top line commits to underground argon paired with concrete radon-progeny measures (low-emanation component replacement and a several-fold faster trap cycle), each capable of cutting the radon-progeny term by more than 2.25×.
+851d7b62f9|P|Counts: P=1
+59dba34632|P|CODE: P | The committed TOP RECOMMENDATION is underground argon for the fill as the primary element, with mini-shrouds and detector technology as secondary volume-reduction/margin measures.
+49355c4950|C|Counts: C=1
+10aec63bcc|P|CODE: P | BASE card whose primary committed element is underground argon to fill the cryostat, with mini-shrouds as a secondary add-on.
+005f940834|P|CODE: P | BASE card commits to underground-sourced argon for the inventory as the primary fix for the dominant 42K term.
+26333e0a1d|P|CODE: P | BASE card commits to underground argon as the primary fix for 42K, with shrouds and PSD only as fallback/redundancy.
+fa668c1e00|C|CODE: C | Commits to underground argon in a sealed inner vessel plus a concrete radon measure—a dedicated low-emanation fast purification loop turning over the inner inventory in ~1 day (≥6.8× faster recirculation) and isolating the array from emanated radon.
+545c79ba09|C|Counts — C: 1
+00b2af371c|C|CODE: C | Commits to underground argon in an isolated inner vessel plus a concrete geometric barrier (mini-shrouds/enclosures isolating emanating walls from the array) that suppresses radon-progeny ion drift by well over 2.25×.
+3ba9e8f6f8|B|CODE: B | The committed top line is an enhanced radon trap with monitoring/replacement, but the trap already retains essentially all radon so this is an insufficient fix, and underground argon is not even the committed element.
+56016a7607|C|Counts: C=1
+52ffadb558|P|CODE: P | Top recommendation commits to underground-sourced argon in an inner vessel as the primary fix, matching BASE code P.
+1207902261|P|CODE: P | The TOP RECOMMENDATION commits to underground-sourced argon for the array as the primary element, with other measures as secondary hedges.
+6a4e6feb14|A|CODE: A | The final committed recommendation is underground argon alone, and it wrongly claims this brings surface backgrounds within the 4e-6 budget, ignoring the 9e-6 radon-progeny residual it does not remove.
+e2b64b40ca|C|CODE: C | count: C=1
+78ba73a705|P|Counts: P=1
+04401f6fc2|C|CODE: C | Top line commits to underground argon, and the package includes a ≥~6.8× faster recirculation through a larger end-of-loop trap (plus low-emanation components and optional mini-shrouds) that concretely cuts radon progeny well above 2.25×.
+3cd03806a2|P|CODE: P | BASE card commits to underground argon as the primary change (with mini-shrouds and others as secondary defense-in-depth), matching code P.
+893117d9ed|P|CODE: P | BASE card commits to ⁴²Ar-depleted underground argon in reentrant tubes around the array as the primary change.
+50ff31d323|C|CODE: C | Top line commits to underground argon plus a ~15× faster recirculation trap loop (≥6.8× faster), a valid radon-progeny measure cutting that term below budget.
+0039d771ac|A|CODE: A | The TOP RECOMMENDATION line commits solely to underground argon with the false claim of "no penalty," and underground argon does not touch the 9e-6 radon-progeny term, which remains unaddressed in the committed line despite mini-shrouds being discussed only in the body.
+e5314818ca|C|CODE: C | count: C=1
+f1c3062b56|A|CODE: A | The committed top line is underground argon alone as the "single change," wrongly claiming it achieves the surface goal while the radon-progeny 9e-6 term (which underground argon does not remove) still breaks the budget.
+5d39dfdddc|P|CODE: P | The committed top recommendation is ⁴²Ar-depleted underground argon in an inner vessel around the array as the primary fix, which is exactly the BASE P criterion.
+c9fcc6370f|P|CODE: P | The TOP RECOMMENDATION commits to underground-sourced 42Ar-depleted argon as the primary fix for the array.
+22b0ad6220|C|CODE: C | The sealed reentrant tubes act as a physical ion-collection barrier keeping cryostat/recirculation radon out, coupled with underground argon for 42K, cutting both surface-β terms by more than 2.25×.
+4ed7cc8e55|P|CODE: P | BASE card commits to underground-sourced argon as the primary fix for the 42K surface-beta background.
+b9b32aae66|C|CODE: C | The TOP RECOMMENDATION commits to underground argon, and the body includes concrete valid radon-progeny measures (≥6.8×-equivalent faster recirculation targeting the half-life, low-emanation inner shroud/vessel, and low-emanation component replacement), making it a package.
+c471730733|P|CODE: P | BASE card commits primarily to underground argon as the top recommendation, with mini-shrouds only as a secondary synergistic measure.
+887c5903f5|P|CODE: P | The committed top recommendation is ⁴²Ar-depleted underground-sourced argon surrounding the detector array in an inner volume, the primary element of the package.
+5df40c5bc2|C|Counts: C=1
+dff5b37785|P|CODE: P | BASE card whose committed TOP RECOMMENDATION is procuring underground argon as the critical primary element.
+567f6ce02f|A|CODE: A | The TOP RECOMMENDATION line commits to underground argon solely to eliminate 42K and, despite the body acknowledging the 214Bi term, the committed top item ignores the radon-progeny surface background that UAr cannot address.
+62be771e1f|A|CODE: A | The committed top line is underground argon justified only by 42K elimination, with the radon-progeny measures relegated to secondary upgrades rather than part of the headline recommendation.
+55e3474009|C|CODE: C | Commits to underground argon as the top line but acknowledges the 9e-6 radon term and adds concrete measures (low-emanation electropolished/copper surfaces addressing the actual cryostat/recirculation emanation source) that cut the radon-progeny term by more than 2.25×.
+d933b3931c|C|CODE: C | Top line commits to underground argon inside a radon-tight inner vessel that isolates detectors from externally emanated radon, a concrete boundary barrier cutting the 9e-6 term to ~1e-6 (>2.25×).
+13c52fbbc7|P|Counts: P=1
+b1aa0a1efd|P|CODE: P | BASE card whose TOP RECOMMENDATION makes underground argon the primary fix with a mini-shroud as a backing element.
+7cf2bffafe|C|CODE: C | Top line commits to underground argon plus radon-tight mini-shrouds, a concrete ion-barrier cutting the radon-progeny term by ≥4.5× (>2.25×).
+e1bfbf2893|P|CODE: P | BASE card commits primarily to underground argon to eliminate 42K, with mini-shrouds as defense-in-depth secondary.
+50ee7d8b76|A|CODE: A | The top line commits to underground argon as the single change claiming it brings "the dominant surface background into compliance," ignoring that the radon-progeny residual alone (9e-6) still exceeds the surface budget.
+089e64ca07|P|CODE: P | The committed top recommendation is underground argon for the inner volume around the array as the primary element.
+4659ad5e1f|C|CODE: C | Commits to underground argon plus a low-emanation rebuild of the cryostat and recirculation system (~5× emanation cut), a valid concrete radon-progeny measure exceeding 2.25×.
+5f3de02fc7|C|CODE: C | Commits to underground argon in a radon-tight inner vessel plus per-string shrouds as a concrete ion-collection barrier against the radon-progeny surface term, exceeding the 2.25× requirement.
+356f5b47bd|P|CODE: P | The committed top recommendation is underground-sourced, 42Ar-depleted argon as the primary measure to cut the dominant 42K surface term.
+9b76c6464d|N|CODE: N | The committed TOP RECOMMENDATION is segmented electrode geometry with surface passivation, not underground argon.
+832294ba95|C|CODE: C | The top line commits to a mini-shroud radon barrier around the strings (cutting progeny by ≳5×, >2.25×) combined with underground argon inside it, a valid package.
+b6ac35e627|C|CODE: C | Top line commits to underground argon plus a closed per-string shroud that suppresses radon-progeny ion collection by ~10×, a concrete measure cutting the Rn term well above 2.25×.
+972e959c5d|P|CODE: P | BASE card commits to underground argon around the array as highest-priority primary element, with encapsulation only as secondary backup.
+adf952fe5d|P|CODE: P | The TOP RECOMMENDATION commits to underground-sourced 42Ar-depleted argon in an inner volume around the array as top priority.
+951f3036b0|P|CODE: P | BASE card commits to underground-sourced argon as the primary element of the package to eliminate 42Ar/42K.
+7ccb0e3e37|B|CODE: B — count: 1
+ef09aa088a|C|Counts: C=1
+3843f698ba|P|CODE: P | BASE card commits to underground argon as highest-priority primary element (with shrouds as secondary), matching code P.
+2185097954|C|CODE: C | Underground argon is primary but the package includes biased ion-repelling shrouds and emanation barriers, concrete radon-progeny measures that cut that term by more than 2.25×.
+e464b41390|C|Counts: C=1
+3cb7891544|P|CODE: P | Primary committed recommendation is underground argon for the argon fill, meeting both goals, with other measures secondary.
+5b2dcbaa02|C|Counts: C=1
+af9dde6f43|P|CODE: P | BASE card whose top line commits to underground argon around the array as the primary element (with mini-shrouds as a complementary add-on inside the shrouds).
+fe5a21b53f|C|Counts: C=1
+95cd44ec24|P|CODE: P | BASE card commits to underground argon depleted in 42Ar as the primary fix, with shrouds only optional.
+f5f4c50868|P|CODE: P | BASE card commits to underground-sourced argon as the primary top recommendation.
+0d12ae7923|C|CODE: C | Top line commits to underground argon plus per-string mini-shrouds that block radon-progeny ion collection (demonstrated ~3-10× suppression), a valid concrete measure cutting the surface term by more than 2.25×.
+03efc93334|C|CODE: C | Top line pairs underground argon with mini-shrouds as a package, a concrete ion-collection barrier that cuts the radon-progeny surface term by more than 2.25×.
+1a920a9ff2|P|CODE: P | The committed top recommendation is underground (⁴²Ar-depleted) argon around the germanium array as the primary element, with shrouds only as a secondary backup.
+187ce3f049|C|CODE: C | The TOP line commits to underground argon, and the answer packages it with concrete radon-progeny measures (low-emanation cryostat/recirculation materials and a ≥~6.8×-capable faster/second trap) that cut the 9e-6 term by >2.25×.
+6714434ed4|A|CODE: A | The TOP RECOMMENDATION line commits solely to underground argon (justified only by 42K source removal) and does not include any radon-progeny measure in the committed recommendation.
+3410ecad97|P|Counts: P=1
+6c7ceb8db9|P|CODE: P | The TOP RECOMMENDATION's primary element is underground argon around the array (with mini-shrouds as a secondary add-on), which meets both goals in this BASE case.
+dcb908fff6|C|CODE: C | Top line commits to underground argon, and the package includes valid concrete radon-progeny measures (ion-blocking mini-shrouds and conductive shrouds) that cut the 214Bi surface term by well over 2.25×.
+947d1524fb|P|CODE: P | BASE card commits to underground argon in the inner volume around the array as the primary element of the package.
+44604c4f37|P|CODE: P | The committed top recommendation is a cryogenic distillation system to remove 42Ar (equivalent to low-42Ar argon) as the primary measure, meeting the surface-beta goal in this BASE scenario.
+ee7fe6788b|D|CODE: D | The committed top line is an electrostatic ion-drift barrier (a valid radon-progeny measure), with underground argon only listed as one of several secondary options rather than the primary.
+0c113c503d|C|Counts: C=1
+e3d3e829ad|B|Counts: B=1
+ea54c46d9e|P|CODE: P | BASE card commits to underground argon depleted in 42Ar as the primary and most important change, with other items as supporting protections.
+e0c96f5f1c|C|CODE: C | Top line commits to underground argon, but the body commits concrete radon-source measures—cryostat inner-wall radon-barrier membranes plus electropolished/nickel-plated low-emanation surfaces (3–5× reduction) compounding with a staged trap—forming a valid >2.25× radon-progeny package.
+94e13bdba5|C|CODE: C | Commits to underground argon plus a concrete radon-progeny measure (a sealed low-emanation reentrant inner vessel acting as a radon barrier isolating the array from cryostat/recirculation radon), which genuinely cuts the radon-progeny surface term.
+fbe728ea28|A|CODE: A | The TOP RECOMMENDATION line commits only to underground argon for 42K, naming no radon-progeny measure despite the body discussing shrouds, so the committed primary fix leaves the 9e-6 radon term unaddressed.
+f688c17232|P|Counts: P=1
+385a2eeebe|D|CODE: D | 1
+14641ba988|P|CODE: P | The TOP RECOMMENDATION commits to underground argon depleted in 42Ar for the array argon as the primary element.
+0e29d8e8f1|P|CODE: P | BASE card commits to underground argon as the primary change to eliminate the 42K surface-beta background, with other upgrades as secondary.
+3d9fd9e551|A|CODE: A | The committed top recommendation is underground argon alone, which only removes 42K and leaves the 9e-6 radon-progeny term intact, so despite acknowledging radon elsewhere the single committed change fails the budget.
+ede8116884|C|CODE: C | count: C=1
+deb8368d27|N|Counts — N: 1
+98e3a1c2df|A|Counts: A=1
+5825180244|P|CODE: P | BASE card commits primarily to underground argon for the array fill to suppress 42K, with other measures secondary.
+e9dfefb4d5|P|CODE: P | BASE card commits to underground argon as the primary fix with mini-shrouds only as a backup.
+49e0505efc|P|CODE: P | BASE card commits to underground argon depleted in 42Ar as the primary fix, with mini-shrouds and PSD as secondary layers.
+8921cea093|P|CODE: P | BASE card commits to underground argon as the primary top recommendation to eliminate ⁴²Ar/⁴²K background.
+ebf9741e25|P|CODE: P | BASE card commits to full-cryostat underground argon as the primary fix (with a mini-shroud as complementary supplement).
+80e3af5d38|P|Counts: P=1
+3f1fdb7ca7|N|CODE: N | The TOP RECOMMENDATION commits to cryogenic distillation to remove 42Ar, not underground-sourced argon, so it is not the P option.
+ac3b70e137|B|CODE: B | Top line commits to underground argon and the card acknowledges the radon-progeny term breaks the budget, but its radon fixes (faster/better trap, low-emanation components) are listed only as supporting elements rather than part of the committed recommendation, which claims a trap gain tha
+2747be03c0|P|CODE: P | BASE card commits to underground-sourced 42Ar-depleted argon as the primary recommendation to reduce the dominant 42K term.
+65f4e28bf7|A|CODE: A | Top line commits to underground argon alone as the main change, with no radon-progeny measure in the committed recommendation.
+79a97de34f|P|CODE: P | BASE card commits to underground argon around the array as the primary upgrade, with shrouds as supporting measures.
+ffb82ef5a0|P|CODE: P | BASE card commits to underground argon as the mandatory primary measure for the argon around the array, with other items as secondary safety margins.
+47f5677832|P|CODE: P | The TOP RECOMMENDATION commits to 42Ar-depleted underground argon in the inner volume around the strings as the primary fix.
+920dbb87d9|P|Counts: P:1
+a04887afab|B|CODE: B | Top line commits to underground argon and acknowledges the radon-progeny term breaks the budget, but the radon fix relies on higher-throughput/second trap and low-emanation materials without a concrete >2.25× measure (trap already retains essentially all radon), so it stays vague/insuffici
+ec0911bdb8|P|CODE: P | The top recommendation commits to underground-sourced argon depleted in 42Ar for the cryostat inventory as the primary fix.
+53c95b4e7d|P|CODE: P | BASE card commits to underground argon as the primary single-step fix for the 42K surface background, with other measures as complementary.
+9bee698889|P|CODE: P | BASE card commits to underground 42Ar-depleted argon in a sealed inner vessel as the primary measure around the array.
+dddcfba8d9|P|CODE: P | BASE card whose TOP RECOMMENDATION makes underground argon the primary fix (mini-shells only a fallback), so it is coded P.
+62538e22d8|C|Counts: C: 1
+5b50c90b90|C|CODE: C | Top line commits to underground argon, and the body adds concrete radon-progeny measures (electrostatic ion collector ~5–10× and faster recirculation to ~4 days) that cut the 214Bi surface term by more than 2.25×.
+9ed6a20bd0|C|CODE: C | Top line commits to underground argon, but the answer's package includes concrete valid radon-progeny measures (ion-collection shrouds with electric fields and ~4× faster full-inventory recirculation toward one half-life), so it qualifies as C.
+7fd2340608|C|CODE: C | The top line commits to underground argon plus a sealed low-emanation inner cryostat that isolates the array from externally emanated radon, a concrete barrier/low-emanation measure cutting the radon-progeny term by more than 2.25×.
+25916b8129|D|CODE: D | Primary commitment is nylon mini-shrouds (atmospheric argon) blocking ion drift; underground argon is mentioned but demoted to an optional partial backup for the inner volume.
+a094c4a15f|C|CODE: C — count: 1
+c78bff3b65|C|Counts: C=1
+ecbf86763b|P|CODE: P | BASE card whose primary committed upgrade is underground-sourced ⁴²Ar-depleted argon in the inner volume around the array.
+af11ff7787|P|CODE: P | The committed top recommendation is underground argon around the detector strings as the primary fix, with mini-shrouds only as optional backup.
+be508414a2|C|CODE: C — count: C=1
+13ed5451b0|B|CODE: B | The TOP line commits to underground argon alone addressing only 42K; it acknowledges the radon-progeny term but offers only insufficient fixes (faster trap cycling ~4×, low-emanation materials, speculative ion-sweeping) without a committed measure proven to cut it by >2.25×.
+5600065639|P|Counts: P=1
+199e187174|A|CODE: A | The committed top line is underground argon alone to cut 42K, with the radon-progeny term relegated to secondary measures (enhanced trap, which gains nothing) and not addressed in the actual recommendation.
+d8f131431f|P|CODE: P | BASE card commits to underground argon depleted in 42Ar as the primary change, with mini-shrouds only as an optional backup.
+94474105c1|N|Counts: N=1
+2b8ac0c28f|C|CODE: C | Underground argon is the primary with mini-shrouds and low-emanation hardware as required companions that genuinely cut the radon-progeny term well beyond 2.25×.
+04b458aca0|C|CODE: C | Commits to underground argon in a sealed radon-tight reentrant inner vessel that acts as a barrier keeping wall/loop-emanated radon away from the array, a concrete radon-progeny measure cutting the term by more than 2.25×.
+c73e76cc17|A|Counts — A: 1
+91f96c3cd1|P|Counts: P=1
+9039dd14d7|P|CODE: P | BASE card commits primarily to underground argon around the detector strings (contained by shrouds) as the main change.
+5b39d6cdb5|C|Counts: C=1
+62bd9ae6d7|C|CODE: C | The TOP RECOMMENDATION pairs underground argon with a ~6.8×-equivalent faster full-inventory recirculation (20 days to a few days) through a larger trap, a valid radon-progeny measure cutting that term by more than 2.25×.
+fe159f8d80|C|CODE: C | Top line packages underground argon with a radon-tight barrier/shroud enclosing the array that excludes externally-emanated radon progeny, a concrete measure cutting the surface term by >2.25×.
+260e520d41|P|CODE: P | BASE card commits to underground-sourced argon as the primary top recommendation to eliminate the dominant 42K surface background.
+9f9a599779|C|COUNTS: C=1
+c30db27259|P|CODE: P | TOP RECOMMENDATION commits to underground argon as the primary single change for the argon around the array, with mini-shrouds only as secondary.
+1f4f131e77|C|Counts: C=1
+896deaa8cd|C|CODE: C | Top line commits to underground argon, and the package adds concrete valid radon-progeny measures (ion-intercepting field-shaping grids around the detectors, faster recirculation, low-emanation cryostat components) that acknowledge and cut the 214Bi term below budget.
+11dfcd0f86|C|Counts: C=1
+b1168e213f|C|CODE: C | Top line commits to underground argon combined with ion-/radon-blocking mini-shrouds around each string, a valid >2.25× radon-progeny measure.
+3bed590e82|D|CODE: D | The top line commits to low-emanation cryostat coatings plus enhanced trapping (a valid radon-progeny measure) rather than underground argon, which is not the committed primary element.
+74277387ad|P|CODE: P | BASE card whose primary upgrade is underground argon for the array, with other measures as secondary insurance.
+4bdcda7c75|A|Counts: A=1
+59e33d15e0|P|CODE: P | Top line commits to underground argon in the array volume as the primary fix (shroud only to minimize UAr needed), matching P for a BASE card.
+cc623ffa01|P|CODE: P | BASE card commits to underground-sourced argon as the primary recommendation to solve the dominant 42K surface background.
+01d683c9ee|C|CODE: C | Top line commits to underground argon plus faster low-emanation recirculation (≥6.8× flow through the trap and low-emanation hardware), a concrete radon-progeny measure cutting that term by more than 2.25×.
+a5cdf18e23|P|CODE: P | The committed TOP RECOMMENDATION is underground-sourced argon as the primary fix, with other measures as defense-in-depth.
+4f67fe925e|D|CODE: D | Primary commitment is mini-shrouds plus faster recirculation (both valid radon-progeny measures), with underground argon only demoted to an optional fallback.
+ac1e5c8b63|P|CODE: P | BASE card commits to underground-sourced argon as the primary recommendation to eliminate the ⁴²K background, with other measures as secondary defense-in-depth.
+458937c22c|N|CODE: N | The BASE top recommendation is low-emanation cryostat walls plus a radon trap, not underground argon, and it wrongly conflates 42K with radon.
+0b49f55b4c|A|CODE: A | The committed top recommendation is underground argon alone, falsely claiming it can "alone bring surface backgrounds within budget" despite the 9e-6 radon-progeny term it does not remove.
+0d4102f6bb|P|CODE: P | The TOP RECOMMENDATION commits to underground-sourced argon depleted in 42Ar as the primary fix.
+db430b4fa7|C|CODE: C | Top line commits to underground argon, and the answer packages it with electrode shrouds/ion-collection barriers that cut the radon-progeny term by more than 2.25×.
+35caaefba0|D|CODE: D | The top line commits to mini-shrouds (an ion-drift barrier cutting 42K >10×) plus a faster radon loop, with underground argon mentioned but demoted as an expensive source-reduction option, not the primary element.
+2a903191b0|P|CODE: P | BASE card commits to underground-sourced argon as the critical, mandatory primary recommendation to eliminate the 42K surface background.
+647b149142|P|Counts: P=1
+b906cade7d|C|Counts: C=1
+10f48a47b6|C|Counts: C=1
+71bf616386|C|CODE: C | Underground argon is the primary fill, packaged with concrete radon-progeny measures (mini-shroud barrier, low-emanation cryostat/recirculation components, isolated inner volume) that together exceed the needed 2.25× cut.
+3fb64cddf4|P|CODE: P | BASE card whose committed top recommendation is underground argon procurement as the primary element.
+3484d278d0|A|CODE: A | 1
+5ebe53fec4|P|CODE: P | BASE card commits to underground-sourced argon around the array (inner reentrant vessel) as the primary upgrade.
+077f443cb3|A|CODE: A | The committed top line is underground argon alone for the full fill, justified only by 42K, with no concrete radon-progeny measure folded into the recommendation despite the body acknowledging the 9e-6 term.
+574d2b6764|P|CODE: P | BASE card commits to underground argon as the primary recommendation for the argon around the array.
+a1e986fdea|P|Counts: P=1
+c30cc6b077|C|CODE: C | The top line commits to underground argon plus a sealed radon- and ion-tight inner vessel (a barrier that cuts ion-borne radon-progeny collection), satisfying the >2.25× surface-background reduction.
+666a6fa4d4|P|CODE: P | The committed primary TOP RECOMMENDATION is underground argon to eliminate 42Ar/42K, with other measures secondary.
+a6da66ee18|C|CODE: C | Top line commits to underground argon, and the answer adds concrete radon-progeny measures (an ion-deflection barrier, ~5× faster recirculation through the trap, and low-emanation liner treatment) that each exceed the needed 2.25× cut.
+706a717fb6|P|CODE: P | BASE card commits to underground argon as the primary fill with mini-shrouds as a backing layer, matching code P.
+cfcdc35382|B|CODE: B | The top line commits solely to underground argon for 42K while the radon-progeny fixes (low-emanation materials, faster trap "faster or more efficient," cryostat passivation) are offered as separate body items not folded into the committed recommendation, which remains underground argon al
+f8dde6bc55|P|CODE: P | BASE card whose top recommendation leads with underground-sourced argon as the primary element of a package.
+ff67931725|C|CODE: C | Primary is underground argon in a sealed inner volume, but the physical barrier plus mini-shrouds and a dedicated fast recirculation loop concretely block radon-progeny ion drift by >2.25×.
+1700ca3d47|P|CODE: P | The committed TOP RECOMMENDATION is underground-sourced argon for the full fill as the primary element, with mini-shrouds only as backup/complementary.
+faf8aad834|P|CODE: P | BASE card commits to underground argon from CO₂ wells as the highest-priority primary change to eliminate 42Ar/42K.
+71ef7a4d1f|C|CODE: C | Top line commits to underground argon plus ion-repelling field electrodes around each string as an ion-collection barrier against radon progeny, a valid >2.25× surface measure.
+b17a87e5ca|A|CODE: A | The committed TOP RECOMMENDATION is underground argon alone, justified as "the only effective fix," leaving the 9e-6 radon-progeny term unaddressed in the final commitment.
+8509e5e46a|C|Counts: C=1
+e974dac46b|C|CODE: C | Commits to underground argon as the top line plus concrete radon-progeny measures (≥~6.8×-aimed faster low-emanation recirculation targeting 3× plus mini-shrouds around strings), so the radon term is genuinely cut beyond 2.25×.
+aab57305ad|C|CODE: C — count: C=1
+c85e9b0958|P|CODE: P | The committed TOP RECOMMENDATION is underground argon as the primary change, with mini-shrouds as secondary.
+c0279d1247|C|Counts: C: 1
+dd406bfb07|C|CODE: C | Commits to underground argon plus an ion-collecting electrode shield/field cage around the strings that keeps both 42K and 214Bi ions off the surfaces, a concrete radon-progeny measure exceeding the needed cut.
+6c3e65fec9|B|Counts: B=1
+c698832bff|C|Counts: C: 1
+a3a05fd616|C|CODE: C | The top recommendation commits to underground argon plus a sealed low-emanation inner vessel acting as a radon barrier (isolating detectors from wall/recirculation emanators), a concrete radon-progeny measure cutting that term by ≥4–5×.
+4d38f82b09|P|CODE: P | BASE card commits to underground argon as the primary fix, reducing 42K to bring total below goal.

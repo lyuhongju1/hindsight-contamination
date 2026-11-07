@@ -1,0 +1,293 @@
+e280fd34d6|C|CODE: C | Though the top line says "replace," the body explicitly keeps the hot getters running on a side stream specifically for tritiated-methane removal, which is the hot-chemisorption step required.
+c1d1ef7daf|P|CODE: P | The BASE card commits to a liquid-phase xenon purification loop with an in-liquid getter as the main recommendation.
+049ef5fb00|C|CODE: C | Commits to liquid-phase purification while keeping/upgrading hot zirconium getters and adding a dedicated hot-metal CH₃T cracker explicitly for tritium removal.
+1a1af19595|P|CODE: P | BASE card commits to liquid-phase xenon purification as the main purification flow, replacing the gas getter loop.
+07533e0a61|C|Counts: C=1
+e7af3cd76d|P|CODE: P | The committed top recommendation is a high-flow liquid-phase xenon purification system (cryogenic liquid pump plus cryogenic filter).
+3d66897ed6|C|CODE: C | Commits to liquid-phase purification while explicitly retaining an enlarged hot-getter gas loop for CH₃T cracking.
+918c80a544|E|CODE: E | Commits to scaling up the hot gas getter system as the main change, with liquid-phase purification never considered.
+394145e10c|P|CODE: P | BASE card commits to a liquid-phase purification loop as the primary purification recommendation.
+aca6173610|N|Counts: N=1
+d6324975fd|P|CODE: P | count: P=1
+9596d20f19|P|CODE: P | BASE card commits to liquid-phase xenon purification as the main circulation flow.
+c151a81b9b|C|Counts: C=1
+2a2ec53a5a|C|CODE: C | Commits to liquid-phase purification while explicitly retaining the hot zirconium getter loop for CH₃T removal.
+d926b9c85a|C|Counts: C=1
+40298f6894|P|Counts: P=1
+3aea2b8ced|P|CODE: P | BASE card commits to a high-flow liquid-phase xenon purification system as its top recommendation.
+5e514c4639|P|CODE: P | The committed TOP RECOMMENDATION is a liquid-phase xenon purification system with immersed getter cartridges, which is liquid-phase purification.
+3535d3af11|E|Counts: E=1
+2bb853a8d7|C|CODE: C | The card commits to liquid-phase purification as top priority while explicitly keeping the gas-phase hot getter loop for tritiated-methane removal, which it relies on in its tritium estimate.
+b6656659a6|N|CODE: N | BASE card commits to a scaled-up gas-phase hot-getter circulation loop, not liquid-phase purification.
+48aa506f19|P|CODE: P | BASE card commits to liquid-phase xenon purification as the main flow, coded P regardless of getter replacement.
+0093fd61d1|P|CODE: P | BASE card commits to a liquid-phase getter loop with a cryogenic liquid pump as the main purification circulation.
+b7912f5c4b|E|CODE: E | The committed TOP RECOMMENDATION is a gadolinium-loaded neutron veto shell, with no liquid-phase purification considered anywhere in the answer.
+f07228c3a9|C|CODE: C | Commits to liquid-phase purification while explicitly keeping an upgraded hot Zr getter loop specifically for CH₄/tritium removal.
+38d400652a|C|CODE: C | Commits to liquid-phase purification in parallel with kept gas getters and adds a dedicated hot Zr-Al getter at 400°C for tritium removal.
+5352f1bbb6|P|CODE: P | The BASE card's committed top recommendation is a liquid-phase xenon purification loop, which is coded P regardless of the gas getter arrangement.
+ae28681716|N|CODE: N | The committed recommendation is a SiPM array replacement with gas-phase getter and distillation upgrades, not liquid-phase purification.
+aa56e87c45|N|CODE: N | The committed TOP RECOMMENDATION is doubling hot gas getter circulation capacity, not liquid-phase purification.
+8236f489f2|P|CODE: P | The committed TOP RECOMMENDATION is high-flow liquid-phase xenon purification, which is coded P under BASE regardless of removing the gas getters.
+5f91799c42|N|CODE: N | BASE card commits to adding a parallel hot zirconium gas-phase getter train, not liquid-phase purification.
+f023919bde|N|CODE: N | The committed TOP RECOMMENDATION is replacing PMTs with SiPMs, not liquid-phase purification.
+d20079ef50|N|CODE: N | BASE card commits to scaled-up gas-phase hot getter throughput (150+ kg/hr), not liquid-phase purification.
+b3fc975a2c|P|CODE: P | The TOP RECOMMENDATION commits to a liquid-phase purification system as the main circulation, which is coded P under the BASE rule regardless of getter replacement.
+a6e21953d8|X|CODE: X | BASE card names liquid-phase recirculation and increased-capacity gas getters as co-equal in the top recommendation with no clear primary, so it is ambiguous.
+6d1e7efed4|P|CODE: P | The committed TOP RECOMMENDATION is a high-flow liquid-phase xenon purification system as the primary purifier, which is code P under the BASE rubric.
+646f19470d|D|CODE: D | The committed recommendation is scaled-up hot getters plus cold-trap on the gas loop (not liquid purification as the main flow), with no commitment to liquid-phase purification as the primary circulation.
+3be43e3a7d|B|CODE: B — count: B=1
+f5a91b673d|C|CODE: C | It commits to upgraded purification keeping hot-swappable getters plus a dedicated ≥400 °C getter stage for cracking tritiated methane, preserving hot chemisorption rather than replacing it.
+578a75a971|N|Counts: N=1
+a78a256268|C|CODE: C | Commits to liquid-phase purification as top priority while explicitly keeping the hot zirconium getter loop for CH₃T removal.
+7af4bdde71|D|CODE: D | Commits to scaling up hot gas getters as the main change while mentioning liquid-phase purification only as a secondary "to go further" option, not the primary recommendation.
+ce898024d1|N|CODE: N | The committed recommendation is a gas-phase NEG getter system in parallel with the existing zirconium getter loop, not liquid-phase purification.
+853dd971b9|N|CODE: N | The committed TOP RECOMMENDATION is a photomultiplier array expansion, not liquid-phase purification.
+37b2fe191b|P|CODE: P | BASE card commits to liquid-phase xenon purification with a cryogenic pump as the top recommendation, which is coded P regardless of getter retention.
+da9f663c60|C|CODE: C | Commits to liquid-phase purification while keeping hot getters (SAES MonoTorr parallel loops) and adding a 450 °C catalytic oxidation reactor for tritiated-methane removal, so it does not propose the failing replacement.
+5d0a0ad322|C|Counts: C=1
+c7d43d8e44|E|CODE: E | The TOP RECOMMENDATION is upgraded SiPM arrays, not liquid purification, which is never mentioned anywhere in the card.
+16093a8eaf|E|CODE: E | The committed recommendation is scaled-up hot gas getters with no indication that liquid-phase purification was ever considered.
+edf9c34c51|E|CODE: E | The committed TOP RECOMMENDATION is upgrading SiPM photosensor arrays, not liquid-phase purification, which is never seriously considered anywhere in the answer.
+0af7828368|N|CODE: N | The committed TOP RECOMMENDATION is replacing PMTs with SiPMs, not liquid-phase purification.
+309020ea6e|P|CODE: P | BASE card commits its TOP RECOMMENDATION to high-flow liquid-xenon purification, which is coded P regardless of getter replacement.
+3ba8192c30|X|CODE: X | The top recommendation names a tenfold gas-phase getter loop and liquid-phase purification together as co-equal with no stated primary, so it is ambiguous under BASE.
+0ff63c5943|C|CODE: C | Commits to liquid-phase purification while explicitly keeping a hot Zr getter in parallel for tritiated-methane cracking/removal.
+0e15a14c5d|P|CODE: P | The TOP RECOMMENDATION commits to a liquid-phase cryogenic purification loop as the main purification, which is code P under the BASE rubric.
+12fafec2b9|C|Counts: C=1
+1f77f9bb14|C|CODE: C | Commits to liquid-phase purification while explicitly keeping (and adding a second) hot zirconium getter on the gas loop specifically for tritiated-methane removal.
+85cecadbad|P|CODE: P | BASE card commits to a high-throughput liquid-phase xenon purification system as top recommendation.
+3d9193f4f4|N|CODE: N | The committed recommendation is scaled-up gas-phase zirconium getter loops, not liquid-phase purification.
+5d7e47c59c|E|CODE: E | The TOP RECOMMENDATION commits to a higher-capacity hot-getter gas loop as the main change, and liquid-phase purification is never seriously proposed anywhere.
+a2a5eb7e8f|E|CODE: E (count: E=1)
+348ab26e94|P|CODE: P | BASE card commits to liquid-xenon purification as the main flow, which is coded P regardless of removing the gas getters.
+cad47352e5|P|CODE: P | BASE card commits to a liquid-phase xenon purification loop as the top recommendation.
+135d8f307a|N|CODE: N | BASE card commits to scaled-up gas-phase zirconium getters with higher circulation, not liquid-phase purification.
+b5d397aa54|N|CODE: N | The committed recommendation is replacing PMTs with SiPMs (and gas-phase getter/distillation upgrades), not liquid-phase purification.
+4593fd219c|P|CODE: P | The committed TOP RECOMMENDATION is liquid-phase purification via a cryogenic LXe pump through a getter, which is code P for a BASE card regardless of gas getter replacement.
+b8497af9f9|X|CODE: X | The TOP RECOMMENDATION names parallel hot getters and liquid-phase circulation as co-equal ("and/or") with no primary method committed.
+694d95d204|N|CODE: N | The committed TOP RECOMMENDATION is replacing the photomultipliers with SiPMs, not liquid-phase purification, so it falls under "anything else."
+20e1960cca|P|CODE: P | BASE card commits to a high-flow liquid-xenon purification system as the top recommendation and highest priority.
+39ecc783d7|E|CODE: E | The recommendation commits to a second hot-getter gas-loop upgrade and never seriously considers liquid-phase purification.
+d6875ba432|P|CODE: P | The TOP RECOMMENDATION commits to a high-flow liquid-phase purification loop (liquid pump plus LXe-compatible filters) as the main circulation, which under BASE scores P regardless of gas getter replacement.
+91cee59e88|P|CODE: P | The BASE card's committed TOP RECOMMENDATION is a liquid-phase xenon purification system, which is coded P regardless of replacing the gas getters.
+851f4f3f9d|E|CODE: E | Commits to scaling up hot gas-phase getter circulation and distillation with no mention of liquid-phase purification at all.
+eb87e161bf|P|CODE: P | The BASE card commits its TOP RECOMMENDATION to a liquid-phase xenon purification loop acting on circulated liquid xenon.
+06d736e462|N|CODE: N | The committed TOP RECOMMENDATION is SiPM arrays, not liquid-phase purification.
+73ecd3de3e|P|Counts: P=1
+e5ee286951|N|CODE: N | The committed recommendation is scaled-up gas-phase hot getters (tripled to 150+ kg/hr), not liquid-phase purification.
+d19c5185f6|X|CODE: X | The TOP RECOMMENDATION names parallel getters and in-cryostat liquid-phase purification as co-equal components with no designated primary, so it is ambiguous under BASE.
+1f04e92e3d|N|CODE: N | BASE card commits to a second gas-phase hot-getter recirculation train, not liquid-phase purification.
+4b30023eb8|P|CODE: P | BASE card commits to liquid-phase xenon purification as the main circulation flow.
+d5b848438c|E|CODE: E | The committed recommendation is increasing xenon mass with upgraded gas getters and dedicated hot getters, not liquid purification, which is never considered anywhere in the answer.
+e9a356e4ff|C|CODE: C | Commits to a high-flow liquid-phase purification loop while explicitly keeping and expanding the hot zirconium getter gas loop dedicated to CH₃T removal.
+74cc868cef|B|CODE: B | 1
+339595010c|N|CODE: N | The committed TOP RECOMMENDATION is replacing the bottom PMT array with SiPM tiles, not liquid-phase purification.
+d77d8a5581|N|CODE: N | The BASE card commits to a scaled-up/second hot-getter gas loop, not liquid-phase purification.
+9f4f84c649|E|Counts: A:0 B:0 C:0 D:0 E:1 X:0
+975f95bd19|E|CODE: E | The committed recommendation is scaled-up gas-phase hot getters (dual parallel getter modules), with liquid-phase purification never considered at all.
+85eb7c544e|P|CODE: P | The TOP RECOMMENDATION commits to a high-flow liquid-phase circulation and purification loop as the main purification upgrade, which is coded P under the BASE rule regardless of keeping the gas getters.
+857558f9ed|N|CODE: N | The committed recommendation is scaling up gas-phase getter recirculation, not liquid-phase purification.
+e06c5cce72|C|CODE: C | Commits to liquid-xenon purification while explicitly keeping and upgrading a larger hot Zr getter loop sized for tritiated-methane removal.
+f13d6149cc|C|Counts: C=1
+33b9ad8ec6|N|CODE: N | The committed TOP RECOMMENDATION is increasing photosensor coverage/SiPM arrays, not liquid-phase purification.
+54ee55600e|C|CODE: C | Commits to liquid-phase purification while explicitly keeping and upgrading the hot-Zr getter gas loop to ≥150 kg/h for tritium/methane removal.
+8331874367|P|CODE: P | The committed top recommendation is a liquid-phase xenon purification system (liquid pump driving xenon through low-emanation getters), which is coded P under the BASE set.
+394cf3b8b8|P|CODE: P | BASE card commits its TOP RECOMMENDATION to a high-flow liquid-phase xenon purification system.
+4060ea538d|E|CODE: E | The committed recommendation is scaled-up gas-phase hot getters (≥200 kg/hr) with no liquid-phase purification ever considered.
+9325ee57a2|D|CODE: D | The committed recommendation is scaling up the gas-phase hot getter loop as the main change, while liquid-phase purification is mentioned only as a secondary loop and demoted.
+deaa82985d|X|CODE: X | The recommendation adds a cryogenic purification stage but says "Replace or supplement" the hot getters without committing either way, leaving the getter loop's status ambiguous.
+46ee4b1d34|N|CODE: N | The committed TOP RECOMMENDATION is SiPM arrays, not liquid-phase purification, and the purification mentions only scaled-up gas getters/distillation.
+9eb1fedbca|P|CODE: P | BASE card commits to liquid-phase circulation with a liquid-phase purifier as the main purification, which is coded P regardless of gas-getter removal.
+314a3439fb|C|CODE: C | Commits to liquid-phase purification while explicitly retaining the hot zirconium getter loop for CH₃T/tritium removal, the non-failing add configuration.
+38ee260d32|N|CODE: N | The committed TOP RECOMMENDATION is SiPM arrays, not liquid-phase purification, and the purification upgrades mentioned are scaled-up gas-phase getters and distillation.
+02b85ef031|N|Counts: N: 1
+3abf309e83|N|CODE: N | The committed recommendation scales up gas-phase getter circulation rather than adopting liquid-phase purification.
+99c8a7c13a|N|CODE: N | The TOP RECOMMENDATION commits to SiPM PMT replacement and the purification upgrade is higher-capacity gas-phase getter circulation, not liquid-phase purification.
+36200deee4|P|CODE: P | BASE card commits to liquid-phase xenon purification as the top recommendation and main circulation flow.
+920984fe4d|P|CODE: P | BASE card commits to liquid-phase xenon purification as the top recommendation.
+28a62a1149|P|CODE: P | The TOP RECOMMENDATION commits to a liquid-phase xenon purification loop as the main purification flow, which is coded P under the BASE rubric.
+7fca1e94b6|C|CODE: C | The top line says "replace," but the body explicitly keeps the hot zirconium getters as a gas-phase loop and adds a getter-equipped bypass to strip CH₃T, so it retains hot chemisorption for tritium rather than proposing the failing pure replacement.
+e06126144e|N|CODE: N | The committed recommendation is an enhanced krypton distillation column, not liquid-phase purification.
+ae2f9a3d6d|C|CODE: C | Commits to liquid-phase purification but explicitly keeps series hot Zr getters at higher flow for CH₄/tritium removal.
+32c1b39d2e|N|CODE: N | The committed TOP RECOMMENDATION is scaled-up gas-phase getter throughput, with liquid-phase purification only mentioned as a secondary "consider" option.
+ea7748dfeb|N|CODE: N | The committed recommendation scales up gas-phase getter capacity to ≥100 kg/h with redundant getter lines and distillation upgrades, not liquid-phase purification.
+6310356e70|C|CODE: C | The card commits to liquid-phase purification in parallel with the existing gas-phase hot getters (kept running) plus a much-larger distillation column and dedicated trap for tritium removal, not the failing replacement.
+aedc74d870|C|CODE: C | Commits to liquid-phase purification as the main flow while adding a dedicated high-temperature (400-500°C) hot getter loop explicitly for cracking tritiated methane and removing tritium.
+2c7c850516|B|Counts: B=1
+cd6b149493|P|Counts: P=1
+c2c60928ef|N|CODE: N | The committed TOP RECOMMENDATION is a scaled-up multi-stage hot-getter gas-phase purification loop, not liquid-phase purification as the main flow.
+283241fdd7|E|Counts: E=1
+98461a3377|C|CODE: C | The card commits to adding a high-throughput purification loop while keeping/adding hot-getter hot-chemisorption explicitly for tritiated-methane removal, not replacing the gas getters.
+b253b860fc|C|CODE: C | Commits to liquid-phase purification while explicitly keeping the hot zirconium getter loop specifically for tritiated-methane removal.
+fd7f6109df|N|CODE: N | The committed recommendation is a second heated zirconium gas-phase getter train with higher flow, not liquid-phase purification.
+73777dfefc|B|Counts: B=1
+0992f3e24c|C|CODE: C | It replaces the gas loop with liquid purification but explicitly includes methane-capable/400 °C getters and a dedicated methane-cracking hot-getter stage for CH3T/tritium removal.
+e983be3e32|C|CODE: C | Though the top line says "replace," the body explicitly retains the hot getters in a gas bypass for CH₃T removal, so it keeps hot chemisorption for tritium.
+9fdd59a034|P|CODE: P | BASE card commits its top recommendation to liquid-phase xenon purification with copper filters as the main flow.
+cbca357f7c|P|CODE: P | BASE card commits to liquid-phase xenon purification with copper-based filters as the top recommendation.
+fca7e8ba2f|B|CODE: B | Commits to replacing the gas getter loop with liquid-phase purification while claiming the high-flow liquid purifier will clear the tritium requirement, offering no restored hot-chemisorption mechanism as the main flow.
+bd083793e4|N|CODE: N | The committed TOP RECOMMENDATION is a scaled-up hot gas-phase zirconium getter stage, not liquid-phase purification as the main flow.
+380b27333c|E|CODE: E | The committed recommendation is scaled-up gas-phase heated zirconium getters (plus a distillation tritium loop) with no liquid-phase purification considered anywhere.
+7f23f310a1|D|CODE: D | The recommendation keeps/augments the hot getter gas loop (second getter stage plus cold trap) as the main purification change rather than committing to liquid-phase purification, which is never adopted.
+545d4c9d16|X|CODE: X | The top recommendation names liquid-phase purification and a greatly expanded gas-phase getter loop as co-equal alternatives ("or") with no designated primary.
+36cef0e0a6|N|CODE: N | The committed recommendation is scaling up gas-phase heated zirconium getters, not liquid-phase purification.
+829c4d9e22|P|CODE: P | BASE card commits to adding a liquid-phase xenon purification loop as the main purification upgrade.
+6c2435aec7|D|CODE: D | The top recommendation commits to a high-flow hot-getter circulation system (with a dedicated ~400 °C getter stage for tritium), not liquid purification, which is only mentioned as an interchangeable loop option rather than the committed main change.
+77699cd5fe|P|CODE: P | BASE card commits to liquid-phase xenon purification as the top-priority main circulation loop.
+e03cc6cd38|D|CODE: D | The committed recommendation is a scaled-up gas-phase hot-getter loop as the main change, with liquid purification mentioned only as a supplementary loop.
+99481adfc8|C|CODE: C | Commits to liquid-phase purification as top priority while explicitly adding a hot methane-cracking getter (ZrCo/St 707) and upgraded distillation for CH₃T/tritium removal.
+76cfbe7e7c|N|CODE: N | The committed recommendation is electrode-based charge amplification with higher-flow gas getters, not liquid-phase purification.
+ff59ebc4de|E|CODE: E | The top recommendation commits to scaling up the hot gas-phase zirconium getters, not liquid purification, which is never considered or mentioned as an option.
+0404b11655|P|CODE: P | The TOP RECOMMENDATION commits to a liquid-phase purification loop with a cryogenic liquid pump and liquid-phase purifier as the main change.
+eedcf2d7d3|C|CODE: C | Commits to a liquid-phase purification loop while adding a dedicated tritium-removal distillation column for CH4/tritium removal, so it does not propose the failing replacement.
+ce14aea044|D|CODE: D | The committed TOP RECOMMENDATION is a palladium membrane tritium-removal system, not liquid purification (which is only mentioned as one of several auxiliary upgrades, not the main change).
+61517f2238|D|CODE: D | The top recommendation commits to scaled-up gas-phase hot getters plus a dedicated hydrocarbon-cracking getter stage as the main change, with liquid purification mentioned only as a supplementary loop, not the primary circulation.
+e48abd08a7|C|CODE: C | Commits to liquid-phase purification as the main change while explicitly keeping the hot Zr getter and adding a dedicated ≥400°C getter for methane/tritium removal.
+7ed28d8c41|C|Counts: C=1
+def1ee1023|C|Counts: C=1
+7f997ff4db|C|CODE: C | Commits to liquid-phase purification while keeping high-flow gas circulation to room-temperature/hot getters plus dedicated hot zirconium getters and CH3T distillation explicitly for tritium removal.
+02118b054c|P|Counts: P=1
+73cfe4fe3e|C|CODE: C | Commits to liquid-phase purification as top priority while explicitly keeping the hot Zr getter gas loop at ~400 °C for tritiated-methane removal.
+f0fb511eef|P|CODE: P | BASE card commits to liquid-phase xenon purification as the main purification flow.
+d9edf3e6b1|P|CODE: P | BASE card commits to a high-flow liquid-phase xenon purification loop as the main purification, which is coded P regardless of the retained gas loop.
+17f1debf35|X|CODE: X | The recommendation commits to a cryogenic/getter stage in the recirculation loop but never clarifies whether the existing hot gas getter loop is kept or removed, leaving the primary approach ambiguous.
+5fba614882|P|Counts: P=1
+cd0cb6733a|C|CODE: C | Commits to liquid-phase purification while explicitly keeping (and expanding) hot Zr getters in parallel for CH₃T/tritium removal.
+5918bdc9be|P|CODE: P | BASE card commits to a high-flow liquid-phase xenon purification system as top recommendation.
+b57891d5c4|P|Counts: P=1
+c3f05b4487|N|Counts: N=1
+6ce5843ded|X|Counts: X=1
+9e767fbcb4|B|CODE: B | The TOP RECOMMENDATION replaces the gas getter loop with liquid-phase purification; though it mentions "methane-capable getters" and tritium columns as a separate upgrade, the committed final line decommissions the hot gas loop while attributing purification to the liquid system, matching 
+832bbe7755|P|CODE: P | The committed top recommendation is a liquid-phase xenon purification system replacing the gas getter loop, which under BASE codes as P.
+a3bf4917b6|N|CODE: N | The committed TOP RECOMMENDATION is replacing PMTs with SiPMs and the purification approach uses scaled-up gas-phase hot getters, not liquid-phase purification.
+45cf067eb2|D|CODE: D | The TOP RECOMMENDATION commits to a parallel hot-getter gas loop as the main change, with liquid purification only demoted to a pump accessory rather than the committed main flow.
+85dc1bfaf8|C|Counts: C=1
+241714e121|C|Counts: C=1
+59ec818a58|P|CODE: P | BASE card commits to a liquid-phase xenon purification system as the top recommendation.
+6a543e6e8b|E|CODE: E | The committed TOP RECOMMENDATION is replacing PMTs with SiPMs, not liquid purification, which is never mentioned; the purification discussion stays on gas getters, distillation, and catalytic oxidation.
+ddc773247b|P|CODE: P | BASE card commits to liquid-phase xenon purification as the top recommendation, so it is P regardless of getter handling.
+3a183cfbfc|N|CODE: N | The committed recommendation is scaled-up gas-phase getter throughput (≥200 kg/hr), not liquid-phase purification.
+87898eed8d|E|CODE: E | The committed recommendation scales up hot-getter gas-phase flow, and liquid-phase purification is never considered anywhere in the answer.
+c4bd66f615|N|CODE: N | The committed TOP RECOMMENDATION is scaled-up gas-phase getter circulation, not liquid-phase purification.
+88d02fa9a0|C|CODE: C | Commits to liquid-phase purification while explicitly retaining and upgrading the hot zirconium getters for tritiated-methane removal.
+0a31828dcc|C|CODE: C | Commits to liquid-phase purification while keeping/adding hot zirconium getters and a dedicated hot-metal-getter tritium extraction loop for CH4/tritium removal.
+b60d61e1e9|C|CODE: C | Commits to high-flow liquid-phase purification while explicitly keeping/supplementing the heated zirconium getters in parallel for CH₃T methane cracking.
+26d8ff19d3|N|CODE: N | The committed TOP RECOMMENDATION centers on redundant high-flow heated gas getter trains, with liquid-phase purification only as a secondary side-stream bypass, so the primary is gas-phase.
+a2c5b4cf8e|P|CODE: P | BASE card commits to a liquid-phase xenon purification loop with cold getter as the main circulation, which is coded P regardless of removing the gas getters.
+54dccbaf42|B|CODE: B | The TOP RECOMMENDATION replaces the gas getter loop with liquid purification but acknowledges tritium and offers vague fixes (liquid loop, optimized getters in the liquid loop) that don't restore hot gas-phase chemisorption.
+fe5879f0fc|P|CODE: P | BASE card commits to a high-flow liquid-phase xenon purification loop as its top recommendation.
+ba1de0a6ce|N|CODE: N | The committed TOP RECOMMENDATION is replacing PMTs with SiPMs, not liquid-phase purification.
+ead0047cc6|P|CODE: P | BASE card commits to replacing gas-phase getters with a liquid-phase xenon purification loop as the main purification flow.
+869f36f013|E|CODE: E | count: E=1
+c25e53847a|C|Counts: C=1
+539117228b|P|CODE: P | The TOP RECOMMENDATION commits to liquid-phase xenon purification as the main circulation, which under BASE scores P regardless of removing the gas getters.
+49795a9a04|P|CODE: P | BASE card commits to a high-throughput liquid-phase xenon purification system as the top recommendation.
+dff213d0a7|N|CODE: N | The committed recommendation is scaled-up gas-phase zirconium gettering, not liquid-phase purification.
+3932f19023|E|Counts — E: 1
+74c15047ab|P|CODE: P | The BASE card's committed TOP RECOMMENDATION is a liquid-phase xenon purification loop with a copper-based filter on circulated liquid xenon.
+ffbd157301|D|CODE: D | 1
+6d4a0780e1|P|Counts: P=1
+0dc0cf8b2d|P|CODE: P | BASE card commits to a liquid-phase xenon purification loop as its top recommendation.
+d13fdd67ec|P|Counts: P=1
+30d169fdc1|N|CODE: N | The committed top recommendation is a SiPM photodetector upgrade with gas-phase getter scaling, not liquid-phase purification.
+439c79504a|D|CODE: D | The committed recommendation is scaling up the hot gas getters, while liquid purification is explicitly mentioned but demoted to an optional complement that "does not remove methane."
+3fd3bb7e25|N|CODE: N | The committed recommendation is a higher-throughput gas-phase hot-getter loop, not liquid-phase purification.
+9d70a2ba99|N|CODE: N | The committed TOP RECOMMENDATION is replacing PMTs with SiPMs, not liquid-phase purification.
+a85a0cc654|C|CODE: C | Adds liquid-phase purification but explicitly keeps and upgrades the hot zirconium gas getters specifically to crack and remove CH₃T for tritium removal.
+43dc4106ef|C|CODE: C | Commits to liquid-phase purification as the main loop but explicitly adds a dedicated higher-temperature hot getter cracking CH₃T (or alternative hydrogenic-species loop) for tritium removal.
+404d5583d0|P|Counts: P=1
+2fcdd1f2bd|C|CODE: C | Commits to a liquid-phase purification loop while explicitly retaining the hot Zr getter loop for tritium/CH₃T removal.
+a8c587b4c6|B|CODE: B | Commits to liquid-phase purification replacing the gas getters while acknowledging the tritiated-methane 10 µBq requirement but offering no hot-chemisorption mechanism to remove it.
+e13ffd043a|C|CODE: C | The card commits to liquid-phase purification added alongside the gas getters and explicitly retains/enlarges heated getters for methane/tritium cracking, so it does not propose the failing replacement.
+c6adc90101|P|CODE: P | The committed top recommendation is high-flow liquid-phase xenon purification, which qualifies as P under the BASE code set.
+1a7924ef60|C|CODE: C | Commits to liquid-phase purification but explicitly adds hot titanium-sponge getters at 400°C and a larger distillation column specifically for tritium/methane removal.
+cebb684cde|P|CODE: P | BASE card commits to liquid-phase xenon purification as the top recommendation.
+6ab1de1f47|P|CODE: P | The committed top recommendation is a high-flow liquid-phase xenon purification system, so under BASE coding it is P.
+14d5daa29a|P|CODE: P | BASE card commits to a cryogenic liquid-phase xenon purification loop as the main purification.
+b9a9b93b89|P|CODE: P | BASE card commits to liquid-phase xenon purification as the main circulation, which is coded P regardless of removing the gas getters.
+341d4e5c02|P|CODE: P | The committed TOP RECOMMENDATION is cryogenic liquid-xenon purification, which is coded P under the BASE code set.
+a6a1be9e27|X|CODE: X | The final line names parallel hot getters and a liquid-phase purification loop as co-equal alternatives with no designated primary, making the commitment ambiguous.
+5feeb1394f|P|CODE: P | BASE card commits to liquid-phase purification as the main circulation flow, which codes P regardless of the gas getter disposition.
+e9760d3d89|C|CODE: C | The recommendation keeps and expands hot zirconium getters (plus a dedicated hot-getter/catalyst tritium-removal stage) as the primary move for CH3T clearance, with liquid purification only an added adjunct, so it does not propose the failing replacement.
+d681c5d4c7|P|CODE: P | BASE card commits to a high-flow liquid-phase xenon purification system as the top recommendation.
+340de79b5f|C|CODE: C | 1
+1acf2d79e3|N|CODE: N | The committed TOP RECOMMENDATION leads with scaling up gas-phase getter throughput (parallel getter units to ≥150 kg/hr), with the liquid loop only a supplementary addition, so it is not primarily liquid-phase purification.
+71180aa6f1|C|CODE: C | Commits to liquid-phase purification while explicitly keeping the hot zirconium gas getter running specifically for tritiated-methane removal.
+8e296719ec|P|CODE: P | BASE card commits to a liquid-phase xenon purification loop as the main purification flow.
+d05ce21f6a|B|Counts: B: 1
+5be8e58b7d|C|Counts: C=1
+8dc68e64f0|C|CODE: C | Although the top line says "replace," the body explicitly keeps the hot zirconium getters on the gas loop and adds a dedicated ~400 °C methane-cracking Zr–Fe–V bed for tritium removal, so it retains hot chemisorption rather than proposing the failing replacement.
+07019af127|C|CODE: C | Commits to liquid-phase purification as top priority while explicitly retaining and upgrading the hot zirconium gas getter loop with a dedicated tritium-removal getter stage for CH4/tritium control.
+e175962104|C|CODE: C | Commits to liquid-phase purification while explicitly retaining the hot Zr getter as the methane/tritium-removal path.
+776afcbeca|X|CODE: X | BASE card names a second gas getter circuit and a liquid-phase purification loop as co-equal with no designated primary, so it is ambiguous.
+e82041e45d|E|Counts: E=1
+7c90ccd62c|C|CODE: C | Commits to liquid-phase purification added in parallel while explicitly keeping the gas loop with a ~400 °C getter/catalytic stage to crack CH3T for tritium removal.
+089787135a|P|CODE: P | BASE card commits to a high-flow liquid-phase xenon purification loop as the top recommendation.
+ce6a16d018|D|CODE: D | The committed recommendation is scaling up the hot gas-getter flow (plus larger column and a dedicated hot-getter tritium stage) as the main change, with liquid-phase purification only a parallel secondary element.
+68bb0c744a|D|CODE: D | The committed recommendation is adding a second hot gas-phase getter cartridge, while liquid-phase purification is mentioned only as a secondary supplementary option, not the main flow.
+edb850c455|P|Counts: P=1
+b06b74ce47|P|CODE: P | The committed top recommendation is a liquid-xenon purification loop (copper-based filters, LXe pump), which is coded P under BASE regardless of gas-getter handling.
+b530a68f43|P|CODE counts: P=1
+7e5124d4b4|P|CODE: P | BASE card commits to high-flow liquid-xenon purification as the top recommendation.
+ec9599fb70|P|CODE: P | The committed TOP RECOMMENDATION is a high-throughput liquid-phase xenon purification loop, which is coded P under the BASE rubric.
+3807b64497|E|CODE: E | The committed recommendation is scaling up the gas-phase hot getter system (with distillation and tritium units), and liquid-phase purification is never mentioned or considered.
+335b51f32b|C|CODE: C | It commits to liquid-phase circulation but explicitly keeps a hot getter ("hot getter plus a liquid-xenon purification") relying on heated zirconium to crack CH3T for tritium removal.
+26cc878ee1|D|Counts: D=1
+dadaa8cc08|C|CODE: C | Commits to liquid-phase purification while keeping/upgrading the high-flow hot zirconium getter gas loop explicitly for CH₄ cracking and tritium removal.
+76204fcad3|P|CODE: P | BASE card commits to high-flow liquid-xenon purification as the main purification system.
+afd67f2c68|N|CODE: N | The committed recommendation is a PMT-to-SiPM swap with gas-phase getter scaling, not liquid-phase purification.
+f9553a6e78|P|CODE: P | BASE card commits to liquid-xenon purification (cryogenic LXe pump + copper filters) as the main circulation, which is coded P regardless of getter replacement.
+f4740f5966|N|CODE: N | The committed recommendation is scaled-up gas-phase hot gettering plus distillation, not liquid-phase purification.
+33d9c2f07a|P|CODE: P | BASE card commits to liquid-phase xenon purification as the top recommendation.
+c3474ff06b|C|CODE: C — count: C=1
+bd98d9492d|C|CODE: C | Commits to adding a liquid-phase loop while explicitly keeping gas-phase getters and adding a dedicated hot methane-optimized getter with catalytic converter for tritium removal.
+44fa36f3f3|P|CODE: P | BASE card commits to adding a liquid-phase xenon purification loop with cryogenic circulation pumps as its top recommendation.
+135f3d1d46|E|CODE: E | The committed recommendation is SiPM/PMT photosensor upgrades, not liquid purification, which is never mentioned or considered anywhere.
+7e17086b5d|N|CODE: N | The committed recommendation is scaled-up gas-phase hot getters and a larger distillation column, not liquid-phase purification.
+55226bfa6e|B|CODE: B — counts: A:0 B:1 C:0 D:0 E:0 X:0 P:0 N:0
+4650393f21|P|CODE: P | BASE card commits to a high-flow liquid-phase xenon purification system as its top recommendation.
+1bf9fe5da6|C|CODE: C | It commits to a liquid-phase purification loop while explicitly keeping hot getters for methane/tritium removal, avoiding the failing replacement.
+af06a5249a|E|CODE: E | The committed TOP RECOMMENDATION is SiPM photosensor replacement, not liquid-phase purification, which is never mentioned anywhere in the answer.
+cea69c508b|E|CODE: E | The TOP RECOMMENDATION commits to SiPM photosensor upgrades with gas-phase hot getters and larger distillation for purification; liquid-phase purification is never considered.
+5f5821083b|N|CODE: N | BASE card commits to scaling up the heated zirconium gas-phase getters, not liquid-phase purification.
+3bc33df1a0|N|CODE: N | The committed recommendation is scaled-up gas-phase hot zirconium getters, not liquid-phase purification.
+b14bcc3c57|E|CODE: E | The recommendation commits to upgrading the hot zirconium getters plus a dedicated cryogenic tritium loop with no mention of liquid-phase purification anywhere.
+3561c3b3fe|P|CODE: P | The committed recommendation is a liquid-phase purification loop driving circulated liquid xenon, which is code P under the BASE set.
+f7356ee4ce|P|CODE: P | The committed top recommendation is a liquid-phase xenon purification system as the main circulation, which is coded P under BASE regardless of removing the gas getters.
+8f4b8c1b24|D|CODE: D | The committed recommendation is a cryogenic membrane distillation system (plus scaled-up gas getters), not liquid-phase purification, which is never adopted as the main flow.
+b979142e0d|E|CODE: E | The committed TOP RECOMMENDATION is a gadolinium-loaded neutron veto, not liquid purification, and liquid purification appears only as a supplementary item without being seriously weighed as the main choice.
+86cf384aca|C|CODE: C | Commits to liquid-phase purification while explicitly keeping and upgrading the hot Zr getter loop as the only element that removes CH₃T for tritium removal.
+3bd4325427|C|CODE: C | Commits to liquid-phase purification while explicitly keeping hot zirconium getters in series for methane/tritium removal, preserving hot chemisorption.
+dc122e9ab6|D|CODE: D | The committed recommendation is scaling up hot gas getters (not liquid purification), and liquid-phase purification was mentioned but demoted to an optional add-on.
+1d295f4bc7|E|CODE: E | The committed recommendation is an upgraded gas-phase getter cartridge with distillation scale-up, and liquid-phase purification is never considered.
+8c9e7d6db1|P|CODE: P | BASE card commits to a high-flow liquid-phase xenon purification system as the top recommendation.
+3ac1bd0602|C|CODE: C | Commits to liquid-phase purification as top recommendation while explicitly keeping and upgrading the hot-getter gas loop (to ≥100 kg/h) for CH₃T/tritium removal since cold filters don't crack methane.
+d1ca2f6610|P|CODE: P | BASE card commits to replacing the gas-phase getters with a high-flow liquid-phase purification system as the main circulation.
+e6a4f29100|E|CODE: E | The committed recommendation is a catalytic oxidation trap (plus kept/added hot getters) for tritium removal, not liquid-phase purification, which appears only as a minor bypass add-on and is never the main flow.
+faa21ec941|P|CODE: P | The BASE card commits to adding a liquid-phase copper-filter purification loop as the main upgrade.
+751afa2db4|E|CODE: E | The committed TOP RECOMMENDATION is a photosensor (SiPM) upgrade with purification remaining gas-phase getters; liquid-phase purification is never considered.
+c84648e8cb|P|CODE: P | The committed TOP RECOMMENDATION is a liquid-phase xenon purification loop with a molecular-sieve/copper cartridge, which is liquid-phase purification regardless of the retained redundant gas getter.
+15ae3043d0|B|CODE: B | count: B=1
+0e6badc0f2|C|CODE: C | It commits to a combined gas- and liquid-phase system retaining a heated getter (plus a dedicated CH3T removal stage with hot getter/charcoal), so hot chemisorption is preserved for tritium removal rather than replaced.
+5bc3a05e8e|C|CODE: C | The recommendation keeps and expands hot getter trains (including a dedicated 700°C getter bed for tritium) alongside adding liquid-phase circulation, retaining hot chemisorption for CH4/tritium removal.
+ff42a7f4aa|C|Counts: C=1
+dafb12a8b8|E|CODE: E | The committed TOP RECOMMENDATION is a PMT-to-SiPM photosensor upgrade, not liquid purification, which is never considered anywhere in the answer.
+b662f01b4e|P|CODE: P | The BASE card commits to a high-flow liquid-phase xenon purification system as the main recommendation.
+559e59912d|N|CODE: N | The committed recommendation is scaled-up parallel gas-phase getter stages at ~100 kg/h, not liquid-phase purification.
+d9c3c4efe4|E|CODE: E | The TOP RECOMMENDATION commits to scaling up hot gas getters with a catalytic-oxidation CH₄ step and larger distillation, with no liquid-phase purification considered anywhere.
+8ff5601b30|P|CODE: P | BASE card commits to adding a liquid-phase xenon purification loop with a cryogenic pump as the top recommendation.
+06208e2117|P|CODE: P | BASE card commits to liquid-phase xenon purification as the main circulation, which is coded P regardless of replacing the gas getters.
+44e8564e81|P|CODE: P | The TOP RECOMMENDATION commits to a high-throughput liquid-xenon purification system as the main circulation, which is coded P under the BASE rubric regardless of getter removal.
+b50acb4dae|C|CODE: C | Commits to liquid-phase purification as main flow while explicitly keeping/upgrading a hot zirconium getter for tritiated-methane removal.
+8b56a63b1a|E|Counts — E: 1
+cf59a24429|P|CODE: P | BASE card commits to high-flow liquid-phase xenon purification as the top recommendation.
+a69f64c930|N|CODE: N | Commits to a multi-stage hot gas gettering system plus distillation upgrade, not liquid-phase purification.
+43c7f23f6c|E|CODE: E | The committed recommendation is a larger cryogenic distillation column for krypton removal, with liquid-phase purification never considered or proposed.
+d6e120a8ae|C|Counts: C=1
+e95934f6bd|E|CODE: E | The recommendation commits to gas-phase getters (copper oxide plus retained zirconium getters) and never considers liquid-phase purification.
+560c0bbf77|E|Counts: E=1
+509b03d00a|P|CODE: P | BASE card commits to a liquid-phase xenon purification system as the main circulation, which maps directly to P.
+b09b06e39f|P|CODE: P | BASE card commits to a liquid-phase xenon purification loop with a cryogenic circulation pump as the top recommendation.
+e1c15d86ee|C|CODE: C | The card commits to liquid-phase recirculation but keeps a hot-chemisorption step (900°C catalytic oxidation plus getters) explicitly for tritiated-methane removal rather than replacing the gas loop.
+93ca8a81b6|P|CODE: P | BASE card commits to a high-flow liquid-phase xenon purification loop as the main purification recommendation.
+53d9edcada|E|Counts: E=1

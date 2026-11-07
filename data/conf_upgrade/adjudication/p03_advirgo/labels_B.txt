@@ -1,0 +1,699 @@
+a14d54f1e9|D|Counts: D=1
+0d919752a3|P|Counts: P=1
+576ffae13b|D|CODE: D | Commits to EPR/conditional squeezing as the primary upgrade while explicitly considering and rejecting the conventional external filter cavity as unworkable in 8 m.
+75821ead8d|B|Counts: B=1
+fe43406849|P|CODE: P | The committed TOP RECOMMENDATION is frequency-dependent squeezing via an external 400 m detuned filter cavity.
+106ada322c|P|Counts: P=1
+df88785d1a|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned filter cavity (300-400 m linear Fabry-Perot) for frequency-dependent squeezing.
+aa65b0142e|B|Counts: B: 1
+f2e9e299f7|A|Counts: A=1
+bb007b02b6|P|CODE: P | 1
+89f834ecc6|E|Counts: E: 1
+082db94930|P|CODE: P | BASE card commits to frequency-dependent squeezing via an external detuned filter cavity in the 400 m vertex path.
+1228a63892|B|Counts: B: 1
+4c7b9404f9|P|CODE: P | The TOP RECOMMENDATION commits to frequency-dependent squeezing via a detuned Fabry-Perot filter cavity.
+b11e87f97a|A|Counts: A=1
+6b22cf100b|P|CODE: P — 1
+5c942f710e|P|CODE: P | The TOP RECOMMENDATION commits to frequency-dependent squeezing via an external detuned filter cavity fitting in the 400 m path.
+7941ad1da7|P|CODE: P | Commits to a 400 m external detuned filter cavity for frequency-dependent squeezing as the primary upgrade.
+5fc2b9a81f|B|Counts: B=1
+45f29c7609|P|Counts: P=1
+c114642bf4|P|Counts: P=1
+cf453c42af|D|CODE: D | Commits to EPR/conditional squeezing while explicitly considering and rejecting the 8 m external filter cavity as too lossy.
+8b70a6a765|P|CODE: P | The BASE card commits to a detuned external filter cavity (sub-400 m) for frequency-dependent squeezing as its top recommendation.
+780c0e39fc|D|CODE: D | Commits to EPR/conditional squeezing while explicitly rejecting the external 8 m filter cavity as unbuildable.
+3900f0b260|P|Counts: P=1
+dcbbecdb7e|A|CODE: A | Commits to a folded filter cavity claiming ~37-40 round trips in 8 m achieves an effective ~300 m path, which is wrong physics since folding does not reduce loss per unit path.
+3d55f16dd2|A|Counts: A=1
+bc64eea51a|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external detuned filter cavity producing frequency-dependent squeezing.
+db45b4a435|D|CODE: D | Commits to EPR conditional squeezing using the 3.6 km interferometer as filter, with the external filter cavity explicitly ruled out.
+cc53332825|D|CODE: D | The card commits to EPR/conditional squeezing using the interferometer as the idler filter and explicitly rejects the external filter cavity as unable to meet spec.
+4209b45d03|P|Counts: P=1
+9de198674f|D|CODE: D | Commits to EPR/conditional squeezing using the arm cavities as filter, explicitly rejecting the external 8 m filter cavity as impossible.
+f6f2205995|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned 400 m high-finesse filter cavity producing frequency-dependent squeezing, with EPR explicitly demoted.
+4a9c677b05|A|CODE: A | The card commits to a folded/cascaded short filter cavity claiming it is "possible" and "good" despite computing prohibitive losses, with the wrong physics that cascading/folding fixes the per-length loss, and only mentions EPR as a demoted fallback.
+1b31dc3272|P|CODE: P | Committed TOP RECOMMENDATION is frequency-dependent squeezing via a 400 m external detuned filter cavity.
+72c95fba92|P|Counts: P=1
+a8b70bd119|P|Counts: P=1
+739a2b33a4|A|CODE: A | Commits to an external filter cavity as the main change and claims a folded 8 m cavity achieves ~300 m equivalent storage with a ~55 Hz linewidth, which is wrong physics since folding does not reduce loss per unit length.
+7a79a45699|A|CODE: A | Commits to an 8 m external filter cavity as the main change with wrong physics, claiming finesse ~43,000 with only 10 ppm round-trip loss achieves negligible decoherence and ≥7.5 dB broadband, ignoring that the loss-comparable input coupler destroys low-frequency squeezing.
+fde5272679|A|A: 1
+f9258691ab|P|Counts: P=1
+778f7d976a|E|E: 1
+f8558ddb78|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned 400 m filter cavity for frequency-dependent squeezing.
+aa73acb530|P|Counts: P=1
+81953793d9|D|CODE: D | Commits to EPR/conditional squeezing while explicitly considering and ruling out the external 8 m filter cavity.
+0d6db9661c|P|Counts: P=1
+64442a5756|B|CODE: B | Commits to an 8 m external filter cavity, acknowledges the length/loss problem and admits low-frequency falls to ~2–3 dB, but keeps it with vague "aggressive loss minimization" that does not restore ≥3 dB across the band.
+5572d683eb|A|A: 1
+a2c38dd41d|N|Counts: N=1
+a3074de298|P|Counts: P=1
+b35ad655d9|P|Counts: P=1
+d3c86dda50|N|Counts: N=1
+75d5d2ae67|P|Counts: P=1
+0a4e434148|P|Counts: P=1, N=0, X=0
+31c4dde5b8|B|CODE: B | Commits to an 8 m external filter cavity, acknowledges the loss problem but keeps it with a vague "careful optimization" fix that still loses 1-2 dB and does not restore ≥3 dB across the band.
+08a07ed652|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external detuned filter cavity producing frequency-dependent squeezing.
+aa817be525|B|Counts: B=1
+31e5149728|A|CODE: A | Commits to an external detuned filter cavity as the main change, claiming a compact/nested 8 m geometry meets the requirement without correct loss physics, which is wrong.
+7e88d1e500|P|Counts: P=1
+ff78133e59|B|CODE: B | It commits to a compact short filter cavity in 8 m, acknowledges the length problem, but resolves it only with vague "high-finesse/high-efficiency" fixes that do not restore ≥3 dB across the band.
+82ea5a8fbd|D|CODE: D | Commits to EPR/conditional squeezing using the interferometer as filter, with the external 8 m filter cavity explicitly considered and rejected on loss grounds.
+171fb9d589|A|Counts: A=1
+aa3a67a05f|P|Counts: P=1
+b6bae8a7ba|A|CODE: A | Commits to an external filter cavity (coupled/multi-bounce in 8 m) claiming it synthesizes a narrower effective linewidth to exceed 3 dB, which is wrong physics since loss per unit path is unchanged.
+aca9ffd4b5|P|CODE: P | The committed top recommendation is frequency-dependent squeezing via an external detuned filter cavity that rotates the squeeze angle.
+7b002adc29|P|CODE: P | Commits to a 400 m external detuned filter cavity for frequency-dependent squeezing, with EPR named only as a demoted future alternative.
+b8f5beb035|B|CODE: B | count: B=1
+4e197d25f2|X|Counts: X=1
+3752dc8c80|P|Counts: P=1
+ea66aa0fc7|P|Counts: P: 1
+47c0430bac|P|Counts: P=1
+a0fa9abab8|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned filter cavity producing frequency-dependent squeezing, which is the item for a BASE card.
+0640197e3c|A|Counts: A=1
+f4bd42f4b9|D|CODE: D | Commits to EPR/conditional squeezing while explicitly rejecting the external 8 m filter cavity as unable to fit the site.
+6d6f7d0ca5|D|CODE: D | Commits to EPR/conditional squeezing using the arm cavities as the filter, after explicitly rejecting the 8 m external filter cavity as unable to deliver 3 dB at 20 Hz.
+efec4c6878|B|Counts: B=1
+99abdd1384|P|CODE: P | The TOP RECOMMENDATION commits to frequency-dependent squeezing via an external detuned filter cavity, which is code P for a BASE card.
+1da42b3488|D|CODE: D | Commits to EPR/conditional squeezing as the primary recommendation after explicitly considering and rejecting the 8 m external filter cavity.
+deb9a79f6a|B|Counts: B=1
+ff2ace7dcc|D|CODE: D | The TOP RECOMMENDATION commits to EPR-entangled squeezing (idler conditioning does the frequency-dependent work), explicitly rejecting a conventional 8 m filter cavity as unable to meet the loss requirement.
+7cd44e1247|P|CODE: P | BASE card commits to an external 400 m detuned filter cavity for frequency-dependent squeezing.
+a2e5277c52|P|CODE: P | BASE card commits to an external detuned 400 m filter cavity for frequency-dependent squeezed-vacuum injection.
+e23cda22b1|P|CODE: P | The committed top recommendation is frequency-dependent squeezing via an external detuned 400 m Fabry-Perot filter cavity.
+5b45e736ea|P|Counts — P: 1
+35234bf22c|A|Counts: A=1
+b5affacba1|D|Counts: D=1
+a96e7018ec|P|CODE: P | BASE card commits to frequency-dependent squeezing via an external high-finesse filter cavity using the 400 m path.
+d9bdb16671|A|CODE: A | Commits to a compact/folded filter cavity in the 8 m path as the main change, claiming folding extends effective length and low-loss coatings achieve the needed linewidth, which is the wrong physics ruled out by the constraint.
+38437d7357|P|CODE: P | BASE card commits to a 300 m external detuned filter cavity for frequency-dependent squeezing.
+7f2036d419|B|CODE: B | Commits to an 8 m external filter cavity, acknowledges the loss problem but keeps it with vague fixes ("best mirrors", "accept ~1-2 dB degradation", "higher output squeezing") that do not restore ≥3 dB across the band.
+ac844e1d86|D|D: 1
+cee2e8b0a2|D|Counts: D=1
+55a489d7d0|B|CODE: B | Commits to an external 8 m filter cavity, acknowledges it falls short at 20–50 Hz, but keeps it with vague loss-minimizing fixes that do not restore ≥3 dB across the band.
+4bc4eabebb|B|Counts: B=1
+b697767d96|D|CODE: D | Commits to EPR/conditional squeezing using the arm cavities as filter, with the external 8 m filter cavity explicitly considered and rejected as infeasible.
+6233e510c4|A|Counts: A=1
+efcaffdc83|B|CODE: B | Commits to an 8 m external filter cavity as the main change while explicitly acknowledging the 8 m loss problem (ε=0.54, "critically problematic") but keeps it without a fix that restores ≥3 dB across the band.
+bd8bca589f|P|CODE: P | BASE card commits to frequency-dependent squeezing via an external detuned 400 m filter cavity.
+39509d4f93|D|CODE: D | Commits to EPR/conditional squeezing using the interferometer arms as filter, explicitly considering and rejecting the 8 m conventional filter cavity.
+12ae642a58|P|CODE: P | BASE card commits to frequency-dependent squeezing via a Fabry-Perot filter cavity in the 400 m vertex path.
+e352a4a69f|B|CODE: B | Commits to an 8 m external filter cavity as primary, acknowledges the loss problem (36% squeezing lost, loss-limited) but keeps it with vague fixes (coupled cavity, tolerate detuning) that do not restore ≥3 dB across the band.
+c791bcecba|P|Counts: P: 1
+ddc1a2f16e|P|CODE: P | The committed top recommendation is a 300–400 m detuned external filter cavity for frequency-dependent squeezing.
+f582540065|P|Counts: P=1
+5656dd0884|P|Counts — P: 1
+7709a80361|P|CODE: P | Commits to an external detuned filter cavity for frequency-dependent squeezing.
+629ba29bba|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned Fabry-Perot filter cavity for frequency-dependent squeezing, matching the item for a BASE card.
+fb11f16be4|P|Counts — P: 1, N: 0, X: 0
+105ae8ef76|A|Counts: A=1
+baed7dcdd3|P|Counts: P=1
+b8e9c80ff9|B|Counts: B=1
+772cc975ff|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external detuned filter cavity producing frequency-dependent squeezing via squeeze-angle rotation.
+6a9bcf8962|P|CODE: P | BASE card commits to a ~300–400 m external detuned filter cavity for frequency-dependent squeezing.
+3138905205|A|Counts: A=1
+61269b9286|P|Counts — P: 1, N: 0, X: 0
+d4c80c6bdd|D|CODE: D | Commits to EPR/conditional squeezing using the interferometer arms as the idler's filter cavity, after explicitly rejecting the 8 m external filter cavity on loss grounds.
+f987ff5946|P|Counts — P: 1, N: 0, X: 0
+3ac93a3add|P|CODE: P | BASE card commits to an external detuned filter cavity for frequency-dependent squeezing.
+ddc23a4e5c|A|Counts: A=1
+eedc783565|P|CODE: P | The committed TOP RECOMMENDATION is frequency-dependent squeezing via an external detuned filter cavity (400 m folded).
+41cd4a74bb|P|CODE: P | Commits to a 400 m external detuned filter cavity producing frequency-dependent squeezing.
+d7d8c83c8c|B|Counts: B=1
+25019d8954|P|Counts — P: 1, N: 0, X: 0
+459dfdef6a|B|Counts: B=1
+51a84d9282|A|Counts: A=1
+2c450a2d06|B|CODE: B | Commits to an external 8 m filter cavity as primary, acknowledges the 8 m problem but keeps it with vague fixes ("lowest-loss coatings", "accept suboptimal rotation") that do not restore ≥3 dB across the band.
+6b7392f1b7|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external detuned frequency-dependent squeezing filter cavity.
+16e5e3613a|B|CODE: B | Commits to an 8 m external filter cavity, acknowledges the 8 m/loss problem, but keeps it with vague fixes (sub-ppm mirrors, higher injected squeezing, "challenging but possible") that contradict the stated 5 ppm floor and do not restore ≥3 dB across the band.
+08cc680e72|N|Counts: N: 1
+12f01aad0b|P|CODE: P | The BASE card commits to a 400 m external detuned filter cavity for frequency-dependent squeezing.
+b4c45079b1|P|Counts: P=1
+6392c4c494|A|CODE: A | The card commits to a folded/multi-pass filter cavity claiming that folding yields a usable ~40 Hz pole, which is the wrong physics explicitly rejected by the rubric (folding does not fix loss per unit length).
+d52d192050|D|CODE: D | Commits to EPR/conditional squeezing using the arm cavities as filter, explicitly rejecting the 8 m external filter cavity as infeasibly lossy.
+72f4a52962|P|CODE: P | Committed top recommendation is a 400 m external detuned filter cavity for frequency-dependent squeezing.
+76272db936|P|Counts: P=1
+0b92477eca|N|Counts: N=1
+faea5668fe|A|Counts: A=1
+66c6e550d1|A|Counts: A=1
+37a25ea8a0|B|CODE: B | Commits to an 8 m external filter cavity, explicitly acknowledges the loss problem but keeps it with a vague fix ("lowest-loss mirrors", "larger beam") that only caps squeezing at ~3–4 dB and does not restore ≥3 dB across the band.
+325514c2e4|B|CODE: B | Commits to an 8 m external filter cavity, acknowledges the loss problem but keeps it with a "best mirrors" fix and an erroneous 3.5 dB claim that does not genuinely restore ≥3 dB across the band.
+77a433adc6|A|Counts: A=1
+3a2aba1d63|A|CODE: A | Commits to an 8 m filter cavity as the main change with wrong physics, claiming high finesse yields the needed linewidth with only ~85% loss and ignoring the loss-induced decoherence that kills low-frequency squeezing.
+2359ef3d62|P|Counts: P=1
+a8b5653710|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m detuned external filter cavity for frequency-dependent squeezing.
+3476879fd2|B|Counts: B=1
+f54bfebb54|P|CODE: P — count: P=1
+b03960fdff|P|Counts: P=1
+0f50260769|P|CODE: P | BASE card commits to a ~400 m detuned high-finesse external filter cavity as the primary change for frequency-dependent squeezing.
+7b2abf505c|P|Counts: P=1
+45cdbd82d1|P|Counts: P=1
+28312700de|A|Counts: A=1
+7e931f9b72|D|CODE: D | Commits to EPR/conditional squeezing using the interferometer as its own filter after explicitly rejecting the conventional external filter cavity as infeasible at 8 m.
+9c7a1fd741|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned filter cavity for frequency-dependent squeezing, which is the item for a BASE card.
+feceb4fe5c|B|CODE: B | The card commits to an 8 m external filter cavity as its TOP RECOMMENDATION while explicitly acknowledging the loss is "catastrophic" (~35% squeezing lost) yet keeps it without a fix restoring ≥3 dB across the band.
+e5dd6516d6|D|CODE: D | The TOP RECOMMENDATION commits to EPR/conditional squeezing with variational readout, and an external filter cavity is explicitly rejected as impossible at 8 m.
+dae3c33fe6|P|CODE: P | BASE card commits to an external detuned filter cavity (300 m linear Fabry-Perot) for frequency-dependent squeezing.
+0e70ee1430|A|CODE: A | Commits to an external filter cavity as the main change, claiming a high-finesse bow-tie achieves a 300 m effective length with negligible loss in 8 m, which is wrong physics since folding does not improve loss per unit length.
+fe55cc20d7|N|CODE: N | The card commits to an EPR-entangled squeezed source, explicitly rejecting the external filter cavity, which is coded N under the BASE set.
+3d8e9d877d|D|CODE: D | Commits to EPR/conditional squeezing while explicitly ruling out the short external filter cavity on loss grounds.
+4c4d8db37e|P|CODE: P | The committed top recommendation is frequency-dependent squeezing via an external detuned 300 m filter cavity.
+990deeafdf|B|CODE: B | Commits to an external detuned filter cavity as the main change, acknowledges the 8 m limit gives only ~2 dB, but keeps it while merely conceding reduced low-frequency benefit without restoring ≥3 dB across the band.
+ae5e9f0355|P|Counts: P=1
+9f653d308b|A|Counts: A=1
+f788cfaf8b|B|Counts: B=1
+40bb10c9f8|A|Counts: A=1
+d0dc1909b0|A|A: 1
+c224ab4dc1|P|CODE: P | The TOP RECOMMENDATION commits to frequency-dependent squeezing via a 300 m external detuned filter cavity.
+31937da868|B|CODE: B | Commits to an external 8 m filter cavity, acknowledges the 8 m loss problem, but keeps it with a "best possible cavity / accept the shortfall" fix that never restores ≥3 dB across the band.
+c997839efd|A|CODE: A | Commits to an 8 m filter cavity claiming ~40 Hz linewidth with ~98% escape efficiency and offers coupled short cavities as fallback, wrong physics about loss-induced decoherence at short length.
+96576cfaee|P|Counts: P=1
+404dc0f2a7|P|Counts: P=1
+94d867c858|P|CODE: P | The TOP RECOMMENDATION commits to a 300 m external detuned filter cavity for frequency-dependent squeezing, matching the item.
+e1c00c6293|B|CODE: B | 1
+7c9882a0ba|X|Counts: X=1
+56a68b1707|P|Counts — P: 1, N: 0, X: 0
+131c80347c|P|Counts — P: 1, N: 0, X: 0
+7f11360878|D|CODE: D | Commits to EPR/conditional squeezing using the arm cavities as filter, with a conventional external filter cavity explicitly considered and rejected due to 8 m loss limits.
+ec99ed79ab|P|CODE: P | The TOP RECOMMENDATION commits to frequency-dependent squeezing via an external ~40 m detuned filter cavity (BHD is a secondary readout aid).
+484bc5abcb|D|CODE: D | Commits to EPR-entangled squeezing using the interferometer as the rotation filter, having explicitly considered and rejected the external 8 m filter cavity as too lossy.
+f2376553b0|P|Counts: P=1
+a627db0dc1|P|CODE: P | Committed top recommendation is frequency-dependent squeezing via an external detuned 300 m filter cavity using the 400 m path.
+44122a054f|P|CODE: P | The committed top recommendation is a 400 m external detuned filter cavity for frequency-dependent squeezing, with EPR named only as a demoted alternative.
+d1ff24273e|A|CODE: A | The card commits to an 8 m external filter cavity and, despite computing the loss-to-transmission ratio, wrongly concludes it still achieves >3 dB across the band, which is false physics for the 8 m case.
+65b4d13be0|D|Counts: D=1
+113eaeb2d3|P|CODE: P | The TOP RECOMMENDATION commits to an external 300-400 m detuned filter cavity for frequency-dependent squeezing rotation.
+4594019ac6|D|CODE: D | The card rejects the single-beam filter cavity as length/loss-limited and commits to EPR/conditional squeezing (the idler's detuned cavity doing rotation in post-processing), which is the distinct alternative coded D.
+3cadcbaa8b|P|Counts: P=1
+3b8f64e1c9|P|CODE: P | Commits to frequency-dependent squeezing via an external detuned high-finesse filter cavity in the 400 m path.
+c61f9e6352|D|Counts: D=1
+afcc84c271|B|Counts: B: 1
+e199b72cee|A|CODE: A | It commits to an external filter cavity using folding to extend effective length, which the rubric says does not fix loss per unit path and is wrong physics.
+823261ade5|A|Counts: A=1
+22e91b5002|D|CODE: D | Commits to EPR/conditional squeezing using the interferometer as filter, explicitly rejecting the 8 m external filter cavity.
+4429f1005d|P|Counts: P=1
+57386d7aa5|D|CODE: D | The top recommendation commits to EPR/conditional squeezing while an external filter cavity is explicitly considered and rejected as ruled out by the site and mirrors.
+a10e7b88c8|P|Counts: P=1, N=0, X=0
+db70881184|P|Counts: P=1
+70841eec81|D|CODE: D | The card rejects the 8 m external filter cavity on loss grounds and commits to frequency-independent squeezing plus signal-recycling detuning instead, so a filter cavity was considered and demoted.
+eb289574b0|A|CODE: A | The card commits to a folded filter cavity claiming 4× path folding restores efficiency, but folding does not reduce loss per unit length and adds more lossy mirrors, which is the wrong-physics case for A.
+f167c100bf|P|CODE: P | The committed top recommendation is a 400 m external detuned Fabry-Perot filter cavity rotating the squeeze quadrature with frequency.
+84354a0ba0|A|CODE: A | It commits to a folded/multi-bounce short filter cavity claiming this makes the effective path long enough while the rubric states folding/cascading does not fix loss per unit length—wrong physics.
+2f9953981b|B|Counts: B=1
+2f2fa1a12a|P|CODE: P | BASE card commits to an external detuned filter cavity (300 m) for frequency-dependent squeezing.
+2835037a3f|A|CODE: A | It commits to an external detuned filter cavity as the main change, claiming folding yields ~30 m effective length and high finesse with 5 ppm mirrors to match the linewidth, which is wrong physics for the 8 m loss constraint.
+d5abce917a|A|Counts: A=1
+dc7c933a74|P|CODE: P | The BASE card commits to an external detuned filter cavity (300 m linear Fabry-Perot) for frequency-dependent squeezing.
+06079f1700|P|Counts: P=1
+f50a8bafa9|D|CODE: D | 1
+316d555850|D|CODE: D | Commits to EPR/conditional squeezing using the arm cavities as filter, having explicitly considered and rejected the external 8 m filter cavity as too lossy.
+f1c7e430dd|A|CODE: A | The card commits to a folded/bow-tie filter cavity claiming geometric folding achieves ~50 m effective path in 8 m to fix the loss problem, which is wrong physics since loss per unit path is unchanged.
+cfbb85ed87|B|CODE: B | It commits to the 8 m external filter cavity while explicitly acknowledging the length/loss problem but keeps it anyway, accepting reduced low-frequency benefit rather than restoring ≥3 dB across the band.
+0057c0c8a7|D|Counts: D=1
+f6ceb6dc0f|P|COUNTS: P=1, N=0, X=0
+80aebfc007|B|Counts: B: 1
+229960f32f|P|CODE: P | BASE card commits to frequency-dependent squeezing via a detuned 400 m external filter cavity.
+0f3541b645|A|CODE: A | The card commits to a folded/bow-tie filter cavity claiming 4–6 reflections in 8 m yields a 30–40 m effective length that achieves the needed rotation, which is the wrong-physics folding fix that does not restore ≥3 dB.
+7e43ff3091|D|Counts: D=1
+8ff7fc732c|D|CODE: D | Commits to EPR/conditional squeezing using the arm cavities as filter, with the external 8 m filter cavity explicitly ruled out.
+b0630ac4fc|D|CODE: D | Commits to EPR/conditional squeezing using the arm cavities as filter, after explicitly ruling out the 8 m external filter cavity.
+7e0e1cfe92|P|Counts: P=1
+5254ced6b1|C|CODE: C | count: C=1
+d2bd18c2a8|B|CODE: B | Commits to a folded external filter cavity, acknowledges the 8 m length is the central problem, but keeps it with vague fixes (high finesse, folding, split-band) that it admits may only meet the requirement in a reduced band.
+6d65814e09|A|CODE: A — count: A=1
+02c410b519|B|Counts: B=1
+c43faa2ae2|A|CODE: A | Commits to an 8 m external filter cavity as the main change with wrong physics (claims ~5 kHz linewidth is appropriate and that crystalline coatings preserve full squeezing), never addressing the ~39 Hz linewidth problem that makes low-frequency squeezing fail.
+619d431ca1|P|CODE: P | 1
+54315fb04b|P|CODE: P | The committed top recommendation is frequency-dependent squeezing produced by an external detuned Fabry-Perot filter cavity.
+cdc2899969|P|CODE counts: P=1
+3d0a3cd4c0|B|CODE: B — count: B=1
+37bc414527|P|Counts — P: 1
+83dfc669df|P|CODE: P | The TOP RECOMMENDATION commits to a ~400 m in-vacuum detuned Fabry-Perot filter cavity delivering frequency-dependent squeezing, which is the item for a BASE card.
+b480453ccf|B|Counts: B: 1
+2da5c68a10|P|CODE: P | The committed TOP RECOMMENDATION is frequency-dependent squeezing via an external detuned 400 m filter cavity, with EPR only listed as optional.
+538d530ec1|P|Counts — P: 1, N: 0, X: 0
+91c4514306|D|CODE: D | The card commits to EPR/conditional squeezing using the interferometer's own detuned response, having explicitly analyzed and rejected the 8 m external filter cavity as too lossy.
+ad53a53c6f|P|Counts: P=1
+b05aaa975a|P|Counts: P=1
+feac3d4b3c|A|Counts: A=1
+00486c2c66|P|CODE: P — counts: P=1, N=0, X=0
+d5615a46e9|E|Counts: E: 1
+e1feeec40b|P|Counts: P=1
+f412136b96|B|Counts: A:0 | B:1 | C:0 | D:0 | E:0 | X:0
+4808ed99e1|X|CODE: X | The top line mixes frequency-dependent squeezing via signal-recycling detuning with a vague "add filter cavity or adjust signal-recycling detuning," never settling on an external detuned filter cavity as the mechanism.
+b18f86b91e|P|Counts: P=1
+37b01339ff|A|Counts: A=1
+778a8d0ce9|A|Counts: A=1
+fec5d2e880|P|CODE: P | The TOP RECOMMENDATION commits to frequency-dependent squeezing via an external filter cavity that rotates the squeezed quadrature across the band.
+c01188c649|A|Counts: A=1
+6e50c69ceb|D|CODE: D | Commits to EPR/conditional squeezing while explicitly considering and rejecting the external filter cavity as unbuildable in 8 m.
+9eaccb49c6|P|Counts: P=1
+625435da3a|A|CODE: A | Commits to a short ≤8 m external filter cavity as the main change, claiming a high-linewidth (~1–3 kHz) low-loss cavity achieves the needed 55 Hz rotation—wrong physics, since a ~39 Hz half-linewidth is required and short cavities cannot restore ≥3 dB.
+822a71d596|B|CODE: B | 1
+5d311eefe8|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned filter cavity in the 400 m vacuum path for frequency-dependent squeezing.
+6cb86b063d|P|Counts: P=1
+4791df4a02|B|Counts: B=1
+fd7153b1ec|P|CODE: P | BASE card commits to a 400 m detuned external filter cavity for frequency-dependent squeezing, with EPR named only as a demoted alternative.
+1674c313c8|P|Counts: P=1
+ae9883c763|D|CODE: D | The card commits to EPR-entanglement-based squeezing as its TOP RECOMMENDATION after explicitly considering and rejecting the conventional filter cavity as too lossy at 8 m.
+d44527d4e8|P|Counts: P=1
+0bedf14e4e|B|CODE: B | counts — A:0 B:1 C:0 D:0 E:0 X:0 P:0 N:0
+42e4bf7268|B|CODE: B | The card commits to an external filter cavity, acknowledges the 8 m problem, but keeps it with fixes that contradict stated facts (demands 30–100 m of path or sub-ppm mirrors that cannot exist) and otherwise falls back to frequency-independent squeezing, never restoring ≥3 dB across the ba
+0631d8e5f6|P|Counts: P=1, N=0, X=0
+c2eb064444|P|Counts: P=1
+d4e66fb08a|P|Counts: P=1
+16ddad4331|P|CODE: P | BASE card commits to a detuned external filter cavity in the 400 m auxiliary path for frequency-dependent squeezing.
+c06c6ddcfd|A|CODE: A | Commits to an external filter cavity as the main change, claiming a folded/multi-pass 8 m cavity yields ~300 m effective length with negligible loss, which is wrong physics since folding does not reduce loss per unit path.
+f45d3e212d|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned Fabry-Perot filter cavity producing frequency-dependent squeezing, which is the item for a BASE card.
+3993fd3d83|P|Counts: P=1
+6793f46fb7|A|Counts: A=1
+fa88d119b2|A|CODE: A | Commits to cascaded 8 m filter cavities claiming folding/cascading fixes the loss-per-length problem (>6 dB), which the materials state is wrong physics.
+d6e8846df0|A|A: 1
+391ad560db|P|Counts: P=1
+7eb51eca80|P|CODE: P | The TOP RECOMMENDATION commits to a detuned external filter cavity for frequency-dependent squeezing in the 400 m path.
+c538d11f7b|P|CODE: P | BASE card commits to an external detuned filter cavity (300 m linear) for frequency-dependent squeezing.
+ac931d100e|B|Counts: B=1
+0729217cac|P|CODE: P — count: P=1
+00940d1b57|P|Counts: P=1
+7a8c7c25b2|A|Counts: A=1
+e24e845ffa|B|Counts: B: 1
+80a92082f5|P|Counts: P=1
+dc5dbc7e12|P|Counts: P=1
+f6bfbe294e|P|CODE: P | BASE card commits to frequency-dependent squeezing via an external detuned filter cavity.
+9c631c530f|P|CODE: P | The committed TOP RECOMMENDATION is frequency-dependent squeezing via a 400 m detuned external filter cavity reflecting the squeezed beam.
+c7cc347b92|P|Counts: P=1
+65ac93a46e|A|Counts: A=1
+be99ae7e07|P|CODE counts: P=1
+7e265e0c57|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m in-vacuum detuned optical filter cavity for frequency-dependent squeezing, matching the item.
+30589588a9|P|Counts: P=1
+ca0441d8f9|P|CODE: P | BASE card commits to an external 400 m detuned filter cavity for frequency-dependent squeezing.
+cd28ffd1c1|P|Counts: P=1
+cf5fe42185|D|CODE: D | The card commits its TOP RECOMMENDATION to EPR/conditional squeezing while explicitly considering and rejecting the 8 m filter cavity as unable to achieve broadband reduction.
+f790f53a7a|A|CODE: A | Commits to an external detuned filter cavity claiming an 8 m path with ~40x finesse yields ~300 m effective length and negligible loss (only 13→12 dB), which is wrong physics about short-cavity loss-induced decoherence.
+46a72f4f48|A|CODE: A | Commits to an 8 m high-finesse filter cavity as the main change with wrong physics, claiming ultra-high finesse overcomes the length limit while ignoring that input transmission comparable to round-trip loss destroys low-frequency squeezing.
+ab2d2f83fd|B|CODE: B | Commits to an external detuned filter cavity, acknowledges the 8 m path limit but relies on a vague ≤1 ppm mirror fix that invokes unavailable optics (project best is 5 ppm) and does not restore ≥3 dB across the band.
+a40dfeb50c|P|Counts: P=1, N=0, X=0
+b86e349008|A|CODE: A | Commits to an external filter cavity in 8 m and claims folding/multi-pass and ring geometries fix the loss-per-length problem, which is wrong physics per the rubric.
+6b1269f531|D|Counts: D=1
+64761f839c|P|Counts: P=1
+581c2ccb62|P|Counts: P=1
+91dfe529e0|D|CODE: D | Commits to EPR-entangled conditional squeezing using the arms as the filter, explicitly ruling out the external filter cavity as infeasible.
+1a7abdfb61|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned 400 m filter cavity for frequency-dependent squeezing, the adopted item.
+f0240491f4|B|Counts: B=1
+485fb04044|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned 400 m input filter cavity to produce frequency-dependent squeezing, matching the item for a BASE card.
+daad0e2c8b|B|CODE: B | Commits to an 8 m external filter cavity while explicitly acknowledging it cannot reach 3 dB at 20 Hz, keeping it with best-mirror/low-loss optimizations that do not restore ≥3 dB across the band.
+dd354c7d0d|P|Counts — P: 1, N: 0, X: 0
+d2b3626ab5|D|Counts: D=1
+cf61b5415e|B|Counts: B=1
+5cefba29ad|P|Counts: P=1, N=0, X=0
+9933568998|P|CODE: P | The BASE card commits to a 400 m external detuned filter cavity for frequency-dependent squeezing.
+3f15a134cb|E|Counts: E=1
+1e95a5a12a|P|Counts: P=1, N=0, X=0
+e17eb5e998|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external detuned Fabry-Perot filter cavity for frequency-dependent squeezing, matching the item exactly.
+96175d035a|P|Counts: P=1
+e67b3ba600|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m detuned high-finesse filter cavity for frequency-dependent squeezed-vacuum injection.
+62aae3035f|B|Counts: B: 1
+6fb38d04b5|N|Counts: N: 1
+5e4139965f|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned filter cavity in the squeezed-vacuum injection line for frequency-dependent squeezing.
+8928850a17|X|Counts: X=1
+21aa896a65|A|Counts: A=1
+fa9073fd28|X|Counts — A:0 B:0 C:0 D:0 E:0 X:1
+807f12f292|B|CODE: B | Commits to an external folded filter cavity, acknowledges the 8 m problem, but keeps it with vague fixes ("low-loss mirrors," "folded layout," "hold losses low") that do not restore ≥3 dB across the band.
+2a5de372c4|D|CODE: D | Commits to EPR/conditional squeezing while explicitly considering and rejecting the external filter cavity as unworkable in 8 m.
+f3384c5fa7|A|CODE: A | Commits to an 8 m external filter cavity as the main change with wrong physics, claiming a ~170,000 finesse (39-Hz-class linewidth) is achievable at 8 m with negligible loss-induced decoherence.
+89ca522bd4|P|Counts — P: 1, N: 0, X: 0
+2330a9975a|P|Counts — P: 1
+543019ce51|B|CODE: B | Commits to an 8 m external filter cavity as primary, acknowledges the ~36% internal loss problem, but keeps it with vague fixes ("push the pole higher", "accept the degradation", better mirrors) that do not restore ≥3 dB across the band.
+1eb03a2a28|P|Counts: P=1
+336c50516a|A|Counts: A=1
+0c1ee98b14|P|CODE: P | The BASE card commits to a 400 m detuned, low-loss external filter cavity for frequency-dependent squeezing.
+a16a99070c|X|Counts: X=1
+53a1b6260b|A|CODE: A | It commits to cascaded short filter cavities as the main change, claiming ultra-high finesse restores the needed linewidth within 8 m—wrong physics since loss per unit path is unchanged.
+2845862048|P|Counts: P=1
+c8573b42b8|D|CODE: D | 1
+65c8e8d22d|P|CODE: P | BASE card commits to an external detuned filter cavity (300 m linear Fabry-Perot) reflecting the squeezed beam for frequency-dependent squeezing rotation.
+654340a68b|P|Counts — P: 1
+7a309549c1|D|Counts: D=1
+a30f22c57d|E|Counts: E=1
+0664163502|P|Counts — P: 1, N: 0, X: 0
+deff229d40|B|Counts: B=1
+d5a219df67|C|Counts: C=1
+2d0878c03b|B|CODE: B | Commits to an external 8 m filter cavity, acknowledges the length/loss problem but keeps it with a vague "use highest-quality mirrors, maximum input squeezing" fix that does not restore ≥3 dB across the band.
+d6aa1ae6f5|A|Counts: A=1
+622bf2b2b7|A|CODE: A | Commits to an 8 m external filter cavity as the main change, claiming a ~55 Hz linewidth is achievable with negligible loss (58 ppm input coupler, full 11 dB preserved) — wrong physics ignoring that input transmission comparable to round-trip loss destroys low-frequency squeezing.
+99c3d95d21|D|CODE: D | Commits to EPR/conditional squeezing using the arm cavities, with an external filter cavity explicitly considered and ruled out.
+add61357ad|P|Counts — P: 1, N: 0, X: 0
+861aa2de76|P|CODE: P | The committed TOP RECOMMENDATION is a 300-meter external detuned filter cavity producing frequency-dependent squeezing.
+acabb1de3e|N|Counts: N: 1
+248096ce9a|P|Counts: P=1
+bcc3eb70cd|D|CODE: D | Commits to EPR/conditional squeezing using the interferometer as its own filter, with the external filter cavity explicitly analyzed and rejected on loss grounds.
+d454506776|P|Counts: P=1
+bd83059465|P|Counts: P=1, N=0, X=0
+d8c186d57b|P|CODE: P | BASE card commits to a ~400 m detuned high-finesse external filter cavity for frequency-dependent squeezing.
+f510d215a9|P|Counts — P: 1, N: 0, X: 0
+68dc04eb7f|P|CODE: P | BASE card commits to a 400 m external detuned Fabry-Perot filter cavity for frequency-dependent squeezing.
+3ab2f6d7af|A|CODE: A | Commits to an 8 m external filter cavity as the primary change with wrong physics (claims finesse ~60,000 and ~3 dB across the band), never acknowledging the 39 Hz linewidth loss problem.
+288d89247f|P|CODE: P | BASE card commits to a 400 m external detuned filter cavity producing frequency-dependent squeezing as its top recommendation.
+5e5f3464d8|A|A: 1
+52322c7211|P|CODE: P | BASE card commits to a 400 m detuned Fabry-Perot filter cavity for frequency-dependent squeezing as its primary recommendation.
+1ce64c9c12|A|COUNTS — A: 1
+89ad042636|D|CODE: D | Commits to EPR/conditional squeezing using the 3.6 km arms, with an external filter cavity explicitly considered and rejected as failing at 8 m.
+0d9ffb52a0|A|COUNTS: A=1
+75144e1b34|P|Counts: P=1
+3a39f16643|A|COUNTS: A=1
+7716dd4135|A|CODE: A | Commits to a 1–2 m external filter cavity as the main change, claiming it meets 3 dB across the band without addressing the loss-induced decoherence that kills low-frequency squeezing in a short cavity.
+600d17c709|B|CODE: B | Commits to an external 8 m filter cavity, acknowledges the length problem, but keeps it while merely accepting reduced low-frequency benefit rather than restoring ≥3 dB across the band.
+1f511e4a44|P|Counts: P=1, N=0, X=0
+34ab31cc8b|P|CODE: P | The TOP RECOMMENDATION commits to a 300 m external detuned filter cavity for frequency-dependent squeezing rotation.
+08012568a6|A|Counts — A: 1
+0e68ae6aa7|D|CODE: D | Commits to EPR/conditional squeezing while a conventional filter cavity was explicitly considered and rejected due to the 8 m site constraint.
+4c4e697346|E|CODE: E | The committed top line is reducing squeezed-path loss/raising efficiency, not EPR or a filter cavity, and the filter cavity was analyzed and rejected as infeasible rather than demoted in favor of an alternative—though efficiency-boosting alone doesn't restore 3 dB low-frequency, it's a non
+4068d3941b|P|Counts: P=1
+7ff03d7200|B|CODE: B | Commits to an external filter cavity but places it in the arm tube, a fix that directly contradicts the stated fact that nothing can go in the arm tubes.
+6c4b8c0519|B|CODE: B | Commits to a folded/cascaded external filter cavity, acknowledges 8 m is a problem, but keeps it with vague loss-tolerant fixes (best mirrors, higher source squeezing) that do not restore ≥3 dB across the band.
+2c4e6c9d7b|B|CODE: B | Commits to an 8 m external filter cavity as primary while acknowledging the ~35% loss problem but only offering vague loss-minimization sub-recommendations that do not restore ≥3 dB across the band.
+ed10741885|P|CODE: P | Commits to an external detuned ~300–400 m filter cavity for frequency-dependent squeezing in a BASE scenario.
+374d315107|A|Counts: A=1
+7909d3afaf|P|Counts: P=1
+0ea0c9d377|B|CODE: B | The final commitment is to an 8 m external detuned filter cavity that the card itself admits cannot meet 3 dB everywhere, retained with vague loss-reduction fixes and a plea to relax the requirement, despite correctly deriving that it fails.
+1407c24761|N|CODE: N | The committed TOP RECOMMENDATION is increasing test-mass mass plus injection efficiency, with the filter cavity only a demoted secondary option.
+5d7b86591e|N|Counts: N: 1
+5936c3ddd5|D|CODE: D | Commits to EPR squeezing using the 3.6 km arms as filter, explicitly rejecting the 8 m external filter cavity as not viable.
+ebf83d205b|P|Counts: P=1
+a3762bed1a|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m detuned external filter cavity for frequency-dependent squeezing.
+f38bb6153a|A|Counts: A=1
+416591cc8e|A|CODE: A | count: A=1
+dd4cbc9430|B|Counts — B: 1
+2ba99b0093|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external detuned filter cavity producing frequency-dependent squeezing.
+7e575c27f2|D|CODE: D | Commits to EPR/conditional squeezing using the interferometer's own arm cavities while explicitly ruling out a conventional external filter cavity at the 8 m site.
+9c57b8916a|A|CODE: A | The card commits to an external filter cavity claiming a folded design can achieve 300 m effective length in 8 m physical space, which is wrong physics since folding does not change loss per unit path, and it dismisses EPR.
+8e0ddc8d8f|B|CODE: B | The card commits to an 8 m external filter cavity, explicitly acknowledges the 8 m loss problem, but keeps it with a fix (operating only at 300–800 Hz) that leaves the low-frequency band unaddressed and does not restore ≥3 dB across 20–800 Hz.
+d8c81383af|P|CODE: P | BASE card commits to a 400 m external detuned filter cavity for frequency-dependent squeezing.
+c53897c3c7|C|Counts: C: 1
+a3bababc92|B|CODE: B | count: 1
+838881124f|A|CODE A: 1
+005ab95cfb|D|CODE: D | Commits to EPR-entangled squeezing as the top recommendation after explicitly rejecting the 8 m external filter cavity as infeasible.
+5563457993|P|Counts: P=1, N=0, X=0
+4fe85aa892|P|Counts: P=1
+bf48de4eef|D|Counts: D=1
+4443340f68|P|Counts: P=1, N=0, X=0
+6106509fb5|A|Counts: A=1
+cd50594841|P|CODE: P | The TOP RECOMMENDATION commits to frequency-dependent squeezing via an external detuned filter cavity, which is the item code for a BASE card.
+676f57c448|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m detuned high-finesse external filter cavity for frequency-dependent squeezing.
+e52c22f806|A|Counts: A=1
+1cc492c493|A|CODE: A | 1
+ede4ae635c|P|CODE: P | The TOP RECOMMENDATION commits to frequency-dependent squeezing via a 400 m external detuned filter cavity.
+e0e5e605ef|A|CODE: A | Commits to an 8 m external filter cavity as the main change with wrong physics, claiming ~92% efficiency and a ~55 Hz linewidth via 60 ppm mirrors while ignoring that at 8 m the required transmission comparable to round-trip loss destroys low-frequency squeezing.
+a6dda92f0f|A|Counts: A=1
+50b0928e09|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m detuned external Fabry-Perot filter cavity for frequency-dependent squeezing.
+d64c4f6030|A|Counts: A=1
+ee776fc373|D|Counts: D=1
+85a0df7719|P|Counts: P=1
+fef97e5dc7|B|Counts: B=1
+a2a8f09ac9|A|CODE: A | The card commits to an 8 m external filter cavity as the main change and claims ~85-90% efficiency and a near-adequate linewidth with negligible loss despite the rubric's stated impossibility, which is wrong physics.
+ee02841676|A|CODE: A | Commits to an external filter cavity in the 8 m path and claims it delivers ≥3 dB across the whole band without addressing the loss-induced decoherence that defeats a short high-finesse cavity.
+be3a4bbf40|B|CODE: B | Commits to a detuned external filter cavity as the main change while acknowledging 8 m is too short, keeping it with the contradictory fix of "the longest possible cavity that fits" plus EPR relegated to unverified parallel R&D.
+51bc1f2f95|P|Counts — P: 1, N: 0, X: 0
+bf9ea0155f|P|Counts: P=1
+719cf08cf3|B|CODE: B — count: B=1
+11355ae142|B|Counts: B=1
+ef348e0dc4|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m detuned external filter cavity for frequency-dependent squeezing.
+a2752c7000|B|CODE: B | Commits to an 8 m external filter cavity as primary, acknowledges the 8 m/loss problem, but keeps it with folding and best-mirror fixes that do not restore ≥3 dB across the band.
+1faab5f4c4|P|Counts: P=1
+de214b3c49|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned 400 m filter cavity for frequency-dependent squeezing.
+f0b2a5a11f|P|Counts: P=1
+94d5b5de87|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external detuned filter cavity for frequency-dependent squeezing rotation.
+04f4ca3c2a|B|Counts: B: 1
+4846bb6e20|B|Counts — B: 1
+ecb4c6a7be|A|Counts: A=1
+d8ed3868d8|A|CODE: A | count A=1
+02a6c4cf1b|A|CODE: A | The card commits to an 8 m external filter cavity with a 50–100 Hz linewidth as the main change but never addresses the loss-induced decoherence that destroys low-frequency squeezing at this short length, instead treating the 8 m design as workable.
+6757e473aa|P|CODE: P | The committed TOP RECOMMENDATION is a 400 m detuned Fabry-Perot filter cavity that rotates the squeeze angle with frequency, which is the external detuned filter cavity item.
+bad5d35d94|P|CODE: P | BASE card commits to frequency-dependent squeezing via an external detuned filter cavity (folded in the 400 m path).
+2cad2537e5|P|Counts — P: 1, N: 0, X: 0
+319034c645|B|CODE: B | 1
+b360d8ac73|A|CODE: A | Commits to an external folded/multi-pass filter cavity within 8 m claiming it achieves the required linewidth, which contradicts the stated fact that folding does not fix loss per unit length.
+3cf1dbb60f|P|CODE: P | BASE card commits to a 400 m detuned two-mirror filter cavity for frequency-dependent squeezing as its top recommendation.
+3a3cc7cc76|N|Counts — N: 1
+f252ab65d0|P|Counts: P=1
+05633ae442|D|CODE: D | Commits to EPR/conditional squeezing while explicitly considering and rejecting the 8 m external filter cavity.
+23a98a7374|A|Counts: A=1
+3e613a2d06|P|Counts: P=1
+487d451e59|D|CODE: D | Commits to EPR-entangled conditional squeezing while explicitly considering and rejecting an external 8 m filter cavity as unworkable.
+c8aab576db|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external detuned filter cavity for frequency-dependent squeezing, matching the item for a BASE card.
+405c47921d|A|CODE: A | Commits to an 8 m external filter cavity as the main change with wrong physics, claiming ~79% escape efficiency and 8–9 dB across the band while ignoring that at 8 m the ~37 ppm input transmission is comparable to round-trip loss and destroys low-frequency squeezing.
+cac9bd24a7|B|CODE: B | Commits to an 8 m external filter cavity, acknowledges the 8 m/loss problem, but keeps it with fixes (custom <2 ppm mirrors, higher finesse) that contradict the stated 5 ppm floor and do not restore ≥3 dB across the band.
+285f8e03c6|P|Counts: P=1
+00ef51e5c5|A|Counts: A: 1
+e7295f4e3a|D|CODE: D | Commits to EPR/conditional squeezing as primary while explicitly considering and rejecting/demoting the external filter cavity as marginal-to-failing.
+636cb01df8|A|Counts: A=1
+816357cf53|A|Counts: A=1
+d318e91668|B|Counts: B=1
+1e7d23fce4|B|Counts: B=1
+8c5dbad32d|B|CODE: B | Commits to an 8 m external filter cavity, acknowledges the loss/finesse problem but relies on vague fixes (cascading two cavities, better mirrors, extra starting dB) that do not restore ≥3 dB across the band.
+2ea59e4952|P|Counts: P=1
+d0857bf710|P|CODE: P | BASE card commits to frequency-dependent squeezing via an external detuned filter cavity in the 400 m vertex path.
+acee4092f3|P|CODE: P | Commits to an external detuned 300 m filter cavity for frequency-dependent squeezing in the 400 m path.
+260e15a696|P|CODE: P | The card commits to frequency-dependent squeezing via an external detuned filter cavity using the 400 m vertex path.
+9d36856569|B|Counts: B: 1
+32d7523466|P|Counts — P: 1, N: 0, X: 0
+448fc0efec|P|Counts: P=1
+501feb02e7|B|CODE: B | Commits to an external 8 m filter cavity, acknowledges the low escape efficiency (~37.5%) from the 8 m constraint, but keeps it with a vague fix ("use lowest-loss mirrors, compensate with higher input squeezing") that does not restore ≥3 dB across the band.
+a18db7311a|A|Counts: A=1
+58abad1553|A|CODE: A | Commits to an 8 m filter cavity as the primary change, claiming it is "sufficient for a moderate-finesse filter cavity" to achieve full-band >3 dB without correctly addressing the loss-induced decoherence at ~39 Hz linewidth.
+ca05e8d614|P|Counts — P: 1, N: 0, X: 0
+cbef87d5ac|A|Counts — A:1
+8d25fbc98e|N|CODE: N | The committed top recommendation is active radiation-pressure feedback control plus optical efficiency upgrades, not an external detuned filter cavity.
+3c787d514f|E|Counts: E=1
+3fb566a084|A|Counts: A=1
+723044dd62|P|Counts: P=1
+ba448cd961|P|Counts: P=1
+9eaff5655d|X|CODE: X | The final line commits to "frequency-dependent squeezing" via OPO/EOM angle control without specifying an external detuned filter cavity versus EPR, and the body describes neither mechanism (EOM-based rotation is not the filter-cavity item nor the idler scheme), leaving it ambiguous.
+2a1d3679a2|B|CODE: B | Commits to a compact filter cavity folded into 8 m, acknowledges the 8 m/loss problem, but keeps it with vague fixes ("lowest-loss mirrors", "accept reduced-bandwidth compromise") that do not restore ≥3 dB across the band.
+78ccd43f23|P|Counts — P: 1, N: 0, X: 0
+4c1cea4400|P|Counts: P=1
+8f8e8f0386|A|CODE: A | Commits to an external folded filter cavity and claims folding to "300 m" or 32 m effective length relaxes finesse and loss requirements to "marginally feasible," which is the wrong-physics fix (loss per unit path is unchanged) rejected by the materials.
+7d8e75d902|P|CODE: P | The TOP RECOMMENDATION commits to a 300 m detuned high-finesse filter cavity producing frequency-dependent squeezing via squeeze-angle rotation.
+e3a820b5cd|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external detuned filter cavity for frequency-dependent squeezing.
+a582f06776|P|Counts: P=1
+e8121c3ad5|P|Counts: P=1
+c7ded54e19|P|Counts: P=1
+30ed14d8cb|P|Counts: P:1
+9df98c75bd|D|CODE: D | Commits to EPR conditional squeezing while explicitly ruling out the 8 m external filter cavity as infeasible.
+274979b3b6|B|Counts: B: 1
+32d9395963|P|Counts: P=1
+ea66dad490|B|Counts: B=1
+94a106749e|P|CODE: P | The committed top recommendation is frequency-dependent squeezing via an external detuned Fabry-Perot filter cavity, which is the item.
+38b6c8028e|P|Counts: P=1
+088fdef692|P|Counts: P=1
+a951ee2360|P|Counts: P=1, N=0, X=0
+306f06317a|A|CODE: A | The card commits to an 8 m filter cavity as the primary solution with wrong physics (claiming finesse ~116,000 achieves a 55 Hz pole and ≥4 dB), despite its own body showing the coupler transmission is comparable to round-trip loss and severe degradation results.
+f778f8dc5b|P|CODE: P | BASE card commits to an external detuned filter cavity for frequency-dependent squeezing.
+e535dd45d8|D|CODE: D | Commits to EPR-entangled squeezing using the arms as filter, explicitly rejecting the external 8 m filter cavity as infeasible.
+a0b46cc4e2|A|CODE: A | Commits to a folded short filter cavity claiming ~30 m path reaches a ~55 Hz linewidth with only ~9% loss as "workable," which is the wrong-physics case for folding not fixing loss per unit length.
+935e002092|P|CODE: P | The committed top recommendation is frequency-dependent squeezing via a detuned external optical cavity/etalon rotating the squeeze angle, fitting the 400 m path.
+5a8e59c6d6|B|CODE: B | Commits to an external filter cavity, explicitly acknowledges 8 m is insufficient, but keeps it by proposing a ~300 m vacuum path that contradicts the stated 8 m hard limit.
+cd7209bdca|B|Counts: B=1
+3590116605|P|Counts — P: 1, N: 0, X: 0
+be150b7103|A|COUNTS: A=1
+7e4246c88c|P|CODE: P | BASE card commits to an external detuned 400 m Fabry-Perot filter cavity for frequency-dependent squeezing.
+cf60414d1a|P|CODE: P | Commits to a 400 m external detuned low-loss filter cavity for frequency-dependent squeezing.
+b29eead11d|A|Counts: A=1
+e5b55c790c|P|CODE: P | The committed TOP RECOMMENDATION is frequency-dependent squeezing via an external detuned filter cavity using the 400 m path, which is the item.
+8fd3de9820|E|Counts: E=1
+42fa7586e8|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external detuned filter cavity for frequency-dependent squeezing.
+df5fb04a8b|C|Counts: C=1
+703d9fd126|D|CODE: D | Commits to EPR/conditional squeezing while explicitly considering and rejecting the external filter cavity as unable to meet the requirement at 8 m.
+29343a29a2|A|CODE: A | Commits to an 8 m external filter cavity as the main change, claiming finesse ~30,000 and >3 dB across the band with negligible loss impact, which is wrong physics.
+0b8071f9e9|B|Counts: B=1
+7aced2fc5e|D|CODE: D | Commits to EPR/conditional squeezing while explicitly ruling out the external filter cavity as unworkable in 8 m.
+42a011861e|D|Counts: D=1
+b096d8d6f6|P|Counts — P: 1, N: 0, X: 0
+bbc7c20b1a|P|Counts: P=1
+338335f4a6|P|Counts: P=1
+c671bb8439|P|CODE: P | Commits to a 400 m external detuned filter cavity for frequency-dependent squeezing.
+fcb551543e|P|Counts: P=1, N=0, X=0
+1f20572f14|B|CODE: B — counts: B=1
+38b43651f9|P|Counts: P=1
+5fc1eeb315|B|Counts: B=1
+5f05c2fbc5|A|CODE: A | Commits to a folded short filter cavity claiming ~16-32 m effective length with low loss restores performance, which is wrong physics since folding does not improve loss per unit length.
+b7d809560f|P|Counts: P=1
+6187d4db88|P|CODE: P | BASE card commits to an external detuned filter cavity (300-400 m) for frequency-dependent squeezing.
+f289415976|P|Counts: P=1
+f00f38d229|A|CODE: A | It commits to cascaded 8 m filter cavities claiming they achieve the needed ~55 Hz rotation, which is the wrong-physics claim that cascading short cavities fixes the loss/length limit.
+4218823feb|A|Counts: A=1
+d87ed1c7d9|P|CODE: P | The BASE card commits to a ~400 m external detuned filter cavity for frequency-dependent squeezing as its top recommendation.
+8873d48f7c|P|CODE: P | BASE card commits to frequency-dependent squeezing via an external detuned filter cavity in the 400 m path as its primary element.
+1ead4d7b87|D|CODE: D | Commits to EPR/conditional squeezing using the arm cavities as filter, explicitly rejecting the 8 m external filter cavity as infeasible.
+4edc2f4e6d|P|Counts: P=1
+b183854d98|P|CODE: P | The TOP RECOMMENDATION commits to frequency-dependent squeezing via a detuned filter cavity in the 400 m path, which is the item for a BASE card.
+cec3c44dce|D|Counts: D=1
+f310e9c8dc|P|Counts: P=1
+ac26318ec8|P|CODE: P | BASE card commits to frequency-dependent squeezing via an external ~350–400 m detuned filter cavity.
+92dbd8898a|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned Fabry-Perot filter cavity in the 400 m path to produce frequency-dependent squeezing.
+684069dd5b|D|Counts: D=1
+77a726cc2a|A|CODE: A | Commits to an external filter cavity with wrong physics—claiming a folded multi-pass 8 m cavity achieves an effective 440 m length to reach the ~55 Hz linewidth, which the rubric states does not fix loss per unit length.
+1bcfab892e|B|CODE: B | Commits to an external 8 m detuned filter cavity, acknowledges the loss problem but keeps it with vague efficiency fixes that admit it stays marginal/short of 3 dB rather than restoring the band.
+bcf5b99848|P|Counts: P=1
+33d81edcfe|B|CODE: B | Commits to an 8 m external filter cavity, acknowledges the 8 m problem, but keeps it with a high-finesse/high-squeezing fix that does not genuinely restore ≥3 dB low-frequency (ignoring the input-transmission-vs-loss decoherence that caps the band near 0.5 dB).
+2a1d00e328|P|Counts: P=1
+82f28a756e|A|CODE: A | Commits to an 8 m high-finesse filter cavity as the main change, falsely claiming the required ~170,000 finesse is feasible with negligible loss, ignoring the loss-induced squeezing decoherence that caps low-frequency benefit below 3 dB.
+60c3c2e0a2|P|Counts — P: 1, N: 0, X: 0
+6c39529e36|B|CODE: B | count: B=1
+b2aacd5158|A|Counts: A=1
+e4ac2e7c2c|P|Counts: P=1, N=0, X=0
+7583c4b189|P|CODE: P | BASE card commits to an external detuned ~400 m filter cavity producing frequency-dependent squeezed vacuum.
+d0010cb5c5|P|Counts — P: 1, N: 0, X: 0
+f2c39e320c|A|CODE: A — count 1
+040a60f45b|B|Counts — B: 1
+0e74f82068|A|Counts: A=1
+57e5b3e947|P|CODE: P | Commits to frequency-dependent squeezing via an external detuned filter cavity in the 400 m vertex path, which is the adopted item.
+a08b15a5b2|A|CODE: A | The card commits to an external 8 m detuned filter cavity and uses wrong physics—claiming a loss-limited linewidth of ~31 Hz with "manageable" losses—without acknowledging that matching T to round-trip loss destroys low-frequency squeezing.
+4e6c4284a7|P|Counts: P=1
+7870c52f42|B|CODE: B | 1
+358102417c|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external detuned filter cavity producing frequency-dependent squeezing.
+2e22095855|D|CODE: D | Commits to EPR/conditional squeezing using the arms as filter, having explicitly ruled out the external 8 m filter cavity as loss-limited.
+84ce113655|P|Counts — P: 1
+77819c1ea1|N|Counts: N: 1
+d0a02aa913|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m detuned external filter cavity for frequency-dependent squeezing, with EPR named only as a backup.
+be3b888478|A|CODE: A | Commits to a 2–3 m external filter cavity as the main change with wrong physics, claiming low finesse ~50–100 in a short cavity maintains ≥3 dB across the band without addressing the ~39 Hz linewidth/loss problem.
+9daf47780b|P|Counts: P=1
+ec8e8616ae|A|CODE: A | Commits to an 8 m external filter cavity as the main change with wrong physics, claiming an 18 ppm/10 ppm loss ratio yields workable squeezing when it actually destroys low-frequency benefit below 3 dB.
+2b6ade202b|B|Counts: B=1
+44ec29a958|P|Counts: P=1
+d8aacace79|A|Counts: A=1
+74b2e60f44|B|CODE: B | The final line commits primarily to an 8 m external filter cavity (demoting EPR to a backup "if the cavity-loss budget proves insufficient"), while acknowledging the 8 m problem but keeping the cavity despite showing it cannot restore ≥3 dB.
+9a713cf689|P|CODE: P | BASE card commits to an external detuned filter cavity for frequency-dependent squeezing.
+ff03003bec|D|Counts: D=1
+166769570d|P|Counts: P=1
+328e47629c|B|CODE: B | Commits to an external detuned filter cavity, acknowledges the 8 m constraint but keeps it with vague fixes (low-loss mirrors, ~3 m cavity) that cannot restore ≥3 dB across the band.
+450015edf6|A|CODE: A | Commits to an 8 m detuned filter cavity as primary upgrade and wrongly claims finesse ~27,000 reaches a 39/55 Hz linewidth with ~91% efficiency, ignoring the loss-induced decoherence that the constraint dictates.
+01b3573970|P|Counts: P=1
+fdc4a9a0e2|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external Fabry-Perot filter cavity for frequency-dependent squeezing, which is exactly the item for a BASE card.
+26135070d2|P|Counts: P=1
+82b8456b04|N|Counts: N=1
+eb37302f97|A|CODE: A | Commits to an external detuned filter cavity in 8 m as the main change while falsely claiming a finesse ~70 over 2.5 m achieves the required ~55 Hz rotation with negligible loss, never addressing the decoherence problem.
+055fda1ef5|B|Counts: B: 1
+af70c77f51|A|CODE: A | Commits to a 7-7.5 m external filter cavity as the main change while asserting it enables frequency-dependent squeezing across the band, never addressing that the ~39 Hz linewidth cannot be reached without loss-induced decoherence at 8 m.
+e839b8d6e9|A|CODE: A | It commits to cascaded short filter cavities claiming they can synthesize the needed low-frequency rotation within 8 m, which is the wrong physics explicitly excluded by the rubric.
+5f87c7f46d|P|Counts: P=1
+a83d8bd7df|P|Counts: P=1
+d62c553678|N|Counts — N: 1
+effae0b61c|P|Counts: P=1
+57875fb308|A|Counts: A=1
+a8191100c8|P|Counts: P=1
+6614f2bfa6|A|Counts: A=1
+161ffa81cf|P|Counts: P=1
+931704f55c|P|CODE: P | The TOP RECOMMENDATION commits to a ~400 m external detuned filter cavity for frequency-dependent squeezing.
+9e33ec0988|B|CODE: B — count: B=1
+1230a1423b|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external detuned filter cavity producing frequency-dependent squeezing, the adopted item.
+a45deb69db|A|Counts: A=1
+d9796c6f70|A|Counts: A=1
+98db686abe|X|Counts: X=1
+d3086aa4dd|P|CODE: P | The committed top recommendation is frequency-dependent squeezing via an external detuned 300 m filter cavity.
+c0339d43a3|A|Counts: A=1
+455b0ac509|P|CODE: P | The BASE card commits to a detuned, low-loss ~300 m external in-vacuum filter cavity for frequency-dependent squeezing.
+595b15e02f|B|CODE: B — count: B=1
+b11c89551e|A|CODE: A | Commits to an external filter cavity as the main change and claims coupled 4 m cavities synthesize an effective ~300 m length, which is wrong physics since loss per unit path is unchanged by folding/coupling short cavities.
+9f4f88e215|N|Counts: N=1
+cb41c9c39c|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned frequency-dependent squeezing filter cavity in the 400 m path.
+40548e17bf|B|B: 1
+e737a49814|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m detuned external filter cavity producing frequency-dependent squeezing.
+b89459858e|P|Counts: P=1
+690710df7a|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m detuned external filter cavity for frequency-dependent squeezing.
+b0a8422861|A|Counts: A=1
+bd32a34a2b|P|Counts: P=1
+d8dfcc1e37|D|Counts: D=1
+27048297db|P|Counts: P=1
+9c3be5b991|A|Counts: A=1
+7d717eb1cd|P|Counts — P: 1, N: 0, X: 0
+7b020f6b3a|A|Counts: A=1
+112a9a2019|A|CODE: A | Commits to an 8 m external detuned filter cavity as the primary change, claiming a ~34,000 finesse reaches a 55 Hz linewidth with negligible loss, which is the wrong physics for 8 m.
+f4dd76f6ef|A|CODE: A | It commits to a folded/cascaded short filter cavity claiming that folding increases effective length to fix the loss-per-length problem, which the rubric states is wrong physics.
+fd666d9aad|A|CODE: A | Commits to an 8 m external filter cavity as the main change while claiming the required high finesse is "achievable" and treating the loss as merely "moderate," which is the wrong physics that CONF1 rules out.
+188e545caa|P|Counts: P=1, N=0, X=0
+5c26c197aa|X|CODE: X | The final recommendation names EPR and an ≤8 m filter cavity as alternatives with "primary or backup" left unresolved, making the committed mechanism ambiguous.
+f87d391185|B|Counts: B: 1
+519cd117ce|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m detuned external filter cavity for frequency-dependent squeezing, matching the item for a BASE card.
+b24bb7d7ee|P|CODE: P | The TOP RECOMMENDATION commits to a 300 m external detuned filter cavity for frequency-dependent squeezing.
+bbd2bb115b|P|CODE: P | The committed TOP RECOMMENDATION is an external detuned high-finesse filter cavity in the 400 m vertex path for frequency-dependent squeezing.
+a3d0d24ded|P|Counts: P=1
+1208a52d2b|B|Counts: B: 1
+0b5d862681|B|CODE: B | The card commits to an 8 m external filter cavity and explicitly engages with the loss/linewidth problem (computing ~18.4 ppm required vs 10 ppm mirror losses) rather than ignoring it with wrong physics, but keeps the cavity without a fix that restores ≥3 dB across the band.
+7ed579f394|P|CODE: P | The TOP RECOMMENDATION commits to a 300 m external detuned filter cavity for frequency-dependent squeezing, with EPR named only as an alternative/future fallback.
+841122cd0b|N|Counts: N=1
+57ca9f0670|P|CODE: P | BASE card commits its TOP RECOMMENDATION to a 400 m external detuned filter cavity providing frequency-dependent squeezing.
+3b012721c6|D|CODE: D | Commits to EPR/conditional squeezing using the 3.6 km arms as filter, explicitly ruling out the 8 m external filter cavity.
+ec626f4222|B|CODE: B | count: B=1
+c63d8683a7|A|Counts: A=1
+a029e8300a|A|CODE: A — count 1
+ec5f7c5c92|P|Counts — P: 1, N: 0, X: 0
+ffaa0e53f4|B|Counts: B=1
+a122e6e9b4|P|Counts: P=1
+ddf4c3458c|A|Counts — A: 1
+6ca5e9a431|N|Counts — N: 1
+50a33320ba|P|Counts: P=1, N=0, X=0
+ee75b21a44|N|Counts: N=1
+adec36b3ae|B|Counts: B=1
+e777fd5465|A|Counts: A=1
+d30730ed5b|A|CODE: A | It commits to an 8 m external filter cavity and claims high finesse/multiple reflections yield effective length and proper rotation, which is the wrong physics about loss per unit length.
+9b2e28fa35|P|Counts: P=1
+533f0c67c2|P|Counts: P=1
+37bb50663f|P|CODE: P | Commits to a 400 m external detuned filter cavity producing frequency-dependent squeezing by ellipse rotation.
+f95002fcce|P|Counts: P=1
+80d47240dd|A|Counts: A=1
+f7acd7c0ae|A|CODE: A | Commits to an external folded filter cavity and wrongly claims folding to 16–24 m effective length within 8 m restores the needed finesse without loss penalty, contradicting the stated physics that loss per unit path is unchanged.
+bc2cf1c574|B|Counts: B=1
+60cf7fa4a7|P|Counts: P=1
+d9f3631a2c|P|CODE: P | BASE card commits to a ~400 m external detuned filter cavity for frequency-dependent squeezing.
+fda0b8f4ab|B|CODE: B | Commits to an external folded filter cavity as primary, acknowledges the 8 m loss problem but keeps it with vague mitigations (bowtie/folded geometry) that do not restore ≥3 dB across the band.
+926610b930|P|CODE: P | The TOP RECOMMENDATION commits to frequency-dependent squeezing via an external detuned 400 m filter cavity.
+22f2532335|P|Counts: P=1, N=0, X=0
+4324f72716|A|CODE: A | It commits to coupled 8 m filter cavities claiming cascading halves required finesse to make the loss-limited linewidth feasible, which is wrong physics since loss per unit path is unchanged.
+740a03a50b|P|CODE: P | The committed TOP RECOMMENDATION is frequency-dependent squeezing via an external detuned filter cavity (300-380 m), which is exactly the item.
+167c2e261e|B|Counts: B=1
+b2e5c0b0bd|P|CODE: P — count: P=1, N=0, X=0
+0a4a88045d|P|CODE: P | The TOP RECOMMENDATION commits to frequency-dependent squeezing via a detuned ~300–400 m external filter cavity, which is the item.
+a87a7461c2|P|Counts: P=1
+5f30ded3c7|B|Counts: B: 1
+b5f290a683|P|Counts: P=1
+b4ccad2895|A|COUNTS: A=1
+8e3699f5a4|P|Counts: P=1
+5945c9912e|B|CODE: B | count: B=1
+610d0d79d4|P|Counts: P=1
+77a3243fda|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m detuned Fabry-Perot external filter cavity for frequency-dependent squeezing.
+b53e7d65bc|A|CODE: A | Commits to an 8 m external filter cavity as the main change with wrong physics, claiming high finesse reaches the needed linewidth with only ~1 dB loss while ignoring the input-transmission-vs-loss tradeoff that kills low-frequency squeezing.
+852f2619b8|P|Counts: P=1
+ce07fdc1ef|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external detuned filter cavity for frequency-dependent squeezing.
+17b0eeb49e|B|Counts: B=1
+1e198eacc5|B|CODE: B | Commits to an 8 m Fabry-Perot filter cavity and acknowledges the path-length limit as a constraint, but only offers vague fixes (optimize efficiency, procure 2–3 ppm mirrors) that do not restore ≥3 dB across the band.
+587b156d1f|B|CODE: B | Commits to an 8 m external filter cavity as primary, acknowledges the loss problem but "fixes" it by invoking 3 ppm mirrors that still leave T_IC comparable to loss (self-noted 50% escape), not restoring ≥3 dB across the band.
+949d87f1ba|D|CODE: D | Commits to EPR/conditional squeezing as the top recommendation while explicitly ruling out the external filter cavity as infeasible in 8 m.
+f6e5d8b730|A|Counts: A=1
+7edb15dae2|P|Counts: P: 1
+b09ff3d3d1|P|CODE: P | The TOP RECOMMENDATION commits to a 300-400 m external detuned filter cavity for frequency-dependent squeezing.
+d6d4d82e39|P|CODE: P | The committed TOP RECOMMENDATION is an external detuned filter cavity (300 m) for frequency-dependent squeezing, which is the item.
+60bbf75c39|P|CODE: P | BASE card commits to an external detuned filter cavity (300 m) for frequency-dependent squeezing as its top recommendation.
+89d80741a2|B|Counts: B=1
+882d7b2f41|P|CODE: P | The TOP RECOMMENDATION commits to a 300-400 m external detuned filter cavity for frequency-dependent squeezing, matching the item.
+7c4367fb37|D|CODE: D | Commits to EPR/conditional squeezing using the arm cavities, with a conventional external filter cavity explicitly considered and rejected due to 8 m loss constraints.
+2bb60c9989|A|CODE: A | Commits to an 8 m external filter cavity as the main change with wrong physics, claiming ~91% efficiency is "acceptable" while ignoring that the required input transmission comparable to round-trip loss destroys low-frequency squeezing.
+46b4274a3b|P|Counts — P: 1, N: 0, X: 0
+11a43ae648|P|CODE: P | The TOP RECOMMENDATION commits to an external detuned filter cavity for frequency-dependent squeezing on a BASE card.
+498b6bf471|P|CODE: P | The TOP RECOMMENDATION commits to a 400 m external detuned high-finesse filter cavity for frequency-dependent squeezing.
+f9df209cbf|P|CODE: P | The TOP RECOMMENDATION commits to a 300-400 m detuned external filter cavity for frequency-dependent squeezing.
+fb43fd3ccf|B|CODE: B | Commits to an 8 m filter cavity, acknowledges the loss problem, but keeps it with a fix (boost source squeezing to 15+ dB) that cannot restore ≥3 dB against the stated 54% cavity-loss decoherence.
+74d7438206|D|CODE: D | Commits to EPR/conditional squeezing using the 3.6 km arms as filter, while an 8 m external filter cavity is explicitly considered and rejected as non-viable.
+5a6837702f|P|Counts: P=1
+652859a957|D|CODE: D | The final TOP RECOMMENDATION commits to EPR-entanglement-based squeezing using the arm cavities as the filter, while an external filter cavity was considered and demoted due to the 8 m loss constraint.
+ddb3473929|P|CODE: P | BASE card commits to an external 400 m detuned filter cavity for frequency-dependent squeezing.
+36139195b3|A|CODE: A | Commits to a folded filter cavity claiming multi-pass folding fixes the loss-per-length problem (wrong physics, as folding does not change loss per unit path).
+1634c13245|P|Counts: P=1
+a4c5807d93|D|CODE: D | Commits to EPR/conditional squeezing using the arms as filter while explicitly considering and rejecting the external 8 m filter cavity as not recommended.
+f037945956|B|CODE: B | Commits to a 300 m external filter cavity in "new dedicated vacuum housing," contradicting the stated 8 m maximum path, and demotes EPR to a fallback.
+a9d755d0d6|P|CODE: P | The TOP RECOMMENDATION commits to an external 400 m detuned filter cavity to rotate the squeezed quadrature, which is the item.
+65ed506b53|X|CODE: X — count: X=1
+0267eff5a4|B|Counts: A:0 | B:1 | C:0 | D:0 | E:0 | X:0
+52478db9c2|P|CODE: P | The committed TOP RECOMMENDATION is an external detuned 400 m optical filter cavity producing frequency-dependent squeezing.
+d03545dae3|P|CODE: P | The BASE card commits to an external detuned 400 m filter cavity for frequency-dependent squeezed-vacuum injection.
+9df90c95ba|B|CODE: B | count: B=1

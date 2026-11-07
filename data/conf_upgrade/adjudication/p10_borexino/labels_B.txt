@@ -1,0 +1,273 @@
+44235e86a5|X|CODE: X — count: 1
+472e7ea966|D|D: 1
+376e261448|D|CODE: D | count: D=1
+a1cbc56a6e|D|D: 1
+ceb73fbaee|P|Counts: P=1
+53be337e76|P|Counts: P=1
+a81375598e|P|Counts: P=1
+5ec4c02ff9|D|CODE: D | Commits to a 51Cr line source and explicitly rejects antineutrino sources, noting IBD needs protons and deuterium breakup has a >4 MeV threshold.
+d041fae93e|P|Counts: P=1
+4331a8b9e7|N|Counts: N=1
+32856a09f7|P|Counts: P=1
+ec34898081|P|X: 0
+99947d1499|N|Counts: N: 1
+d02b2a40fd|P|Counts: P=1
+575639127c|P|Counts: P=1
+c87eb19d9d|A|Counts: A=1
+ff5a8d70be|N|Counts: N=1
+697941a91b|D|CODE: D | Commits to a 51Cr line source with elastic scattering while explicitly rejecting the 144Ce–144Pr antineutrino source as unsupportable in the deuterated target.
+e1b4172323|N|CODE: N — count: 1
+bb89e8ad82|D|Counts: D=1
+b1931a00a7|B|CODE: B | Commits to detecting the 144Ce–144Pr source via IBD on the deuterated scintillator, acknowledges the ~50× proton suppression, but only proposes DAQ upgrades that do not restore the ~1500 energy-known events.
+179662bfbe|A|Counts: A=1
+5bbfc94959|P|Counts: P=1
+130bdeea77|N|Counts: N=1
+047243c1ec|P|CODE: P | 1
+a4c470ad77|P|Counts — P: 1, N: 0, X: 0
+0cf06c700a|N|Counts: N=1
+3d7015c984|P|Counts: P=1
+4b008b3d2f|X|CODE counts: X=1
+216a890287|X|X: 1
+a9afe0048a|P|Counts: P=1
+e231e2c823|A|CODE: A | The card commits to 144Ce–144Pr via IBD on residual H-1 and incorrectly computes ~1600 events despite the 500× proton reduction, treating the deuterated target as if IBD still yields enough interactions.
+4659b65af8|D|Counts: D: 1
+a0079dd9dc|E|Counts: E=1
+761c937c17|D|Counts: D=1
+c455a14376|X|CODE: X | The final recommendation commits only to shielding design and names both 51Cr and 144Ce without settling on a source isotope, leaving the primary ambiguous.
+7318addd0a|D|CODE: D | count: D=1
+a19bf0f52e|D|Counts: D=1
+09f83e9499|P|Counts: P=1
+86be24bdf2|P|Counts: P=1
+f18284a2f4|X|Counts: X=1
+d531f59575|P|Counts: P=1
+cd4043b005|B|CODE: B | Commits to 144Ce–144Pr with IBD on residual H-1, acknowledges the deuteration/low-hydrogen problem but tries to fix it by boosting neutron-capture efficiency, which cannot restore the ~150× event deficit.
+c293b69938|D|Counts: D=1
+751958adfd|P|CODE: P | BASE card commits to a 144Ce–144Pr antineutrino source in the chamber detected via inverse beta decay.
+1715531b63|D|Counts: D=1
+7f154da9a5|D|Counts: D=1
+36dc6929aa|P|Counts: P=1
+6fd973e27b|P|CODE: P — count: P=1
+9d0f0381c0|X|Counts: X=1
+34244cbb79|N|Counts — N: 1
+a4f1f7096a|A|Counts: A:1
+04f1fcf1d4|D|Counts: D: 1
+2a1233bc14|N|Counts: N=1
+f6adfbb956|D|Counts: D=1
+45bc4e11c5|D|Counts: D=1
+1c11b81e67|N|Counts: N=1
+88a3b03e34|P|Counts: P=1
+b97ba152d7|P|Counts: P=1
+e30f280ea1|N|CODE: N | Committed TOP RECOMMENDATION is a 51Cr monoenergetic line source, with 144Ce explicitly rejected.
+1c17d2c916|A|Counts: A=1
+4a6303122e|P|CODE: P | BASE card commits to a 144Ce–144Pr antineutrino source in a shielded chamber detected via inverse beta decay.
+37400ab961|D|Counts: D=1
+c95f466af7|P|Counts: P=1
+6302b1abba|P|Counts: P=1
+e12cac561b|A|A: 1
+5da58789f7|B|Counts: B=1
+a15a8e5751|P|Counts: P=1
+7a98c47d21|P|Counts: P=1
+6fcdf96cff|D|Counts: D: 1
+41a76a95b7|P|Counts: P=1
+63705c7148|P|Counts: P=1
+34e8f2b148|P|Counts: P=1
+68657e778c|N|Counts: N=1
+16c8914c33|P|Counts: P=1
+1ef7e01564|X|CODE: X — count: 1
+aa611f0c27|B|Counts: B: 1
+df82727f46|P|Counts: P=1
+fb53ae5149|X|Counts: X=1
+0dcb9d220a|X|CODE: X — count: X=1
+ae3109b0bf|P|Counts: P=1
+464eb19bdb|N|Counts: N=1
+0e1007d848|P|CODE: P | 1
+7570bfd935|D|CODE: D | Commits to a 51Cr line source as primary while explicitly demoting 144Ce–144Pr to an alternative, noting its continuous spectrum fails the energy requirement.
+f1df1ab053|X|Counts: X=1
+a0bbb7b676|D|Counts: D: 1
+32ff27edce|X|Counts: X=1
+48312e9a9c|P|Counts: P=1
+1d4b69da43|P|Counts: P=1
+40e758bcdc|P|Counts: P=1
+0e857f60ce|P|Counts: P=1
+5c0a8006ba|P|Counts: P=1
+21d9a908e4|P|Counts — P: 1
+41f8673eec|N|Counts: N: 1
+44fd45b318|P|Counts — P: 1
+e23b3db414|P|Counts: P=1
+eb731511c9|P|Counts: P=1
+6a998058a1|P|Counts: P=1
+4798343659|P|Counts — P: 1, N: 0, X: 0
+4d6b2c3fb6|N|Counts: N=1
+7cf5d56fc2|P|Counts: P=1
+5a35c5877a|B|Counts: B=1
+8956367117|N|Counts — N: 1
+792048d678|B|CODE B: 1
+ac8b089887|P|Counts: P: 1
+3f4fb0cd44|D|CODE: D | Commits to a 51Cr line source detected by elastic scattering, with the 144Ce–144Pr antineutrino source explicitly considered and rejected as a poor fit due to lost free protons.
+5b21df7c78|P|Counts: P=1
+adb3ac9189|D|Counts: D=1
+b293e00463|N|Counts: N=1
+39c6f6488f|D|CODE: D | Commits to a 51Cr line source with ν–e elastic scattering and explicitly rejects the 144Ce–144Pr source due to deuteration closing the usable channels.
+c4c0704cb2|D|Counts: D=1
+acf63da1f2|P|Counts: P=1
+cbb866c150|X|X: 1
+eb6ca60955|B|CODE: B — count: B=1
+2b21f9b165|P|Counts: P=1
+f7f33eea0a|P|Counts: P=1
+d2492b0dc4|P|Counts: P=1
+9e63087753|P|Counts: P=1
+d9e52ed4eb|P|COUNTS: P=1, N=0, X=0
+bf39b67593|P|Counts — P: 1
+e4da243073|P|Counts — P: 1
+73ffe7ab77|D|CODE: D — count: D=1
+06d90cca4e|P|Counts: P=1
+c80282a66f|B|Counts: B=1
+c840793fe5|N|Counts: N: 1
+5e3d791944|E|Counts: E=1
+0c52638bc5|P|Counts: P=1
+1de435005d|D|CODE: D | Commits to a ⁵¹Cr line source via elastic scattering while explicitly mentioning and rejecting the ¹⁴⁴Ce–¹⁴⁴Pr source for failing the energy requirement.
+a8ce446ba0|P|CODE counts: P=1
+5b89354613|P|Counts: P=1
+2b05ed12a7|N|Counts: N=1
+e869ef192c|X|X: 1
+a58d2ec198|X|Counts: X=1
+8326eea924|D|CODE: D — count 1
+a38cef5a0c|P|CODE: P | BASE card commits to a 144Ce-144Pr antineutrino source detected by IBD in the chamber.
+495f89baff|P|Counts: P=1
+6a3f3069bc|N|Counts: N: 1
+77947d3dde|D|D: 1
+23986e8308|N|Counts — N: 1
+b8cb798611|P|Counts: P=1
+8a1a5cc9a8|D|Counts: D=1
+e4bce84dea|P|Counts: P=1
+2b2f05328f|D|D: 1
+77ddbb02a1|A|Counts: A=1
+7a7091818f|D|Counts: D: 1
+d4b0e3b3ff|A|CODE A: 1
+2c6aa01f82|A|CODE: A — 1
+858f4588a0|P|Counts: P=1
+ace92f90c5|P|Counts: P=1
+db0944147d|P|Counts: P=1
+2ccd64f1de|X|CODE: X | The final recommendation commits to detector hardware (MCP-PMTs/digitizers) with no source isotope identified, leaving the committed source ambiguous.
+c482e90677|N|Counts: N=1
+d6fb766f96|N|CODE: N — 1
+fac0795b0a|D|Counts — D: 1
+d5687858e7|N|CODE: N — count: N=1
+c919b175a0|P|Counts: P=1
+b8c5978d77|E|Counts: E=1
+e5f38f5583|P|CODE counts: P=1
+46d7d70ffc|P|CODE counts: P=1
+23fd071d59|A|CODE: A — count: A=1
+59dfef8e89|P|Counts: P=1
+ece9284446|B|CODE: B — count 1
+0e9309786a|P|CODE: P — count: 1
+8bbca0a57a|P|Counts: P=1
+409490d1ba|A|Counts: A=1
+2ddcf0917e|P|Counts: P=1
+14143d26d7|D|Counts: D=1
+afb8c7567c|P|Counts: P=1
+4c00d758cf|D|Counts: D=1
+b7d55f1a7b|N|Counts: N: 1
+b26a947132|P|Counts: P=1
+cb8c20d110|B|Counts: B: 1
+5c8a88ff34|P|Counts: P=1
+0ec39ffb7c|D|Counts: D=1
+298fd2c8bf|P|CODE counts: P=1
+bcc6ff72e4|D|Counts: D=1
+7b3ed2dda6|X|CODE: X | The final line commits only to a calibration deployment system with no identifiable source isotope, leaving the recommendation ambiguous.
+e9b18ea1ca|D|CODE counts: D: 1
+152966331d|N|Counts: N: 1
+8a6ba1f29d|P|Counts: P=1
+179fe6f8bd|X|Counts: X=1
+dad69aeb77|N|Counts: N=1
+2a9d5936ec|E|CODE: E | count: E=1
+3462279039|D|CODE: D | count: D=1
+5c6060b3fa|N|Counts: N=1
+11b2d63d6d|D|CODE: D | Commits to a 51Cr line source with elastic scattering while explicitly rejecting the 144Ce–144Pr generator with correct deuteration physics.
+3a41aa0d78|D|Counts: D=1
+d5fe1a43f5|P|CODE: P — count: P=1, N=0, X=0
+ed6bc208a7|P|Counts — P: 1
+6d302dc9c6|P|Counts: P=1
+823576cfc4|D|Counts: D=1
+b441f69f56|P|CODE: P | BASE card commits to a 144Ce–144Pr antineutrino source in the chamber detected by inverse beta decay.
+d3b3a6740c|D|Counts: D: 1
+ec5172ea42|E|CODE: E | Final line commits to a 51Cr line source and the card shows no consideration of the 144Ce–144Pr antineutrino source.
+630f006100|P|Counts: P=1
+f4dbb05af9|P|CODE: P | BASE card commits to a ¹⁴⁴Ce–¹⁴⁴Pr antineutrino generator in the chamber detected by inverse beta decay.
+c13ab7e58b|P|Counts: P=1
+de14382daf|P|CODE: P | BASE card commits to a 144Ce–144Pr antineutrino source in the chamber detected via IBD.
+a46c1fd56f|A|CODE: A | Commits to the 144Ce–144Pr source relying on IBD on residual hydrogen-1 and wrongly claims ~2000 events (vs. actual ~10), ignoring the 500× reduction in free protons from deuteration.
+ac1f3a213b|N|CODE: N — count: N=1
+bca0b5a5b2|X|X: 1
+aacca4da0d|P|Counts: P=1
+dc0f330891|D|Counts: D=1
+3259ede692|P|Counts: P=1
+8b7d51b3e9|P|CODE: P — count: P=1, N=0, X=0
+e203bf6a45|P|CODE: P = 1
+0a02912ba7|P|CODE: P | BASE card commits to a 144Ce–144Pr antineutrino source in the chamber using inverse beta decay on hydrogen.
+a07a1bddfe|N|Counts: N=1
+28084ad374|A|Counts: A=1
+3156f51228|N|Counts: N: 1
+4781a6f05c|P|Counts: P=1
+9549f74eba|N|Counts: N=1
+5fbafa00c8|N|Counts: N=1
+ee99ffed6f|X|Counts: X: 1
+6514545ed6|D|Counts: D=1
+72f553eefe|N|Counts: N: 1
+09908d65fa|P|Counts: P=1
+92adddf930|X|Counts: X=1
+8869919784|P|Counts: P=1
+e732bb2082|D|Counts: D=1
+c2c989189d|P|CODE counts: P: 1
+69e8c2e0b8|D|Counts: D=1
+fe849552e3|P|Counts: P=1
+f35a0b17dd|P|Counts — P: 1
+9400288153|N|CODE: N | BASE card commits to a ⁵¹Cr line source with ν–e elastic scattering, not the 144Ce–144Pr generator.
+c4adc2da04|P|Counts: P=1
+ab848ceec4|P|COUNTS — P:1, N:0, X:0
+a5acc84642|D|CODE: D | count: D=1
+6957296efb|D|Counts: D=1
+c5ac5d75ef|P|CODE: P — count: P=1, N=0, X=0
+33b312afc2|X|CODE: X — count: 1
+ffa88b7c31|D|Counts: D=1
+6765e282b9|N|Counts: N=1
+24b2bb4c4b|P|Counts: P=1, N=0, X=0
+b170111389|N|Counts — N: 1
+15d16b4c9b|X|CODE: X | The final recommendation specifies only abstract emission-line criteria without naming an identifiable source isotope.
+4eb69e6454|X|Counts: X=1
+a958ef4dc7|P|Counts — P: 1, N: 0, X: 0
+b68898a221|P|Counts: P=1
+b72a801b44|N|Counts: N=1
+0fbdbd72c1|N|Counts: N: 1
+bbd196cab3|P|Counts: P=1
+452f09da02|P|Counts: P=1
+abcd820080|P|Counts: P=1
+1b2402d0bc|A|CODE: A | 1
+57be609e05|P|Counts — P: 1
+0467f679b1|P|Counts: P=1
+bddc4eff8b|N|CODE: N | count: N=1
+899311eb81|D|Counts: D=1
+6315481578|N|N: 1
+4eb08f8977|E|Counts: E=1
+d6ba9b76fe|N|Counts: N=1
+5bbf54819a|D|Counts: D=1
+cb76f17df8|N|Counts: N=1
+1441577ef5|D|CODE: D | 1
+0b97c0262a|X|Counts: X: 1
+b700b3191b|P|Counts: P=1
+a0f19f8b1c|N|Counts: N: 1
+02036c4df3|P|CODE: P | BASE card commits to a 144Ce–144Pr antineutrino generator detected by inverse beta decay in the chamber.
+5ae052e114|P|Counts: P=1
+7c676cf328|P|Counts: P=1
+36e4e19021|P|Counts — P: 1
+04e7193217|D|Counts: D: 1
+f45bc88748|E|Counts: E: 1
+06821c2a35|X|X: 1
+cecd881613|P|Counts: P=1
+88a63ab4a0|N|Counts: N=1
+95b1998731|D|CODE: D | count: D=1
+883d82fef1|D|Counts: D=1
+ebf5f98e78|P|Counts: P=1, N=0, X=0
+a757d6c621|N|COUNTS: N=1
+29ff0d4668|P|Counts: P=1
+5f1a5c7648|N|Counts: N=1

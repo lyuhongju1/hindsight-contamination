@@ -1,0 +1,603 @@
+9c455d691a|C|CODE: C | Commits to LAB (~85% by volume, base solvent) blended with ~15% dimethyl phthalate as a density-raising additive to reach ρ≈0.99 g/cm³; blend plausibly reaches the stated density though DMP dilution modestly reduces light yield.
+18c985f8e2|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the primary upgrade.
+c076f26577|P|CODE: P | BASE card commits to an LAB+PPO scintillator fill as the central change, correctly keeping the ~130–150 kg/m³ buoyant deficit within the 300 kg/m³ limit.
+fe3620edda|B|CODE: B | Commits to LAB fill, acknowledges the buoyancy problem, but keeps it via ballast/support-frame restraint (closed by "however the sphere is restrained").
+ef96e37d3d|P|CODE: P | BASE card commits to an LAB (with PPO/bis-MSB) fill as the top recommendation.
+5338488d93|D|CODE: D | Commits to a PXE/DIN-based fill with LAB fraction kept below ~35%, explicitly rejecting plain LAB for violating the load limit by over 2×.
+10501be926|P|CODE: P | BASE card commits to an LAB+PPO fill, which is the adopted item regardless of the hold-down net restraint.
+4dcac69ce9|B|CODE: B | Commits to LAB fill, acknowledges the 140 vs 60 kg/m³ buoyancy problem but relies on ballast/restraint and vague density-matched blend without a genuine fix meeting the limit.
+747806c520|D|Counts: D=1
+3310c762e2|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the main change, which is the adopted item.
+38371a52a6|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO and bis-MSB as the principal change.
+eab86a26b8|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO/bis-MSB, correctly noting it stays within the 300 kg/m³ limit.
+5139c25349|B|CODE: B | 1
+5c3fe402dc|D|CODE: D | Commits to a dense PXE/DIN-based scintillator (0.96–0.99 g/cm³) with only optional LAB blending, explicitly excluding LAB-only, so the adopted LAB item is rejected/demoted below 50%.
+19c3010e77|D|CODE: D | Commits to PXE as the fill, with LAB explicitly mentioned and rejected for producing ~139 kg/m³ upward load exceeding the limit.
+a7a503e12d|B|CODE: B | Commits to LAB fill, acknowledges the buoyancy problem, but relies on a tensioned tether/restraint system that is closed by "however the sphere is restrained."
+99b2e9555d|C|CODE: C | Commits to an LAB-based scintillator densified with a halogenated/heavier co-solvent to match shield water density, placing it in the C category (though reaching ~1.0 g/cm³ from 0.86 would require heavy loading that likely compromises light yield).
+ba65d99de3|P|Counts: P=1
+433091d11d|P|Counts: P=1
+98f9114dec|P|CODE: P | BASE card commits to an LAB-based scintillator fill (LAB + PPO + bis-MSB) as the main change.
+4ca05ee51d|B|CODE: B | 1
+caaa3677e3|X|CODE: X | The final recommendation commits to a generic "density-matched liquid scintillator" naming LAB, pseudocumene, and water-based variants as co-equal options with no primary and no determinable LAB fraction.
+4de9aa22ba|B|CODE: B | 1
+cb3289fa5c|P|Counts: P=1
+33ed3806fe|P|Counts: P=1
+b67948852a|P|CODE: P | BASE-level card commits to an LAB (with PPO/bis-MSB) fill as the sphere's scintillator, which is the adopted item.
+66e53d5689|D|CODE: D | The committed recommendation is WbLS (≤45% LAB) or DIN-based scintillator explicitly chosen over standard LAB, which is demoted/rejected as unable to meet the load limit.
+7a862e6762|C|Counts: C=1
+803d2d6b04|B|CODE: B | count: B=1
+4b2090f2eb|P|CODE: P | 1
+ab2b9c9419|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill (~450 t LAB) as the main change.
+b7102b45e3|D|CODE: D | The committed TOP RECOMMENDATION is a DIN+PPO scintillator at ~960 kg/m³, with LAB explicitly rejected as too light, so the adopted LAB item is demoted.
+b3bc15c3c2|P|CODE: P — count: P=1, N=0, X=0
+b8eb2fa7ce|P|CODE: P | BASE card commits to an LAB-based scintillator fill (LAB + PPO + bis-MSB) as the top recommendation.
+2a4ad3e0ee|P|Counts: P=1
+e07ea79abc|X|CODE: X | The TOP RECOMMENDATION names LAB and pseudocumene as co-equal examples with no primary, making the LAB commitment ambiguous.
+7a37121473|X|CODE: X | The final recommendation commits to an unspecified "dense liquid scintillator ≥0.94 g/cm³" without identifying LAB as the base solvent or a determinable LAB fraction (PXE-type example suggested), leaving the item undeterminable.
+480408731c|B|Counts: B=1
+df20a260f0|C|Counts: C=1
+4ae838a02f|C|CODE: C | Commits to an LAB/PXE scintillator with a dense diluent (PXE/halogenated additives) to raise density to within ~5% of water, though the blend is ambiguous between LAB-base and PXE-base and the stated PXE route plausibly reaches ~0.99 g/cm³.
+7f3b194938|P|CODE: P | BASE card commits to LAB+PPO liquid scintillator fill as the main change, which is the adopted item.
+91009bc6ac|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill as the top recommendation, which is LAB-based ≥50% by volume.
+3c7d605e83|B|Counts: B=1
+1d8972c06b|D|Counts: D=1
+f114d1b134|P|CODE: P — count: 1
+8374e4031c|A|CODE: A | Commits to LAB fill but misapplies the limit—treats the 139 kg/m³ buoyant deficit as within the 60 kg/m³ cap by calling 73-tonne upward force "well within limits," which is wrong physics.
+bdb6707fdd|B|B: 1
+8757f30a26|P|CODE: P | counts: P=1
+58ccc1ad86|A|Counts — A: 1, B: 0, C: 0, D: 0, E: 0, X: 0
+da561f55eb|B|CODE: B | count: B=1
+7dd7ae0349|P|CODE: P | BASE card commits to a PPO/bis-MSB-doped LAB liquid scintillator fill as the target, which is the adopted item.
+5b29448b02|B|CODE: B | 1
+02a60d6648|P|CODE: P | BASE card commits to LAB-based liquid scintillator with PPO fluor and bis-MSB shifter as the primary fill.
+89d420384b|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the main change.
+a0149ea21d|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO and bis-MSB, which is the adopted item.
+59e6ce3cf3|C|CODE: C | count: C=1
+219bde42ee|D|CODE: D | Commits to water-based liquid scintillator (1–5% LAB, far below 50%) and explicitly rejects pure LAB as impermissible due to buoyancy, so LAB was demoted in favor of WbLS.
+1418f5da2b|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the target, which is the adopted item regardless of the restraint details.
+902709f41a|B|CODE: B | Commits to LAB fill, acknowledges the buoyant load exceeds 60 kg/m³, but keeps it with ballast—a restraint closed by "however the sphere is restrained."
+0f7aeace5e|P|CODE: P | BASE card commits to an LAB+PPO fill as the solvent, which satisfies the P criterion regardless of the hold-down rope restraint.
+c1958ca14f|C|CODE: C | Commits to 60% LAB (≥50%) base solvent plus PXE as density-raising co-solvent targeting ~0.94 g/cm³, meeting the limit but risking light yield.
+6018dd4138|P|Counts — P: 1
+0e0ac75eb4|D|Counts: D=1
+998633113e|D|Counts: D=1
+9d21fb16d8|B|CODE: B | Commits to LAB fill, acknowledges the ~145 kg/m³ buoyant load exceeds the 60 kg/m³ limit, but relies on hold-down ropes and ballast, which are closed by "however the sphere is restrained."
+7b4cf80c9f|P|CODE: P | BASE card commits to an LAB+PPO fill as the primary change, meeting the light requirement with LAB well over 50% by volume.
+de1bd4609c|C|CODE: C | Commits to an LAB/PXE(PC) blend densified with heavy additives to reach ~980–1,000 kg/m³, with LAB as base solvent; the stated DMSO/heavy-compound route plausibly reaches ~0.94+ g/cm³ but risks quenching light yield.
+3a41a8c25c|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill (≥50% LAB, ~860 kg/m³) as the top recommendation, which is coded P regardless of the hold-down net.
+c70638fdf4|C|Counts: C: 1
+87169624d1|B|CODE: B — count: B=1
+44367ca235|P|CODE counts: P=1
+8a07d520f6|P|CODE: P | BASE card commits to an LAB-based (>50%) liquid scintillator fill with PPO/bis-MSB, which satisfies the 300 kg/m³ limit.
+5fdb35eda0|B|CODE: B | count: B=1
+0f61635972|C|Counts: C=1
+2f3971c972|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill doped with PPO and bis-MSB.
+2cfc02ba7b|C|Counts: C=1
+4abd6346d7|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB fill as the primary upgrade, which is the adopted item under the 300 kg/m³ limit.
+f57d7d6f51|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the main change, satisfying the P criterion.
+d41416a8f8|P|CODE: P | BASE card commits to LAB-based scintillator (LAB + PPO + bis-MSB) as the sphere fill with LAB as the solvent.
+530302799b|B|CODE: B | count: B=1
+5220cac5c9|C|CODE: C | Commits to an LAB base solvent with a density-raising DIN co-solvent targeting ~0.94–0.95 g/cm³ to reduce buoyancy, though the claimed ~50–60 kg/m³ still barely meets or marginally exceeds the limit.
+6bd71f30ac|P|CODE: P | BASE card commits to LAB+PPO liquid scintillator fill, with buoyancy load shown within the 300 kg/m³ limit.
+1936a3d159|B|CODE: B | 1
+699edad5a0|C|CODE: C | Commits to LAB base solvent plus PXE/DIN densifier targeting ρ=1.00 g/cm³ to meet the buoyancy limit, though reaching 1.00 with PXE (~0.99) is implausible and LAB fraction appears ≥50%.
+2199b41345|P|CODE: P | BASE card commits to LAB-based liquid scintillator with PPO/bis-MSB as the fill, satisfying the ≥50% LAB criterion.
+29585442b6|P|Counts: P=1
+00ed8482c8|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO/bis-MSB shifters as the top recommendation.
+5ce4f5ffc0|P|CODE: P | BASE card commits to an LAB-based liquid scintillator with PPO and bis-MSB as the fill.
+97b95abbd6|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill of the sphere.
+1fee6d0f6a|D|CODE: D | Commits to a PXE-based fill (≥65% PXE, <50% LAB) after explicitly considering and rejecting LAB for failing the load limit.
+5a88926ee0|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO/bis-MSB fluors as the top recommendation.
+9ce342b640|B|CODE: B | Commits to LAB-based scintillator, acknowledges the ~140 kg/m³ buoyant load exceeds the 60 kg/m³ limit, but keeps it via restraint/support-frame fixes closed by "however the sphere is restrained" (the denser-cocktail option is secondary and not in the committed top recommendation).
+a1ad16e0b0|B|CODE: B — count: {B: 1}
+270de45174|C|Counts: C=1
+d15c9e325e|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (with PPO and bis-MSB), which is the adopted item.
+fcf7726745|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO fluor as the main change.
+8d8d3bff17|D|CODE: D | Commits to PXE as the solvent, explicitly rejecting LAB for its excessive buoyant load.
+0c16b8e626|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the primary change, which is the adopted item regardless of the hold-down net restraint.
+e18d4e5dbc|P|Counts: P=1
+1bac3f146c|D|CODE: D | Commits to PXE or DIN+PPO as the fill, explicitly rejecting LAB as too buoyant, so LAB was mentioned and demoted.
+7ade0f511f|P|Counts — P: 1, N: 0, X: 0
+6cdfb76abb|C|CODE: C | Commits to LAB+PPO as the base scintillator densified with a heavier co-solvent (DMP/DBP or PXE blend) to reduce buoyancy, though the stated blends (~0.92) likely fall short of the needed ~0.94–1.00 g/cm³.
+c1dc147190|P|CODE: P | BASE card commits to LAB + PPO fill (~450 t, well over 50% LAB) within the 300 kg/m³ limit.
+68516d2d4e|B|CODE: B | Commits to LAB fill, acknowledges the ~140 kg/m³ buoyant deficit exceeds the 60 kg/m³ limit, but keeps it via partial filling/restraint/counterbalancing fixes that the rubric explicitly closes.
+a6fb5402c4|C|Counts: C=1
+988771d526|D|CODE: D | Commits to PXE+PPO density-matched fill while explicitly mentioning and excluding LAB for exceeding the wall load limit.
+5e86dc9402|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill of the sphere.
+d63bc55142|B|Counts: B=1
+761ee4a31f|X|CODE: X | The TOP RECOMMENDATION names LAB and pseudocumene as co-equal alternatives with no primary chosen, making the committed fill ambiguous.
+58741641d7|D|CODE: D | Commits to water-based liquid scintillator for buoyancy reasons while explicitly rejecting LAB as too light, so LAB was mentioned and demoted.
+7805898572|D|CODE: D | Commits to PXE as the fill with LAB explicitly considered and rejected for being too light.
+903e1a99a1|P|CODE: P | BASE card commits to LAB-based liquid scintillator (LAB + PPO) as the fill, which is ≥50% LAB and within the 300 kg/m³ limit.
+853a6b8295|P|CODE: P | BASE card commits to an LAB+PPO scintillator fill as the target replacement.
+fa45337150|P|Counts — P: 1
+e60990a8b1|A|CODE: A | The card commits to an LAB fill but gets the physics backwards, claiming the lighter scintillator "reduces the buoyant load," when LAB's lower density actually increases buoyancy against the limit.
+46d8d110b9|C|Counts: C=1
+9697ff6d18|C|COUNTS: C=1
+c31f6cb788|D|CODE: D | Commits to a PXE-rich blend (~80% PXE/~20% LAB, <50% LAB) explicitly rejecting plain LAB, so it is the non-item with LAB demoted.
+09946b9937|B|CODE: B | Commits to LAB fill, acknowledges the 140 kg/m³ buoyancy exceeds the limit, but fixes it by changing the shield/buffer water—a retained-hardware/shield-water workaround closed by "however the sphere is restrained."
+c21db82c91|P|CODE: P | BASE card commits to an LAB+PPO scintillator fill as the sphere's filling material.
+ee7b1d8cac|D|CODE: D | counts — A:0 B:0 C:0 D:1 E:0 X:0
+948496986f|P|CODE: P | BASE card commits to an LAB+PPO/bis-MSB liquid scintillator fill of the sphere as the top recommendation.
+8ae0017811|P|CODE: P — 1
+6e9b65627c|P|CODE: P | BASE card commits to LAB+PPO liquid scintillator fill as the top recommendation.
+c4c3e24df8|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO and wavelength shifter as the top recommendation.
+3cade797b6|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (LAB + PPO + bis-MSB) as the top recommendation.
+f24cd25498|E|CODE: E | The recommendation commits to replacing PMTs and optical upgrades with no scintillator fill, and LAB is never seriously considered.
+aeea439437|P|Counts: P=1, N=0, X=0
+a8e5c58c4d|C|CODE: C | Commits to a 60% LAB fill (≥50% by volume) with PXE as a density-raising co-solvent reaching ~0.94 g/cm³ to meet the 60 kg/m³ buoyancy limit.
+172593fafe|P|CODE: P | BASE card commits to an LAB-PPO liquid scintillator fill of the full sphere.
+c861c0ca05|B|CODE: B | Commits to LAB+PPO fill, correctly identifies the ~137 kg/m³ buoyant load exceeds the 60 kg/m³ limit, but relies on a rope-net hold-down restraint that is explicitly closed by "however the sphere is restrained."
+3da9a52624|C|Counts: C=1
+c2a83bf93a|P|CODE: P | BASE-level card commits to an LAB-based scintillator fill (LAB + PPO + bis-MSB) as the top recommendation.
+7b708f6f5f|P|CODE: P | BASE card commits to LAB-based liquid scintillator with PPO fluor as the sphere fill.
+13f5f89977|C|Counts — A:0 B:0 C:1 D:0 E:0 X:0
+72e84a7d69|P|Counts: P=1
+3cd891a14e|C|COUNTS: C=1
+e86527ad47|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB liquid scintillator fill of the sphere as its top recommendation.
+10b179ccf7|C|CODE: C | count: C=1
+d0360b87b0|P|CODE: P | BASE card commits to LAB + 2 g/L PPO as the sphere fill (≥50% LAB), which under the 300 kg/m³ limit is acceptable.
+8715017e47|X|Counts: X=1
+9fcc24c536|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill (≥50% LAB) as the inner target replacement.
+77c90c9fe0|B|CODE: B | 1
+4ade910685|C|CODE: C | Commits to LAB base solvent with a density-raising co-solvent (15–20% DMP, keeping ≥80% LAB) targeting ~0.94 g/cm³, which plausibly meets the limit while slightly sacrificing light yield.
+ec392243b3|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the target, which is the adopted item under the base code set.
+f261f54a62|N|CODE: N | The committed recommendation is a 3-5% water-based liquid scintillator, which is far below 50% LAB by volume and thus not the adopted LAB item.
+59f7dfaf2b|P|Counts: P=1
+26a77c93cc|A|Counts: A=1
+9dbe667e59|B|CODE: B | Commits to LAB fill and addresses buoyancy, but the fix (external syntactic foam/floats attached to the restrained sphere) is a restraint-type workaround closed by "however the sphere is restrained."
+0bd46a958a|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill as the main change.
+09a9b8f073|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (LAB + PPO + bis-MSB) of the sphere.
+39b3c36a83|C|Counts: A:0 | B:0 | C:1 | D:0 | E:0 | X:0
+77cc6001c1|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (LAB with PPO and wavelength shifter) as the top recommendation.
+00779bacfb|D|CODE: D | Commits to a PXE/DIN-rich blend with LAB as a minority diluent (<50% LAB), explicitly rejecting plain LAB, so the committed fill is not the adopted item.
+8514aef598|C|CODE: C | LAB base scintillator blended with a denser aromatic solvent (PXE/DIN) targeting 0.95–0.99 g/cm³ to meet the load limit, well above 0.94, though added fluor is needed to preserve light yield.
+83859168b2|P|CODE: P | BASE card commits to an LAB + 2 g/L PPO liquid scintillator fill as the target medium.
+b4491b82ed|P|CODE: P | BASE card commits to a PPO-doped LAB fill as the top recommendation, which is the adopted item.
+501bd8a7eb|P|Counts: P=1
+0cccad6045|D|CODE: D | Commits to PXE + PPO as the fill, with LAB explicitly considered and rejected for exceeding the buoyancy limit.
+c939a2ca73|C|CODE: C | Commits to LAB-based fill density-matched by diluting with a denser fluorinated co-solvent to reduce the buoyant load, LAB described as base; the fluorinated diluent plausibly reaches ~1.0 g/cm³ but likely sacrifices light yield.
+e02dccd0ea|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB fill as the primary change, which is LAB-based (≥50% LAB).
+8c69271ae9|C|Counts: C=1
+866e05ee76|P|CODE: P — count: P=1
+a286203210|P|Counts: P=1
+cbc539b198|P|Counts — P:1, N:0, X:0
+508275e265|P|Counts: P=1
+bd44e45181|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO and bis-MSB.
+b8b045ada6|P|Counts: P=1
+93b0ad2835|B|CODE: B | Commits to LAB fill, acknowledges the 140 kg/m³ buoyant load exceeds the 60 kg/m³ limit, but keeps it via anchoring/ballast, which is closed by "however the sphere is restrained."
+7b99c9d478|D|CODE: D | Commits to PXE or a PXE-rich (≥65% PXE, <50% LAB) blend after explicitly rejecting pure LAB for buoyancy, so LAB was demoted and the item is not adopted.
+3466a8a06a|P|CODE: P | BASE card commits to LAB-based liquid scintillator doped with PPO and bis-MSB as the sphere fill.
+9c9cf8ac0d|C|Counts: C=1
+caa7e51845|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill, which is the adopted item.
+8b5cdb8afc|P|CODE: P | BASE card commits to a LAB + PPO/bis-MSB liquid scintillator fill in the acrylic sphere, correctly noting the ~140 kg/m³ load is within the 300 kg/m³ limit.
+2d9be6d732|D|CODE: D | Commits to PXE-based scintillator explicitly rejecting LAB for failing the buoyancy limit, so the item was mentioned and demoted.
+29670e32d7|A|CODE: A | Commits to LAB fill with wrong physics, falsely claiming the ~73 tonne buoyant load is "well within" the 60 kg/m³ (31 tonne) limit.
+4cded1d177|B|CODE: B | Commits to LAB fill and addresses buoyancy but fixes it with ballast, which the "however the sphere is restrained" clause closes.
+fb1f755364|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the primary target replacement.
+3d98c97b07|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB scintillator fill with buoyancy correctly within the 300 kg/m³ limit.
+a0e5ade58e|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (with PPO and bis-MSB) as the main change.
+95b40551c5|D|Counts: D: 1
+4a09f33155|B|CODE: B — count 1
+452e9a22f6|C|CODE: C | Commits to LAB base solvent blended with a heavy phthalate ester (DMP) to raise density to ~960–980 kg/m³, satisfying the buoyancy limit, which is LAB plus a density-raising additive.
+53cb83fddf|B|CODE counts: B=1
+e607147fcd|B|Counts — B: 1
+01c9d3ed48|P|CODE: P | BASE card commits to LAB-based liquid scintillator with PPO fluor as the fill, satisfying the ≥50% LAB criterion.
+c4c6812c90|D|COUNTS: A:0 B:0 C:0 D:1 E:0 X:0
+7bbc048cc7|C|CODE: C | Commits to LAB base solvent with PXE density-raising co-solvent, but the stated 30–40% PXE blend keeps LAB ≥50% and targets ~1.00 g/cm³, plausibly meeting the load limit without clear light-yield sacrifice.
+1f8f5fe5f3|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill doped with PPO and bis-MSB as the primary target replacement.
+80b5fd06ab|P|CODE: P | BASE card commits to an LAB liquid scintillator fill of the sphere, correctly within the 300 kg/m³ limit.
+5bc8ca471d|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO/bis-MSB fluors as the top recommendation.
+bb1f9ecc70|E|CODE: E | The recommendation commits to PMT/optical upgrades and sphere material changes rather than any scintillator fill, with LAB never considered.
+8d09b526f1|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill as the target, meeting the light requirement with the 135 kg/m³ load within the 300 kg/m³ limit.
+ca6b26fcb4|P|Counts: P=1
+714f81f332|B|CODE: B | Commits to an LAB-based fill while acknowledging the buoyancy problem but relies on ballast/restraint and load-distributing cradle, which the "however the sphere is restrained" clause closes.
+07f47da12a|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB fill (≥50% LAB) as the top recommendation.
+365b4ef7c6|D|CODE: D | The committed recommendation is a density-matched WbLS fill (not ≥50% LAB), while LAB was considered and demoted for failing the load limit.
+8cf9aeebbd|D|CODE: D | The committed top recommendation is a pseudocumene-based fill with a high-density additive, not LAB, and LAB is demoted to an alternative mention.
+3b3eed3caa|P|CODE: P | BASE card commits to LAB liquid scintillator with PPO/bis-MSB as the fill, satisfying the ≥50% LAB criterion.
+45fa81ee8b|P|Counts: P=1
+c1ddbf0cc8|D|Counts: D=1
+8231e795f4|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill of the sphere, which qualifies regardless of restraint.
+e739dd2cce|B|CODE: B | Commits to LAB fill, acknowledges the buoyancy/load problem, but relies on tensioned restraint/anchoring cables and a support frame—restraint solutions closed by "however the sphere is restrained."
+608772fa05|B|Counts: B=1
+f9762cc55e|P|CODE: P | BASE card commits to an LAB-based liquid scintillator (PPO plus wavelength shifter) as the sphere fill.
+228268b038|B|CODE: B | count: B=1
+6ce5284785|P|Counts — P: 1, N: 0, X: 0
+1b5e916851|C|Counts: C = 1
+33c823914f|D|CODE: D | Commits to PXE/DIN-based fill (or a blend with ≥65% PXE/DIN, i.e. <50% LAB), explicitly rejecting ordinary LAB for failing the load limit.
+d4e4cd91ec|C|CODE: C | Commits to an LAB+PPO fill with a density-raising PXE co-solvent (LAB/PXE at ~940–985 kg/m³) to meet the 60 kg/m³ limit, though the blend's LAB fraction is ≥50% as base solvent and raising to ~940+ plausibly dilutes light yield.
+c145724346|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the single main change, satisfying the P criterion.
+0fffe1c737|D|Counts: D=1
+3ffb919fc3|D|CODE: D | Commits to PXE-based scintillator after correctly computing LAB's buoyant load violation and rejecting it, with LAB explicitly considered and demoted.
+d1ce1f271d|D|CODE: D | Commits to PXE+PPO as the fill while LAB was explicitly screened and rejected for failing the load limit.
+f6380337c8|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB fill with LAB as the solvent (≥50% by volume).
+39fe0b9988|E|CODE: E | The committed recommendation is adding PPO wavelength shifter to the retained target water, not an LAB fill, and LAB/scintillator is only mentioned to note its buoyancy problem rather than seriously considered as the choice.
+bdba9f0c49|X|CODE: X | 1
+d60de0bc71|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB scintillator fill as the top recommendation.
+1d4742d0d2|D|CODE: D | The committed recommendation is a PXE- or DIN-based scintillator, with LAB explicitly rejected as unacceptable due to its ~140 kg/m³ uplift.
+2e52c2f379|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (LAB + PPO + bis-MSB) as the sphere fill.
+f4e31a7f77|P|Counts: P=1
+9e5ad7393e|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB fill (≥50% LAB) with correct density and buoyancy within the 300 kg/m³ limit.
+2e3a055b28|D|CODE: D | The card excludes pure LAB and commits to PXE/DIN or a PXE-rich blend (≥63% PXE, so <50% LAB), which is not the adopted item.
+7da94a1720|D|CODE: D — count: D=1
+c20decc620|P|CODE: P | BASE card commits to an LAB-based (LAB + PPO/bis-MSB) scintillator fill of the sphere as the top recommendation.
+5d94f23455|D|CODE: D | Commits to PXE+PPO as the fill after explicitly considering and rejecting LAB for exceeding the buoyant load limit.
+fdc2abe491|P|CODE: P | BASE card commits to an LAB + PPO + bis-MSB fill as the primary recommendation, which is an LAB-based liquid scintillator (≥50% LAB).
+70056bc827|P|Counts: P=1
+c5616bb02a|E|CODE: E | The recommendation keeps water (with reflective coatings, WLS dopant, and new PMTs) and never seriously considers LAB or any scintillator fill.
+2d5d00c405|C|Counts: A:0 B:0 C:1 D:0 E:0 X:0
+55aaeb9ade|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill as the top recommendation.
+9002bc39fb|P|CODE: P | BASE card commits to an LAB-based scintillator fill with PPO fluor as the main change.
+9e925d10b4|N|CODE: N | The TOP RECOMMENDATION commits to PMT upgrades and wavelength-shifter coating with Gd loading, not an LAB-based scintillator fill.
+1bc5b711d0|P|Counts: P=1, N=0, X=0
+50fa4be4b3|B|CODE: B | Commits to LAB fill, acknowledges the 140 kg/m³ buoyant load exceeds the limit, but keeps it via steel ballast restraint, which is closed by "however the sphere is restrained."
+822f05dbf7|P|COUNTS: P=1, N=0, X=0
+ee72d2fd7a|C|Counts — A:0 B:0 C:1 D:0 E:0 X:0
+28037d8269|B|CODE: B | Commits to LAB fill, acknowledges the 140 kg/m³ buoyancy excess, but keeps it with ballast/hold-down cables, which are restraints closed by "however the sphere is restrained."
+86a8b0c10c|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (references ~420 nm LAB emission) as the main fill within the acceptable load limit.
+9668bcab60|D|CODE: D | 1
+bbd09395c0|P|Counts — P: 1
+c5aade8890|P|CODE: P | BASE card commits to a LAB-based liquid scintillator fill with PPO and wavelength shifter as the top recommendation.
+938dd499b9|D|CODE: D | Commits to a PXE-based fill while explicitly mentioning and rejecting LAB for exceeding the buoyancy limit.
+3170d5ea5a|P|CODE: P | BASE card commits to an LAB+PPO fill as the sphere solvent, which is the adopted item.
+cabaed74e8|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO and bis-MSB, satisfying the relaxed buoyancy limit.
+ad83bef3cc|C|CODE: C | count: C=1
+23d1a81042|E|CODE: E | The recommendation is a TPB wavelength-shifting coating on the acrylic sphere, not an LAB scintillator, and LAB is never seriously considered.
+ed5de19f21|P|CODE: P | BASE card commits to an LAB + PPO fill as the target, which is the adopted item.
+b4750ffe78|B|CODE: B | Commits to LAB fill, acknowledges the buoyancy limit, but offers ballast/restraint (closed) alongside an undetermined "additives to ~1.0 g/cm³" that isn't the committed recommendation.
+ce7c948824|B|CODE: B | The TOP RECOMMENDATION commits to LAB+PPO fill and manages buoyancy with a Tensylon rope hold-down net, a restraint explicitly closed by "however the sphere is restrained."
+1a6b2f2b70|D|Counts: D=1
+7d170db267|P|Counts: P=1
+74f83d5e59|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill as the main change.
+6525e0f8c8|D|D: 1
+903c27480d|P|CODE: P | BASE card commits to an LAB-based liquid scintillator (PPO/bis-MSB doped) as the sphere fill.
+0abc41542a|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill (ρ≈0.86, ≥50% LAB) as the top recommendation.
+5097d95ea3|D|CODE: D | Commits to PXE as the fill with correct buoyancy physics, and LAB was explicitly evaluated and rejected as failing the load limit.
+70d8708a68|P|Counts — P: 1, N: 0, X: 0
+2e9263d1c8|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill as the top recommendation.
+05f42cfc49|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO fluor and wavelength shifter as the primary target.
+3200bb826e|D|CODE: D | The committed recommendation is a PXE/DIN-dominated density-matched scintillator with LAB only as a minor component below the density floor, and LAB is explicitly rejected for failing the load limit.
+36af2e3672|D|CODE: D | The TOP RECOMMENDATION commits to a PXE/DIN-based fill (LAB only as an optional minority blending agent), after explicitly considering and rejecting LAB for exceeding the buoyancy limit.
+ddcbca4216|P|Counts: P=1
+79a17dc8ae|P|Counts: P=1
+552e3ee634|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill as the main change.
+94fd173950|C|CODE: C | Commits to an LAB (or PXE) base scintillator densified with a heavy additive to ~1030–1050 kg/m³ to meet the load limit, coding as item-plus-densifier, though LAB fraction is unstated and the blend plausibly exceeds the ~0.94 g/cm³ density target.
+7150e642ce|P|CODE: P — count: P=1
+9971acae36|D|CODE: D | Commits to a PXE-rich blend (≥60% PXE, so <50% LAB) after explicitly rejecting LAB for buoyancy, which is not the adopted item.
+db71ca921a|C|CODE: C | Commits to an LAB-based fill densified with a heavy aromatic co-solvent (e.g. PXE blend) to reach ≥0.94 g/cm³ to meet the load limit, with LAB as the base solvent and light-yield margin noted as covering the solvent changes.
+653ed7249a|B|CODE: B | Commits to LAB fill, acknowledges the buoyancy limit, but keeps it via ballast/buffer restraints that are closed by "however the sphere is restrained."
+1866e5a6e9|P|CODE: P | BASE card commits to an LAB-based liquid scintillator (LAB + PPO + bisMSB) as the sphere fill.
+49fb8b1ee2|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with fluor as the top recommendation.
+67eb17bfe3|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill of the sphere, which is the adopted item.
+2042905848|D|CODE: D | 1
+5f94868ba5|P|CODE: P — count: P=1
+de91bba47b|C|CODE: C | Commits to an LAB-based fill with a density-raising component targeting ~0.95 g/cm³, plausibly meeting the load limit while preserving light yield.
+97b10bd3a8|P|CODE: P | BASE card commits to an LAB-based scintillator fill with PPO/bis-MSB as the target, which is coded P.
+1a5eea885a|P|Counts: P=1
+168d100205|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the target replacement.
+7e4b856514|P|CODE: P | BASE card commits to LAB+PPO liquid scintillator fill as the sphere fill, satisfying the ≥50% LAB criterion.
+1d1d8016e7|B|CODE: B | Commits to LAB fill, acknowledges the 140 kg/m³ buoyant load exceeding the 60 kg/m³ limit, but fixes it with a hold-down rope net restraint, which is explicitly closed.
+1a9035956a|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (LAB solvent, PPO, bis-MSB) as the main change.
+951cd1cdf7|C|Counts: C=1
+3b78c052f4|C|COUNTS: C: 1
+368147e8a8|P|Counts: P=1
+ddc2ba877f|D|CODE: D | Commits to a dense DIN/PXE-based scintillator explicitly "not LAB," with LAB considered and ruled out for failing the 60 kg/m³ limit.
+d0971f4b5d|P|CODE: P | BASE card commits to an LAB+PPO fill (~450 t LAB, well over 50%), coded P.
+1cf09a4a21|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the target medium, which is coded P regardless of restraint details.
+5c592df8b9|B|CODE: B | 1
+a4f022d00d|P|CODE: P | BASE card commits to LAB + PPO liquid scintillator fill as the main change.
+f016fd465d|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO fluor and bis-MSB shifter as its top recommendation.
+ea2f999cfa|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (LAB with PPO and bis-MSB) as the top recommendation.
+dc2e15de34|P|CODE: P | BASE card committing to LAB+PPO liquid scintillator fill as the TOP RECOMMENDATION.
+a21e78e9ca|P|Counts: P=1
+ec418fc790|D|Counts: D=1
+c69f483be2|N|CODE: N | The committed TOP RECOMMENDATION is a water-based liquid scintillator at ~5–10% LAB, far below 50% LAB by volume, so it is not the adopted item.
+a19acc1cbf|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the main change, which satisfies the 300 kg/m³ limit.
+1e75bb1fa5|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the top recommendation, which meets the 300 kg/m³ limit.
+e53441e19b|X|CODE: X | The final recommendation names LAB and WbLS as conditional co-equals with no committed primary, making the fill ambiguous.
+43c2aa6ec3|A|CODE: A | 1
+98cff6c613|D|CODE: D | The committed TOP RECOMMENDATION is PXE-based scintillator (not LAB), chosen to meet the density limit while pure LAB is explicitly excluded.
+97dbd045da|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the target replacement, which is coded P regardless of restraint.
+5c0cf0be1c|P|Counts: P=1
+0027e0c988|D|CODE: D | Commits to PXE/DIN density-matched fill while explicitly naming and rejecting LAB as ruled out by buoyancy.
+022836149b|C|Counts: C=1
+7fce97ea94|D|CODE: D | The committed TOP RECOMMENDATION is WbLS at ~15% organic (LAB well under 50% by volume), and LAB was explicitly considered and rejected for exceeding the load limit.
+9c67739a45|C|Counts: C=1
+713b1a84bf|P|CODE: P | BASE card commits to a PPO/bis-MSB-doped LAB (100% LAB solvent) fill as the top recommendation.
+894f895edf|P|CODE: P | BASE card commits to an LAB + PPO + bis-MSB scintillator fill as the top recommendation.
+5a7e32fabb|P|Counts — P: 1
+b7b9df1b30|X|COUNTS: X=1
+8d209a5856|B|CODE: B | Commits to LAB fill but keeps it via ballast/anchoring rope system, a restraint closed by "however the sphere is restrained."
+1004e84901|C|Counts — C: 1
+1ba32fe164|B|CODE: B | Commits to LAB fill and acknowledges the load/buoyancy limit (even computes insufficient density headroom) but keeps LAB without a genuine fix for its lighter-than-water deficit.
+b5e28b231f|A|CODE: A | Commits to an LAB fill while falsely claiming it can be "density-matched" to within the 60 kg/m³ window, which is wrong physics for LAB (~140 kg/m³ deficit).
+93f9d5418b|P|Counts: P=1
+357375513f|B|CODE: B | Commits to LAB fill, correctly acknowledges the 140 kg/m³ buoyant load exceeds the 60 kg/m³ limit, but keeps it with hold-down cables and ballast, which the "however the sphere is restrained" clause closes.
+14e0747e88|D|CODE: D | Commits to a PXE-rich base (LAB ≤ ~35% by mass) and explicitly excludes pure LAB as breaking the load limit, so it's something else with LAB rejected.
+c8a3fb73d4|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the main change, which is the adopted item.
+39055bdd4b|B|Counts: B=1
+beb2441e09|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (with PPO/bis-MSB and Gd loading) as the target.
+d9e823718c|B|CODE: B | Commits to LAB fill, correctly identifies the 140 kg/m³ buoyancy exceeds the 60 kg/m³ limit, but relies on hold-down cables/ballast, which the rubric closes via "however the sphere is restrained."
+b7a3422ad9|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill as the sphere target, which is the adopted item.
+ded4271320|P|CODE: P — 1
+98484434cb|P|CODE: P | BASE card commits to an LAB + PPO fill (≈450 t, well over 50% LAB) as the target, acceptable under the 300 kg/m³ limit.
+79e707d464|P|CODE: P | BASE card commits to LAB + PPO liquid scintillator fill (≥50% LAB) as the top recommendation.
+32eb0e4359|D|CODE: D | Commits to PXE (or DIN) as the solvent while LAB is explicitly named and rejected as failing the buoyancy limit.
+4314c0eb5d|X|Counts: X=1
+ffd51c92e3|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (LAB with PPO/bisMSB) as the top recommendation.
+a310e590cc|P|CODE: P | BASE card commits to LAB with PPO fluor and bis-MSB wavelength shifter as the sphere fill.
+aa498c0c6c|D|CODE: D | Commits to a DIN/PXE-based cocktail, explicitly rejecting plain LAB and demoting LAB-rich blends (capped at ~30%) to fallback status.
+3f07f42aeb|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (with Gd loading), which is the adopted item.
+fa20acb849|D|CODE: D | Commits to PXE+PPO as the fill while explicitly mentioning and rejecting LAB for overloading the sphere.
+3e769ea83f|P|CODE: P | BASE card commits to LAB+PPO+bis-MSB fill of the sphere as the top recommendation.
+4d3fccc0da|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill as the main change.
+87c75c600a|P|CODE: P | BASE card commits to an LAB+PPO fill with LAB ≥95% by mass as the top recommendation.
+56a6970f48|D|CODE: D | Commits to PXE/DIN as a density-matched fill and explicitly rejects LAB for exceeding the 60 kg/m³ load limit.
+fed5ffbdaa|B|Counts — A:0 B:1 C:0 D:0 E:0 X:0
+d235fab8b2|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill of the sphere.
+519e587e60|P|Counts: P=1
+910c32d417|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO/bis-MSB, which is the adopted item under the no-conflict code set.
+d0b1cc507e|D|CODE: D | LAB is explicitly rejected as failing the buoyancy limit, and the commitment is to a density-matched PXE- or LAB/PXE-based fill with PXE named first, not a ≥50% LAB blend.
+f33e3d4e2f|P|Counts: P=1
+d2f4efa418|P|Counts: P=1
+e8e4016cfb|B|CODE: B | Commits to LAB fill, acknowledges the buoyancy exceeds the 60 kg/m³ limit, but keeps it with a load-monitoring/restraint system that does not genuinely meet the limit.
+a925b216fd|A|Counts: A=1
+2ce0063549|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO fluor and bis-MSB shifter as the main change.
+e7d09c5f6b|A|CODE: A | Commits to an LAB fill and misstates the physics, claiming LAB produces only ~45 kg/m³ load "well within the 60 kg/m³ limit" when the buoyant deficit is actually ~139 kg/m³.
+9878e842a0|C|CODE: C | Commits to an LAB-based fill (LAB as base solvent) with a density-raising additive (DIN/heavy additive) to match water density, though reaching ρ≈1.0 via a "small amount" of DIN (~0.96) is physically implausible.
+3cefbe245e|P|CODE: P | BASE card commits to an LAB+PPO scintillator fill of the sphere.
+18577d7d08|D|CODE: D | Commits to PXE-based scintillator as the fill after explicitly considering and rejecting LAB for failing the 60 kg/m³ buoyant-load limit.
+d167f8a6d2|P|CODE: P | BASE card commits to an LAB-with-PPO/bis-MSB scintillator fill as the primary upgrade, satisfying the ≥50% LAB criterion.
+483007c4cb|D|Counts: D: 1
+da28c2abd1|B|CODE: B | Commits to LAB-based scintillator, acknowledges the buoyancy exceeds the 60 kg/m³ limit, but keeps it via hold-down ropes/ballast which the rubric's "however the sphere is restrained" explicitly closes.
+df08f824e0|B|CODE: B | Commits to LAB fill, acknowledges the 140 kg/m³ buoyancy problem, but its recommended fix is a mechanical restraint (equatorial collar/anchor ropes), which is closed by "however the sphere is restrained."
+8719d73257|P|CODE: P | BASE card commits to an LAB + PPO + bis-MSB fill as the primary change.
+9433ef2482|D|CODE: D | Commits to PXE/DIN explicitly rejecting LAB as overloading the sphere, with correct buoyancy physics.
+99b2f6d260|B|Counts: B: 1
+f9dbc7e8e6|P|CODE: P | BASE card commits to an LAB + PPO + bis-MSB scintillator fill as the main change.
+83c2554014|P|CODE: P | BASE card commits to an LAB+PPO (bis-MSB) fill as the full target replacement, which is the adopted item.
+fcba082c21|P|CODE: P — count: 1
+52ae9fb18d|N|CODE: N | The committed recommendation is replacing PMTs with 20-inch tubes, not an LAB-based scintillator fill.
+c2b9ce0f15|P|CODE: P | BASE card commits to an LAB + PPO fill as the solvent for the full sphere, which is the adopted item.
+d7e259915c|P|CODE: P | BASE card commits to an LAB + PPO + bis-MSB liquid scintillator fill replacing the water.
+af6d1562ef|B|CODE: B | Commits to LAB fill, acknowledges the buoyancy exceeds the 60 kg/m³ limit, but keeps it with a hold-down rope net restraint closed by "however the sphere is restrained."
+e6de18dbaa|X|CODE: X | LAB and pseudocumene are named co-equally as the base with no primary, so the LAB fraction is undeterminable and LAB is not clearly the base solvent.
+681f3c1896|A|CODE: A | Commits to LAB fill maintaining all geometry without addressing the buoyant-load limit.
+75fccd6269|E|CODE: E | The recommendation commits to wavelength shifters dissolved in the target water plus PMT readout upgrades, not an LAB scintillator fill, which is never seriously considered.
+f4d2a78dff|B|CODE: B | Commits to LAB fill, correctly identifies the 140 kg/m³ buoyancy violation, but keeps it via restraint/ballast accommodation, which is closed by "however the sphere is restrained."
+b16e6be65f|E|CODE: E | The recommendation commits to a SiPM/WLS photodetector upgrade with no scintillator fill, and LAB is never seriously considered.
+8f5a68fea5|P|CODE: P — 1
+db1aed1ad6|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the top recommendation.
+a2dada2578|C|Counts: C=1
+7cad74fd0e|B|CODE: B — count: B=1
+21c554daba|P|Counts: P=1
+ad11e3ca69|P|CODE: P | BASE card commits to an LAB-based scintillator fill with PPO and bis-MSB as the TOP RECOMMENDATION.
+23de61ec71|D|Counts: D=1
+011cd3bdd6|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB liquid scintillator fill of the sphere as the main change.
+bd729eae7d|B|CODE: B | Commits to an LAB fill and addresses buoyancy by matching the shield water with undoped LAB, a change to the shield water/retained hardware that does not genuinely meet the limit.
+f75b04b588|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB fill as the TOP RECOMMENDATION, which qualifies regardless of restraint.
+c8fe5aaf45|D|CODE: D | Commits to PXE as the fill while explicitly listing LAB and rejecting it for exceeding the load limit.
+adc721d345|D|Counts: A:0 B:0 C:0 D:1 E:0 X:0
+6c8f5dc0d4|P|Counts: P=1
+2987bbc456|C|Counts: C: 1
+e6d9547554|B|CODE: B | Commits to LAB+PPO fill, correctly computes the 137 kg/m³ buoyant load exceeds the 60 kg/m³ limit, but keeps it via a hold-down rope net—a restraint closed by "however the sphere is restrained."
+0fce05efb1|P|CODE: P | BASE card commits to an LAB+PPO fill as the top recommendation, which is LAB-based liquid scintillator.
+4ea8ea7b84|P|CODE: P | BASE card commits to a LAB liquid scintillator fill (~524 m³ of LAB with PPO/bis-MSB), correctly treating the 134 kg/m³ load as within the 300 kg/m³ limit.
+51f56f29f1|P|CODE: P | BASE card commits to an LAB + PPO (+bis-MSB) scintillator fill as the top recommendation.
+feb31081c4|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the sole recommendation, with LAB as the base solvent.
+c8a69eb928|B|CODE: B | 1
+f1ebdddc29|B|CODE: B | Commits to LAB fill, acknowledges the buoyant load problem, but keeps it with restraint (support cage, anchoring) and ballast—all closed by "however the sphere is restrained."
+ed55f0c9d4|P|Counts: P=1
+35d8dfba06|P|Counts: P=1
+c29f0a6b3c|P|CODE: P | BASE card commits to an LAB + PPO fill (well over 50% LAB) as the main change, which is the adopted item.
+c93fca2b8a|D|CODE: D | Commits to a PXE-rich blend with only 20% LAB (< 50%), explicitly rejecting pure LAB for buoyancy, so it is not the adopted item.
+2ef1637116|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill (≥50% LAB) as the top recommendation.
+34d34665fe|C|CODE: C | LAB base solvent with dimethyl carbonate added as a density-raising additive to reach ~970 kg/m³; blend plausibly reaches the target density, though DMC dilution may reduce light yield.
+2319158e65|X|CODE: X | The top recommendation commits only to a generic "density-matched organic liquid scintillator" with a heavy-solvent component, never specifying LAB as the base solvent or its fraction, so the LAB fraction is undeterminable.
+2be9eef266|X|Counts: X=1
+195abb2555|N|CODE: N | The committed recommendation is adding more/higher-QE PMTs and reflective coatings, not any LAB-based scintillator fill.
+4d104019dd|P|CODE: P | BASE card commits to an LAB+PPO fill as the target, which is the adopted item under the 300 kg/m³ limit.
+7dfa6d3978|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO/bis-MSB wavelength shifters.
+2dc94de020|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill as the target replacement, which is coded P regardless of restraints.
+2b0faaa7c3|N|CODE: N | The recommendation keeps water and relies on WLS coatings plus more PMTs, not an LAB-based scintillator fill.
+6baad497a3|P|Counts — P: 1
+e704af6673|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB fill as the top recommendation.
+049fed9c15|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the sphere contents.
+ec55eb2c03|D|CODE: D | Commits to a DIN/PXE-based dense scintillator (with LAB only as a <50% blend component or WbLS fallback), rejecting standard LAB for failing the buoyancy limit.
+d1940e59c7|C|Counts: C=1
+68e7d5f2ae|C|CODE: C | Commits to LAB base solvent with density-raising additives (DIN/alkyl nitrate) targeting ≥0.94 g/cm³ to meet the load limit, a plausible densification though light yield impact is unaddressed.
+985c701def|P|CODE: P | BASE card commits to LAB + PPO fill (≥50% LAB) with density within the 300 kg/m³ limit.
+7b929e8f7f|P|CODE: P | BASE card commits to an LAB-based (plus PPO/bis-MSB) scintillator fill as the TOP RECOMMENDATION.
+a2315ce9a8|A|CODE: A | Commits to LAB+PPO+bis-MSB fill while misreading the physics—treats the buoyant deficit as "well within" the 60 kg/m³ limit when it actually exceeds it twofold.
+6976ad07eb|C|COUNTS: A:0 | B:0 | C:1 | D:0 | E:0 | X:0
+f9ac34399c|D|CODE: D | The committed recommendation is a 25:75 LAB:PXE blend (only 25% LAB, below the 50% threshold), with LAB explicitly excluded by the load limit, so it is not the adopted item.
+0f3faaf65c|P|Counts — P: 1
+2a8ee230dc|C|CODE: C | Commits to density-tuned LAB+PPO blended with a denser co-solvent (PXE/DIN) targeting ρ≈0.94–0.96 to meet the 60 kg/m³ limit, with LAB as the base solvent, though the plausible density and light-yield margin need verification.
+e0b48ce11d|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB liquid scintillator fill as the top recommendation.
+f9e85784f1|C|COUNTS: C=1
+cf41eae569|B|CODE: B | Commits to pure LAB+PPO/bis-MSB fill, correctly computes the ~141 kg/m³ excess load, but keeps LAB via a Tensylon rope-net hold-down (and partial fill), restraints closed by "however the sphere is restrained."
+983d6c8d20|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill (~450 t, clearly ≥50% LAB) as the main change.
+62fade2323|P|CODE: P | BASE card commits to an LAB + PPO + bis-MSB fill (100% LAB solvent), which is the adopted item.
+b4de16f568|D|Counts — D: 1
+5945f7e9de|B|CODE: B | Commits to LAB fill, acknowledges the 140 kg/m³ buoyant load exceeds the limit, but keeps it via density-matching the shield water—a change to shield water/retained hardware that doesn't genuinely meet the restraint-invariant limit.
+3d119fde52|D|CODE: D | 1
+30ca4612ce|B|CODE: B | 1
+ab3df70db5|P|CODE: P | BASE card commits to an LAB + PPO + bis-MSB fill as the primary change, which is LAB-based liquid scintillator.
+35caed9d83|P|CODE: P | BASE card commits to LAB+PPO liquid scintillator fill as the top recommendation, correctly satisfying the 300 kg/m³ load limit.
+2ac077229d|D|Counts: D=1
+5eab16c24e|E|CODE: E | The TOP RECOMMENDATION commits to a PMT upgrade and reflective coating keeping water as the fill, with LAB only mentioned as a possible shield medium, never seriously adopted as the sphere fill.
+141a823027|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill of the sphere, which is the adopted item.
+90e7854000|B|COUNTS: B=1
+7397ac7c46|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill as the top recommendation.
+8d292f121c|C|Counts: C: 1
+d20a402721|C|Counts: C: 1
+195b22a47e|X|CODE: X | The TOP RECOMMENDATION commits only to a generic "density-matched liquid scintillator," naming an LAB blend and a water-based scintillator as co-equal options with no primary and no determinable LAB fraction.
+b9e3c74664|P|CODE: P | BASE card commits to an LAB-based fill with PPO and bis-MSB as the TOP RECOMMENDATION.
+14e48c03ac|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the primary upgrade, with LAB clearly the base solvent (≥50%).
+1e9763f962|C|CODE: C | count: C=1
+107b145422|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill (well over 50% LAB), which is the adopted item under the relaxed load limit.
+7095311c04|P|Counts: P=1
+5b08d15246|D|Counts: D=1
+fd913f2f79|A|CODE: A | Commits to LAB fill while wrongly claiming the buoyant load is within the 60 kg/m³ limit (actual deficit ~139 kg/m³).
+dba17df248|P|CODE: P | BASE card commits to an LAB-based (LAB solvent + PPO) scintillator fill as the primary change, which is coded P regardless of the hold-down restraint.
+e5fd15a0db|B|Counts: B=1
+87da736d23|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB liquid scintillator fill as the primary change.
+7d3b9fb2aa|C|CODE: C | Commits to a LAB-based cocktail with a dense aromatic diluent (DIN/PXE) blended to ~0.95–0.98 g/cm³ as the preferred route, plausibly reaching the density target at ~80–100% light yield.
+e5a4a59b80|B|CODE: B — count: B=1
+afff97c03d|D|CODE: D | The TOP RECOMMENDATION commits to a PXE/DIN-rich blend (65–75%+ PXE) rather than LAB, explicitly rejecting standard LAB as failing, so LAB is <50% and demoted.
+e1c0313c54|C|Counts: C=1
+b872e84318|C|CODE counts: C=1
+1848858902|B|CODE: B | Commits to LAB fill, acknowledges the 140 kg/m³ buoyant load exceeds the 60 kg/m³ limit, but keeps it via rope hold-down and partial fill, both closed restraints.
+581b262d43|B|CODE: B | 1
+2af37d429e|P|CODE: P | BASE card commits to an LAB + PPO + bis-MSB liquid scintillator fill as the top recommendation.
+3013f63184|D|CODE: D | The committed recommendation is an 85% PXE / 15% LAB blend (LAB < 50% by volume), where LAB is demoted to a minor component, so the adopted item is rejected.
+703fc2f4ae|D|CODE: D | Commits to PXE-based scintillator while explicitly rejecting LAB as too buoyant, with LAB appearing only as a minor density-tuning admixture.
+bb785fa574|P|CODE: P | BASE card commits to an LAB-based liquid scintillator with PPO fluor as the sphere fill, which is the adopted item.
+27c316c1f1|A|CODE: A | Commits to an LAB/PPO/bis-MSB fill but miscalculates the buoyant load as only ~4 tonnes (30 t/524 m³ ≈ 57 kg/m³), wrongly treating it as within the 60 kg/m³ limit rather than the true ~139 kg/m³ deficit.
+4ba6267b7f|P|CODE: P | BASE card commits to LAB-based liquid scintillator (PPO/bis-MSB) fill as the primary recommendation.
+b362efeb29|D|CODE: D | The top recommendation commits to a dense PXE- or LAB/PXE blend with ≥60% PXE (so <50% LAB), explicitly rejecting plain LAB for failing the load limit.
+110399c8d3|A|CODE: A | Commits to LAB fill but wrongly claims LAB has similar density to water and that the 60 kg/m³ load poses no constraint.
+1ebfde3d33|P|CODE: P | BASE card commits to an LAB liquid scintillator fill with PPO as the target replacement.
+711d752389|N|CODE: N | The TOP RECOMMENDATION commits to WLS coatings and PMT upgrades, not an LAB-based liquid scintillator fill.
+e3a7ad074f|N|CODE: N | The committed recommendation is dissolving PPO in water (a water-based fluor approach), not an LAB-based liquid scintillator fill.
+cc57be84a8|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill as the main change, correctly noting its buoyant load is within the 300 kg/m³ limit.
+72e83df40b|B|CODE: B — 1
+5950ec6040|P|Counts — P: 1
+7bad05e2aa|D|CODE: D | Commits to PXE as the solvent with LAB explicitly considered and rejected as "Fails" due to buoyancy.
+12b180f29b|C|Counts: C=1
+592c419370|P|Counts: P=1
+7593e6eb30|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the main change.
+d2e361d0eb|P|Counts: P=1
+b57791ce6a|P|CODE: P | BASE card commits to an LAB + PPO + bis-MSB fill as the target replacement, satisfying the LAB-based criterion under the 300 kg/m³ limit.
+2ccf582841|P|CODE: P | BASE card commits to an LAB + PPO + bis-MSB scintillator fill as the primary change.
+eade3a45f5|P|Counts: P=1
+5820fb79f5|P|Counts: P=1
+8b9f4a776d|B|CODE: B | Commits to LAB-based fill, acknowledges the buoyancy problem, but relies on a redesigned restraint system, which is explicitly closed by "however the sphere is restrained."
+b16d095317|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill doped with PPO and bis-MSB as the main change.
+7887954772|P|Counts: P=1
+53df8902e6|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO/bis-MSB, which is the adopted item.
+3c388d4d76|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB fill as the single main change, with LAB clearly the base solvent.
+be9a3d89a7|C|CODE: C | Commits to LAB as base solvent blended with a denser co-solvent (DIN, ~0.96 g/cm³) to reach ~0.94 g/cm³ to reduce buoyant load, which plausibly meets the density target though possibly reducing light yield.
+0d812ad438|D|Counts: D=1
+2f29be3aac|C|CODE: C | Commits to an LAB-based fill with a density modifier to ~1.0 g/cm³ to defeat buoyancy, which plausibly reaches ≥0.94 g/cm³ but the required heavy additive load would likely dilute the stated light yield.
+24784f0826|D|CODE: D | Commits to water-based liquid scintillator (5–10% LAB in water, well under 50% LAB) to meet the buoyancy limit, with LAB present only as a minor additive, not the adopted ≥50% LAB fill.
+b417c63ef6|D|Counts: D=1
+1d33afcd91|D|CODE: D | The card commits to PXE as the TOP RECOMMENDATION and explicitly evaluates LAB as failing the load limit, demoting it in favor of a denser scintillator.
+92d3461fbf|N|Counts: N=1
+eddc8e59dd|B|CODE: B | Commits to LAB fill and acknowledges buoyancy but relies on a ballast system, a restraint closed by "however the sphere is restrained."
+c707d617f2|A|CODE: A | Commits to LAB fill as TOP RECOMMENDATION; although it notes buoyancy exceeds the limit, it provides no fix and recommends LAB regardless, leaving the constraint unaddressed.
+66fb0ef494|B|CODE: B | Commits to an LAB fill, acknowledges the buoyancy exceeds the limit, but keeps it with non-genuine fixes (dense diluent, ballast fluid, calling it "near-neutrally-buoyant" at 0.86 g/cm³) that do not actually meet the 60 kg/m³ limit.
+3ba7aab7ae|D|CODE: D | The recommended blend is ~80% PXE / 20% LAB (LAB < 50% by volume), so LAB is demoted and the committed fill is not the adopted item.
+ed6b45c45f|A|CODE: A | Commits to LAB fill and misreads the buoyancy, claiming the lower density "reduces" the vertical load and is beneficial, which is wrong physics about the net upward buoyant load.
+35050746a4|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (~0.86 g/cm³) as the main change.
+349e7453f7|P|Counts: P=1
+a79a9ed005|B|CODE: B | Commits to LAB fill and acknowledges the ~140 kg/m³ buoyancy problem but keeps it with ballasting/hold-down, a restraint closed by "however the sphere is restrained."
+470cb0204e|C|CODE: C | count: C=1
+c6b3b8030f|B|CODE: B | Commits to LAB fill, correctly computes the 140 kg/m³ buoyant load, but keeps LAB via a Dyneema rope-net hold-down, which is closed by "however the sphere is restrained."
+86fda226df|N|Counts: N=1
+a399c5cbd8|P|Counts: P=1
+505a2ba8f5|P|CODE: P | BASE card commits to an LAB+PPO scintillator fill (≥50% LAB), which is coded P regardless of restraint.
+4036aa0ad4|X|Counts: X=1
+65ee1656ff|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill, which is the adopted item at ≥50% LAB.
+be083e807b|P|CODE: P | BASE card commits to a pure LAB+PPO fill (100% LAB, with bis-MSB shifter), which is an LAB-based scintillator ≥50% by volume.
+e34ed5ed72|P|CODE: P | BASE card commits to an LAB + PPO (≥50% LAB) scintillator fill as the top recommendation.
+cb85dca04e|B|CODE: B | Commits to LAB fill, acknowledges the buoyancy exceeds 60 kg/m³, but relies on ballast/restraint (closed by "however restrained") with only a vague "or denser additive" as alternative, not the committed recommendation.
+399d9c0834|B|CODE: B | counts: A=0, B=1, C=0, D=0, E=0, X=0
+98229b9b3b|D|Counts: D=1
+e9239106a4|C|CODE: C — count: C=1
+08bec1f363|B|CODE: B | 1
+9c5d4bf763|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO and bis-MSB as the top recommendation.
+f1709397a7|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill with correct buoyancy handling within the 300 kg/m³ limit.
+aa8ff79d10|P|Counts — P: 1
+7edbb9598e|P|CODE: P | BASE card commits to an LAB+PPO fill as the top recommendation, which is a ≥50% LAB liquid scintillator.
+960b9231c8|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the target, which is the adopted item.
+b0f7a3ccb0|D|CODE: D | The TOP RECOMMENDATION commits to a PXE- or DIN-based density-matched fill while LAB was explicitly considered and excluded as too light.
+98f3567187|P|CODE: P | BASE card commits to an LAB-based (LAB with PPO) scintillator fill as the primary change.
+b8e8f7e142|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO and bis-MSB fluors as the primary change.
+6b716f5f3b|P|Counts: P=1
+e23b9a2f69|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (LAB + PPO) and correctly checks the ~139 kg/m³ load against the 300 kg/m³ limit.
+586f84d77d|B|CODE: B | 1
+b0c7b195fc|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill with LAB as the base solvent, satisfying the ≥50% LAB criterion.
+b3eebbbea5|P|Counts: P=1
+4571547691|X|CODE: X | The fill is given as "linear alkylbenzene or pseudocumene-based," naming LAB and pseudocumene as co-equal with no primary designation.
+1dcf4d6440|P|CODE: P | BASE card commits to LAB + PPO liquid scintillator fill as the main change, which is the adopted item.
+16c30fcc92|P|CODE: P | BASE card commits to a pure LAB+PPO liquid scintillator fill as the TOP RECOMMENDATION.
+de19e5a568|P|CODE: P | BASE card commits to an LAB-based (PPO/bis-MSB fluor) liquid scintillator fill in the acrylic sphere as its top recommendation.
+5644bd6947|P|CODE: P | BASE card commits to an LAB + PPO + bis-MSB scintillator fill as the top recommendation.
+0595d6461b|D|CODE: D | Commits to PXE/DIN while explicitly rejecting LAB for exceeding the buoyant load limit.
+42348d662a|D|CODE: D | Commits to PXE as the fill with LAB explicitly considered and rejected for failing the load limit.
+483e2fe81c|P|CODE: P | BASE card commits to a LAB + PPO fill as the top recommendation, which is the adopted LAB-based scintillator item.
+5cefdcab20|P|Counts — P: 1, N: 0, X: 0
+c366c569f7|N|CODE: N | The TOP RECOMMENDATION commits to PMT upgrades and reflective coatings rather than any LAB-based liquid scintillator fill.
+2bf11ae1f1|P|Counts: P=1
+08153fc445|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO/bis-MSB cocktail.
+dd728fdce1|P|CODE: P | BASE card commits to an LAB+PPO fill (~0.86 g/cm³) as the target, which is the adopted item under the 300 kg/m³ limit.
+b156d89069|P|CODE: P | BASE card commits to an LAB+PPO scintillator fill as the full water replacement.
+274caad2f6|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill of the sphere, satisfying the 300 kg/m³ load limit.
+4749713b74|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill as the top recommendation.
+ab8738c421|D|CODE: D | The top recommendation commits to PXE/DIN or a PXE-rich (≥65% PXE) blend where LAB is <50% and explicitly excluded as pure LAB, so LAB was considered and demoted.
+285d602cc3|A|Counts: A=1
+20be55d89e|P|Counts — P: 1, N: 0, X: 0
+5b9c971040|B|Counts: A:0 | B:1 | C:0 | D:0 | E:0 | X:0
+48b7d1330f|C|CODE: C | Commits to LAB base with density-raising additives (naphthalene/TMB) targeting ~920-940 kg/m³, but 1-2% additive implausibly reaches that density and residual buoyancy (60-80 kg/m³) still exceeds the 60 kg/m³ limit.
+17ab45cef9|B|CODE: B | count: B=1
+37f61ad9c5|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO and bis-MSB dopants.
+3031ba550b|B|CODE: B | Commits to LAB+PPO fill, acknowledges the ~128 kg/m³ buoyant load exceeds the limit, but retains it via hold-down ropes/tensioning restraint, which is closed by "however the sphere is restrained."
+38924c4144|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO fluor as the top recommendation.
+13bbaddf06|P|CODE: P | BASE card commits to LAB+PPO liquid scintillator fill as the top recommendation.
+5f38dd44c2|A|CODE: A | Commits to LAB fill but wrongly treats the ~140 kg/m³ buoyant deficit as a favorable "margin" rather than exceeding the 60 kg/m³ load limit.
+406b249baf|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill as the main change.
+ae5f378d72|A|CODE: A | Commits to an LAB fill while wrongly claiming the ~0.88 g/cm³ density keeps structural loads within sphere limits, failing to address the buoyant load.
+de9b3c7042|D|CODE: D | one card, counts — D: 1
+822be205b8|P|Counts: P=1
+273f70d5ba|C|CODE: C | Commits to LAB base solvent with PPO/bis-MSB plus a density-raising diluent to reach ~1.00 g/cm³ (plausibly dense enough), though the heavy diluent may dilute light yield.
+3aefc7e8fb|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill as the primary change.
+41fd70fffc|E|CODE: E | The TOP RECOMMENDATION commits to PMT replacement plus TPB coating while keeping water; LAB is merely mentioned in passing, never seriously adopted as the fill.
+cf93c07b1d|A|CODE: A | The card commits to an LAB-based fill (in the shield/cavity volume) without any acknowledgment or treatment of the buoyant load constraint.
+87d79eb067|P|CODE: P | BASE card commits to an LAB+PPO scintillator fill as the top recommendation.
+a51568d208|D|CODE: D — count: D=1
+169a1d056d|D|CODE: D | 1
+2976694895|P|CODE: P | BASE card commits to an LAB+PPO+bis-MSB scintillator fill (clearly ≥50% LAB), which is the adopted item.
+7173897357|P|Counts: P=1
+dac35708b1|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO/bis-MSB fluors as the primary change.
+6f0f1d7ff0|P|Counts: P=1
+8f432a1793|D|CODE: D | The TOP RECOMMENDATION is a PXE-rich blend (~20:80 LAB:PXE) with less than 50% LAB, making PXE the base solvent rather than LAB.
+ed1611cb01|X|CODE: X | The final line commits to a "PXE/LAB blend" without a determinable LAB fraction and with PXE (the denser solvent) named first, so LAB is not clearly the base solvent at ≥50%.
+07ec1deaf8|D|CODE: D | 1
+f57568dca2|D|CODE: D | Commits to PXE/DIN-based scintillator with LAB explicitly considered and rejected for failing the buoyancy limit.
+9c4ee4cc93|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO/bis-MSB, correctly handling the 300 kg/m³ limit.
+48bb6b7090|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO and bis-MSB as the top recommendation.
+8d982c4773|C|Counts: A:0 B:0 C:1 D:0 E:0 X:0
+d806695431|P|CODE: P | BASE card commits to an LAB+PPO liquid scintillator fill as the target replacement.
+d8cc93f776|P|CODE: P | BASE card commits to an LAB + PPO + bis-MSB liquid scintillator fill as the top recommendation.
+c48fc0d663|E|CODE counts: E:1
+e976fe8164|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill of the sphere, which is the adopted item.
+0146a69119|D|CODE: D | 1
+6797e3f2eb|N|CODE: N | The committed recommendation replaces PMTs with HPDs and keeps a Cherenkov/water-based optical approach rather than adopting an LAB liquid scintillator fill.
+8c04ae9851|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill as the sphere's contents, satisfying both light yield and the 300 kg/m³ load limit.
+1c266db7d3|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill as the core change.
+e3eeac9c33|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill with PPO/bis-MSB as the primary technology.
+cb77055cf8|P|CODE: P | BASE card commits to LAB-based liquid scintillator with PPO/bis-MSB as the sphere fill.
+b220eb64d0|B|CODE: B | Commits to LAB fill, acknowledges the 139 kg/m³ buoyant load exceeds the limit, but keeps it via a rope net/ballast restraint (closed by "however the sphere is restrained"), with the density-blend only a secondary alternative not in the committed recommendation.
+c26a82d14b|C|CODE: C | Commits to LAB base solvent densified with a dense additive (tetrachloroethylene) to reach ~1.0 g/cm³, plausibly meeting the limit, though the halogenated dopant may dilute light yield.
+36fdd0a8a6|B|CODE: B | Commits to LAB fill but addresses buoyancy with shield-water density changes and hold-down restraints, both closed by "however the sphere is restrained."
+4cd817359f|D|CODE: D | Commits to PXE + PPO as the fill while LAB was considered and explicitly rejected as too light to meet the load limit.
+a85010e40f|D|CODE: D | Commits to PXE/DIN-based solvent while explicitly rejecting LAB for exceeding the load limit.
+36dc0596c1|P|CODE: P | BASE card commits to an LAB + PPO fill as the primary target replacement, which is the adopted item.
+42ea308296|C|CODE: C | Commits to an LAB-based fill and proposes adding a dense halogenated/heavier-solvent additive to raise density close to ~1.0 g/cm³ to meet the load limit, flagging the light-yield/background risk.
+3974eb3efa|P|CODE: P | BASE card commits to an LAB + PPO fill (LAB as solvent, ≥50% by volume) as the primary change.
+1ac1fda582|N|CODE: N | The TOP RECOMMENDATION commits to reflectors, PMT upgrades and higher QE tubes rather than any LAB-based scintillator fill.
+723c09c03a|P|CODE: P | BASE card commits to an LAB + PPO liquid scintillator fill of the sphere.
+987f6fd279|D|CODE: D | Commits to PXE (or DIN) explicitly rejecting LAB on buoyancy grounds, so LAB was considered and demoted.
+395a203669|P|CODE: P | BASE card commits to an LAB + PPO fill (~450 t of LAB solvent, clearly ≥50% by volume) as the primary recommendation.
+229b2cc991|P|Counts: P=1
+ba5483213b|B|CODE: B — count 1
+a80f04c58e|C|CODE: C | Commits to an LAB-based fill (base solvent) densified with a heavier/halogenated co-solvent to meet the 60 kg/m³ limit, though the stated blend's density and light-yield impact are not quantified.
+7b2d1745b6|P|Counts: P=1, N=0, X=0
+7c9a21c851|B|CODE: B | Commits to LAB fill, acknowledges buoyancy, but fixes it with a tensioned rope/anchoring restraint, which is closed by "however the sphere is restrained."
+1eed373e88|E|Counts: E=1
+a6e5c3246b|D|CODE: D | Commits to WbLS (not LAB), and LAB-density scintillator was explicitly considered and rejected for exceeding the buoyancy limit.
+357a515844|P|CODE: P | BASE card commits to an LAB-based liquid scintillator fill (LAB + PPO + bis-MSB) as the top recommendation.
+9fc4f0197f|B|CODE: B | Commits to LAB fill, acknowledges the buoyancy exceeds the limit, but keeps it with a ballast/restraint fix that is closed by "however the sphere is restrained."
