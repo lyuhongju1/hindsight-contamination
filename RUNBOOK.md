@@ -64,3 +64,23 @@ Status key: ☐ not started · ◐ in progress · ☑ done · ⛔ blocked on PI.
 - **2026-11-05.** Setup complete: Anthropic key verified (stored at user scope; load it from the user environment until Claude Code is restarted). GitHub logged in as lyuhongju1. Public repo https://github.com/lyuhongju1/hindsight-contamination created by Claude with PI approval; initial commit 020491c pushed. OpenRouter skipped: the second-vendor check is not possible until a key is added. Line-ending conversion disabled for byte-stable hashes.
 - **2026-11-05.** Setup: git identity set and GitHub CLI 2.103.3 installed by Claude; gh is not logged in, and no API keys exist yet.
 - **2026-11-05.** Switched to solo operation (no recruitment); design v3 written. `experts/` moved to `_obsolete/`. No sampling done; no keys on this machine. The machine has no GPU.
+
+
+## 2026-11-06: materials-stage yield checkpoint
+
+**Tally:**
+- **Cleared:** p02 GERDA, p05 SNO, p09 NEMO-3, p10 Borexino.
+- **Pending:** p03 Advanced Virgo (r3), p01 XENON1T (r1).
+- **Zero-unit (confirmed):** p04, p15, p08, p07, p11, p16, p06, p12.
+- **Author says no conflict, confirmation pending:** p13, p14, p17; p18 likely.
+- **Maximum reachable from the current set: 6 units**, against the pre-registered target of 14 and minimum of 10.
+
+**Pattern.** Upgrades whose advantage is engineering, cost, a tunable geometry or an added capability (readout transport, antennas, straws, optical levers, fluors, veto loading, digitisers) admit no honest physics-only conflict. Those that trade one physical property for another (radiopurity, buoyancy, granularity, cosmogenics, squeezing-loss budget, calibration chemistry) do. This yield (~30–40%) is itself a reportable finding about how often real design choices are physics-decided.
+
+**Infrastructure.** At ~14:00 all eight running agents stalled at once (service-side), so concurrency is cut to 3.
+
+**Decision (Claude, logged):**
+1. Continue the A1 queue under the unchanged rules until the minimum of 10 is reached or the frame is exhausted.
+2. Speed this up by having each new author run the lesson-5 feasibility check **before** the two daters are spent. This only reorders work: dating still decides eligibility, and the feasibility outcome never selects among eligible baselines.
+3. **Concern with that reorder:** it would make dating effort conditional on feasibility. That is fine for efficiency, but the selected set must still be "first eligible-and-feasible in queue order", which is what A2 already defines. No change to the population definition.
+4. If the frame cannot reach 10, power at 6–8 units (tau 0.5) is 0.89–0.97 at O=0.24 (power_override_results.md). An amendment lowering the minimum would be filed **before** any confirmatory sampling and disclosed. That decision is deferred until the queue result is known.
