@@ -84,3 +84,30 @@ Status key: ☐ not started · ◐ in progress · ☑ done · ⛔ blocked on PI.
 2. Speed this up by having each new author run the lesson-5 feasibility check **before** the two daters are spent. This only reorders work: dating still decides eligibility, and the feasibility outcome never selects among eligible baselines.
 3. **Concern with that reorder:** it would make dating effort conditional on feasibility. That is fine for efficiency, but the selected set must still be "first eligible-and-feasible in queue order", which is what A2 already defines. No change to the population definition.
 4. If the frame cannot reach 10, power at 6–8 units (tau 0.5) is 0.89–0.97 at O=0.24 (power_override_results.md). An amendment lowering the minimum would be filed **before** any confirmatory sampling and disclosed. That decision is deferred until the queue result is known.
+
+### Standards check (2026-11-06)
+
+The p19 CUPID feasibility author rejected a pile-up conflict on two grounds:
+- stating the crystal mass is "design fiat";
+- faster (NTL) light detectors are a routine fix.
+
+Both are stricter than the standard applied to the cleared pairs (stated retained-hardware facts in p05, p03 and p09; the item-plus-add-on precedent in p01). Clarification C1 was added to AUTHOR_BRIEF.
+
+**Audit of the earlier zero-unit verdicts against C1:**
+
+| Pair | Ground for zero units | Affected by C1? |
+|---|---|---|
+| p15 aLIGO | servo, a setting | no |
+| p11 KAGRA | lever geometry and mounting of the item itself | no |
+| p14 KASCADE | notch filter, a setting; extra arm harmless | no |
+| p17 LUX | threshold setting; loading level | no |
+| p12 MiniBooNE | no physics window | no |
+| p06 AGATA | no physics window | no |
+| p07 MEG | placement is part of the item | no |
+| p08 COSINE | relocation is the item method; logistics | no |
+| p16 BESIII | class | no |
+| p04 ICARUS | no physics window | no |
+| p18 Super-K | primary ground is no physics window (attenuation from Gd3+, low load reaches H-only); salt purification is secondary | no |
+| p13 NA62 | wire supports are an add-on, but the electrostatic window is only 2× and not robust anyway | no |
+
+**Only p19 is affected.** It gets a full author attempt under C1.

@@ -102,3 +102,12 @@ If no honest CONF exists for your pair, say so in `notes.md` and leave it failin
 4. **A servo, filter or design tweak that an expert would add as a matter of course defeats a noise- or rate-based conflict** (p15 aLIGO). Check for one before you build on such a mechanism.
 5. **Decide early.** Within your first few calculations, ask whether ANY physical requirement separates the item from its alternative, robustly under ×0.5–2. If the window is empty, say so: a zero-unit outcome is acceptable and honest.
 6. **Label every resolution figure as σ or FWHM**, with its source.
+
+## Clarification C1 (2026-11-06): consistency with the cleared pairs
+
+This adds no new rule. It aligns lessons 3–5 with the standard already applied to the cleared pairs (p03, p05, p09, p01).
+
+- **Stated facts about the instrument or site are allowed:** dimensions, retained hardware, crystal or vessel sizes, available path lengths, magnet fields. They must be plain, physical, and name no technology class. Examples: SNO's 1 cm vessel wall; Virgo's 8 m maximum path; NEMO-3's 15 cm separation. They are not "design fiat". What remains forbidden is cost, schedule, logistics, organisation and purchasing rules.
+- **Lesson 4 (routine fixes) covers settings within the item.** Servo gain, filters, thresholds, operating points, mounting and orientation choices of the item itself defeat a conflict.
+- **A separate, additional component or technology does not defeat a conflict.** Examples: a second loop, a different detector type, a new readout class, a much faster sensor technology. If the bare item fails and only the item plus that extra component passes, the conflict STANDS, and "item plus add-on" answers are scored C (precedent: p01, liquid purification plus kept hot getters).
+- **Robustness still applies:** the bare item must fail under ×0.5–2 on every cited property. Stated facts may go under `fixed`.
