@@ -1,0 +1,5 @@
+min pitch (mm, nominal): {'pmt200_direct_large_block': 210.0, 'pmt76_direct_small_cube': 80.0, 'sipm_array_small_cell': 27.8, 'pmt25_direct_small_cell': 28.4, 'pmt51_direct_small_cell': 54.6, 'pmt130_direct': 138.0, 'pmt76_lightguide_present': 190.0}
+NC_BASE  adopted_passes_nominal=True PASS
+NC_CONF  adopted_fails_nominal=True viable_nominal=['sipm_array_small_cell', 'pmt25_direct_small_cell'] (n_survivors=2) adopted_fails=1.000 >=1_viable=1.000 PASS
+NC_HIST  adopted_fails_nominal=True viable_nominal=['sipm_array_small_cell', 'pmt25_direct_small_cell'] (n_survivors=2) adopted_fails=1.000 >=1_viable=1.000 PASS
+ALL PASS
