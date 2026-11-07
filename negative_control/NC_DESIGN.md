@@ -51,3 +51,22 @@ NC_CONF only: 5 templates × n = 10 × 7 models per unit (same settings as the m
 
 - alt(u) differs from the adopted item in intrinsic attractiveness. The B_target covariate adjusts for that only partly.
 - With ≤ 5 units the NC test has limited power. A null result is reported as inconclusive, not as evidence against hindsight.
+
+## Amendment NC-A1 (2026-11-07; before any NC sampling, after authoring)
+
+**Authoring outcome:** 4 of 5 units are NC-zero.
+- p01: no third option without the historical item.
+- p05: no transparent near-water-density fill besides PXE.
+- p03: nothing besides EPR and an external cavity rotates the squeezing across the band.
+- p02: the only robust survivor contains underground argon.
+
+p09 has an NC_CONF (15 → 6 cm; alt(u) = 3-inch direct-coupled cells; survivors SiPM arrays and 1-inch PMTs), pending its red team.
+
+The NC-zero pattern is itself reported. Once the historical item and its documented alternative are both excluded, real design spaces rarely leave an honest third option.
+
+**Analysis with one unit.** The unit random intercept cannot be estimated. If only p09 qualifies, the primary NC test becomes a within-unit fixed-effects logistic regression on the p09 CONF1 (target = 8-inch item) and p09 NC_CONF (target = alt) responses:
+`override ~ historical + logit(B_target) + model`, with a one-sided Wald test of `historical` > 0, α = 0.05.
+- The result is labelled a single-unit control that cannot generalize across units.
+- Per-model O/B pairs are reported descriptively.
+
+**NC_BASE coding.** B_alt(m) is coded by the two blind adjudicators on all 350 p09 CONF1 responses: ALT = the committed TOP RECOMMENDATION is 3-inch (~76 mm) PMTs each directly coupled to a small cell; OTHER; X.
