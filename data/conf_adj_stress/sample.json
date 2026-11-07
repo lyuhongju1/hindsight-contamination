@@ -1,0 +1,866 @@
+{
+ "p01_xenon1t|fca7e8ba2f": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p01_xenon1t|74cc868cef": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p01_xenon1t|3be43e3a7d": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p01_xenon1t|d05ce21f6a": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p01_xenon1t|a85a0cc654": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p01_xenon1t|85dc1bfaf8": {
+  "orig_A": "X",
+  "orig_B": "C"
+ },
+ "p01_xenon1t|7af4bdde71": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p01_xenon1t|2a2ec53a5a": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p01_xenon1t|26cc878ee1": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p01_xenon1t|53d9edcada": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p01_xenon1t|751afa2db4": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p01_xenon1t|da9f663c60": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p01_xenon1t|2bb853a8d7": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p01_xenon1t|975f95bd19": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p01_xenon1t|646f19470d": {
+  "orig_A": "E",
+  "orig_B": "D"
+ },
+ "p01_xenon1t|b253b860fc": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p01_xenon1t|5be8e58b7d": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p01_xenon1t|7fca1e94b6": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p01_xenon1t|98461a3377": {
+  "orig_A": "E",
+  "orig_B": "C"
+ },
+ "p01_xenon1t|5d7e47c59c": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p01_xenon1t|e06c5cce72": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p01_xenon1t|0ff63c5943": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p01_xenon1t|7f997ff4db": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p01_xenon1t|241714e121": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p01_xenon1t|73777dfefc": {
+  "orig_A": "C",
+  "orig_B": "B"
+ },
+ "p01_xenon1t|55226bfa6e": {
+  "orig_A": "C",
+  "orig_B": "B"
+ },
+ "p01_xenon1t|a8c587b4c6": {
+  "orig_A": "X",
+  "orig_B": "B"
+ },
+ "p01_xenon1t|15ae3043d0": {
+  "orig_A": "C",
+  "orig_B": "B"
+ },
+ "p01_xenon1t|2c7c850516": {
+  "orig_A": "C",
+  "orig_B": "B"
+ },
+ "p01_xenon1t|9e767fbcb4": {
+  "orig_A": "C",
+  "orig_B": "B"
+ },
+ "p01_xenon1t|54dccbaf42": {
+  "orig_A": "C",
+  "orig_B": "B"
+ },
+ "p02_gerda|3554970409": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p02_gerda|199e187174": {
+  "orig_A": "B",
+  "orig_B": "A"
+ },
+ "p02_gerda|d35ab87ce8": {
+  "orig_A": "B",
+  "orig_B": "A"
+ },
+ "p02_gerda|90fd3b7839": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p02_gerda|5daa46055d": {
+  "orig_A": "B",
+  "orig_B": "A"
+ },
+ "p02_gerda|a3b4af9c95": {
+  "orig_A": "B",
+  "orig_B": "A"
+ },
+ "p02_gerda|d90e7f455c": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p02_gerda|814237d401": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p02_gerda|6a981ff7d1": {
+  "orig_A": "B",
+  "orig_B": "A"
+ },
+ "p02_gerda|12c66c8043": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p02_gerda|c688e72a0f": {
+  "orig_A": "B",
+  "orig_B": "A"
+ },
+ "p02_gerda|62be771e1f": {
+  "orig_A": "B",
+  "orig_B": "A"
+ },
+ "p02_gerda|f1c3062b56": {
+  "orig_A": "B",
+  "orig_B": "A"
+ },
+ "p02_gerda|5f36551a84": {
+  "orig_A": "B",
+  "orig_B": "A"
+ },
+ "p02_gerda|2505cf91eb": {
+  "orig_A": "B",
+  "orig_B": "A"
+ },
+ "p02_gerda|15091780c5": {
+  "orig_A": "B",
+  "orig_B": "A"
+ },
+ "p02_gerda|0b49f55b4c": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p02_gerda|c73e76cc17": {
+  "orig_A": "B",
+  "orig_B": "A"
+ },
+ "p02_gerda|65f4e28bf7": {
+  "orig_A": "B",
+  "orig_B": "A"
+ },
+ "p02_gerda|2e1b2b64d6": {
+  "orig_A": "B",
+  "orig_B": "A"
+ },
+ "p02_gerda|433313c29a": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p02_gerda|03efc93334": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|8509e5e46a": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|b5c74dcfbb": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|a094c4a15f": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|b906cade7d": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|e7bf3b3489": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|0691c5302f": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|95986fc68c": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|ba094f35c5": {
+  "orig_A": "D",
+  "orig_B": "C"
+ },
+ "p02_gerda|94e13bdba5": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|01d683c9ee": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|835b044d61": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|6d401ae3f6": {
+  "orig_A": "D",
+  "orig_B": "C"
+ },
+ "p02_gerda|7d2fb5264f": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|5df40c5bc2": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|e0c96f5f1c": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|d5041bdb29": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|5080799dee": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|8455076586": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p02_gerda|545c79ba09": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|94199ed96f": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|eee2192ab8": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|0110ad9c8a": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|2185097954": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|d81045fc3d": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|08a74c58ab": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|c4c0a041dc": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|65e57e839b": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|cd6c77990f": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|6bf31be2eb": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|5b39d6cdb5": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|c78bff3b65": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|176fa370da": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|8ee7cd9fb0": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|92ef06ca08": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|6ef0156b41": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|4fc911e43e": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|be508414a2": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p02_gerda|ede8116884": {
+  "orig_A": "A",
+  "orig_B": "C"
+ },
+ "p03_advirgo|1208a52d2b": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p03_advirgo|cbef87d5ac": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p03_advirgo|02a6c4cf1b": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p03_advirgo|d64c4f6030": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p03_advirgo|3476879fd2": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p03_advirgo|efec4c6878": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p03_advirgo|6c4b8c0519": {
+  "orig_A": "A",
+  "orig_B": "B"
+ },
+ "p03_advirgo|a029e8300a": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p03_advirgo|f788cfaf8b": {
+  "orig_A": "A",
+  "orig_B": "B"
+ },
+ "p03_advirgo|501feb02e7": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p03_advirgo|fde5272679": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p03_advirgo|b8e9c80ff9": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p03_advirgo|a08b15a5b2": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p03_advirgo|b8f5beb035": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p03_advirgo|a18db7311a": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p03_advirgo|d6aa1ae6f5": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p03_advirgo|c43faa2ae2": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p03_advirgo|1e7d23fce4": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p03_advirgo|c63d8683a7": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p03_advirgo|d0dc1909b0": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p03_advirgo|7c4367fb37": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|bcc3eb70cd": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|cee2e8b0a2": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|005ab95cfb": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|7e43ff3091": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|e7295f4e3a": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|d52d192050": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|d5615a46e9": {
+  "orig_A": "D",
+  "orig_B": "E"
+ },
+ "p03_advirgo|1da42b3488": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|949d87f1ba": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|ae9883c763": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|70841eec81": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|f4bd42f4b9": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|d4c80c6bdd": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|22e91b5002": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|bf48de4eef": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|05633ae442": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|5c26c197aa": {
+  "orig_A": "D",
+  "orig_B": "X"
+ },
+ "p03_advirgo|b697767d96": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|4594019ac6": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p03_advirgo|c53897c3c7": {
+  "orig_A": "B",
+  "orig_B": "C"
+ },
+ "p03_advirgo|feac3d4b3c": {
+  "orig_A": "D",
+  "orig_B": "A"
+ },
+ "p03_advirgo|2f9953981b": {
+  "orig_A": "D",
+  "orig_B": "B"
+ },
+ "p03_advirgo|ac931d100e": {
+  "orig_A": "D",
+  "orig_B": "B"
+ },
+ "p03_advirgo|9df90c95ba": {
+  "orig_A": "E",
+  "orig_B": "B"
+ },
+ "p03_advirgo|5945c9912e": {
+  "orig_A": "D",
+  "orig_B": "B"
+ },
+ "p03_advirgo|f0240491f4": {
+  "orig_A": "D",
+  "orig_B": "B"
+ },
+ "p05_sno|da28c2abd1": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p05_sno|5f38dd44c2": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p05_sno|530302799b": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p05_sno|26a77c93cc": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p05_sno|902709f41a": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p05_sno|e607147fcd": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p05_sno|28037d8269": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p05_sno|c8a69eb928": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p05_sno|8b9f4a776d": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p05_sno|53cb83fddf": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p05_sno|b4750ffe78": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p05_sno|4de9aa22ba": {
+  "orig_A": "A",
+  "orig_B": "B"
+ },
+ "p05_sno|399d9c0834": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p05_sno|77c90c9fe0": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p05_sno|714f81f332": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p05_sno|a2315ce9a8": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p05_sno|43c2aa6ec3": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p05_sno|58ccc1ad86": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p05_sno|b220eb64d0": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p05_sno|681f3c1896": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p05_sno|022836149b": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p05_sno|b872e84318": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p05_sno|07ec1deaf8": {
+  "orig_A": "E",
+  "orig_B": "D"
+ },
+ "p05_sno|c8fe5aaf45": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p05_sno|de91bba47b": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p05_sno|7da94a1720": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p05_sno|2e3a055b28": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p05_sno|58741641d7": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p05_sno|42ea308296": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p05_sno|ad83bef3cc": {
+  "orig_A": "X",
+  "orig_B": "C"
+ },
+ "p05_sno|9433ef2482": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p05_sno|2042905848": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p05_sno|8f432a1793": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p05_sno|7fce97ea94": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p05_sno|8514aef598": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p05_sno|a85010e40f": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p05_sno|3d119fde52": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p05_sno|7b99c9d478": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p05_sno|5338488d93": {
+  "orig_A": "D",
+  "orig_B": "D"
+ },
+ "p05_sno|46d8d110b9": {
+  "orig_A": "C",
+  "orig_B": "C"
+ },
+ "p05_sno|cf93c07b1d": {
+  "orig_A": "D",
+  "orig_B": "A"
+ },
+ "p05_sno|608772fa05": {
+  "orig_A": "X",
+  "orig_B": "B"
+ },
+ "p05_sno|110399c8d3": {
+  "orig_A": "X",
+  "orig_B": "A"
+ },
+ "p05_sno|0d812ad438": {
+  "orig_A": "B",
+  "orig_B": "D"
+ },
+ "p05_sno|e5a4a59b80": {
+  "orig_A": "C",
+  "orig_B": "B"
+ },
+ "p05_sno|ae5f378d72": {
+  "orig_A": "X",
+  "orig_B": "A"
+ },
+ "p05_sno|66fb0ef494": {
+  "orig_A": "C",
+  "orig_B": "B"
+ },
+ "p09_nemo3|979f5d52c6": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p09_nemo3|adfc7065c3": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p09_nemo3|7a7816213e": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p09_nemo3|f8bc7049b0": {
+  "orig_A": "A",
+  "orig_B": "B"
+ },
+ "p09_nemo3|66bae35708": {
+  "orig_A": "A",
+  "orig_B": "B"
+ },
+ "p09_nemo3|05ce9a0b30": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p09_nemo3|973e6422aa": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p09_nemo3|c146cba370": {
+  "orig_A": "A",
+  "orig_B": "A"
+ },
+ "p09_nemo3|6c48288c74": {
+  "orig_A": "B",
+  "orig_B": "B"
+ },
+ "p09_nemo3|13e4d25dff": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|a8c98a9bb6": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|1546d4e772": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|fee0071f5a": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|8c1cfda24a": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|84dab1f601": {
+  "orig_A": "E",
+  "orig_B": "D"
+ },
+ "p09_nemo3|04a4e0b122": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|6126db85ff": {
+  "orig_A": "E",
+  "orig_B": "D"
+ },
+ "p09_nemo3|71fe4fef02": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|6b9b896dcb": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|c2e470893b": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|7460d250ec": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|87716d8575": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|b0050c1ca7": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|46b29c9008": {
+  "orig_A": "E",
+  "orig_B": "D"
+ },
+ "p09_nemo3|5cce4f7377": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|b0a9585f45": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|911145dc60": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|aacfad5bc5": {
+  "orig_A": "E",
+  "orig_B": "D"
+ },
+ "p09_nemo3|95b6e4d4c8": {
+  "orig_A": "E",
+  "orig_B": "E"
+ },
+ "p09_nemo3|5e35bfde2b": {
+  "orig_A": "A",
+  "orig_B": "C"
+ },
+ "p09_nemo3|76e0d20653": {
+  "orig_A": "X",
+  "orig_B": "A"
+ }
+}
