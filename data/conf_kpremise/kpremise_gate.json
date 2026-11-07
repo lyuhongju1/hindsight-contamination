@@ -1,0 +1,74 @@
+{
+ "p01_xenon1t/CONF1": {
+  "status": "PASS",
+  "model_majority_correct": {
+   "claude-haiku-4-5-20251001": true,
+   "claude-haiku-5-5": true,
+   "claude-opus-4-5-20251101": true,
+   "claude-opus-5-5": true,
+   "claude-sonnet-4-5-20250929": true,
+   "claude-sonnet-4-6": true,
+   "claude-sonnet-5-5": true
+  }
+ },
+ "p02_gerda/CONF1": {
+  "status": "PASS",
+  "model_majority_correct": {
+   "claude-haiku-4-5-20251001": true,
+   "claude-haiku-5-5": true,
+   "claude-opus-4-5-20251101": true,
+   "claude-opus-5-5": true,
+   "claude-sonnet-4-5-20250929": true,
+   "claude-sonnet-4-6": true,
+   "claude-sonnet-5-5": true
+  }
+ },
+ "p03_advirgo/CONF1": {
+  "status": "PASS",
+  "model_majority_correct": {
+   "claude-haiku-4-5-20251001": true,
+   "claude-haiku-5-5": false,
+   "claude-opus-4-5-20251101": true,
+   "claude-opus-5-5": true,
+   "claude-sonnet-4-5-20250929": true,
+   "claude-sonnet-4-6": true,
+   "claude-sonnet-5-5": true
+  }
+ },
+ "p05_sno/CONF1": {
+  "status": "PASS",
+  "model_majority_correct": {
+   "claude-haiku-4-5-20251001": true,
+   "claude-haiku-5-5": true,
+   "claude-opus-4-5-20251101": true,
+   "claude-opus-5-5": true,
+   "claude-sonnet-4-5-20250929": true,
+   "claude-sonnet-4-6": true,
+   "claude-sonnet-5-5": true
+  }
+ },
+ "p09_nemo3/CONF1": {
+  "status": "PASS",
+  "model_majority_correct": {
+   "claude-haiku-4-5-20251001": true,
+   "claude-haiku-5-5": true,
+   "claude-opus-4-5-20251101": true,
+   "claude-opus-5-5": true,
+   "claude-sonnet-4-5-20250929": true,
+   "claude-sonnet-4-6": true,
+   "claude-sonnet-5-5": true
+  }
+ },
+ "p10_borexino/CONF1": {
+  "status": "SUSPENDED",
+  "model_majority_correct": {
+   "claude-haiku-4-5-20251001": false,
+   "claude-haiku-5-5": true,
+   "claude-opus-4-5-20251101": true,
+   "claude-opus-5-5": true,
+   "claude-sonnet-4-5-20250929": false,
+   "claude-sonnet-4-6": true,
+   "claude-sonnet-5-5": true
+  }
+ }
+}

@@ -13,7 +13,7 @@
 | p07 MEG | downstream RDC | magnetic mirror reflects low-energy positrons upstream | 1 (upstream tagger) | **Zero-unit pair** (r1 red team + author scan: a thin near-target counter survives every coherent edit; the AIF budget that would close it contradicts a low-mass tracker). Replacement: A1 queue |
 | p08 COSINE | in-house crystal growth | home institute at 3,600 m → cosmogenic tritium | 2 (Alpha Spectra marginal; RMD/Astro-Grade) | **Zero-unit pair** (r2 + final attempt: in-house method demonstrably reaches Astro-Grade K/210Pb, so the windows are empty; altitude route needs a logistics rule). Replacement: resume A1 queue (q19 LUX) |
 | p09 NEMO-3 | 8-in. high-QE PMTs | granularity: 15 cm two-electron separation vs >=210 mm cell pitch | 1 (76 mm PMTs on small cubes) | **CLEARED** (r2; survivor 8.5% FWHM, credible 8-11%) |
-| p10 Borexino | 144Ce-144Pr source | fully deuterated scintillator kills IBD | 2 (51Cr, 37Ar) | r1: CONF1 OK, wording/kprobe FIX → fixed; gates pass. **Red-team cleared** |
+| p10 Borexino (K-SUSPENDED) | 144Ce-144Pr source | fully deuterated scintillator kills IBD | 2 (51Cr, 37Ar) | r1: CONF1 OK, wording/kprobe FIX → fixed; gates pass. **Red-team cleared** |
 | p11 KAGRA | optical levers | — | — | **Zero-unit pair** (author + red-team confirmation: lever geometry is free, so no robust window). Replacement: A1 queue |
 | p12 MiniBooNE | PPO doping | — | — | **Zero-unit pair** (author + red-team confirmation from LoI numbers) |
 | p13 NA62 | small-diameter straws | — | — | **Zero-unit pair** (author + batched red-team confirmation) |

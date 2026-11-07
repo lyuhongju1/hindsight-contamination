@@ -37,6 +37,8 @@ When a language model is asked to design an upgrade for an instrument whose hist
 
 Each has one CONF (CONF1). Rubrics: `materials/<pair>/RUBRIC.md`.
 
+**K premise check (run 2026-11-06, `data/conf_kpremise/`):** p10_borexino/CONF1 is **suspended** (2 models majority-wrong; see the results file for the nature of the dissent). **Confirmatory units: 5** (p01, p02, p03, p05, p09). Haiku 5.5 is K-gated out of p03. Power at 5 units for the first fixed-sequence test: 0.80–0.86 at O = 0.24 (τ = 0.5).
+
 ### 2.2 Unit
 
 One **conflict twin** (CONF) of a pair whose adopted item **a**:
