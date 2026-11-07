@@ -4542,347 +4542,354 @@
   "level": "CONF1",
   "regex_final_hit": false
  },
- "12209e45d6": {
-  "custom_id": "a05437a6b715516613492a4d2be44441",
+ "ea66dad490": {
+  "custom_id": "b124cd22cb03404e0d3b1c3604f9ceca",
+  "model": "claude-sonnet-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "b8f5beb035": {
+  "custom_id": "8cc27e6298a1c5d734d55cea738c3071",
+  "model": "claude-sonnet-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "d1ff24273e": {
+  "custom_id": "e96c5defba0f48e8fb6e5c94f598d9eb",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "3476879fd2": {
+  "custom_id": "be2ee5c95af4104838b70750462ddf97",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "f50a8bafa9": {
+  "custom_id": "eaa323806e05e9ab197a0aeb07df6440",
+  "model": "claude-sonnet-5-5",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "df5fb04a8b": {
+  "custom_id": "74ad42b25f1e9978e2266800d1085463",
+  "model": "claude-sonnet-5-5",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "11355ae142": {
+  "custom_id": "cb113786280156ccd517ae22d032be12",
   "model": "claude-sonnet-5-5",
   "template": "T3_review",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "d16f74b4c4": {
-  "custom_id": "f3e09786d7d75a2e8fcc7c0c7c1e0571",
+ "74b2e60f44": {
+  "custom_id": "44bd60ae885cdd8161a2ac622435c803",
   "model": "claude-sonnet-5-5",
   "template": "T1_detector",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "826492c7e8": {
-  "custom_id": "81221c95bd218a82e950121819c72892",
+ "ae9883c763": {
+  "custom_id": "8691f269cc4d9a83b95b74637c119be9",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "91c4514306": {
+  "custom_id": "f8df976090508fbe2de6c22d2ad03c4c",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "fef97e5dc7": {
+  "custom_id": "53c07055584c78f838917eeefeb97e39",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "990deeafdf": {
+  "custom_id": "f33811d11bee363a3d69e484cdfa5d80",
+  "model": "claude-sonnet-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "37a25ea8a0": {
+  "custom_id": "461ad66ed63d4d379e31c18e3abd04df",
+  "model": "claude-sonnet-5-5",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "6793f46fb7": {
+  "custom_id": "2d0ec983dc52ac657ef03ec9d54f70f8",
   "model": "claude-sonnet-5-5",
   "template": "T4_proposal",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "9a91a07a93": {
-  "custom_id": "658776cbe4ee4518272407641eebf7e4",
+ "484bc5abcb": {
+  "custom_id": "632fa0af9c2ebcee74b5e349fd05ad31",
   "model": "claude-sonnet-5-5",
   "template": "T3_review",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "ecffe6778b": {
-  "custom_id": "335e4dd2cce642e4be8aa5d8010a5843",
+ "5c26c197aa": {
+  "custom_id": "b484a3693e6d9d0a7c7d2cdfc923187b",
+  "model": "claude-sonnet-5-5",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "5254ced6b1": {
+  "custom_id": "7a2935c7fefda58ad216160950a19040",
+  "model": "claude-sonnet-5-5",
+  "template": "T4_proposal",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "d8dfcc1e37": {
+  "custom_id": "819498a62f4fdb683b22c7d8be3ecc77",
+  "model": "claude-sonnet-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "ffaa0e53f4": {
+  "custom_id": "c7388cadfd88f12722e8bd5bf0704a54",
+  "model": "claude-sonnet-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "daad0e2c8b": {
+  "custom_id": "1597b56de386a12628f55b84746d6177",
   "model": "claude-sonnet-5-5",
   "template": "T3_review",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "887c5fe067": {
-  "custom_id": "ade51589e1843922063452839daf13ca",
+ "c53897c3c7": {
+  "custom_id": "d29e244ce165b7e989f977078467df53",
   "model": "claude-sonnet-5-5",
-  "template": "T1_detector",
+  "template": "T2_instrument",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "3eadd9ddd0": {
-  "custom_id": "6629949dcd11ebe7eb27ac0180ac1846",
+ "d5a219df67": {
+  "custom_id": "1aa0901947914c7e121b6594805033fa",
+  "model": "claude-sonnet-5-5",
+  "template": "T2_instrument",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "adec36b3ae": {
+  "custom_id": "6ffafe61a4ddbdd0a9b86b76c84643ca",
   "model": "claude-sonnet-5-5",
   "template": "T5_plain",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "a6fd8bec62": {
-  "custom_id": "0887fe1851cce95800cf5c7ca822e40b",
+ "4594019ac6": {
+  "custom_id": "c7993c09b1b09d69bfe09c8fb36d9472",
   "model": "claude-sonnet-5-5",
-  "template": "T5_plain",
+  "template": "T4_proposal",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "ec7b2bb672": {
-  "custom_id": "8b1214e90f6061c0361b809e72fb908a",
-  "model": "claude-sonnet-5-5",
-  "template": "T1_detector",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "882f84f2ff": {
-  "custom_id": "3802101c73058927309f366fadc02190",
-  "model": "claude-sonnet-5-5",
-  "template": "T1_detector",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "0d120f0488": {
-  "custom_id": "94966bbdedd94f85a2f530d9bb7abc43",
-  "model": "claude-sonnet-5-5",
-  "template": "T1_detector",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "570bc6399d": {
-  "custom_id": "33949b2309824f3af438a773efb3c5e1",
+ "55a489d7d0": {
+  "custom_id": "2e8b937d2ddf84e92b3a93e7604356d6",
   "model": "claude-sonnet-5-5",
   "template": "T3_review",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "b314d95126": {
-  "custom_id": "d17b22327e175f5a144c007793485d42",
+ "0057c0c8a7": {
+  "custom_id": "776e80fbc8a650fc1b235e0136e68b62",
   "model": "claude-sonnet-5-5",
   "template": "T1_detector",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "841c4e99d0": {
-  "custom_id": "f0c97a26bca2ddc43117c3bfa1fc3318",
+ "ac844e1d86": {
+  "custom_id": "5b624c84f5c12045fe86ca8ef25de04c",
   "model": "claude-sonnet-5-5",
   "template": "T1_detector",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "5b95374945": {
-  "custom_id": "53b6f97d238e8174f4126b0f85bda1cc",
-  "model": "claude-sonnet-5-5",
-  "template": "T4_proposal",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "be88551850": {
-  "custom_id": "292c6844f8cf08c5b10c25a714687b96",
+ "be3a4bbf40": {
+  "custom_id": "8700fd896fda36f084df9f93ca7ff2db",
   "model": "claude-sonnet-5-5",
   "template": "T3_review",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "3ebf649829": {
-  "custom_id": "6685f2632779c224b2969590ede0b8cb",
-  "model": "claude-sonnet-5-5",
-  "template": "T3_review",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "39b72ccc14": {
-  "custom_id": "0b13483bd9dce2c51b1d225ff9a56462",
+ "f412136b96": {
+  "custom_id": "daf574aff69343fc94c8066952b711aa",
   "model": "claude-sonnet-5-5",
   "template": "T4_proposal",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "6d76fbc84a": {
-  "custom_id": "ab331f09f29ff20128186a4d8e475d95",
+ "005ab95cfb": {
+  "custom_id": "609adb58601e2fad37ba667b6ea794a9",
   "model": "claude-sonnet-5-5",
   "template": "T3_review",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "c4db11fa21": {
-  "custom_id": "faf76c362767ee8935e056ce156025ab",
-  "model": "claude-sonnet-5-5",
-  "template": "T4_proposal",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "8830bf178b": {
-  "custom_id": "6d038166a3a51ed4aa62bea41cf025c1",
+ "4bc4eabebb": {
+  "custom_id": "4c9da31c7ff3a61dd2aface14782c7fd",
   "model": "claude-sonnet-5-5",
   "template": "T2_instrument",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "0fc0c268e8": {
-  "custom_id": "d3777d2dd753feb7a62aaf294203abbc",
+ "595b15e02f": {
+  "custom_id": "5170f296ebb94341b7c4c8fd78ded7bb",
+  "model": "claude-sonnet-5-5",
+  "template": "T5_plain",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "822a71d596": {
+  "custom_id": "3e4c03f8e334542ecf38c365c4ca41f9",
   "model": "claude-sonnet-5-5",
   "template": "T3_review",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "39cc023849": {
-  "custom_id": "ab69696839d7491f0508802c083c8907",
+ "64442a5756": {
+  "custom_id": "476379242253d826ca101b4a51596736",
   "model": "claude-sonnet-5-5",
   "template": "T1_detector",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "c06409507c": {
-  "custom_id": "67f9ccfcd365f76777202f501bc1004c",
+ "1bcfab892e": {
+  "custom_id": "79b7e506fdbf3f7be1b2c0e2d3080a80",
   "model": "claude-sonnet-5-5",
   "template": "T5_plain",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "b7777567bf": {
-  "custom_id": "f22c262fed37e539cee2838980eb8983",
-  "model": "claude-sonnet-5-5",
-  "template": "T2_instrument",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "f85426e66c": {
-  "custom_id": "edd6f5f549862a22c36a05b6aaf0676e",
-  "model": "claude-sonnet-5-5",
-  "template": "T2_instrument",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "81e3d80753": {
-  "custom_id": "67169d961be10bc2f00717d0b37b622d",
+ "31937da868": {
+  "custom_id": "4269e8230848d3f4f2cb2532d57a6b6f",
   "model": "claude-sonnet-5-5",
   "template": "T3_review",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "0a2093035d": {
-  "custom_id": "e7f1cf384f0fdaf6900ad6d5b476babf",
-  "model": "claude-sonnet-5-5",
-  "template": "T5_plain",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "2a271c8ea4": {
-  "custom_id": "777f54d0693b7593774bce8aff4d41d0",
+ "c61f9e6352": {
+  "custom_id": "f6c289382f1aeb5143483f926398ef27",
   "model": "claude-sonnet-5-5",
   "template": "T4_proposal",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "088e626d99": {
-  "custom_id": "55295d6001615f8c404ab272f8ac64a1",
-  "model": "claude-sonnet-5-5",
-  "template": "T2_instrument",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "7eeec86c39": {
-  "custom_id": "5e61c69f969f7a25e20f20300804c8fd",
-  "model": "claude-sonnet-5-5",
-  "template": "T2_instrument",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "68c2e5ce9d": {
-  "custom_id": "623f45c2913e608516ba8947b842e84f",
-  "model": "claude-sonnet-5-5",
-  "template": "T5_plain",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "758b458d8b": {
-  "custom_id": "5f124e46ebbd9f825d38923d3ac4eeed",
+ "aa65b0142e": {
+  "custom_id": "8041d1fa73d9e7497c7ed69c80f19848",
   "model": "claude-sonnet-5-5",
   "template": "T1_detector",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "c5bfe71399": {
-  "custom_id": "cbebeeb35d0ec2ca5082732595859a3c",
+ "0ea0c9d377": {
+  "custom_id": "cf27b7a0fceb8816733184baf7a8847a",
   "model": "claude-sonnet-5-5",
   "template": "T4_proposal",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "5de791d2b8": {
-  "custom_id": "fd0409d52e2585e23ce53a992cffc61f",
+ "684069dd5b": {
+  "custom_id": "7d3516c503f22592ba6ff15ef5dd4cc8",
   "model": "claude-sonnet-5-5",
-  "template": "T5_plain",
+  "template": "T2_instrument",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "c5616e7971": {
-  "custom_id": "1c99bdf57c2082b8158ab35633af38d0",
+ "ec626f4222": {
+  "custom_id": "ee50bc3879675dd56e06bad8b9873c6d",
   "model": "claude-sonnet-5-5",
   "template": "T1_detector",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "f57aa97226": {
-  "custom_id": "f3c82a2cda88ee2930448c0f9c4fc215",
-  "model": "claude-sonnet-5-5",
-  "template": "T2_instrument",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "0c027d37ba": {
-  "custom_id": "76392f98781ec7092f2c8d8ab80135d6",
-  "model": "claude-sonnet-5-5",
-  "template": "T4_proposal",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "dcfbd937d0": {
-  "custom_id": "81b2a404e6cbe8086620f10b9b9798e5",
+ "a3bababc92": {
+  "custom_id": "bd1b02532bc2ead720bb1302995374d6",
   "model": "claude-sonnet-5-5",
   "template": "T5_plain",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "ddd8ab6d03": {
-  "custom_id": "27c4c58d1a3dbafc9ef15c7bba730600",
-  "model": "claude-sonnet-5-5",
-  "template": "T2_instrument",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "8d1d6d015a": {
-  "custom_id": "66424a902abd1ecd8b384b0cef0bebae",
-  "model": "claude-sonnet-5-5",
-  "template": "T5_plain",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "6a88afe997": {
-  "custom_id": "70cc691c48c4eeedcc9eaaf3b44c70df",
+ "42a011861e": {
+  "custom_id": "f3497d3a6b1606cfd295d75c04a9b8d9",
   "model": "claude-sonnet-5-5",
   "template": "T4_proposal",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "e3104ffe63": {
-  "custom_id": "eb7db5d9945f50a69cf97db70581366f",
+ "cec3c44dce": {
+  "custom_id": "d5d28a3346b41f43d1712dd1a8ffda9a",
   "model": "claude-sonnet-5-5",
   "template": "T2_instrument",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "e1cc27dbbc": {
-  "custom_id": "b7dab800fdc71df57d254eaded34476f",
+ "cf61b5415e": {
+  "custom_id": "247e624de21ad1ebc0fa2a69ebfc871f",
   "model": "claude-sonnet-5-5",
-  "template": "T4_proposal",
+  "template": "T1_detector",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "a27d45f7f6": {
-  "custom_id": "a43107437eded71294d98c619c7d1869",
+ "1f20572f14": {
+  "custom_id": "2eee200d6eeaef54f1217ac09b614643",
   "model": "claude-sonnet-5-5",
-  "template": "T2_instrument",
+  "template": "T3_review",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "b16ca7c35e": {
-  "custom_id": "a6c346debfda13fd02a1c4c567188c8c",
-  "model": "claude-sonnet-5-5",
-  "template": "T2_instrument",
-  "level": "CONF1",
-  "regex_final_hit": true
- },
- "af6a158836": {
-  "custom_id": "7b3971edbf2d9b20bc914db0c4427138",
+ "42e4bf7268": {
+  "custom_id": "2bea7e327aceb2fdc26850512ea56dc8",
   "model": "claude-sonnet-5-5",
   "template": "T5_plain",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "88f33f9455": {
-  "custom_id": "4fb99a357766c86d5359d45dc40842ed",
+ "ff2ace7dcc": {
+  "custom_id": "f30c24548e87fe289d0dc607b6a70ea0",
   "model": "claude-sonnet-5-5",
-  "template": "T5_plain",
+  "template": "T3_review",
   "level": "CONF1",
   "regex_final_hit": true
  },
- "3568722413": {
-  "custom_id": "c5fcca01f24d3a4786759dc65b4208bb",
+ "4846bb6e20": {
+  "custom_id": "617255e0e38c3011142b3d123ed1dd7d",
+  "model": "claude-sonnet-5-5",
+  "template": "T1_detector",
+  "level": "CONF1",
+  "regex_final_hit": true
+ },
+ "4791df4a02": {
+  "custom_id": "8f27ac24a2943ea3f331695fadcb422c",
   "model": "claude-sonnet-5-5",
   "template": "T4_proposal",
   "level": "CONF1",
-  "regex_final_hit": false
+  "regex_final_hit": true
  }
 }

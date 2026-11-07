@@ -473,12 +473,6 @@
   "hits": 50,
   "truncated": 0
  },
- "p03_advirgo|CONF1|claude-sonnet-5-5": {
-  "n": 50,
-  "no_final": 1,
-  "hits": 48,
-  "truncated": 1
- },
  "p02_gerda|NAME|claude-haiku-5-5": {
   "n": 50,
   "no_final": 0,
@@ -857,18 +851,6 @@
   "hits": 1,
   "truncated": 0
  },
- "p10_borexino|BASE|claude-sonnet-5-5": {
-  "n": 50,
-  "no_final": 9,
-  "hits": 34,
-  "truncated": 9
- },
- "p10_borexino|CONF1|claude-sonnet-5-5": {
-  "n": 50,
-  "no_final": 11,
-  "hits": 5,
-  "truncated": 11
- },
  "p10_borexino|ANON|claude-sonnet-4-6": {
   "n": 50,
   "no_final": 0,
@@ -1005,6 +987,24 @@
   "n": 50,
   "no_final": 0,
   "hits": 48,
+  "truncated": 0
+ },
+ "p10_borexino|CONF1|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 6,
+  "truncated": 0
+ },
+ "p10_borexino|BASE|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 45,
+  "truncated": 0
+ },
+ "p03_advirgo|CONF1|claude-sonnet-5-5": {
+  "n": 50,
+  "no_final": 0,
+  "hits": 50,
   "truncated": 0
  }
 }

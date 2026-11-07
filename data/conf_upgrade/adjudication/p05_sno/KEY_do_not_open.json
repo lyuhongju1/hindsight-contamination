@@ -13,6 +13,13 @@
   "level": "BASE",
   "regex_final_hit": true
  },
+ "2b0faaa7c3": {
+  "custom_id": "46da1f664bebc24b047eb728853048b4",
+  "model": "claude-haiku-4-5-20251001",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
  "52ae9fb18d": {
   "custom_id": "d70b3c8368b76f54b0549a69fdbf9690",
   "model": "claude-haiku-4-5-20251001",
@@ -34,10 +41,10 @@
   "level": "BASE",
   "regex_final_hit": false
  },
- "54c057d203": {
-  "custom_id": "effd2c87e6893cb38646ca7ef95146e4",
+ "711d752389": {
+  "custom_id": "ec7458405b55d7d48a8899f2ab845a1a",
   "model": "claude-haiku-4-5-20251001",
-  "template": "T1_detector",
+  "template": "T3_review",
   "level": "BASE",
   "regex_final_hit": false
  },
@@ -62,10 +69,10 @@
   "level": "BASE",
   "regex_final_hit": false
  },
- "201b9d3215": {
-  "custom_id": "e7c8c9df02d406983af0eb696354266c",
+ "86fda226df": {
+  "custom_id": "db32c60a994b92a91ba4a2999c8e4ac9",
   "model": "claude-haiku-4-5-20251001",
-  "template": "T1_detector",
+  "template": "T2_instrument",
   "level": "BASE",
   "regex_final_hit": false
  },
@@ -73,13 +80,6 @@
   "custom_id": "6865ffd48c77811a7709dce18b003b01",
   "model": "claude-haiku-4-5-20251001",
   "template": "T2_instrument",
-  "level": "BASE",
-  "regex_final_hit": false
- },
- "8d782050ad": {
-  "custom_id": "9fe2aae1bddfd612354b94fb46bcacf1",
-  "model": "claude-haiku-4-5-20251001",
-  "template": "T4_proposal",
   "level": "BASE",
   "regex_final_hit": false
  },
@@ -405,6 +405,13 @@
   "level": "BASE",
   "regex_final_hit": true
  },
+ "86a8b0c10c": {
+  "custom_id": "8c34974d7cd8533ac16138bca0e18c89",
+  "model": "claude-haiku-5-5",
+  "template": "T5_plain",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
  "a286203210": {
   "custom_id": "0a4d9d85df4505844432afdc05f8d0cb",
   "model": "claude-haiku-5-5",
@@ -423,13 +430,6 @@
   "custom_id": "88374f71d4a68da1ad00ed332668c2ed",
   "model": "claude-haiku-5-5",
   "template": "T4_proposal",
-  "level": "BASE",
-  "regex_final_hit": false
- },
- "86a8b0c10c": {
-  "custom_id": "8c34974d7cd8533ac16138bca0e18c89",
-  "model": "claude-haiku-5-5",
-  "template": "T5_plain",
   "level": "BASE",
   "regex_final_hit": false
  },
@@ -1441,6 +1441,13 @@
   "level": "BASE",
   "regex_final_hit": true
  },
+ "2f3971c972": {
+  "custom_id": "82608d4d4e87b8005356511440aea3f5",
+  "model": "claude-sonnet-4-5-20250929",
+  "template": "T1_detector",
+  "level": "BASE",
+  "regex_final_hit": false
+ },
  "e3a7ad074f": {
   "custom_id": "68cb823439285b491fabc8def7f525ec",
   "model": "claude-sonnet-4-5-20250929",
@@ -1450,13 +1457,6 @@
  },
  "4571547691": {
   "custom_id": "d127dfc6bbe4c91eda3d8bf2cdc55ebf",
-  "model": "claude-sonnet-4-5-20250929",
-  "template": "T1_detector",
-  "level": "BASE",
-  "regex_final_hit": false
- },
- "5ce4f5ffc0": {
-  "custom_id": "e55991e6648be2f8906e86069540eb6c",
   "model": "claude-sonnet-4-5-20250929",
   "template": "T1_detector",
   "level": "BASE",
@@ -1476,8 +1476,8 @@
   "level": "BASE",
   "regex_final_hit": false
  },
- "2f3971c972": {
-  "custom_id": "82608d4d4e87b8005356511440aea3f5",
+ "5ce4f5ffc0": {
+  "custom_id": "e55991e6648be2f8906e86069540eb6c",
   "model": "claude-sonnet-4-5-20250929",
   "template": "T1_detector",
   "level": "BASE",

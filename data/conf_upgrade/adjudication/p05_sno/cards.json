@@ -2439,24 +2439,25 @@
   ]
  },
  {
-  "card": "86a8b0c10c",
+  "card": "948496986f",
   "level": "BASE",
-  "final_line": "Replace the ultrapure water inside the acrylic sphere with liquid scintillator, which provides the roughly 50-fold light-yield increase needed while remaining nearly neutrally buoyant within the sphere's load limit.",
+  "final_line": "Replace the ultrapure water inside the acrylic sphere with radiopure liquid scintillator, since this is the only change that supplies the roughly 50-fold increase in photons per MeV that the programme requires, and every other upgrade depends on it.",
   "relevant_sentences": [
-   "- Constraint on the sphere: a net buoyant or downward load of at most 300 kg/m³ of contained volume.",
-   "The sphere is fully submerged in shield water, so the buoyant force on the sphere-plus-contents system is set by the displaced water.",
-   "**Buoyancy check first.** The sphere volume is (4/3)π(5 m)³ ≈ 523.6 m³.",
-   "The water inside weighs 520 t, and the acrylic shell (5 cm wall, roughly 11 m² external...",
-   "more precisely about 0.05 m × 4π(5)² ≈ 15.7 m³ of acrylic at ~1,190 kg/m³ ≈ 18.7 t).",
-   "Net buoyant force is therefore roughly 523.6 − 520 − 18.7 ≈ −15 t, i.e.",
-   "about 29 kg/m³ of contained volume, well within the 300 kg/m³ limit.",
-   "Any change that adds mass inside the sphere must stay within a budget of roughly 150 t of extra net load (300 kg/m³ × 523.6 m³ ≈ 157 t, minus the existing ~15 t margin, so ~140 t of added net weight is tolerable), and a scintillator fill (~0.8 to 0.9 g/cm³) is nearly neutrally buoyant, so this constraint is easily satisfied by liquid scintillator.",
-   "loaded scintillator above 1 g/cm³) would still need checking against this budget.",
-   "Buoyancy is acceptable as noted above.",
-   "**Acrylic optical quality and background.** Keep the existing 5 cm acrylic (retained by programme) but verify transmission at the scintillator emission wavelengths (~420 nm for typical LAB-based scintillators) and reduce radioactive contamination (U/Th/K, ²¹⁰Pb) with low-background handling.",
-   "**Safety and interface items.** Add a nitrogen blanket or inert gas system over the scintillator to limit oxygen quenching and fire risk, and a fill/drain system with density monitoring to keep the net load within the 300 kg/m³ limit.",
-   "**Expected outcome.** Scintillator fill plus modest PMT/concentrator enhancement should reach and exceed 400 PE/MeV, while staying within the sphere's load limit and reusing the cavity, acrylic, PMT array and shield.",
-   "TOP RECOMMENDATION: Replace the ultrapure water inside the acrylic sphere with liquid scintillator, which provides the roughly 50-fold light-yield increase needed while remaining nearly neutrally buoyant within the sphere's load limit."
+   "Liquid scintillator (e.g., linear alkylbenzene, LAB, with a fluor such as PPO) yields roughly 10⁴ photons per MeV, comfortably providing the margin needed.",
+   "Its volume is V = (4/3)π(5 m)³ ≈ 523 m³ (contained volume, which is what the load limit refers to).",
+   "Liquid scintillator density is ~0.86 g/cm³, so the contents weigh about 450 tonnes, versus 520 tonnes for water.",
+   "The net buoyancy relative to the shield water is the key: water displaces ~1000 kg/m³, so the sphere's buoyant force is roughly 523 m³ × 1000 kg/m³ = 523 t, and the scintillator-filled sphere's own weight (acrylic shell plus contents) must be balanced against it.",
+   "Net load per cubic metre of contained volume = (sphere mass + contents mass − displaced water mass) / V.",
+   "With scintillator (0.86 t/m³) instead of water, the contents are lighter, so the sphere becomes more buoyant relative to its own weight: net upward force per m³ rises by about 140 kg/m³ compared with water-filled, before counting the shell.",
+   "The limit is 300 kg/m³ net vertical load, whichever direction.",
+   "The shell mass and any ballast/tethers must therefore be chosen so that the net load stays within ±300 kg/m³.",
+   "This means the restraint and ballast design must be reworked, and it is a real constraint: a scintillator fill that is too light may exceed the upward limit unless ballast is added, while adding ballast increases the downward load on the wall if the design changes.",
+   "Note that the sphere's 5 cm acrylic wall is transparent to scintillation light only in the visible-to-near-UV band; a wavelength-shifter or a fluor with emission above ~400 nm is needed to avoid attenuation.",
+   "The pep/CNO and geoneutrino programme demands far lower radioactive backgrounds than the 8B programme (¹⁴C in LAB, ²¹⁰Pb, ²³⁸U/²³²Th chains in the fill and acrylic).",
+   "Radiopurity purification of the scintillator (distillation, water extraction, nitrogen purging) is a hardware system to add, and the acrylic and PMT glass should be assayed.",
+   "**Replace the sphere fill: ultrapure water → liquid scintillator (LAB + PPO/bis-MSB), with an inert nitrogen cover gas.** Why: provides the ~50× photon-yield increase; the only physics route to ≥400 PE/MeV.",
+   "**Buoyancy and restraint redesign (ballast, tether tension, sphere shell mass) verified against the ±300 kg/m³ net-load limit.** Why: scintillator changes the net buoyancy; without re-engineering the wall could exceed its load rating.",
+   "TOP RECOMMENDATION: Replace the ultrapure water inside the acrylic sphere with radiopure liquid scintillator, since this is the only change that supplies the roughly 50-fold increase in photons per MeV that the programme requires, and every other upgrade depends on it."
   ]
  },
  {
@@ -3598,12 +3599,13 @@
   ]
  },
  {
-  "card": "6797e3f2eb",
+  "card": "52ae9fb18d",
   "level": "BASE",
-  "final_line": "Replace the 6,800 10-inch PMT array with a hybrid configuration of approximately 10,000 Hybrid Photo-Detectors (HPDs) with 50% quantum efficiency, increasing total photocathode area by ~30% while achieving the required 50× photoelectron multiplication through combined improvements in detector efficiency, coverage, and photon wavelength matching.",
+  "final_line": "Replace 10-inch PMTs with 20-inch diameter photomultiplier tubes, increasing collection solid angle by 4× and achieving the primary photon capture gain required for the 400 PE/MeV target.",
   "relevant_sentences": [
-   "Expand the support frame from 16 m to 17-18 m diameter and increase PMT/HPD density to ~10,000-12,000 total photo-detectors.",
-   "- **Upgrade acrylic sphere coating** to a wavelength-shifting (WLS) interface that converts UV/near-UV Cherenkov photons to visible wavelengths where PMT/HPD quantum efficiency peaks (~420 nm)"
+   "- Reuses existing support frame structure (though lighter loading)",
+   "- Inner acrylic sphere surface",
+   "- **Mechanical:** Verify 20\" PMTs fit within existing support frame; reduced count actually *decreases* load"
   ]
  },
  {
@@ -4328,25 +4330,24 @@
   ]
  },
  {
-  "card": "a286203210",
+  "card": "86a8b0c10c",
   "level": "BASE",
-  "final_line": "Replace the water in the acrylic sphere with liquid scintillator (with wavelength shifter), keeping the sphere density within the 0.7–1.3 g/cm³ window that the 300 kg/m³ wall limit allows.",
+  "final_line": "Replace the ultrapure water inside the acrylic sphere with liquid scintillator, which provides the roughly 50-fold light-yield increase needed while remaining nearly neutrally buoyant within the sphere's load limit.",
   "relevant_sentences": [
-   "**Key constraint: buoyancy**",
-   "The load limit is 300 kg/m³, so the maximum net vertical load is about 157 tonnes.",
-   "The sphere sits fully submerged in shield water (density ~1000 kg/m³).",
-   "Buoyant force on the sphere is about 523.6 t of water displaced, which the sphere's contents (520 t water inside) roughly balance.",
-   "Any added liquid scintillator must have density close to 1000 kg/m³ or the net load changes by (ρ_scint − 1000) × 523.6 m³.",
-   "A scintillator at 0.85 g/cm³ would make the sphere float with a net upward load of about 78 tonnes, within the limit, but a denser fill (e.g.",
-   "loaded scintillator at 1.1 g/cm³) would give a downward load of about 52 tonnes, also within the limit.",
-   "The 300 kg/m³ constraint therefore permits a fill density anywhere from roughly 0.7 to 1.3 g/cm³ before the wall is overloaded, provided the restraint allows movement consistent with the load in both directions.",
-   "**Replace the sphere contents with liquid scintillator (linear alkylbenzene based, with PPO and bis-MSB wavelength shifters, or a loaded variant).** Scintillation yields ~10,000 photons/MeV versus ~67 for Cherenkov, a factor >100 in photon count.",
-   "The buoyancy analysis above shows the fill density is compatible with the sphere wall limit, which should be checked against the actual scintillator chosen.",
-   "**Upgrade the sphere's internal optical environment and light-shifting.** The 5 cm acrylic wall should be checked for transmission at the emission wavelength of the chosen fluor.",
-   "Adding a wavelength shifter in the scintillator (bis-MSB) moves emission toward the PMT peak sensitivity and the acrylic transmission window.",
-   "**Sphere-to-shield separation and restraint.** The sphere must remain free to move within the load window in both directions.",
-   "Use flexible restraints rated for ±157 t and distribute load across the sphere's support points so that no point exceeds the wall's local limit.",
-   "TOP RECOMMENDATION: Replace the water in the acrylic sphere with liquid scintillator (with wavelength shifter), keeping the sphere density within the 0.7–1.3 g/cm³ window that the 300 kg/m³ wall limit allows."
+   "- Constraint on the sphere: a net buoyant or downward load of at most 300 kg/m³ of contained volume.",
+   "The sphere is fully submerged in shield water, so the buoyant force on the sphere-plus-contents system is set by the displaced water.",
+   "**Buoyancy check first.** The sphere volume is (4/3)π(5 m)³ ≈ 523.6 m³.",
+   "The water inside weighs 520 t, and the acrylic shell (5 cm wall, roughly 11 m² external...",
+   "more precisely about 0.05 m × 4π(5)² ≈ 15.7 m³ of acrylic at ~1,190 kg/m³ ≈ 18.7 t).",
+   "Net buoyant force is therefore roughly 523.6 − 520 − 18.7 ≈ −15 t, i.e.",
+   "about 29 kg/m³ of contained volume, well within the 300 kg/m³ limit.",
+   "Any change that adds mass inside the sphere must stay within a budget of roughly 150 t of extra net load (300 kg/m³ × 523.6 m³ ≈ 157 t, minus the existing ~15 t margin, so ~140 t of added net weight is tolerable), and a scintillator fill (~0.8 to 0.9 g/cm³) is nearly neutrally buoyant, so this constraint is easily satisfied by liquid scintillator.",
+   "loaded scintillator above 1 g/cm³) would still need checking against this budget.",
+   "Buoyancy is acceptable as noted above.",
+   "**Acrylic optical quality and background.** Keep the existing 5 cm acrylic (retained by programme) but verify transmission at the scintillator emission wavelengths (~420 nm for typical LAB-based scintillators) and reduce radioactive contamination (U/Th/K, ²¹⁰Pb) with low-background handling.",
+   "**Safety and interface items.** Add a nitrogen blanket or inert gas system over the scintillator to limit oxygen quenching and fire risk, and a fill/drain system with density monitoring to keep the net load within the 300 kg/m³ limit.",
+   "**Expected outcome.** Scintillator fill plus modest PMT/concentrator enhancement should reach and exceed 400 PE/MeV, while staying within the sphere's load limit and reusing the cavity, acrylic, PMT array and shield.",
+   "TOP RECOMMENDATION: Replace the ultrapure water inside the acrylic sphere with liquid scintillator, which provides the roughly 50-fold light-yield increase needed while remaining nearly neutrally buoyant within the sphere's load limit."
   ]
  },
  {
@@ -5484,12 +5485,15 @@
   ]
  },
  {
-  "card": "e3a7ad074f",
+  "card": "2f3971c972",
   "level": "BASE",
-  "final_line": "Dissolve wavelength-shifting fluorescent compound (PPO at ~3 g/L) in the target water to convert Cherenkov UV photons to isotropic visible light, achieving the required 50× light yield increase.",
+  "final_line": "Replace ultrapure water with liquid scintillator in the target sphere",
   "relevant_sentences": [
-   "The 300 kg/m³ net load limit is respected since we're not changing the basic configuration.",
-   "The sphere volume is ~524 m³, so maximum net load is ~157 tonnes."
+   "- Acrylic sphere, PMT array structure, and shield water are retained",
+   "- Maximum net load: 300 kg/m³ of contained volume",
+   "**Technology:** Acrylic or glass light concentrators with reflective coating, increasing effective photocathode area by factor of ~1.5-2",
+   "**Technology:** Replace ultrapure water with linear alkylbenzene (LAB) based liquid scintillator doped with PPO and bis-MSB",
+   "**However**, this violates the \"light water\" specification and requires careful consideration of the density (ρ_LAB ≈ 860 kg/m³ vs ρ_water = 1000 kg/m³), which actually reduces the load by 73 tonnes - well within safety limits."
   ]
  },
  {
@@ -6086,26 +6090,25 @@
   ]
  },
  {
-  "card": "35050746a4",
+  "card": "a286203210",
   "level": "BASE",
-  "final_line": "Replace the ultrapure water inside the acrylic sphere with liquid scintillator (density ≈ 0.86 g/cm³), which keeps the net buoyant load within the 300 kg/m³ limit while raising light yield by roughly 50× to meet the 400 PE/MeV requirement.",
+  "final_line": "Replace the water in the acrylic sphere with liquid scintillator (with wavelength shifter), keeping the sphere density within the 0.7–1.3 g/cm³ window that the 300 kg/m³ wall limit allows.",
   "relevant_sentences": [
-   "Key constraint: the sphere and its load**",
-   "- Maximum net load: 300 kg/m³ × 523 m³ ≈ 157 tonnes.",
-   "- The sphere is fully immersed in shield water, so buoyancy supplies an upward force equal to the displaced water mass, about 1,000 kg/m³ × 523 m³ ≈ 523 tonnes.",
-   "- Any liquid inside the sphere of density ρ produces a net upward load of (1000 − ρ) × 523 kg, minus the sphere's own weight, which the 300 kg/m³ limit already includes.",
-   "Filling the sphere with a liquid denser than water is not an option, since it would load the wall far beyond 157 tonnes in the downward direction.",
-   "Filling with a liquid lighter than water is limited by the upward net load.",
-   "For a contained liquid of density ρ, the net force relative to the 300 kg/m³ budget requires (1000 − ρ) ≤ 300, i.e.",
-   "ρ ≥ 700 kg/m³ for an upward-buoyant configuration to stay within the limit, and similar bounds apply if the sphere is held down.",
-   "Liquid scintillator (ρ ≈ 780–870 kg/m³) falls inside this window, which is why it is the natural candidate.",
-   "a) **Replace the ultrapure water in the sphere with liquid scintillator** (linear alkylbenzene based, density around 0.86 g/cm³).",
-   "Net buoyant load becomes about (1000 − 860) × 523 ≈ 73 tonnes upward, within the 157-tonne budget.",
-   "e) **Acrylic sphere**: retain the vessel but verify compatibility with scintillator (solvent-resistant acrylic or added inner liner), and check that the 5 cm wall still meets the stress limit under the new fluid's hydrostatic loading, which the density analysis above shows is satisfied.",
-   "f) **Shield water**: retain, since it continues to provide the external shielding and buoyancy support.",
-   "The mechanical load stays within the 300 kg/m³ limit.",
-   "The main risks are scintillator compatibility with acrylic and the radiopurity budget, both of which need dedicated testing.",
-   "TOP RECOMMENDATION: Replace the ultrapure water inside the acrylic sphere with liquid scintillator (density ≈ 0.86 g/cm³), which keeps the net buoyant load within the 300 kg/m³ limit while raising light yield by roughly 50× to meet the 400 PE/MeV requirement."
+   "**Key constraint: buoyancy**",
+   "The load limit is 300 kg/m³, so the maximum net vertical load is about 157 tonnes.",
+   "The sphere sits fully submerged in shield water (density ~1000 kg/m³).",
+   "Buoyant force on the sphere is about 523.6 t of water displaced, which the sphere's contents (520 t water inside) roughly balance.",
+   "Any added liquid scintillator must have density close to 1000 kg/m³ or the net load changes by (ρ_scint − 1000) × 523.6 m³.",
+   "A scintillator at 0.85 g/cm³ would make the sphere float with a net upward load of about 78 tonnes, within the limit, but a denser fill (e.g.",
+   "loaded scintillator at 1.1 g/cm³) would give a downward load of about 52 tonnes, also within the limit.",
+   "The 300 kg/m³ constraint therefore permits a fill density anywhere from roughly 0.7 to 1.3 g/cm³ before the wall is overloaded, provided the restraint allows movement consistent with the load in both directions.",
+   "**Replace the sphere contents with liquid scintillator (linear alkylbenzene based, with PPO and bis-MSB wavelength shifters, or a loaded variant).** Scintillation yields ~10,000 photons/MeV versus ~67 for Cherenkov, a factor >100 in photon count.",
+   "The buoyancy analysis above shows the fill density is compatible with the sphere wall limit, which should be checked against the actual scintillator chosen.",
+   "**Upgrade the sphere's internal optical environment and light-shifting.** The 5 cm acrylic wall should be checked for transmission at the emission wavelength of the chosen fluor.",
+   "Adding a wavelength shifter in the scintillator (bis-MSB) moves emission toward the PMT peak sensitivity and the acrylic transmission window.",
+   "**Sphere-to-shield separation and restraint.** The sphere must remain free to move within the load window in both directions.",
+   "Use flexible restraints rated for ±157 t and distribute load across the sphere's support points so that no point exceeds the wall's local limit.",
+   "TOP RECOMMENDATION: Replace the water in the acrylic sphere with liquid scintillator (with wavelength shifter), keeping the sphere density within the 0.7–1.3 g/cm³ window that the 300 kg/m³ wall limit allows."
   ]
  },
  {
@@ -7068,15 +7071,12 @@
   ]
  },
  {
-  "card": "2f3971c972",
+  "card": "5ce4f5ffc0",
   "level": "BASE",
-  "final_line": "Replace ultrapure water with liquid scintillator in the target sphere",
+  "final_line": "Liquid Scintillator Target Replacement",
   "relevant_sentences": [
-   "- Acrylic sphere, PMT array structure, and shield water are retained",
-   "- Maximum net load: 300 kg/m³ of contained volume",
-   "**Technology:** Acrylic or glass light concentrators with reflective coating, increasing effective photocathode area by factor of ~1.5-2",
-   "**Technology:** Replace ultrapure water with linear alkylbenzene (LAB) based liquid scintillator doped with PPO and bis-MSB",
-   "**However**, this violates the \"light water\" specification and requires careful consideration of the density (ρ_LAB ≈ 860 kg/m³ vs ρ_water = 1000 kg/m³), which actually reduces the load by 73 tonnes - well within safety limits."
+   "**Technology:** Replace the 520 tonnes of light water with linear alkylbenzene (LAB) based liquid scintillator doped with PPO (primary fluor) and bis-MSB (wavelength shifter).",
+   "- LAB density (~0.86 g/cm³) is lower than water, reducing stress on acrylic sphere (net upward buoyancy load ~73 kg/m³ - well within the 300 kg/m³ limit)"
   ]
  },
  {
@@ -9284,12 +9284,15 @@
   ]
  },
  {
-  "card": "54c057d203",
+  "card": "9e925d10b4",
   "level": "BASE",
-  "final_line": "Hybrid PMT+SiPM Photon Detection System",
+  "final_line": "Replace 10-inch PMTs with 20-inch high-quantum-efficiency photomultiplier tubes, paired with wavelength-shifting interior coating of the acrylic sphere",
   "relevant_sentences": [
-   "**Acrylic Sphere Replacement: Ultra-Low-Radioactivity Fused Silica or PMMA**",
-   "**Technology:** Replace acrylic with radio-pure fused silica or ultra-purified PMMA with <10 ppt uranium/thorium."
+   "- **Technology:** TPB (tetraphenyl butadiene) wavelength-shifter coating on interior acrylic surface, or high-reflectivity (>92%) diffuse reflector film",
+   "**Cherenkov Threshold Reduction via Gadolinium Loading**",
+   "- Negligible given existing 300 kg/m³ load capacity margin",
+   "- Gd loading + electronics: Enable lower threshold detection",
+   "**TOP RECOMMENDATION: Replace 10-inch PMTs with 20-inch high-quantum-efficiency photomultiplier tubes, paired with wavelength-shifting interior coating of the acrylic sphere**"
   ]
  },
  {
@@ -10478,14 +10481,13 @@
   ]
  },
  {
-  "card": "195abb2555",
+  "card": "92d3461fbf",
   "level": "BASE",
-  "final_line": "Increase photomultiplier tube density to 20,000+ units (mixed 10-inch and 12-inch tubes) with expanded support frame infrastructure and upgrade to next-generation high-QE PMTs (>35% quantum efficiency), as this provides the largest incremental improvement (~4-5×) while remaining compatible with existing cavity and acrylic sphere infrastructure.",
+  "final_line": "Replace existing photomultiplier tubes with modern high-quantum-efficiency 10-inch PMTs (Hamamatsu R12860-class, QE ~35%) and apply TPB wavelength-shifting coating to the inner acrylic sphere surface, which together provide the required 4× photoelectron yield improvement with minimal structural modification.",
   "relevant_sentences": [
-   "- **Upgrade:** Deploy wavelength-shifting (WLS) fibers near inner acrylic sphere surface to absorb UV/blue Cherenkov photons and re-emit at longer wavelengths matched to PMT peak response",
-   "- **Current:** Transparent acrylic (some internal reflection losses)",
-   "- **Upgrade:** Apply internal diffuse reflective coating (e.g., titanium dioxide or specialized reflective film) to the inner acrylic surface, or add a reflective boundary layer",
-   "**TOP RECOMMENDATION:** Increase photomultiplier tube density to 20,000+ units (mixed 10-inch and 12-inch tubes) with expanded support frame infrastructure and upgrade to next-generation high-QE PMTs (>35% quantum efficiency), as this provides the largest incremental improvement (~4-5×) while remaining compatible with existing cavity and acrylic sphere infrastructure."
+   "- Apply **tetraphenyl butadiene (TPB) or Y11 wavelength-shifting coating** to the acrylic sphere's inner surface at 1-2 mg/cm²",
+   "**Increase PMT Array Density** (if feasible)",
+   "**TOP RECOMMENDATION: Replace existing photomultiplier tubes with modern high-quantum-efficiency 10-inch PMTs (Hamamatsu R12860-class, QE ~35%) and apply TPB wavelength-shifting coating to the inner acrylic sphere surface, which together provide the required 4× photoelectron yield improvement with minimal structural modification.**"
   ]
  },
  {
@@ -10838,17 +10840,12 @@
   ]
  },
  {
-  "card": "4571547691",
+  "card": "e3a7ad074f",
   "level": "BASE",
-  "final_line": "Wavelength-shifting liquid scintillator target replacement",
+  "final_line": "Dissolve wavelength-shifting fluorescent compound (PPO at ~3 g/L) in the target water to convert Cherenkov UV photons to isotropic visible light, achieving the required 50× light yield increase.",
   "relevant_sentences": [
-   "**Technology:** Replace the 520 tonnes of light water with a liquid scintillator (linear alkylbenzene or pseudocumene-based) doped with wavelength shifters (PPO primary fluor, bis-MSB secondary fluor).",
-   "**Technology:** Coat the inner surface of the acrylic sphere with a wavelength-shifting reflector (TPB or similar) or install a thin WLS-coated film.",
-   "- Recovers UV photons that would otherwise be absorbed by the acrylic",
-   "**Improved Acrylic Sphere Transparency**",
-   "**Technology:** Replace or treat acrylic with higher UV-transparency grade (or use nylon for better scintillator compatibility).",
-   "- Standard acrylic absorbs UV strongly; high-transparency variants improve light transmission",
-   "The sphere's structural limit (300 kg/m³ net load) needs verification: liquid scintillator density (~0.86 g/cm³) is lighter than water, reducing downward load by ~70 tonnes—structurally favorable."
+   "The 300 kg/m³ net load limit is respected since we're not changing the basic configuration.",
+   "The sphere volume is ~524 m³, so maximum net load is ~157 tonnes."
   ]
  },
  {
@@ -11431,13 +11428,13 @@
   ]
  },
  {
-  "card": "1ac1fda582",
+  "card": "86fda226df",
   "level": "BASE",
-  "final_line": "Install a diffuse white internal reflector (Spectralon or equivalent high-reflectivity material) on the inner surface of the acrylic sphere to capture and redirect isotropically-emitted Cherenkov photons toward the PMT array, combined with replacement of existing PMTs with higher quantum efficiency modern tubes (Hamamatsu R12860-series or equivalent) and increased array density to ~10,000-12,000 tubes.",
+  "final_line": "Replace the 6,800 × 10-inch PMTs with ~1,700 × 20-inch PMTs featuring >30% quantum efficiency bialkali photocathodes and improved electron collection optics, coupled with a white diffuse reflector liner on the inner acrylic sphere surface",
   "relevant_sentences": [
-   "- Install **diffuse white reflector coating** (e.g., enhanced Spectralon, Teflon, or titanium dioxide polymer) on the inner acrylic sphere surface",
-   "- Deploy **TPB (tetraphenyl butadiene) wavelength shifter coating** on PMT windows or floating WLS plates",
-   "**TOP RECOMMENDATION: Install a diffuse white internal reflector (Spectralon or equivalent high-reflectivity material) on the inner surface of the acrylic sphere to capture and redirect isotropically-emitted Cherenkov photons toward the PMT array, combined with replacement of existing PMTs with higher quantum efficiency modern tubes (Hamamatsu R12860-series or equivalent) and increased array density to ~10,000-12,000 tubes.**"
+   "- Add **diffuse white reflector** on inner acrylic sphere surface (Tyvek or spectralon)",
+   "- Apply **tetraphenyl butadiene (TPB)** wavelength shifter to PMT windows or acrylic surface",
+   "**TOP RECOMMENDATION: Replace the 6,800 × 10-inch PMTs with ~1,700 × 20-inch PMTs featuring >30% quantum efficiency bialkali photocathodes and improved electron collection optics, coupled with a white diffuse reflector liner on the inner acrylic sphere surface**"
   ]
  },
  {
@@ -11913,13 +11910,17 @@
   ]
  },
  {
-  "card": "92d3461fbf",
+  "card": "711d752389",
   "level": "BASE",
-  "final_line": "Replace existing photomultiplier tubes with modern high-quantum-efficiency 10-inch PMTs (Hamamatsu R12860-class, QE ~35%) and apply TPB wavelength-shifting coating to the inner acrylic sphere surface, which together provide the required 4× photoelectron yield improvement with minimal structural modification.",
+  "final_line": "Install wavelength-shifting (tetraphenyl butadiene) coating on the inner surface of the acrylic sphere and upgrade PMT array to higher quantum efficiency photomultiplier tubes (25%+ QE bialkali cathodes or HPDs). These two changes combined provide 8-15× signal amplification, addressing the primary physics requirement while minimizing technical risk and cost.",
   "relevant_sentences": [
-   "- Apply **tetraphenyl butadiene (TPB) or Y11 wavelength-shifting coating** to the acrylic sphere's inner surface at 1-2 mg/cm²",
-   "**Increase PMT Array Density** (if feasible)",
-   "**TOP RECOMMENDATION: Replace existing photomultiplier tubes with modern high-quantum-efficiency 10-inch PMTs (Hamamatsu R12860-class, QE ~35%) and apply TPB wavelength-shifting coating to the inner acrylic sphere surface, which together provide the required 4× photoelectron yield improvement with minimal structural modification.**"
+   "**ADD WAVELENGTH-SHIFTING (WLS) COATING TO INNER ACRYLIC SPHERE SURFACE** *(High Priority)*",
+   "- Cherenkov light peaks in UV (350 nm); acrylic transmits poorly below 350 nm",
+   "- Compatible with existing acrylic sphere; applied as thin film",
+   "**INCREASE PMT ARRAY DENSITY OR UPGRADE TO LARGER PHOTOSENSORS** *(Medium Priority)*",
+   "**INSTALL REFLECTIVE MIRROR COATING ON EXTERIOR ACRYLIC SURFACE** *(Medium Priority)*",
+   "- **Sphere wall integrity:** No modifications to acrylic thickness or structural properties required (WLS is a surface coating; mirrors are external)",
+   "**TOP RECOMMENDATION: Install wavelength-shifting (tetraphenyl butadiene) coating on the inner surface of the acrylic sphere and upgrade PMT array to higher quantum efficiency photomultiplier tubes (25%+ QE bialkali cathodes or HPDs)."
   ]
  },
  {
@@ -12109,25 +12110,26 @@
   ]
  },
  {
-  "card": "948496986f",
+  "card": "35050746a4",
   "level": "BASE",
-  "final_line": "Replace the ultrapure water inside the acrylic sphere with radiopure liquid scintillator, since this is the only change that supplies the roughly 50-fold increase in photons per MeV that the programme requires, and every other upgrade depends on it.",
+  "final_line": "Replace the ultrapure water inside the acrylic sphere with liquid scintillator (density ≈ 0.86 g/cm³), which keeps the net buoyant load within the 300 kg/m³ limit while raising light yield by roughly 50× to meet the 400 PE/MeV requirement.",
   "relevant_sentences": [
-   "Liquid scintillator (e.g., linear alkylbenzene, LAB, with a fluor such as PPO) yields roughly 10⁴ photons per MeV, comfortably providing the margin needed.",
-   "Its volume is V = (4/3)π(5 m)³ ≈ 523 m³ (contained volume, which is what the load limit refers to).",
-   "Liquid scintillator density is ~0.86 g/cm³, so the contents weigh about 450 tonnes, versus 520 tonnes for water.",
-   "The net buoyancy relative to the shield water is the key: water displaces ~1000 kg/m³, so the sphere's buoyant force is roughly 523 m³ × 1000 kg/m³ = 523 t, and the scintillator-filled sphere's own weight (acrylic shell plus contents) must be balanced against it.",
-   "Net load per cubic metre of contained volume = (sphere mass + contents mass − displaced water mass) / V.",
-   "With scintillator (0.86 t/m³) instead of water, the contents are lighter, so the sphere becomes more buoyant relative to its own weight: net upward force per m³ rises by about 140 kg/m³ compared with water-filled, before counting the shell.",
-   "The limit is 300 kg/m³ net vertical load, whichever direction.",
-   "The shell mass and any ballast/tethers must therefore be chosen so that the net load stays within ±300 kg/m³.",
-   "This means the restraint and ballast design must be reworked, and it is a real constraint: a scintillator fill that is too light may exceed the upward limit unless ballast is added, while adding ballast increases the downward load on the wall if the design changes.",
-   "Note that the sphere's 5 cm acrylic wall is transparent to scintillation light only in the visible-to-near-UV band; a wavelength-shifter or a fluor with emission above ~400 nm is needed to avoid attenuation.",
-   "The pep/CNO and geoneutrino programme demands far lower radioactive backgrounds than the 8B programme (¹⁴C in LAB, ²¹⁰Pb, ²³⁸U/²³²Th chains in the fill and acrylic).",
-   "Radiopurity purification of the scintillator (distillation, water extraction, nitrogen purging) is a hardware system to add, and the acrylic and PMT glass should be assayed.",
-   "**Replace the sphere fill: ultrapure water → liquid scintillator (LAB + PPO/bis-MSB), with an inert nitrogen cover gas.** Why: provides the ~50× photon-yield increase; the only physics route to ≥400 PE/MeV.",
-   "**Buoyancy and restraint redesign (ballast, tether tension, sphere shell mass) verified against the ±300 kg/m³ net-load limit.** Why: scintillator changes the net buoyancy; without re-engineering the wall could exceed its load rating.",
-   "TOP RECOMMENDATION: Replace the ultrapure water inside the acrylic sphere with radiopure liquid scintillator, since this is the only change that supplies the roughly 50-fold increase in photons per MeV that the programme requires, and every other upgrade depends on it."
+   "Key constraint: the sphere and its load**",
+   "- Maximum net load: 300 kg/m³ × 523 m³ ≈ 157 tonnes.",
+   "- The sphere is fully immersed in shield water, so buoyancy supplies an upward force equal to the displaced water mass, about 1,000 kg/m³ × 523 m³ ≈ 523 tonnes.",
+   "- Any liquid inside the sphere of density ρ produces a net upward load of (1000 − ρ) × 523 kg, minus the sphere's own weight, which the 300 kg/m³ limit already includes.",
+   "Filling the sphere with a liquid denser than water is not an option, since it would load the wall far beyond 157 tonnes in the downward direction.",
+   "Filling with a liquid lighter than water is limited by the upward net load.",
+   "For a contained liquid of density ρ, the net force relative to the 300 kg/m³ budget requires (1000 − ρ) ≤ 300, i.e.",
+   "ρ ≥ 700 kg/m³ for an upward-buoyant configuration to stay within the limit, and similar bounds apply if the sphere is held down.",
+   "Liquid scintillator (ρ ≈ 780–870 kg/m³) falls inside this window, which is why it is the natural candidate.",
+   "a) **Replace the ultrapure water in the sphere with liquid scintillator** (linear alkylbenzene based, density around 0.86 g/cm³).",
+   "Net buoyant load becomes about (1000 − 860) × 523 ≈ 73 tonnes upward, within the 157-tonne budget.",
+   "e) **Acrylic sphere**: retain the vessel but verify compatibility with scintillator (solvent-resistant acrylic or added inner liner), and check that the 5 cm wall still meets the stress limit under the new fluid's hydrostatic loading, which the density analysis above shows is satisfied.",
+   "f) **Shield water**: retain, since it continues to provide the external shielding and buoyancy support.",
+   "The mechanical load stays within the 300 kg/m³ limit.",
+   "The main risks are scintillator compatibility with acrylic and the radiopurity budget, both of which need dedicated testing.",
+   "TOP RECOMMENDATION: Replace the ultrapure water inside the acrylic sphere with liquid scintillator (density ≈ 0.86 g/cm³), which keeps the net buoyant load within the 300 kg/m³ limit while raising light yield by roughly 50× to meet the 400 PE/MeV requirement."
   ]
  },
  {
@@ -12421,12 +12423,17 @@
   ]
  },
  {
-  "card": "5ce4f5ffc0",
+  "card": "4571547691",
   "level": "BASE",
-  "final_line": "Liquid Scintillator Target Replacement",
+  "final_line": "Wavelength-shifting liquid scintillator target replacement",
   "relevant_sentences": [
-   "**Technology:** Replace the 520 tonnes of light water with linear alkylbenzene (LAB) based liquid scintillator doped with PPO (primary fluor) and bis-MSB (wavelength shifter).",
-   "- LAB density (~0.86 g/cm³) is lower than water, reducing stress on acrylic sphere (net upward buoyancy load ~73 kg/m³ - well within the 300 kg/m³ limit)"
+   "**Technology:** Replace the 520 tonnes of light water with a liquid scintillator (linear alkylbenzene or pseudocumene-based) doped with wavelength shifters (PPO primary fluor, bis-MSB secondary fluor).",
+   "**Technology:** Coat the inner surface of the acrylic sphere with a wavelength-shifting reflector (TPB or similar) or install a thin WLS-coated film.",
+   "- Recovers UV photons that would otherwise be absorbed by the acrylic",
+   "**Improved Acrylic Sphere Transparency**",
+   "**Technology:** Replace or treat acrylic with higher UV-transparency grade (or use nylon for better scintillator compatibility).",
+   "- Standard acrylic absorbs UV strongly; high-transparency variants improve light transmission",
+   "The sphere's structural limit (300 kg/m³ net load) needs verification: liquid scintillator density (~0.86 g/cm³) is lighter than water, reducing downward load by ~70 tonnes—structurally favorable."
   ]
  },
  {
@@ -12609,21 +12616,13 @@
   ]
  },
  {
-  "card": "201b9d3215",
+  "card": "c366c569f7",
   "level": "BASE",
-  "final_line": "Replace the acrylic sphere with fused silica and install wavelength-shifting plates on its inner surface. This single integrated upgrade recovers the 70–90% of UV Cherenkov photons currently lost to acrylic absorption and PMT spectral mismatch, providing the largest multiplicative gain in photoelectron collection while leveraging the existing PMT array and cavity.",
+  "final_line": "Upgrade to ultra-high quantum efficiency photomultiplier tubes (>32% QE) with expanded array packing from 6,800 to ~18,000 tubes.",
   "relevant_sentences": [
-   "**Increased PMT Array Density**",
-   "With perfect collection at current density yielding only ~96 photoelectrons/MeV (12% × ~800 isotropic photons/MeV), increasing solid angle to near 50% gets within striking distance of the 400 photoelectron goal while complementing QE improvements.",
-   "**Technology:** Install wavelength-shifting (WLS) plates (e.g., TPB-coated acrylic) on the inner surface of the acrylic sphere, or use WLS fiber arrays to capture UV Cherenkov photons and re-emit them at wavelengths matching PMT spectral response.",
-   "**Physics Motivation:** Cherenkov radiation peaks in the UV (~300 nm), where standard PMT quantum efficiency is poor and acrylic transmission drops sharply.",
-   "**Acrylic Sphere Replacement with Fused Silica**",
-   "**Technology:** Replace the acrylic sphere with fused silica of comparable dimensions and wall thickness.",
-   "~10% for acrylic) and lower fluorescence background.",
-   "| Increased PMT density | +30–40% photoelectron yield | **HIGH** |",
-   "The combination of higher-QE PMTs (×1.3), increased density (×1.4), and WLS + improved UV transmission (×2.5) yields approximately ×4.6, still short of 50×.",
-   "**TOP RECOMMENDATION: Replace the acrylic sphere with fused silica and install wavelength-shifting plates on its inner surface.",
-   "This single integrated upgrade recovers the 70–90% of UV Cherenkov photons currently lost to acrylic absorption and PMT spectral mismatch, providing the largest multiplicative gain in photoelectron collection while leveraging the existing PMT array and cavity.**"
+   "**Technology:** Increase PMT count from 6,800 to ~15,000-20,000 tubes (higher packing density or larger diameter array frame restructuring).",
+   "**Internal Reflective Surface Upgrade: Tyvek or Enhanced Acrylic Coating**",
+   "**Technology:** Add high-reflectivity Tyvek lining or apply reflective coating to inner acrylic sphere surface, or use wavelength-shifting plate technology on PMT windows."
   ]
  },
  {
@@ -12659,13 +12658,13 @@
   ]
  },
  {
-  "card": "52ae9fb18d",
+  "card": "2b0faaa7c3",
   "level": "BASE",
-  "final_line": "Replace 10-inch PMTs with 20-inch diameter photomultiplier tubes, increasing collection solid angle by 4× and achieving the primary photon capture gain required for the 400 PE/MeV target.",
+  "final_line": "Install wavelength-shifting (WLS) foils or coatings on the inner surface of the acrylic sphere to convert UV Cherenkov photons to visible wavelengths matching PMT sensitivity peaks, combined with a 3× expansion of the PMT array from 6,800 to ~20,000 tubes.",
   "relevant_sentences": [
-   "- Reuses existing support frame structure (though lighter loading)",
-   "- Inner acrylic sphere surface",
-   "- **Mechanical:** Verify 20\" PMTs fit within existing support frame; reduced count actually *decreases* load"
+   "**Increase Photomultiplier Tube (PMT) Array Density** (Primary)",
+   "- Line inner acrylic sphere surface with WLS material",
+   "**TOP RECOMMENDATION: Install wavelength-shifting (WLS) foils or coatings on the inner surface of the acrylic sphere to convert UV Cherenkov photons to visible wavelengths matching PMT sensitivity peaks, combined with a 3× expansion of the PMT array from 6,800 to ~20,000 tubes.**"
   ]
  },
  {
@@ -12906,25 +12905,23 @@
   ]
  },
  {
-  "card": "9e925d10b4",
+  "card": "6797e3f2eb",
   "level": "BASE",
-  "final_line": "Replace 10-inch PMTs with 20-inch high-quantum-efficiency photomultiplier tubes, paired with wavelength-shifting interior coating of the acrylic sphere",
+  "final_line": "Replace the 6,800 10-inch PMT array with a hybrid configuration of approximately 10,000 Hybrid Photo-Detectors (HPDs) with 50% quantum efficiency, increasing total photocathode area by ~30% while achieving the required 50× photoelectron multiplication through combined improvements in detector efficiency, coverage, and photon wavelength matching.",
   "relevant_sentences": [
-   "- **Technology:** TPB (tetraphenyl butadiene) wavelength-shifter coating on interior acrylic surface, or high-reflectivity (>92%) diffuse reflector film",
-   "**Cherenkov Threshold Reduction via Gadolinium Loading**",
-   "- Negligible given existing 300 kg/m³ load capacity margin",
-   "- Gd loading + electronics: Enable lower threshold detection",
-   "**TOP RECOMMENDATION: Replace 10-inch PMTs with 20-inch high-quantum-efficiency photomultiplier tubes, paired with wavelength-shifting interior coating of the acrylic sphere**"
+   "Expand the support frame from 16 m to 17-18 m diameter and increase PMT/HPD density to ~10,000-12,000 total photo-detectors.",
+   "- **Upgrade acrylic sphere coating** to a wavelength-shifting (WLS) interface that converts UV/near-UV Cherenkov photons to visible wavelengths where PMT/HPD quantum efficiency peaks (~420 nm)"
   ]
  },
  {
-  "card": "c366c569f7",
+  "card": "195abb2555",
   "level": "BASE",
-  "final_line": "Upgrade to ultra-high quantum efficiency photomultiplier tubes (>32% QE) with expanded array packing from 6,800 to ~18,000 tubes.",
+  "final_line": "Increase photomultiplier tube density to 20,000+ units (mixed 10-inch and 12-inch tubes) with expanded support frame infrastructure and upgrade to next-generation high-QE PMTs (>35% quantum efficiency), as this provides the largest incremental improvement (~4-5×) while remaining compatible with existing cavity and acrylic sphere infrastructure.",
   "relevant_sentences": [
-   "**Technology:** Increase PMT count from 6,800 to ~15,000-20,000 tubes (higher packing density or larger diameter array frame restructuring).",
-   "**Internal Reflective Surface Upgrade: Tyvek or Enhanced Acrylic Coating**",
-   "**Technology:** Add high-reflectivity Tyvek lining or apply reflective coating to inner acrylic sphere surface, or use wavelength-shifting plate technology on PMT windows."
+   "- **Upgrade:** Deploy wavelength-shifting (WLS) fibers near inner acrylic sphere surface to absorb UV/blue Cherenkov photons and re-emit at longer wavelengths matched to PMT peak response",
+   "- **Current:** Transparent acrylic (some internal reflection losses)",
+   "- **Upgrade:** Apply internal diffuse reflective coating (e.g., titanium dioxide or specialized reflective film) to the inner acrylic surface, or add a reflective boundary layer",
+   "**TOP RECOMMENDATION:** Increase photomultiplier tube density to 20,000+ units (mixed 10-inch and 12-inch tubes) with expanded support frame infrastructure and upgrade to next-generation high-QE PMTs (>35% quantum efficiency), as this provides the largest incremental improvement (~4-5×) while remaining compatible with existing cavity and acrylic sphere infrastructure."
   ]
  },
  {
@@ -13151,15 +13148,13 @@
   ]
  },
  {
-  "card": "8d782050ad",
+  "card": "1ac1fda582",
   "level": "BASE",
-  "final_line": "Replace existing 10-inch PMTs with 20-inch photomultiplier tubes offering higher quantum efficiency and larger collection area, as this single change provides the largest geometric and photometric efficiency gain while remaining compatible with existing cavity and sphere constraints.",
+  "final_line": "Install a diffuse white internal reflector (Spectralon or equivalent high-reflectivity material) on the inner surface of the acrylic sphere to capture and redirect isotropically-emitted Cherenkov photons toward the PMT array, combined with replacement of existing PMTs with higher quantum efficiency modern tubes (Hamamatsu R12860-series or equivalent) and increased array density to ~10,000-12,000 tubes.",
   "relevant_sentences": [
-   "**Wavelength-Shifting Coating on Acrylic Sphere Interior**",
-   "- **Technology:** TPB (tetraphenyl butadiene) or equivalent wavelength shifter applied to inner acrylic surface",
-   "**Increased PMT Array Density & Coverage**",
-   "- **Technology:** Expand from 6,800 to ~10,000-12,000 PMTs, or replace with smaller-diameter (~5-inch) PMTs at higher density",
-   "The acrylic sphere stress limit (300 kg/m³) is **not a constraint** for these upgrades since:"
+   "- Install **diffuse white reflector coating** (e.g., enhanced Spectralon, Teflon, or titanium dioxide polymer) on the inner acrylic sphere surface",
+   "- Deploy **TPB (tetraphenyl butadiene) wavelength shifter coating** on PMT windows or floating WLS plates",
+   "**TOP RECOMMENDATION: Install a diffuse white internal reflector (Spectralon or equivalent high-reflectivity material) on the inner surface of the acrylic sphere to capture and redirect isotropically-emitted Cherenkov photons toward the PMT array, combined with replacement of existing PMTs with higher quantum efficiency modern tubes (Hamamatsu R12860-series or equivalent) and increased array density to ~10,000-12,000 tubes.**"
   ]
  },
  {
