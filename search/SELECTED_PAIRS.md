@@ -87,3 +87,18 @@ Materials. For each pair, the author agents (brief v2, rules 1–10) write BASE 
 - D2 stalled before writing its verdict narrative; its verified claims are on file (claims/D2_q26_q27_q30_verified.json).
 - The p19 materials were started before D1 completed (the efficiency reorder logged in RUNBOOK); selection rests on dating alone.
 - **Field:** double_beta becomes GERDA, NEMO-3 and CUORE-0 (3, at the cap).
+
+### Continued (2026-11-06, second batch)
+
+| Queue | Baseline | Daters | Agreed item | Commitment | Alternative | Outcome |
+|---|---|---|---|---|---|---|
+| q30 | IceCube (1504036) | D1: mDOM, D-Egg; D2: acoustic calibration | none in common | — | — | **Not eligible** (both-daters-same-item rule, as for NA48) |
+| q34 | EXO-200 (1088706, 2012-02) | D1, D2 ELIGIBLE; both claim the VUV SiPM array and the charge tiles, VERIFIED exact | VUV SiPM array (preferred) | arXiv:1710.05075 (2017-10) | Large-area APDs; VUV PMTs | **Selected as p20_exo200** |
+| q37 | ANTARES (895584) | D1, D2 NOT ELIGIBLE (KM3NeT is a separate collaboration; first multi-PMT commitment within 24 months of or before the baseline) | — | — | — | Not eligible |
+| q38 | MAGIC (648096, 2004) | D1, D2 ELIGIBLE; both claim the increased-QE PMTs and the cold-slumped mirrors, VERIFIED (arXiv:0709.2474 / 0709.2605, 2007-09) | Increased-QE PMTs (preferred, sensor physics) | 2007-09 | GaAsP HPDs | **Selected as p21_magic** |
+
+**Caveats:**
+- **q38:** the 2005 MAGIC ICRC contributions (astro-ph/0508273) were not checked by either dater. If they commit MAGIC-II to these PMTs, I2 fails. **Check this before any p21 materials count.**
+- **q34:** SiPM R&D (arXiv:1502.07837, 2015) is R&D-only; I2 holds either way.
+
+**Field counts (units-bearing):** dark_matter: XENON1T, LUX(0) and EXO-200 is double_beta. double_beta would be GERDA, NEMO-3, CUORE-0(0?), EXO-200. If p19 is confirmed zero-unit, the count is 3, at the cap. If p19 somehow becomes a unit, EXO-200 would exceed the cap and be skipped. Resolve p19 first.

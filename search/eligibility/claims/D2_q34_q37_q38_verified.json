@@ -1,0 +1,50 @@
+[
+ {
+  "item": "1088706/nexo_vuv_sipm_light_readout",
+  "dater": "D2",
+  "doc": "arXiv:1710.05075",
+  "quote": "An array of UV-sensitive silicon photomultipliers (SiPMs) detects scintillation light from particle interactions in LXe.",
+  "baseline_date": "2012-02",
+  "meta_date": "2017-10-13",
+  "quote_match": "exact",
+  "gap_months": 68,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1088706/nexo_crossed_strip_dielectric_charge_tiles",
+  "dater": "D2",
+  "doc": "arXiv:1710.05075",
+  "quote": "The charge signal is envisioned to be read out on the anode by arrays of crossed strips, deposited on 10× 10 cm2 dielectric tiles [26].",
+  "baseline_date": "2012-02",
+  "meta_date": "2017-10-13",
+  "quote_match": "exact",
+  "gap_months": 68,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "648096/magic2_high_qe_superbialkali_pmt_camera",
+  "dater": "D2",
+  "doc": "arXiv:0709.2605",
+  "quote": "In the first phase increased QE PMTs will be used.",
+  "baseline_date": "2004",
+  "meta_date": "2007-09",
+  "quote_match": "exact",
+  "gap_months": 44,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "648096/magic2_cold_slumped_glass_al_honeycomb_mirrors",
+  "dater": "D2",
+  "doc": "arXiv:0709.2605",
+  "quote": "The other half of the mirrors will be produced as a 26 mm tick sandwich of 2 mm glass plates around a Al honeycomb layer using a cold slumping technique.",
+  "baseline_date": "2004",
+  "meta_date": "2007-09",
+  "quote_match": "fuzzy",
+  "gap_months": 44,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ }
+]

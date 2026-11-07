@@ -113,5 +113,17 @@
   "adopted": "lithium|molybd\\w*|li2\\s*moo4|\\bmo[\\s-]?100\\b|\\b100\\s*mo\\b|\\blmo\\b",
   "distractor": "cherenkov|zinc\\s+selenide|\\bznse\\b|cadmium\\s+tungstate|\\bcdwo4\\b|\\b82\\s*se\\b|selenium",
   "identity": "\\bcuore\\b|cuore[\\s-]?0|\\bcupid\\b|cuoricino|gran\\s+sasso|\\blngs\\b"
+ },
+ "p20_exo200": {
+  "item": "VUV-sensitive SiPM light sensors (nEXO)",
+  "adopted": "\\bsipms?\\b|silicon\\s+photo[\\s-]?multipliers?|\\bmppcs?\\b|\\bspads?\\b|single[\\s-]photon\\s+avalanche",
+  "distractor": "\\bapds?\\b|avalanche\\s+photodiodes?|\\blaapds?\\b|\\bpmts?\\b|photomultiplier\\s+tubes?|r11410",
+  "identity": "\\bexo\\b|exo[\\s-]?200|\\bnexo\\b|\\bwipp\\b|carlsbad|snolab"
+ },
+ "p21_magic": {
+  "item": "increased-QE superbialkali PMTs (MAGIC-II camera)",
+  "adopted": "(high|increased|enhanced|improved)[\\s-]+(qe|quantum[\\s-]efficiency)\\s+(pmts?|photomultipliers?)|super[\\s-]?bialkali|ultra[\\s-]?bialkali|r10408",
+  "distractor": "hybrid\\s+photo[\\s-]?(detectors?|diodes?)|\\bhpds?\\b|gaasp|\\bsipms?\\b",
+  "identity": "\\bmagic\\b|magic[\\s-]?(i|ii|2)\\b|la\\s+palma|roque\\s+de\\s+los\\s+muchachos|\\bcta\\b|\\bhess\\b|h\\.e\\.s\\.s"
  }
 }
