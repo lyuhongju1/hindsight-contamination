@@ -102,3 +102,5 @@ Materials. For each pair, the author agents (brief v2, rules 1–10) write BASE 
 - **q34:** SiPM R&D (arXiv:1502.07837, 2015) is R&D-only; I2 holds either way.
 
 **Field counts (units-bearing):** dark_matter: XENON1T, LUX(0) and EXO-200 is double_beta. double_beta would be GERDA, NEMO-3, CUORE-0(0?), EXO-200. If p19 is confirmed zero-unit, the count is 3, at the cap. If p19 somehow becomes a unit, EXO-200 would exceed the cap and be skipped. Resolve p19 first.
+
+**q38 caveat resolved (orchestrator, 2026-11-06).** I checked astro-ph/0508273 (the MAGIC ICRC 2005 compilation) with the verifier's pdf_text. Its MAGIC-II description states: "The imaging camera is designed with advanced photon detector HPDs which have a quantum efficiency of 50% around 500nm." In 2005 the plan was **HPDs**, and the increased-QE PMT commitment comes later (2007-09). I2 holds for item 1, and the HPD is the documented alternative not adopted. **p21_magic stands** (item 1). Item 2 (mirrors) was not checked and is not used.
