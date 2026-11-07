@@ -1,0 +1,4552 @@
+{
+ "e203e044ca": {
+  "custom_id": "c747d60d4d341beb69c9ce889efdf3c7",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "7571248f1f": {
+  "custom_id": "13da3c66efe1cf92e9c78458d3f6e227",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "40bb693013": {
+  "custom_id": "f77cb5cb16df8e8bd0c6eed426039a2a",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "6dd2130e5f": {
+  "custom_id": "9b56a90107e5df5421245f01003b47ac",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "70ea70b7c2": {
+  "custom_id": "c9b30683fb2819ca32741adeea9c3257",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "8fed8bb0b8": {
+  "custom_id": "da4bd594e3d3113165ceb9d16469e976",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "50ff1ca88e": {
+  "custom_id": "74955b7bf9759a7b2edd913549d788f6",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "a8e7ece7a2": {
+  "custom_id": "4d06dc0eff405f5b88a498d6b6341be4",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "e80177ea86": {
+  "custom_id": "c325b757b944b1d0edc53e51a5df930a",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "c2fe7f22f3": {
+  "custom_id": "5841605ebb319216bd4d7892b656a407",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "62df52076c": {
+  "custom_id": "8d3ed6e59df5a2805cec69478f12f119",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "98ad3567cf": {
+  "custom_id": "17042d72730493e6a2b33d3eb79d207e",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "38ceb56b17": {
+  "custom_id": "9f0befa44fbca7b595600712a8e51bb4",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "d5f6ddccd8": {
+  "custom_id": "fbd7aa425290c5da1c99c23e03511ca4",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "ac19a03a3a": {
+  "custom_id": "b6927db8293b7e2de7a0f6c1e5794348",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "c19ecdd563": {
+  "custom_id": "b0bb6a590d77b307240569fb163acef6",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "24a8a92480": {
+  "custom_id": "93a306497813d0a366dbd54ab0843057",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "1ced4125f9": {
+  "custom_id": "f8a73074909fab5d4d5bcaf1a947253b",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "ba93b1a544": {
+  "custom_id": "857b089d32c5ca4b4aa95cacbdbd3aaf",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "abce7b8bca": {
+  "custom_id": "6b29d78a3b5267808202b62792838a66",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "725c1c34c4": {
+  "custom_id": "b7a32f5edc61c054d42b17553ecb662c",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "1ebc61c9f6": {
+  "custom_id": "4116ea23cf59d8f0812e3de06efa0cb5",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "0188932ae6": {
+  "custom_id": "4e93f72d9ca913cb618f7338a3c91676",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "8376995b44": {
+  "custom_id": "dab364ea2664fc9e6845a1347f3da036",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "3e1550539a": {
+  "custom_id": "00e28a1002cb1cf79dada1824b1be6d9",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "3500621060": {
+  "custom_id": "ed7d20bc90211d22423879fea34d8ac5",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "b417c0a6e5": {
+  "custom_id": "f8eab29ebe91254370bec3e8960b244d",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "a814f38742": {
+  "custom_id": "a34600e5d2eb241d513b4d9a8dd59917",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "c105c376b4": {
+  "custom_id": "7a85e3dafa5f7dc4190a5e772ce5a700",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "491b58aaf5": {
+  "custom_id": "6958e86ba0e0028acfc8dfee8c1d6a92",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "900a7d9b30": {
+  "custom_id": "8ba7aff29cba6338efe9aef8d5ae06ad",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "fdafbbe0b8": {
+  "custom_id": "3db28b61bc3bf7e477cd9b6f12e58fa8",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "46a6b8d412": {
+  "custom_id": "6d47cc0579d3faaf32c436b43a120087",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "caa1f3601a": {
+  "custom_id": "0f86c6f5c4035a8fe1670018244f3168",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "2e88da287c": {
+  "custom_id": "576fe37ea0473ca7a55f43bc217375c5",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "6f59316d5a": {
+  "custom_id": "7da57d59669d8698190b90ac86c50cc7",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "690185ebd8": {
+  "custom_id": "b8285677c5d7dc93cf792fd2b3d298fc",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "c97ac81e31": {
+  "custom_id": "e086ebda1d6aafdbc69fd4c4f52cf9db",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "d495e642e8": {
+  "custom_id": "67cde27751198046b5afca6e0cce0945",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "0d272c85ef": {
+  "custom_id": "6a2cabc486e867b054dbb44cb7e2f983",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "4baa4754b9": {
+  "custom_id": "784fc9306e0c32bd113b30d03f1fb08d",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "b4a9d0f1e4": {
+  "custom_id": "a3b5870b0f4becf3ddcd35533593047a",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "826ca36d48": {
+  "custom_id": "1b726673d892e58c68d49541da08d9a3",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "ee4461d8a8": {
+  "custom_id": "e6f1779d4c6ecfc2c5cec7ed735a0d79",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "0544a4d5db": {
+  "custom_id": "f11656e99e4de343440b4868fa511d97",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "2f73d04407": {
+  "custom_id": "b8a8ae905d9cd34189be1cfa15f91a81",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "229ec5d0e8": {
+  "custom_id": "b5d2e7ebeadde9eb9c7dd0374b5fda94",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "709f929bb9": {
+  "custom_id": "4f94c044e8b979ee43fef90a8ba29bb2",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "1acf91a8a9": {
+  "custom_id": "8a7eb5b6ce01089e3f233e83bf2cd528",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "1425f3ec7b": {
+  "custom_id": "9a970e0d70fa159f46e89f1ad39fbe4f",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "c3e94f9faf": {
+  "custom_id": "0ee8bc3a5ae2dea6d054b77231eaa7a5",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "e49dfb1092": {
+  "custom_id": "ad7a4e39f043fc6bdc2097373ac1e74d",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "6605ed902e": {
+  "custom_id": "2b0e26431d5b1837d534199577ec738a",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "4349e47227": {
+  "custom_id": "2fa0fb0448195744594e49f7893c31a1",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "245ddb666f": {
+  "custom_id": "1e23b1b59397cc8ee96a1e11c854aff4",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "5af698c7c3": {
+  "custom_id": "b2b4eb3fa180d35440ff600de6fea8c2",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "0d1f227c6b": {
+  "custom_id": "67ebfa8d92b092aaf78f91b9ec2dcaaa",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "ef1a820fe2": {
+  "custom_id": "a1693eee2f8defa178d85aaa363ef385",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "5a67d3bbcb": {
+  "custom_id": "90aa30258ec809fafa1a0707b6ac73ab",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "c059918a66": {
+  "custom_id": "91805f3b28d4b8f86f24bbd21d0cbcff",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "d7523eebf4": {
+  "custom_id": "ed69d054c43d92d86617f3acdb28e70f",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "27c310f3e0": {
+  "custom_id": "0790ea1361e1a722368b738c8491dbe3",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "4e04a31c3a": {
+  "custom_id": "a7c410aaea663473ab1e3a56be2b7659",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "67fb239e44": {
+  "custom_id": "e0ac6f787cfca5f6292f62859f553204",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "6c060fd946": {
+  "custom_id": "c0a989f9e91009b8b471a7bf619b0fda",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "156e05a617": {
+  "custom_id": "7263003d8ed02872bd29eded25f60d9c",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "d4b8c0969e": {
+  "custom_id": "dae453e72a096e13abdae6b20a65847c",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "087f571a8c": {
+  "custom_id": "1444f0b33dc3593a247cad2b26f754a7",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "2b1cbecfa9": {
+  "custom_id": "26f66c7c509380a2fb5df1de8c73f8af",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "12716b3662": {
+  "custom_id": "f8f8caa20f158dc480fac6432df61a40",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "12fbdb13e0": {
+  "custom_id": "baa21b0068191ab1cd1182691130a781",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "31f53715ed": {
+  "custom_id": "f415fb3e62616949f3ac635fba704dce",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "f019ab8e8f": {
+  "custom_id": "d1c55d5b391ebd9d3c7a8e9d6588ae7b",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "431393f312": {
+  "custom_id": "0c727f1e38597fb1121a6adb6302ce23",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "b4282a9962": {
+  "custom_id": "e7706da04367bd18f92f69b034e341e8",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "9dca794d8b": {
+  "custom_id": "f54871b8185bd61b58f609c496fd78b0",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "5355fa5838": {
+  "custom_id": "bbb5241113261320574c0db6cbc33401",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "2830e30bfb": {
+  "custom_id": "7239f1bcdbbc444a37bc014937af1a37",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "7867cd3b19": {
+  "custom_id": "52e046ab048e15b46b9123fd355168cc",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "d9893049b1": {
+  "custom_id": "14896a8a9b88e2e9a746bbe21f9fb822",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "f43ad331a8": {
+  "custom_id": "0a2bbbb6154264917e3da09c91b8335c",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "2533c74b9c": {
+  "custom_id": "9f987aa848754f1c2cb4fecbab90074c",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "c2b2671aa3": {
+  "custom_id": "ff8798371cf6f3c7abf6b2e748e7be25",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "e9323905eb": {
+  "custom_id": "40054fb3f2bb8eccb844e1d35146e1d2",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "4947700b14": {
+  "custom_id": "f13390476ea0b1e88d4e53eb80dc5f46",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "12e0695aff": {
+  "custom_id": "410d20a9fa62c509eab533794664df0e",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "3849e82716": {
+  "custom_id": "3a9c3f8048d0afd3daad64ee175b1093",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "9dbb6a3dd6": {
+  "custom_id": "e235cab68236eadf16841952f4ce14e5",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "039b0e5021": {
+  "custom_id": "a2435b9a8a7eb04f5eabeee461eb44b7",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "747d930bd6": {
+  "custom_id": "f31784f4f6bb8111e2fedf0701f88ca1",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "fe66a100dc": {
+  "custom_id": "63075c2b4326256d49992a450d408805",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "2e3c3397eb": {
+  "custom_id": "a3d59b8c83a7c2ca825e4b2f9c69ce6b",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "1a8a3b853d": {
+  "custom_id": "0a5ae2b57119b3d895dd3a7cc190aed3",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "bdfddc9709": {
+  "custom_id": "8709097b1966465bb41d9483539e2323",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "f2b3e54677": {
+  "custom_id": "224113e8898e6bf1d4747bc8ac332459",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "89cadafa27": {
+  "custom_id": "6bd6dd69dfab6b7fd47db91b2fce67af",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "99a3ab63c2": {
+  "custom_id": "464a6858389aea7c68217bfc70aa46c8",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "d74e155bd1": {
+  "custom_id": "bb7583aae0f38c69ad13f93816d8cb07",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "133bac681f": {
+  "custom_id": "8203381cafb423139926ffc9b773972d",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "1e474216ef": {
+  "custom_id": "00541eba8c3554fe0c5048dc1aa33a9c",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "59760b53da": {
+  "custom_id": "c6de10310f43bc937226a8cce658b4fb",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "21f937a9e2": {
+  "custom_id": "bc44e54931b39952467dd01a786fa9c1",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "b50e9b0ccc": {
+  "custom_id": "3be542bc953fa5bd8b7692bbdcd55074",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "a4ca5f3ee7": {
+  "custom_id": "be271f074517b303d4e0195497e6abf0",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "559b6f023f": {
+  "custom_id": "60d5d4865449cef65ff483f7dd9b3248",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "98e2d682df": {
+  "custom_id": "3a4b3d0134f0779942e0b698516ddabc",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "499788d2fa": {
+  "custom_id": "64b33880a306f505ac61d9be97dfd5c9",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "2793b7a054": {
+  "custom_id": "3fdc8d7b8e6c7021b3d9be967283e549",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "16733cc88d": {
+  "custom_id": "ddb0f60d696a7478f0583bb0171c44d3",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "9989aa3f76": {
+  "custom_id": "49831273d96db42c3a2740f70ff1d32c",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "f7c65a5c66": {
+  "custom_id": "fa1197d5ddb492a50c6aaa68aa8a682b",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "62d16719e4": {
+  "custom_id": "62ce6fa4cedea40250ae36c5a952240b",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "4eafb8ba68": {
+  "custom_id": "b5ab254edcbb4c34cd4e099e30ae1085",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "2c116b1097": {
+  "custom_id": "834cf958003c1ab50791a317c81d5d5a",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "24d1c01ca7": {
+  "custom_id": "98883c342989af8c804f51c5edfc928a",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "c5c41e6921": {
+  "custom_id": "22b2c62a20580fa1f991dd2d410e7a34",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "e545200e8d": {
+  "custom_id": "8f9a37004e2e01574833ce51c0efdea0",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "819f72fffd": {
+  "custom_id": "46eec9f023783b22bb7686d40721e3a5",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "73742182a4": {
+  "custom_id": "d2cf3490da91c228444fa80c057e4ac1",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "edbea3c495": {
+  "custom_id": "0be5479799d3604322f3dca648063d83",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "e8f8c75298": {
+  "custom_id": "4c2455893347f0c31a7180c17a3aab20",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "ec2fcf9f51": {
+  "custom_id": "fd3fa31fe0a8a246dad7bbd92058456c",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "87c3b3d576": {
+  "custom_id": "d94e7c50a53b5cbf67e7a02859a8e4e0",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "0ffd2cf661": {
+  "custom_id": "686498e9aad83ff09c5597bd2d5e6ddc",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "2b510c66f3": {
+  "custom_id": "b9dc9fca7cc3c761ce5411e73a9eeffd",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "b9251a08ea": {
+  "custom_id": "c64e5a61f3c7bcce845224c68281f9dc",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "567a12a47e": {
+  "custom_id": "7c835cbb34f14ede6c8520c8774ef82c",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "4666e7c1dd": {
+  "custom_id": "c73e84ad15d89fa50ef039b3c30b5a83",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "f6c222a78e": {
+  "custom_id": "4a0dde40d6bb7a035c7f93f7b2285eea",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "ecd1495dec": {
+  "custom_id": "a69e2f7ad9a9b7c18d3991750cbc5f50",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "45df56b1ce": {
+  "custom_id": "fda9f6679ad11fe49775f6fbc57be974",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "377df62e1c": {
+  "custom_id": "4f631eaf8b0dee2ff4ac875c653a0928",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "bdb33f782d": {
+  "custom_id": "cb494205c1e415353f0a9b8f87834cbc",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "c27cf95b2f": {
+  "custom_id": "d395b1c49b699705ea502f43243cad2a",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "c554ec25cf": {
+  "custom_id": "187f5c6b8e3ac0d80fd21f96dc39a1b3",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "4053be014f": {
+  "custom_id": "203fa34302d8cd6a2c406ca386b2d6b5",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "120e52e869": {
+  "custom_id": "50f1a77f5a6c662a9072e80175af7938",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "ea88dbd8a5": {
+  "custom_id": "e34f6639b0715fff8936fa3301979a45",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "2a5c9577f3": {
+  "custom_id": "3d0346353c0f1356545f6fa19bebc27c",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "2e0a3286c9": {
+  "custom_id": "deeb3105ffb8f83c68b46aa5ab9b5712",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "60874c6472": {
+  "custom_id": "3c093d81ebbbff3bda56a8c1423802f5",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "47bc52ec66": {
+  "custom_id": "007b4579889fcde56f101e0f419dee2b",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "4291404464": {
+  "custom_id": "ccca0a267a01242eea89797212aebd3d",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "803317a946": {
+  "custom_id": "7400b4fff43bc34523f97a127b390023",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "b3aa95fad8": {
+  "custom_id": "5df43cccf16ebd9c36a7f1098f2dc31c",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "50737e4adf": {
+  "custom_id": "0a323fa461a0834c726b5eef1d6dc708",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "b8593968f2": {
+  "custom_id": "c208eac5669116fe979533e292003924",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "c98347b0ef": {
+  "custom_id": "ab441e766747898499fe5a7da4a11544",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "2e620dc0d2": {
+  "custom_id": "36fd028748638490f8956c614c88b1e8",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "6732371423": {
+  "custom_id": "91ec149430c8a4ed980df887d9e8a063",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "592bfd0d26": {
+  "custom_id": "f83e4b065a544cdb99cf43edd1f271c0",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "cfbfdd0244": {
+  "custom_id": "6ab3a8981973a559da8a6554bfe1ce05",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "3383aca58c": {
+  "custom_id": "c81670f870377c7f2234599375f79b83",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "9d6862602f": {
+  "custom_id": "6344e50589ecccec05e05df08ec362fa",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "61528c4982": {
+  "custom_id": "a6ef021e73d9ee6d6777b853e8fc0cc5",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "cf3bba4c08": {
+  "custom_id": "6a2c23fa2410b259d6e528afd78b769f",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "d80d7f49b7": {
+  "custom_id": "7483b2223b01aa7254799c76705ef83d",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "1fe54e4e28": {
+  "custom_id": "a13aefb3f0a1f2fcf2887d920bdc69a8",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "aab23cde48": {
+  "custom_id": "e2f748b1132e579655e4ac8ae179f0e2",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "b193ed9ef2": {
+  "custom_id": "86bb2b74f75d53326a413f33cc653389",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "8912edff70": {
+  "custom_id": "a92defae05f87b6fdb64421a2acdc0c0",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "a7fb548cd3": {
+  "custom_id": "3d7627698fc0c10823761a931ff52066",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "1ac3d00ee6": {
+  "custom_id": "f1d1d63577c43b84911b93934049c73b",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "d796a75094": {
+  "custom_id": "139f02dbbdb9f6f794bd006f00b942a9",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "19f212a6b0": {
+  "custom_id": "a8684488f555d745dedec6d414f1ccce",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "080f14d620": {
+  "custom_id": "b5123932fc93f2c415e6581d56132040",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "b5d070d399": {
+  "custom_id": "b68468bb0103c3cdb84d89025822d982",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "fdd818569f": {
+  "custom_id": "71292090b57c77727beb6ccca65477fa",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "e8a6087462": {
+  "custom_id": "29df0059731f4b51c051eafc00aa742a",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "8991171883": {
+  "custom_id": "0abd6b63080ab5604253a2ea792fc467",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "a9615fe816": {
+  "custom_id": "0f20f35720b31972c3cd588001639b3c",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "f183030eef": {
+  "custom_id": "57016df6bf5f681eb8bead2f9242517c",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "498de7defe": {
+  "custom_id": "2e68688d1925ecc2f1549ee7c7dee295",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "d16559914d": {
+  "custom_id": "9f4cb2407c167afef681e9ee863f9f61",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "602e293b8c": {
+  "custom_id": "f504c455779b26eef776b62d0495cfce",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "4937c0c50f": {
+  "custom_id": "67acedc61e78e955e4755079c6a39975",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "511dfc8e7e": {
+  "custom_id": "fab73cfd579b4860b856daf6ebb0f687",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "174965da37": {
+  "custom_id": "ff762823f6d67ef343c1b889c1efcb3f",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "9396b33295": {
+  "custom_id": "e30b70de9a7f20fa31b72e317998a1cf",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "b6821f5f41": {
+  "custom_id": "ce09bacb0c5394578a378e8c159e7e2e",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "c518d733da": {
+  "custom_id": "36eee1c4f4c7ba0af626241aeabdc229",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "81084fd0f7": {
+  "custom_id": "a7d2e7500ac15d7a031aeaeb6592d7bd",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "a04e213b2a": {
+  "custom_id": "c49f0a15d9263646734eb9ebd1f4c351",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "7e7d272083": {
+  "custom_id": "c66fb19b61c1f3e7bfe5b4c09991571d",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "8edb645b6d": {
+  "custom_id": "29a1a130c7492b943bd3369e8243df6e",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "f87224d67d": {
+  "custom_id": "1e6766385b138142b09feb5b38b9fd13",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "7ad1c86421": {
+  "custom_id": "09571a3d0936e806d61d8390013421e1",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "f1a5d34b6a": {
+  "custom_id": "3bac25ce2c815a82fbf39347000a95d1",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "917141a2ff": {
+  "custom_id": "4513b307c3212ca7453ec1b3641591dd",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "e351df9ebc": {
+  "custom_id": "80848f59f23633170d6c0d17a56a71cc",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "44ad5e9aa0": {
+  "custom_id": "205f95cbcdd89d2cdc13e777a9fad897",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "d7f2d22394": {
+  "custom_id": "0a72ce542d73c736c20a510c5a9856d4",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "ded1b3d880": {
+  "custom_id": "a8562962aca55577056428d5a5a11433",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "520515d9e1": {
+  "custom_id": "2c303c2366366b3ea9e4fbf339f1cb98",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "c5e7ca21ea": {
+  "custom_id": "41d7ee29ce84c8540071daea549bcc4f",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "1e24a3f65b": {
+  "custom_id": "197960f0e25edec8efd0f8d7df848e38",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "6413750f42": {
+  "custom_id": "8d6d1ec21194fe9092b4b4885b327289",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "9237416c0f": {
+  "custom_id": "7dd21b7c11ffb9c173593c3e7c590e7a",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "82e01e402b": {
+  "custom_id": "bc7ec1e8e7111709fde652d3f7516431",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "90fc193ee5": {
+  "custom_id": "03f2a39d0dbcd8f840545b35e10551bf",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "a62d94db0d": {
+  "custom_id": "9af216232488ae6704015a4c3cb7c5f2",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "1c4265398d": {
+  "custom_id": "4868ddbc6f72b979e02536bbfe16786b",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "6bd9ed6e36": {
+  "custom_id": "14f5e9c77a663336ca8e67be682d289b",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "5081cd7a7e": {
+  "custom_id": "30f3bb4d3a5a98c3d598a1f69bff02b7",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "4560ac23dd": {
+  "custom_id": "2618dc05cbdf03e5bbeb6354db93aeb0",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "9587b1ab4b": {
+  "custom_id": "fd2321816c8e07ac0186d90b53720aed",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "a5d9498936": {
+  "custom_id": "9a8bfe886d27d6c625e4ab52a2d4ad0b",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "9c94d980a8": {
+  "custom_id": "6ae315fb1d42de88cab8da416b98c4d6",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "848699b605": {
+  "custom_id": "ebe7fbff3c653683536b5cc7b2d03115",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "b2134f6d8a": {
+  "custom_id": "4b55935efab228fb5bf81bb45c973a07",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "8b93319957": {
+  "custom_id": "33d9d7110270aab03934bf23d9eac248",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "340552ce84": {
+  "custom_id": "bcda1e535dc9c19464ed3db0409f85ae",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "cd6c2df8c9": {
+  "custom_id": "56cd284668c14f50142a3989e0305b32",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "4f298d6234": {
+  "custom_id": "186683369f7ea3064bb4d621d5486005",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "062beddeb6": {
+  "custom_id": "749b1e9b22d970fc69cedadca287b496",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "32bfd83896": {
+  "custom_id": "873b6aa90a2c0703762ecc0af294bcae",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "a11c7fa450": {
+  "custom_id": "2a35961d8abe64051995b81c3eeab2aa",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "33bbd09a39": {
+  "custom_id": "98314f26f6f54d0d246ff20217960a82",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "77d9fff61e": {
+  "custom_id": "b292b5d057112079e33025637d151723",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "3f95165848": {
+  "custom_id": "284e6c1d6d93d6462ff6dabf99c64d58",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "32820e3672": {
+  "custom_id": "eacb37cd5d56a815b8562a102174fda5",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "52f11e8c3c": {
+  "custom_id": "ecf5b936596ef5c10f9ce1f69a31b212",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "5e7f2fdcf0": {
+  "custom_id": "ba5613e9c880b95c7ba1001375ba1ec9",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "8636acd49a": {
+  "custom_id": "53359b59f7934b2503ddc707e6664622",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "85a2d94d69": {
+  "custom_id": "29efb54694a5d9e6886440afc85412b2",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "30ce789986": {
+  "custom_id": "348f3f8a39807ffa8d93c043b226a3fb",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "b889ede9ec": {
+  "custom_id": "035434acc9db3a90b920c1f0b11df102",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "82951f4137": {
+  "custom_id": "7d85ecb159fc621f22c9ec608f2c02d3",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "aeea6c4eb7": {
+  "custom_id": "8edefc478bd05d97591eab7831a7b926",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "a11453d36f": {
+  "custom_id": "c31dd95b4fb2e7b76ff18793bacc8ded",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "576ed434a0": {
+  "custom_id": "a536f7be38f046375cb04c5a754fca73",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "2ea37eac6a": {
+  "custom_id": "6e880e7933642c0a2d4aa62de186c6af",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "318cc3b49a": {
+  "custom_id": "024a9b6f3d1a1133820cb8ac632a4305",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "f9b00115bf": {
+  "custom_id": "8429422191386292a80348d9b755c055",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "5451fcdd8b": {
+  "custom_id": "68f6f340416d763e452509bf8734e94a",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "f121c63287": {
+  "custom_id": "55240801085e79f0ba6ea2a3cc9a603c",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "43b93d89a0": {
+  "custom_id": "d74d8165adc969f9fa616dfb43036502",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "b775f883db": {
+  "custom_id": "d718e7da8f82d79c41d04e4f5d96f300",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "37e0fd807e": {
+  "custom_id": "ac6b13d29df60c4fa8e244923d854256",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "a171d7efce": {
+  "custom_id": "90d7ea2cea05bb9e463d5af0b9d0d829",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "7f2017cd53": {
+  "custom_id": "f6ca40c9c691378455c10190fd811825",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "99a79af9c8": {
+  "custom_id": "3a8abf60ca2e54bda42f5c247bf4c4f1",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "85771e43e1": {
+  "custom_id": "4a39bbd80e3ba94b7a117be338282431",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "89e8db030b": {
+  "custom_id": "7bceb5f6febba43bd04d38d407f58a42",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "be2a34e6ab": {
+  "custom_id": "7cfc984b4740cd9ce31935c2da136c92",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "030afb22f9": {
+  "custom_id": "7a52d3a0f7b2a0b79bbcb60c6982c5c5",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "f7fd4caabb": {
+  "custom_id": "bf5a792b47031a8ba9d723a5ed193ca1",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "efc98e9221": {
+  "custom_id": "b06e7c8d01c50ecc3b5623a33bc1f24d",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "1773aded6b": {
+  "custom_id": "976153c66ea9c8d79ca77b169e3f4c54",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "6e461269bc": {
+  "custom_id": "187b4cb9f429805c7a8b45902e4e88e8",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "131fb56a67": {
+  "custom_id": "1605e0fd89a3bdf3ea7bad48ea51194e",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "9a72719e39": {
+  "custom_id": "77cec4ef57958527f1dcf04f3fbf7b72",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "8723f0e582": {
+  "custom_id": "5113f8ca9abc42158046b4aeb6038076",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "b6d8eb2893": {
+  "custom_id": "d5d6495317e044351ff8fad62dde3d90",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "cfe105d8a0": {
+  "custom_id": "df0e1995c395633c32007405d235467d",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "ca19704e75": {
+  "custom_id": "a04bde4395a3b8365e58fa428d86c65c",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "e6db262dc6": {
+  "custom_id": "41926b14bfe67b3babe7ceb8221a47ef",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "fcba54ab7a": {
+  "custom_id": "84cfc8f1c9288b874e52596e7477ad17",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "bbe0565c94": {
+  "custom_id": "edd7e8797307a9cfa69bc18ccb755f00",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "2d9cfa218b": {
+  "custom_id": "b1f2b4fd530fe592b3985109b9370d46",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "ab8e957416": {
+  "custom_id": "1c7c6a299019acdfbddaeb69c773d067",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "2ab14b1166": {
+  "custom_id": "a4767be92ca1ce231d9eccfdd6c4d933",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "f48992a08d": {
+  "custom_id": "93a051c26fdd65d4296bb762a8152d76",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "4e0e9839d1": {
+  "custom_id": "5eb9fb4cef8bd531afab29d81635bd91",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "a466f37728": {
+  "custom_id": "5c2c59863a20f867bced4799afb05b8d",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "3aa118d4dc": {
+  "custom_id": "c711804fc27df4e76a9f83a22b1ceb0b",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "26f6e3064c": {
+  "custom_id": "c171a2ecea37208894dbe903733202e8",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "ee13b4bdb7": {
+  "custom_id": "3d94880b82d1038dc3bd78d93244a503",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "05fdacc5e4": {
+  "custom_id": "ba47daa0339d8edd4a3694cac4e77bd3",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "eb676ea807": {
+  "custom_id": "c3cc60e08571670d0325cf89d8722898",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "733f380999": {
+  "custom_id": "3bfb3d883bd64dd9bccc4f235b65a7ee",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "e3ec3f64da": {
+  "custom_id": "90dcb33f087b250e4cc8393713e19be1",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "a50ddb4acf": {
+  "custom_id": "d2741c758e7910c1a609a3ae6fe80740",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "fb4c02b11e": {
+  "custom_id": "044d0500424c8706014d92f718f2d856",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "cfd4578640": {
+  "custom_id": "82ab5a417750ca6d3ca9397c64206827",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "9481bae3c5": {
+  "custom_id": "02fe005d3ca86f1080437a94c11046f1",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "72ca6e812b": {
+  "custom_id": "d0661dfb4cac70cd37401308d9c061e3",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "8380a2deb7": {
+  "custom_id": "ddef08b8d5bd89d654ab192b8e9329ec",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "b34c947d37": {
+  "custom_id": "14535288d7f87c4c5f7a6a13eeb1d5da",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "6cd14c6108": {
+  "custom_id": "eca2f3cc3f69015c309f6d744c7392de",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "976547096b": {
+  "custom_id": "ba30fc1bfafc0f843877e0823a94d09a",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "f5ee88c61e": {
+  "custom_id": "d1474de9f74ffd6ed1ceaed150489e4c",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "8e5fc1b667": {
+  "custom_id": "fcb32990dcb172ca8925873470ce3a52",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "c7c3f728f4": {
+  "custom_id": "959574fcd6295d36b5d6fa155d025598",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "c8f4c20208": {
+  "custom_id": "2c1f265b5a65f156edda9dc57e498466",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "46ca32b90f": {
+  "custom_id": "cb1c7fb991e1c057ac0af4d0b41d76b0",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "8c1b6b15d3": {
+  "custom_id": "9f1e42477dfc719f368a237b0f9d3981",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "311da23a7a": {
+  "custom_id": "ff7b934e85f95919108049985938e6dd",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "aaf66019f1": {
+  "custom_id": "9343f836a1282ea69200127faca217a2",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "16d03433b9": {
+  "custom_id": "f8f9d925935e5f97a16c52c4e839e099",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "c23d0e3b09": {
+  "custom_id": "c788ff9c62fe10e34eb176e467e94bd1",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "810239e789": {
+  "custom_id": "7760219759a5afadca7bc2a06f1c880d",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "6bd63be769": {
+  "custom_id": "efd63c1e758b622cb907d33852fab00e",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "296acd35e7": {
+  "custom_id": "5ee6dd8b288d2f759394aa2b38b79bfa",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "4fa331709d": {
+  "custom_id": "62904fd556d3dadd28c95b8fd9ae9d96",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "a070d0a10c": {
+  "custom_id": "e5cd40081f78e243c912b06be34b8ddc",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "136886e2e9": {
+  "custom_id": "ddc156fd87dce7203ad24629823a49aa",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "df3ef4ed78": {
+  "custom_id": "ec9e8ad5eeba7fdb21c23d8f4f8cd171",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "c7408b55fc": {
+  "custom_id": "e56096bc5b115b7bd8806913e0a59f6e",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "3f47141bd3": {
+  "custom_id": "350a661252643daff456174a907272c3",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "69ef50ee2d": {
+  "custom_id": "b6c73d760e49f2ca7a3cfc1c8cccc71f",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "c2d4cee599": {
+  "custom_id": "fb94814cced256b5ddc6113e07bc5375",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "eb1b0db0b4": {
+  "custom_id": "f92cccfd1eab1b66c1d952c5415f6f9f",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "83276ac0c7": {
+  "custom_id": "50c396bf6e48ae27f406697c6490dd2e",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "e7a42f119e": {
+  "custom_id": "f9b92cadb6ce4ed3e2746165b19998ff",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "eb331c99f3": {
+  "custom_id": "3e5bed1826a127f7bc6247ef35a0a36e",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "d701579d93": {
+  "custom_id": "0c0c6a7832def1cb873cba986e423cb5",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "19e7e22db4": {
+  "custom_id": "1e0859a065de59794344b04b7fff2ef8",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "3a19bd2353": {
+  "custom_id": "70b5c7d5173fda18b513937f439602e2",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "952f772021": {
+  "custom_id": "ebe4960270d5c2a03a81fdf7182f4fd9",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "13cc975535": {
+  "custom_id": "9988ba1708966171c5935eec818ac1aa",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "d075c5df33": {
+  "custom_id": "17ef5c2230a1077a45e50849ed24f173",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "704091839a": {
+  "custom_id": "d7b021aa7ef8b18e1d11a186c8d083d7",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "7505b4aad7": {
+  "custom_id": "024e7c760c7a406185396c2cfd484ffa",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "36b7b8c0e9": {
+  "custom_id": "9ff02618409e68b3d882ed4fed96c844",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "53cca8ce9b": {
+  "custom_id": "f6b70e65787c8bc34bae5de8333fdf65",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "d47a516325": {
+  "custom_id": "863fe5e747967a6e9f36646b63898266",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "f0bf03f553": {
+  "custom_id": "90a2cd2ee7e9096397042c842dd06910",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "3b9d7dcad7": {
+  "custom_id": "c7bbd32584d3c07506c602ef671d245c",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "7a77823314": {
+  "custom_id": "dc155bff3438546688df1b878cb4e939",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "582ed89580": {
+  "custom_id": "aa3a016855a78eeefa20e23d951985d2",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "379095f3cf": {
+  "custom_id": "31ec59fe16e17146e8baeabb8f903984",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "2e9b6d4598": {
+  "custom_id": "65929e74cf9f3f4931aa8112e32cddb6",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "7e434511d6": {
+  "custom_id": "3c8ef6b6c0ce7522fde9825c02e9a7f2",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "116f5af2b5": {
+  "custom_id": "6e4a3f1d4101ce449b07aa12b5353d5f",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "874eff41ef": {
+  "custom_id": "501acf1a2c37759c708e3f6a4f807809",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "6bc5f4dcd8": {
+  "custom_id": "3047ca4234fb5872bff68d87b8188d73",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "556b60c944": {
+  "custom_id": "93c9324fd4b628e638297d90a7fc25ea",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "634dac2b3b": {
+  "custom_id": "ec479a840e9330c8c753467b22b10378",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "f4f27ff9a6": {
+  "custom_id": "6591063496c5d75cbef738fa7c419dee",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "ce82007400": {
+  "custom_id": "f53f937c115c111789a1cd73c19095a2",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "e0fadb8689": {
+  "custom_id": "08f6a98c9382920160b63ea9b9e7f566",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "1e67475c09": {
+  "custom_id": "9b7519a46126164c42f901003dab49d0",
+  "model": "claude-opus-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "50a4f779a4": {
+  "custom_id": "3aaaeb028e947c76025a92cdbad3da12",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "0ab0da05a3": {
+  "custom_id": "a16ebb9947f38d9bde17f281848b2b5e",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "4734170eea": {
+  "custom_id": "dcc3ce8a65f3d9009ca9ad2fbb7d03ec",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "b39e7c0a92": {
+  "custom_id": "45dedceca23059f014785356fcaf7af2",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "400e033600": {
+  "custom_id": "a64811e1490aacbc5c10ffb4b56a3165",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "39ec6ec200": {
+  "custom_id": "c9a67a1c13ce11b9cd5ec1f31a9f7872",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "14da2237ea": {
+  "custom_id": "b480a5c7a507bb53a2241e78d57099d3",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "c684ad3eab": {
+  "custom_id": "7f9d03f264d5c842ed55c9123958c291",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "b106150cc9": {
+  "custom_id": "32ec4b84aef73af05a1a255f5d27966a",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "c805cf70d6": {
+  "custom_id": "4ac2e79d54f0219b62074fe79e717819",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "da71c682d1": {
+  "custom_id": "b367a44adec6bbe02ec7dc4734196bfa",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T1_detector"
+ },
+ "47a075e96a": {
+  "custom_id": "d900fe1ae100a2c2bc11c021ea67f112",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "be3a09c041": {
+  "custom_id": "46692b9b44b940d30974ac7f3c992fc8",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "9042cc5aa4": {
+  "custom_id": "229c3bff8c33366a18e474a8580b289b",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_BASE",
+  "template": "T3_review"
+ },
+ "2d064434da": {
+  "custom_id": "645178c34cd43fc0e863463a22a38e01",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_BASE",
+  "template": "T2_instrument"
+ },
+ "2ed03fed77": {
+  "custom_id": "49d1a10eed60bbaadbdfe29cc315932c",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T4_proposal"
+ },
+ "08ab4cea29": {
+  "custom_id": "a6f43a8ee72622975ec140b25219bfee",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_BASE",
+  "template": "T5_plain"
+ },
+ "c0d96d9ba5": {
+  "custom_id": "d509ba392e154d3e5ad32bb895e6ce85",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "437c1c3c43": {
+  "custom_id": "94fba4abaf69aa614fbebace2a31d074",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "f68f956f8b": {
+  "custom_id": "a9ae47e244bccfa21cddf3184ccbc08d",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "1235c37631": {
+  "custom_id": "894cbce426c004302476bb3d0bab1761",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "6597939d47": {
+  "custom_id": "fc2eddd0245c4fe9b3b2d554aa6d361b",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "bbeb754718": {
+  "custom_id": "de9829d97d377f8b7588f39c4120e083",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "b57ab4fcb0": {
+  "custom_id": "86871aa102c8299e460c759c26c5fb61",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "e47c6146fb": {
+  "custom_id": "cadf48fa49b178d6e890f36607a059ab",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "3ec1fe6568": {
+  "custom_id": "20be2b7f7dadbdcce00fec7ac427c1cc",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "e40b8add56": {
+  "custom_id": "e15f607e661fe6cf5cc7d3b70a0839b3",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "47ececba3f": {
+  "custom_id": "a3b0a787682363cc0764392bee0bbb85",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "8ff4a3cf4f": {
+  "custom_id": "9695f0a977a8b744459b6311e6ea4e37",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "612458ccf7": {
+  "custom_id": "c7103f8857c1ee883abd8f76a2765b5e",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "35d452dc7b": {
+  "custom_id": "f0d5173dd5b8f3b6c4ba749380f4a0ed",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "f38a308f45": {
+  "custom_id": "803c8572cd32f296594a6d4d6609f284",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "7c575cbab8": {
+  "custom_id": "1981b8bce1f9a3a4fd37efa32b7cfafd",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "a510d8198c": {
+  "custom_id": "4b042d5d5dc3d337da120add8f97d749",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "ab857aa35e": {
+  "custom_id": "50f84823b1e015781afe288a7ca81d6d",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "96a5bb84d1": {
+  "custom_id": "5005a7ae91393dc354c4c5889c5cf903",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "77cc6a60e8": {
+  "custom_id": "4c35805143ede24cf1b3db1bc403d130",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "7648b27136": {
+  "custom_id": "17e472196e0f272f016938ff7535458a",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "19631d0c74": {
+  "custom_id": "a21415fa0b7d0f9eb98fc2f9e58e6fa3",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "0c62f61899": {
+  "custom_id": "30f7ebfbd0f269df1fafb282f59cdc4d",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "ac6bb0184b": {
+  "custom_id": "ba084f68898c8ecbe6bebafcdb7367e5",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "bf368cfae2": {
+  "custom_id": "28f11be3dc9c61abb243e1c44a5e85d3",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "c0af73cb53": {
+  "custom_id": "861490f952d4ec41a88905d7b4e4a3d0",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "79ee4b0e8d": {
+  "custom_id": "dc3c8b0412a8cd853442cdc6f7a09a9a",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "f7d1a95d56": {
+  "custom_id": "9076cfdc9676db653d2b588dc44993a7",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "0316a7b610": {
+  "custom_id": "4b936b6a7842a79dd1fb979980f07d24",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "8f0c7c589a": {
+  "custom_id": "e36632132f90168caa587f19812500e3",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "99efa827a7": {
+  "custom_id": "d8ec43ec6cf0707bc843cb21a5d9cf2d",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "723a10507c": {
+  "custom_id": "5ea676c83c73073ec643047cdc3548fd",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "c347b2188a": {
+  "custom_id": "7d67ee37a5bbf43edec44eaf2b11334c",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "e4d85f4eb3": {
+  "custom_id": "a4ba970f1d823b43e551461d0c038c2d",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "249876f752": {
+  "custom_id": "b5ba532e614d36f3f30cf9c008a6e111",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "27238c3fdc": {
+  "custom_id": "7ba98f85f51e97a51e0efbeb004323f6",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "08ef0e43cc": {
+  "custom_id": "267026c2ce8ea2876ae696e7ead9ed40",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "5a1083752a": {
+  "custom_id": "9a5191c37c114442cc2672577de8a47c",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "b1c6e57993": {
+  "custom_id": "b64a0ef0bc9676cc647569260729a752",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "5548f0417f": {
+  "custom_id": "6f73cff31a0b10cabe6b254e5ad976cd",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "9513a18ade": {
+  "custom_id": "637f2dbe666631dc40afc06f902cb096",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "b4d0cce1c9": {
+  "custom_id": "8695f9760ddbb89dc1ecd4ac294cae18",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "8483dde88c": {
+  "custom_id": "33034d5a550d4298568bbaf23d138de3",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "cb0d53ca27": {
+  "custom_id": "a1881f0e46ef4af6b22595a54c8ab3bc",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "bb5a38a5e7": {
+  "custom_id": "1ade52b4d1b0f0d95d49b3650c2ccce0",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "1760dc43e3": {
+  "custom_id": "32fc443a02ce30d51ac3dbce2effcefc",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "122b9611a3": {
+  "custom_id": "da97c2d727006c0b7fd98f69d24ef53f",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "83f80d371a": {
+  "custom_id": "b6cc85bb616eb00fd077f4751ab2af6e",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "120a211f30": {
+  "custom_id": "386fd3022bedd088c679874c0680be53",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "7de5abefc5": {
+  "custom_id": "582150bbc3dbeb91c0ec0265a9426e0e",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "a42afe6dc8": {
+  "custom_id": "ee87420e7d325ae731d079c9b4c76f86",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "59d9276ebb": {
+  "custom_id": "274828df653fc142f5b50cb2b69a7ad4",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "aeb5b10f56": {
+  "custom_id": "641cd487a3b9b8708ad862ce2f78f8f4",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "d7ac0619f3": {
+  "custom_id": "cdbe27567e5eab2d2864afd2aada5937",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "2ee90ba2d0": {
+  "custom_id": "8b2fcd619c022bc04de2beb9cf524557",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "6c7398858d": {
+  "custom_id": "d03a531bb6829d1803308d65eb5c8916",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "9f2656f21f": {
+  "custom_id": "4cbf5f2941a667c24de70bd487d01d94",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "92dad0b351": {
+  "custom_id": "ca405c2869fa31c7317c4f16b6cb5d31",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "ea48f7feb6": {
+  "custom_id": "d7e6994d6e53529e8599287981b5ddc6",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "1745611e66": {
+  "custom_id": "50869f960385e2c8adad835288422a65",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "8f801ab3fb": {
+  "custom_id": "1687a6303a7e17a1a95d852763278ede",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "4670742c62": {
+  "custom_id": "a66de90ac0e0f412dcd77865ebc6aae6",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "ed737128c4": {
+  "custom_id": "8214f527a9f17384c03cab3cd50ac213",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "bee8acd5d3": {
+  "custom_id": "f809c51aa5697734d06ea3e294d9c801",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "2ce5d90167": {
+  "custom_id": "8ba6441f15800ef99c4e3a0f04a4b8af",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "07a55e3573": {
+  "custom_id": "396827245cf1f9b26e1d8ff6a58c4e21",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "e18f96c58a": {
+  "custom_id": "10493af62a7d424a79960c0f50b846e3",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "6178883391": {
+  "custom_id": "7581b27831a4e5ecf742e5e9705fa26b",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "905d9d4576": {
+  "custom_id": "f8aad510b2eca927c8cb6766c699af04",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "130fcc297b": {
+  "custom_id": "a595eb8dcb1107dc83182f543c10e936",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "f2a67f25b0": {
+  "custom_id": "09dc178c2165abd927669d3234caa510",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "b8b0d42cbb": {
+  "custom_id": "1283e3fefef4c867371b99d22ed49267",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "2f0f9a86ce": {
+  "custom_id": "fc578712f82b4de6f75335196e1681e3",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "0a9aeecb37": {
+  "custom_id": "3e13743eb8bcf8a5fd2557de71a4e1a4",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "3fa15d7fc5": {
+  "custom_id": "8e2f30ef11d17431cbf7109fa2713c64",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "2e3156885e": {
+  "custom_id": "0408b11d3dd48ed74488b03d69e5f487",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "4f1b554acf": {
+  "custom_id": "57cbfb80e84dcfde58d022675c6bb68c",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "cb2ee88ab8": {
+  "custom_id": "e3b33784026b8e3dd98a6dfb844d9a47",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "82f7f88b15": {
+  "custom_id": "2cd0d34cb3bd7c2ca459a293234a9a5d",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "0a22bf2a04": {
+  "custom_id": "c9fb688c1ca15cc25b02715b687c9e70",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "8d459f12b5": {
+  "custom_id": "171baa718ddf3b1fdb2d9c224c175954",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "8058cd0163": {
+  "custom_id": "bbe96b5f60bdc03632279e062fe1b54f",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "227c41ebfe": {
+  "custom_id": "1f2444ca16aed4f722d24717dc9d2a8b",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "6b6338c5d0": {
+  "custom_id": "365d891621344fe788c6c909fc558fe6",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "b50acc50ac": {
+  "custom_id": "118dca3e422f9f4db867fee1b4ffbd97",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "4735f32624": {
+  "custom_id": "28ba4d8def8d249b1d9ccbdeed36629b",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "cd87aef9e5": {
+  "custom_id": "b44b1befa372f9a71a7f8bc475d4fb04",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "000e08f2c5": {
+  "custom_id": "cb97149d8f2442d5169ab1f3082eb18c",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "165a6d11fb": {
+  "custom_id": "539e023ecaa94dcfcbb7beba85637a80",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "2ab1e9a509": {
+  "custom_id": "eba58bbf2b5083095786958d6a37d17a",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "f7eb603d8d": {
+  "custom_id": "9eef1266296328e0717f86dc65174a2b",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "4f246384ed": {
+  "custom_id": "834dcc3d512d079c2c8defd59b858f34",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "3c48b8bb40": {
+  "custom_id": "5453b670a2ab0f60657a1d9fa777b07f",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "5f6551fd34": {
+  "custom_id": "6e494f4a2f185409bc50b49778fa42f0",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "796ac0701e": {
+  "custom_id": "92d2f41de78f230d8eed1e0486fc0e00",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "9286a2ef58": {
+  "custom_id": "6bf4621911cd32f8d5feeaf1cebae22a",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "a4419e0a9d": {
+  "custom_id": "75518b55006dd71d5ea44004f4c1ee12",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "4ecdbc689d": {
+  "custom_id": "905fd6027052ed2a6574106351ad0b87",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "147a07271b": {
+  "custom_id": "21ce9b14cd826b4e19d488f5df63ff37",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "81982704c9": {
+  "custom_id": "06f2c93b8d7afaf4476c074cf7ec2263",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "b5a2657c7f": {
+  "custom_id": "628932ffe1c4f45babf4b1088be1fe83",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "151d8c2505": {
+  "custom_id": "f15ce7e54b64d6c53b6cfad8b4b0bff2",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "d3293023ec": {
+  "custom_id": "38830e66ca499167037fe8dc668b5a3d",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "1832758b7f": {
+  "custom_id": "c92dfecd4fe1e8872dcb6b6fd499b8b7",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "4cfb877758": {
+  "custom_id": "bdd4f19d112855fb13d61bd8870b9cff",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "bc86b12298": {
+  "custom_id": "b47e70d0ef5611b0defc137ccce6e9c1",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "2d6b70563f": {
+  "custom_id": "3f04df69f8089a926120ea190e2aa757",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "4555780d68": {
+  "custom_id": "e24161292f4dfb652f4b44a8f3281a17",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "f966671e4b": {
+  "custom_id": "7e1786d402473799ece1dd9180014c48",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "376382975c": {
+  "custom_id": "c21951cac612791f79038ea9c5e455e6",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "a8db012d93": {
+  "custom_id": "bcc996145c188e82827b2dfb81441ba7",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "3f06746d5a": {
+  "custom_id": "c37736ba7d288cd809da77f7f7e7960d",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "6cef79f483": {
+  "custom_id": "62f5e72d689f66fa2b886c3dc25ad3fd",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "48e4efc58e": {
+  "custom_id": "b482faa8a4b77ea069b4be10b50fddea",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "f4132794d9": {
+  "custom_id": "14fdf2c86c153219c5e864414ef5ca3d",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "a33833bdc2": {
+  "custom_id": "9981b8fead9c66a259cb530a81ea35e8",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "6d66e36ae6": {
+  "custom_id": "c2db7e429a46e59885bb2bf06a9c71ae",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "171949ebbb": {
+  "custom_id": "b5179f58fd2dad8f800a8a0ebbd1438d",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "c4cbe3ce5d": {
+  "custom_id": "6421242e17957afe53a4d84dc080b105",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "3a2805dc30": {
+  "custom_id": "5fcd6b8dd77f675f7f044de39c09eca8",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "cc8f771801": {
+  "custom_id": "09b118e44fd33bcbc50e626ea5717888",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "4f1cac1474": {
+  "custom_id": "252c50f21b30e07d3253ad9700b96178",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "0dce12f1a4": {
+  "custom_id": "a9005ab5083a73c6b852a52f69f17e3f",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "6aa6e52923": {
+  "custom_id": "b3c2c18d0e016b6d270fc5bbc0133509",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "9f299c83b7": {
+  "custom_id": "47143e7e93a1cf0194715cc326015110",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "327f97b8ca": {
+  "custom_id": "a47593ae4000f3a715a6e2f1068b4b7d",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "bf8d44f3fd": {
+  "custom_id": "fc7b01ac9795679a8f8d1d7c47b9bd24",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "126bcad562": {
+  "custom_id": "593cff3ac55866a04a9e75647602ae8a",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "1483604ecd": {
+  "custom_id": "f30a62655514ec0de60e0834ecad8a2b",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "3ae3cb823e": {
+  "custom_id": "18c452d1efaf094e03529a0f00455ca8",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "1849d9a878": {
+  "custom_id": "fbdc13e49eb4706995e982ed04085c0b",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "5670b91023": {
+  "custom_id": "af50f5f97bc3d0959210f38e5f97262d",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "54f2aea620": {
+  "custom_id": "806a93d7888ad642f214ab334c4e1490",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "8827cd9935": {
+  "custom_id": "78e7a25a3e113c34b3faae821fc6f47b",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "71831e8d33": {
+  "custom_id": "28818d3e049238eda416cadaf42781f0",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "c366a65b51": {
+  "custom_id": "546787954f89b16d3fbd3feb1de06dea",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "f8f3ef945b": {
+  "custom_id": "4f4da59e659caea3f81200375c7d79c9",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "fe63d96e00": {
+  "custom_id": "a3ec0be73622314b780a74ecdf9000ae",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "6310f962be": {
+  "custom_id": "ee2ad99ab7a6155955b78b1b76037008",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "6fb8c69cff": {
+  "custom_id": "5e0c0161a722ec718daac949ec32d342",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "08216b52ad": {
+  "custom_id": "22bf9ad6395525816cba7d3242134dee",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "71b6e0d874": {
+  "custom_id": "e3c7dbbdbaf28ac612293acce8ea6bba",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "a8851a38f2": {
+  "custom_id": "6d00536ce019158dc2e03eb619f4b177",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "9d7ea7339c": {
+  "custom_id": "9208575b66fd59612f94474c93e6e719",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "64d42668e4": {
+  "custom_id": "320a5f1a59d77a9c76b75d68f0e031d1",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "6562967143": {
+  "custom_id": "08e345b5e02f14e183dd90595e2a743f",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "ad79080e99": {
+  "custom_id": "5291257cb6ac12d151e7339eae6e8959",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "6496a7eb1f": {
+  "custom_id": "2e1d6280616dceedf1abc999ff1e053a",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "187bcbf3aa": {
+  "custom_id": "2daf296f2c1fd2d3dc2032ceae94cddc",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "ab630a47a6": {
+  "custom_id": "9610fb043fb129a7f18bdc770c39b26a",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "de129bad75": {
+  "custom_id": "62b6d781eea72edae9a07e19314a3304",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "345d3b1681": {
+  "custom_id": "99dfbee4935e245c75109a393bb50f93",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "f10ef3dbbd": {
+  "custom_id": "ce5cb7720d5d76fd9456e7ec3029c4ac",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "e2f273384c": {
+  "custom_id": "9cdaf0abf906be3500ceb73ff46d2f81",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "5e66e91764": {
+  "custom_id": "7f7acd9de0fb0d815119ee9844288a68",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "1bd2f82f36": {
+  "custom_id": "fe97d873b2d1e0950ff57fb4e87eabea",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "ef2f2c8ad0": {
+  "custom_id": "f16ad20cddfe1ff5b3f41c7f808a50ef",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "781576eb5f": {
+  "custom_id": "8941e061861e2e880ca443ef968559f6",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "fdf4c4bede": {
+  "custom_id": "4ad7945308867ccaa50ade1f18251a6d",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "b1854c1127": {
+  "custom_id": "b8d385988593d114b2b7745b2c9091b2",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "fcc8a4e2a6": {
+  "custom_id": "f871ee558769eb34f73ddd0fb7e792b6",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "ffb68e130a": {
+  "custom_id": "ad8879319b1dc749f39e568073ce6c23",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "9fb5eadd28": {
+  "custom_id": "28a63362f5e95782592dd100e8a1279e",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "0b025db7e2": {
+  "custom_id": "b1858453b3e2823901cc4b3eb3406a6f",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "8cd4a50c06": {
+  "custom_id": "410ee268047f0b812f16da895ad77aa9",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "edd0813c97": {
+  "custom_id": "edd59225255f4b045f83961239c4fc07",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "cf2c6fd250": {
+  "custom_id": "75ce82ba31df6815b5cfc799f52cf73f",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "c206be6784": {
+  "custom_id": "8446dccc16636c5880922bb183edffd4",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "85c603483b": {
+  "custom_id": "813d1511cbd86cf3e3ef08eb5d5d40ed",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "fa46f56324": {
+  "custom_id": "56aa67373ebf74214cff4cd1b3dac115",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "94c2df3334": {
+  "custom_id": "c31498b1a00716d795911e34552a57ce",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "741dea121a": {
+  "custom_id": "ef1637dd3e23e257be366f68f37cc56d",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "5acaa164bc": {
+  "custom_id": "ccc9d2c167072725c14595a8e5c38f47",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "3ed6f87e3f": {
+  "custom_id": "848a4e2d34e4953f93a1c13d5deda4d7",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "70b14bfd61": {
+  "custom_id": "4c207035415029b1a81943d6ef596cbc",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "99bca39b26": {
+  "custom_id": "0f0b2a88c321080dd3f21f5117eb360e",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "7cbcc048be": {
+  "custom_id": "282326bcca6aa4767a76d2972f1dfe17",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "e771e4b113": {
+  "custom_id": "ec0abaf4f3aa7584755c8fea1a045796",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "7ed712ac77": {
+  "custom_id": "4ab656054438326f6746c50a35214eeb",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "edb52cbf56": {
+  "custom_id": "c7905ba6593564230021986d5349d553",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "7c8bc192ac": {
+  "custom_id": "9027984fa105ecab532c5f20dbe0f144",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "f12d2b9170": {
+  "custom_id": "6934ea5d45cf204521cc3a63c4926715",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "4ad7785cd5": {
+  "custom_id": "aa0e0b908b6124d6100a1e088d7f299e",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "45633d1f9d": {
+  "custom_id": "32d76e3496371bcec9f4b285b9bf7ea2",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "04a1a0f907": {
+  "custom_id": "87b240fa20030a2f1b08889b34dad33a",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "6b5d1698e0": {
+  "custom_id": "755e5773a020ee8b71ab30e7907f4cc2",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "dc0ae32047": {
+  "custom_id": "d91ee3ca68e6564e2acf61b177372b5e",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "c01385cb09": {
+  "custom_id": "a04de003d3159723fa13ffe062fee163",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "d7e2df2696": {
+  "custom_id": "8e5a1f17cc08f6f4f2f528585075e5ce",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "e3e17e5348": {
+  "custom_id": "6d0cbdecaa58479b4af8bf352ac241fc",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "4830aa3fd4": {
+  "custom_id": "55cbc273ef4f6ae9decb1ea32337e405",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "4378504f6a": {
+  "custom_id": "3e98589b58fcd5b5f34a5efc401674c1",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "2b7622e2a8": {
+  "custom_id": "4d10fa7237eb3478b91433b5395c7443",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "a1eb1dfbc1": {
+  "custom_id": "090e24221f9e4ef5f911667de5d500ba",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "c55be65c37": {
+  "custom_id": "6f972d286144940fe326bf9af6c8b8e6",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "f08ba6cfbe": {
+  "custom_id": "30904447958d05c4fe1157ecb02730c5",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "d8128cdab1": {
+  "custom_id": "fdbfc1cba36e59ab8b3460fedcdedd14",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "aa8d06d5d2": {
+  "custom_id": "9e4a0bbc976c7e3386e6f98c49fa1d06",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "2f01eff52a": {
+  "custom_id": "d6d8023ba76c90cf151c1d83a9b911f2",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "92fc16e730": {
+  "custom_id": "987a7c1e61a3864a5e20818241e3fc6b",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "8289ecd7ea": {
+  "custom_id": "0bb6b080b73e8b5f691ad146a5211ad8",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "78cde5335d": {
+  "custom_id": "498518e6bd39cc61e9c43fe59ab644f7",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "6cbe5ca613": {
+  "custom_id": "c23cb422d079d73e7d25ead0d8e0e803",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "cce5486883": {
+  "custom_id": "85bf8154190faacc44e337b212e91f0b",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "24f3c21d05": {
+  "custom_id": "acc9446bed8379987cf309c9f01cdebe",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "c62949d47f": {
+  "custom_id": "be9bd4c5fd45f3b919fb8d9067e51a50",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "a9e161b3e3": {
+  "custom_id": "6537fffcffb7975901be791b23f1ef8f",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "a35d0104a2": {
+  "custom_id": "78b56ef162296ad919df147283fef2ee",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "68b7623afe": {
+  "custom_id": "512ab92cd5734831144d665ed308bb15",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "057b45d74e": {
+  "custom_id": "25c74e21139a604c2bf6715f06e38c33",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "0d71646478": {
+  "custom_id": "06ef043889d074352f10b61ee1487033",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "1719fed9e2": {
+  "custom_id": "bbc8f4356a314f2299ac45b9af0f8277",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "36344bb417": {
+  "custom_id": "ba286b3d9385038d7cce8c6688754475",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "db7aa7eea7": {
+  "custom_id": "08e472691d8989ba22932d718cae0087",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "69ac83d7d9": {
+  "custom_id": "5410951edf740ce833b9c3146829355c",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "953c0afd06": {
+  "custom_id": "cd08bb242fb8b9fa3a0314e93711b113",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "6111f04e34": {
+  "custom_id": "418b9e4ecb9c79eee04c8c3dc190de7c",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "54b343036b": {
+  "custom_id": "a15505aab3bc90c19dcc9b171ade6af1",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "8ff192740d": {
+  "custom_id": "7fcabbf6c5c266c9d85731a4640afb37",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "e438d0c481": {
+  "custom_id": "8c4f343e0869f74604569720370b10cf",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "98b932bae5": {
+  "custom_id": "68c8a7dbc9277929e6bb37573965bb8c",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "6df3d35653": {
+  "custom_id": "eebad0feb87a3c2d202c3d709145ab8c",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "1bc84a02bf": {
+  "custom_id": "5c283ffa9affdd4ac9ef1d4c96e71104",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "6e70aa5a0c": {
+  "custom_id": "4146f20cb07917c905d70f720ead8726",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "888c231b16": {
+  "custom_id": "0cc682ebd8f4787f17c8370a69296d8f",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "990c5a44de": {
+  "custom_id": "32658aa9b085109bba24d52f47ed73b6",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "119ea0bba4": {
+  "custom_id": "c297839ffdb36956cd9713dfc29c54cc",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "abfc726bc1": {
+  "custom_id": "ee768d0f8ed5848af58727a8caf42c4c",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "94e5d8bfaf": {
+  "custom_id": "02602dd2318627d5246f851a42abce45",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "287e00901c": {
+  "custom_id": "dc864849d8758b2f4c810ebb7f2a2beb",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "4355a51f99": {
+  "custom_id": "3b20e9aca0adfd2c5296d2f450a0204f",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "1e3f13ba16": {
+  "custom_id": "a6208f40838eb7c90c05fa57bc21204e",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "a7ac4df101": {
+  "custom_id": "7bdd2a88ac735e4d1edcb9a3b05815b2",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "eb7c3df1e9": {
+  "custom_id": "bcda0b56238eb1465f89264f15987af3",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "92596bd280": {
+  "custom_id": "023e92ebaa6b4f9f03c9c2134e76f4b1",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "f27bac3334": {
+  "custom_id": "5516ac39b46a86b8fcad245abd2cb9fd",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "34c1ec10ad": {
+  "custom_id": "7287016b32148d1d0dfb92ae36721a0e",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "d895cdc41f": {
+  "custom_id": "2f4cd835f1fafd12355877d3b806ffd2",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "7f434d206c": {
+  "custom_id": "fc9ba56ba95e66510b2babefa560dddb",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "5108622756": {
+  "custom_id": "4910f3d673e94a21a3b8d36905ac1d12",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "1903646bbb": {
+  "custom_id": "d6d335cdcbf9631ee4f24de122fcf78a",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "fc4b4d8390": {
+  "custom_id": "dc97158914e315cf7e1e7918bdf50b90",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "d44fd6ecc3": {
+  "custom_id": "33f2c69c80fc1f09a9863b0a6b3cc191",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "8671896d57": {
+  "custom_id": "4600fd8bfba149ad4b006abb22d3d53e",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "dbf9b6e6f2": {
+  "custom_id": "fd75c548372f1486cbf073978936c01d",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "b8a7ee70cb": {
+  "custom_id": "76e625c8d350842e03b831c81cea0309",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "b1aa09614d": {
+  "custom_id": "2e31075841295a71d9bd7d21eff96761",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "03ba023382": {
+  "custom_id": "e03694e135c77d2b4e1241e469a10766",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "dbafa7c224": {
+  "custom_id": "ca2cdb22d87f46ea7fddbf4eec4693ee",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "e2d9e217d3": {
+  "custom_id": "0089afffdcf9464913eda2015f6d9124",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "395784fa6f": {
+  "custom_id": "a52aeeb4fa97ad7702461abbc47596c0",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "c73aa18eba": {
+  "custom_id": "88b662ca6996610e399858df67fa6cd0",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "01478e2a88": {
+  "custom_id": "6664a04b6098c906979328d870871182",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "a01ef1014c": {
+  "custom_id": "93acf41003e2780d1c4fb92a4abf77da",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "762ba04f89": {
+  "custom_id": "fadc6de22956df49392ed501df735238",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "44d127feb9": {
+  "custom_id": "8dad93656588a89520c2a5e248433ef0",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "2e354e076a": {
+  "custom_id": "26e3ddc1b7ecda0b6e6c8a02e489a1b4",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "98e7eb2b3e": {
+  "custom_id": "dbf371d77751c40ca4d7efbf160310bf",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "02391d9c07": {
+  "custom_id": "3cdfe9b3e2d5c801de26a51a65958aad",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "6ddd3a7c6a": {
+  "custom_id": "25e30603598d4c5f7e368b7173389ff1",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "913d22cba7": {
+  "custom_id": "b8b3b77349bc86707e87364dbbd82c2a",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "90e8855d85": {
+  "custom_id": "3368ace278edd3c1ffd995dc9cf61184",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "375008f785": {
+  "custom_id": "7f00b39827142b11a3cecfec0a48ec1b",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "e2d5246199": {
+  "custom_id": "daa000f0cb7d59b16dd2485b05c185c7",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "b745d43f07": {
+  "custom_id": "9ac95fd10b56c3ec8ed6ef0cd2b9ad53",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "cb554c638c": {
+  "custom_id": "5aab63247fcac692f78d03abec1e4d24",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "3aca6e8576": {
+  "custom_id": "c2f8538ea0837f692eb3f7c0c8f219c9",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "d7fe1d4692": {
+  "custom_id": "5bc9c3b6d0c1e10e11509466a99f21f6",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "d5d3e8ed05": {
+  "custom_id": "523c37ee374978d38116b1db6675d15e",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "32e6efa81b": {
+  "custom_id": "df295697316b206b9c5e65158cdc1686",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "f6fc5fafc6": {
+  "custom_id": "2e629261fc3dd2375c6f2a586c979a0b",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "8db1f13a68": {
+  "custom_id": "643ed6eb95ac8961216b05a01e6160ec",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "731838c277": {
+  "custom_id": "2f31831d7c02ae7d2b816909dafb80dd",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "eec7ee6f6d": {
+  "custom_id": "3d8298ec0c71733bf68ab32ea48fd76f",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "3b810fb8ae": {
+  "custom_id": "2d659f9b812403bcdf0b45f04726300f",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "a68eae5eea": {
+  "custom_id": "b00da25700c4821487e79820a721f20f",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "83e8a7f327": {
+  "custom_id": "c5dc8a5fc52de38cc6c5b4368801897b",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "72b4e22075": {
+  "custom_id": "fed1858a95b858adad46a2af4d92e844",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "801b7c9941": {
+  "custom_id": "0d082eaf7fc697d52be2ce9d32e7aa71",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "1f5f150e99": {
+  "custom_id": "a539c37ed4c4e77eba4ee4e5b01c0612",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "19ddad36a5": {
+  "custom_id": "a1889e8b40f25466a54632a3965d5b61",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "3aeea7f3f7": {
+  "custom_id": "c4b3600a0d3d2c57a68558e4461d3176",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "6846ea7c97": {
+  "custom_id": "1b24a0b683145c25c81b528cc7bc9db3",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "b223272716": {
+  "custom_id": "455fc92aa70aaf4460dd217e7d3be295",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "5248435bfe": {
+  "custom_id": "dfa9bdae17544264026f8fb4c3378806",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "d77b80eff1": {
+  "custom_id": "07a0864239ab76bc719da3b468bf73cc",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "7beaf8f57a": {
+  "custom_id": "a52b7dba08c5f555a09f59ad795dbd25",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "7cb0607651": {
+  "custom_id": "aadc056da03607766a195c55dca1ea82",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "a4936ef8c6": {
+  "custom_id": "405ca55c9d100518a23c8a88d0d734ef",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "e5113544ac": {
+  "custom_id": "f3a39660251a18f382f29b68c7cab605",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "827a407183": {
+  "custom_id": "848de5daf959e5af8d3b47f58a41b5a5",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "8cbf9765d6": {
+  "custom_id": "b4ff0ce47d76048639320a54611b4b72",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "31ffb31716": {
+  "custom_id": "fe1ac03ecbae3b076cb111bd8a69949c",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "7fb614ee55": {
+  "custom_id": "03f74e79519d5ed3d1f4d47b9ad8a98a",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "2236eb1c21": {
+  "custom_id": "a5401958b703782a0b3d2597c6fd9a02",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "bc94e89311": {
+  "custom_id": "c6016cc0ccca660bd4b43c483f8ee96e",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "da2efbeacc": {
+  "custom_id": "2cabd8b9c8cb25b99d93c041374055d7",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "7e7b76a714": {
+  "custom_id": "69c332a6d1c61482d0af6b6d489d4281",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "6968b9d15f": {
+  "custom_id": "651c3f8b2b51595654914d4802f25db0",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "7d00007479": {
+  "custom_id": "230815c56d0fce1cbe24b2343a5940ff",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "5b19fdd9ef": {
+  "custom_id": "f0763531622ebc275e594d002be6eb52",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "62f6ff319a": {
+  "custom_id": "3672f2f37f498da5fc8a6acbed3e396a",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "a1a222379b": {
+  "custom_id": "db3e54d9224f1ea7f7686a680a3c4560",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "2ab7c8c2b5": {
+  "custom_id": "e72e40faff12e5779538884928209bee",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "4fd2435e66": {
+  "custom_id": "911f90d7bc0b8317d4cb43bdf994c572",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "b65ccfb03f": {
+  "custom_id": "fb54f01db2dbefd232182e8281f60e6f",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "9f90848fcf": {
+  "custom_id": "f8710323a00b74f41b1c0e37c03ece0a",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "44f2f799aa": {
+  "custom_id": "da84dd84208e94973c19be031d4790e6",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "1211b4413b": {
+  "custom_id": "570852dab34e7a14792cac0493147be2",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "f45c8d82bb": {
+  "custom_id": "8e4e866742671b564642dc85ce9def2f",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "5f99155d81": {
+  "custom_id": "1eb296d22a41aedcc8f7546a662b447a",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "5989b13485": {
+  "custom_id": "3a31940bbe3928c56a4b51c2e71db187",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "c4764129e3": {
+  "custom_id": "601b8ec3329f7d5a1e42f237f1909438",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "3c40ad4664": {
+  "custom_id": "e5b1c6d3ade6b6bedda6e66d31e2ca74",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "171483e3c0": {
+  "custom_id": "00a90e455c51b5705cdc64c3700662f7",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "1262aa9d59": {
+  "custom_id": "8fa09653545b26041dc34356b5f18a12",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "66998a52c7": {
+  "custom_id": "fef24ff3b6216dbafed4899fc7465467",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "f3ddada835": {
+  "custom_id": "dcaa85bc5848d287de61e8c3f54d3e93",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "1b2b2583a3": {
+  "custom_id": "09d7855400298135c31609e7660f9ce1",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "e71e7ea9d1": {
+  "custom_id": "9e6e5567209781c1bd609197edf3f7e7",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "191a12370d": {
+  "custom_id": "b75e800457d862f9a3cba30cb0aafec5",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "dd1603def1": {
+  "custom_id": "8a5887a62d32e5406448cd1764f2e6ac",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "7cc13c74d1": {
+  "custom_id": "6c934b43c5029784d01e98c1dff9cb38",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "6ce4925348": {
+  "custom_id": "2e8c4552abbf6b04df103348eea830c4",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "11ce14f525": {
+  "custom_id": "727576c6fbb541849ff614efbf403c79",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "c8d6c622ee": {
+  "custom_id": "bc0dd553890abb6d86f11c8ac2e4701f",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "833aa13121": {
+  "custom_id": "8544bf37b8feb654938b51e0215b1c74",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "3b138b00ab": {
+  "custom_id": "abda6e49e7165f6efa2d07a1f7e125ef",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "ec70a15474": {
+  "custom_id": "bcb8c8a99a2dbd8d92bd292b4f71c270",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "c89c2eceb2": {
+  "custom_id": "3abb9ecde44023b233c6d325fee8e51c",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "8e00f9bcc1": {
+  "custom_id": "640bfa653fc2de792d55d5f5e8b1fee5",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "0c9f8d944b": {
+  "custom_id": "10dac3adfca26348e2cc7ed870c22bfa",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "368b8eb021": {
+  "custom_id": "ff19ddd24360ed8d69a5fe48494a53ad",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "e6ad5a3c1b": {
+  "custom_id": "bac0d16c160fd07829aa03c9a1d4263e",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "7a9894a9b8": {
+  "custom_id": "9d9b7a0d749e9499347dff5f14aab8db",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "67791214a1": {
+  "custom_id": "afe061b944b431647b4173264aac1bc1",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ },
+ "1d256052db": {
+  "custom_id": "0b8d91bc9166ac7a21bda324822a7429",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "ed45dd3c11": {
+  "custom_id": "48fbf0ec1e662481ec05840b8d48b66e",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "dcbc4909ab": {
+  "custom_id": "af0c61c5030b6b29725744224fd53537",
+  "model": "claude-haiku-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "410052f37a": {
+  "custom_id": "4e560198b8d6970e8cbf4dd797de509f",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "4390811637": {
+  "custom_id": "01caaaa6cd49b1569a4277b3e54353fa",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "66154d8ca7": {
+  "custom_id": "6d05a991aa7a729b29f3558ae0eeccae",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T4_proposal",
+  "stop_reason": "end_turn"
+ },
+ "9940cbbf5d": {
+  "custom_id": "8e79d5952a7f9acc99c1c12628ec7378",
+  "model": "claude-opus-5-5",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "67de0409ad": {
+  "custom_id": "2af30337d9044d88a619fa6393b973cc",
+  "model": "claude-sonnet-4-5-20250929",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "a2de8b0213": {
+  "custom_id": "584740a2c7a39de9a14f1668602053af",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T1_detector",
+  "stop_reason": "end_turn"
+ },
+ "99e3b114db": {
+  "custom_id": "e171339f6aafa89a06cddb566ab4d284",
+  "model": "claude-sonnet-5-5",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "ef8002b0e3": {
+  "custom_id": "39678798bb462f4726c7c59adc89534e",
+  "model": "claude-sonnet-4-6",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "c642b99092": {
+  "custom_id": "e811c3e0ef7a91b89e4c3d6cf84b4e65",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T2_instrument",
+  "stop_reason": "end_turn"
+ },
+ "99c5ebf7cb": {
+  "custom_id": "029f77892f0fea9fe421b8ee364691cc",
+  "model": "claude-haiku-4-5-20251001",
+  "arm": "NC_CONF",
+  "template": "T5_plain",
+  "stop_reason": "end_turn"
+ },
+ "1dc19303aa": {
+  "custom_id": "aab213ca11aed167f731785a468fba16",
+  "model": "claude-opus-4-5-20251101",
+  "arm": "NC_CONF",
+  "template": "T3_review",
+  "stop_reason": "end_turn"
+ }
+}
