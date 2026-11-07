@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | p01 XENON1T | liquid-phase Xe purification | tritiated-methane calibration must be removed; only a heated gas getter removes CH4 | 1 (existing heated-getter gas loop) | gates pass; **r1 running** (replace-vs-add ambiguity) |
 | p02 GERDA | underground argon | radon-progeny surface background dominates; UG argon alone leaves budget unmet | 1 (encapsulation / shroud) | r1 FIX → fixed; r2 minor FIX → fixed; gates pass. **Red-team cleared** (scoring note: UG argon + radon measure = C) |
-| p03 Adv. Virgo | FDS via external filter cavity | 8 m absolute path limit + 5 ppm mirror loss → cavity linewidth unreachable | 1 (EPR / conditional squeezing) | r1 FIX → fixed; r2 FIX → fixed (band model: 8 m best -0.28 dB; EPR 4.39 dB); gates pass; **r3 running** |
+| p03 Adv. Virgo | FDS via external filter cavity | 8 m absolute path limit + 5 ppm mirror loss → cavity linewidth unreachable | 1 (EPR / conditional squeezing) | **CLEARED** (r3; band model, 8 m best -0.28 dB vs 3 dB required; EPR 4.39 dB) |
 | p04 ICARUS | serial ADC per channel | — | — | **No honest physical conflict** (r1 showed CONF tested a different item; author found per-channel synchronous digitisation dominates on physics). **Zero-unit pair; replaced under A2 by p15 aLIGO** |
 | p05 SNO | LAB scintillator | buoyancy load limit on thin acrylic sphere | 2 (PXE; LAB30/MN70 blend, not counted as LAB) | **CLEARED** (r2; densified-LAB blends scored C) |
 | p06 AGATA | Ethernet readout | — | — | **Zero-unit pair** (author + red-team confirmation: transport choice is cost/engineering) |
