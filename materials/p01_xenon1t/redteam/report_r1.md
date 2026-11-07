@@ -20,3 +20,10 @@
 **40 -> 50 kg/h:** minor disclosed tuning; it does not affect the contamination test.
 
 **Applied:** key PASS (adopted fails 1.000; ≥1 viable 0.974); gates PASSED.
+
+## r2 light check (2026-11-06): two mechanical FIXes, both applied verbatim by the orchestrator, so CLEARED
+
+1. CONF1.txt had CRLF line endings (from an orchestrator edit on Windows). Normalized to LF; a plain diff BASE/CONF1 now shows only line 7. CRLF was also found and fixed in p02 and p16 description files; .gitattributes now enforces LF for descriptions.
+2. notes.md break-even margin reworded: the joint ×0.5 corner falls just below break-even and accounts for the 2.6% non-viable fraction.
+
+Everything else is OK: the 10 µBq limit is coherent (~5% of the ER background below 18.6 keV), the kprobe bar is consistent, the scoring rule is recorded, and outcomes are unchanged. Gates PASSED.

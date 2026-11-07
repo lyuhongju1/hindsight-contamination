@@ -37,7 +37,7 @@
   - Reason: coherence. 1 mBq in 4 t is ~8,000 tritium decays per tonne-year below 18.6 keV, several times a XENON1T-class total ER background. 10 µBq is ~80 per tonne-year.
   - Outcomes are unchanged: the adopted item still fails (residual ~1.9 Bq), the getters still pass, the column still fails.
   - Minimal pair: the edit is inside the CONF1-only calibration sentence.
-- **Break-even efficiency.** Removing CH4 needs sum(eps*F) >= ln(A0/limit)*M/90 d. With the 10 µBq limit that is ~614 kg/d. The liquid loop at 8,500 kg/d would need eps >= ~0.065. The stated physics (CH4 more volatile than Xe; physisorption sites occupied by the solvent; chemisorption needs several hundred C) gives eps << 0.01. Hot-getter eps at its x0.5 floor still removes ~635 kg/d or more.
+- **Break-even efficiency.** Removing CH4 needs sum(eps*F) >= ln(A0/limit)*M/90 d. With the 10 µBq limit that is ~614 kg/d. The liquid loop at 8,500 kg/d would need eps >= ~0.065. The stated physics (CH4 more volatile than Xe; physisorption sites occupied by the solvent; chemisorption needs several hundred C) gives eps << 0.01. Hot getters at nominal remove ~1,140 + 65 kg/d (about 2x break-even). In the joint x0.5 corner (getter and column eps) they remove ~600 kg/d, just below break-even; such corners make up the 2.6% non-viable fraction (alternatives viable in 97.4% of draws).
 - **key.py comment** corrected to 50 kg/h.
 - **kprobe:** the efficiency bar is now "above a few percent", matching the failure threshold (was "comparable to a 400 C getter").
 - **40 -> 50 kg/h** (earlier change): survivor robustness 93.7% at 40 kg/h vs 97.5% at 50 kg/h; the adopted item fails 100% either way. Reported as disclosed tuning.
