@@ -1,0 +1,4 @@
+[
+ {"item":"1088706/vuv_sipm_photodetectors","dater":"D1","doc":"arXiv:1710.05075","quote":"An array of UV-sensitive silicon photomultipliers (SiPMs) detects scintillation light from particle interactions in LXe.","baseline_date":"2012-02"},
+ {"item":"1088706/charge_tiles_crossed_strips","dater":"D1","doc":"arXiv:1710.05075","quote":"The charge signal is envisioned to be read out on the anode by arrays of crossed strips, deposited on 10 × 10 cm2 dielectric tiles [26]. Compared to the wire readout used in EXO-200, the tile design simplifies construction and assembly.","baseline_date":"2012-02"}
+]

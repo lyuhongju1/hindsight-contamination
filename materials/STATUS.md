@@ -21,7 +21,7 @@
 | p15 aLIGO (A2 replacement) | balanced homodyne readout | — | — | **Zero-unit pair** (author + red-team confirmation: no honest conflict). **Replaced under A2 by p16 BESIII** |
 | p16 BESIII (A2 replacement) | endcap TOF upgrade to MRPC | charged flux 1.5 MHz/cm2 vs resistive-electrode rate capability (coherence doubt) | 1 (3-layer LGAD) | **Zero-unit pair** (r1: conflict needed a hadron collider, which breaks the class rule; no same-class route robust) |
 | p17 LUX (A1 resumed) | Gd-loaded LS outer detector | — | — | **Zero-unit pair** (author + batched red-team confirmation) |
-| p19 CUORE-0 → CUPID (A1 resumed) | Li2MoO4 bolometers | (author running under C1: 2vbb pile-up) | — | **author running** |
+| p19 CUORE-0 → CUPID (A1 resumed) | Li2MoO4 bolometers | — | — | **author: no robust window under C1** (pile-up can defeat Li2MoO4, but no survivor meets a requirement strict enough: ZnSe background 5-20x too high, TeO2 under 208Tl line); confirmation to batch |
 | p18 Super-K (A1 resumed) | Gd sulfate loading | — | — | **Zero-unit pair** (author + batched red-team confirmation) |
 
 **Scoring notes collected from the red teams** (to be frozen into the per-pair rubrics):
