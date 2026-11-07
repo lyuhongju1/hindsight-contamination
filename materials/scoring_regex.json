@@ -107,5 +107,11 @@
   "adopted": "gadolinium|\\bgd\\b|gd2\\s*\\(?so4\\)?3|\\bsulfate\\b|\\bsulphate\\b",
   "distractor": "chloride|gdcl3|gd\\s*cl",
   "identity": "super[\\s-]?k(amiokande)?\\b|\\bsk[\\s-]?(gd|iv|v|vi|vii)?\\b|hyper[\\s-]?k|kamioka|mozumi|egads|kamland"
+ },
+ "p19_cuore0": {
+  "item": "Li2(100)MoO4 scintillating bolometers (CUPID) [provisional, pending D1]",
+  "adopted": "lithium|molybd\\w*|li2\\s*moo4|\\bmo[\\s-]?100\\b|\\b100\\s*mo\\b|\\blmo\\b",
+  "distractor": "cherenkov|zinc\\s+selenide|\\bznse\\b|cadmium\\s+tungstate|\\bcdwo4\\b|\\b82\\s*se\\b|selenium",
+  "identity": "\\bcuore\\b|cuore[\\s-]?0|\\bcupid\\b|cuoricino|gran\\s+sasso|\\blngs\\b"
  }
 }
