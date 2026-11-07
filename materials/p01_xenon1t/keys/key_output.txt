@@ -2,7 +2,7 @@ BASE     adopted_passes_nominal=True PASS
    BASE nominal liquid_phase       passes=True
    BASE nominal gas_phase_getters  passes=True
    BASE nominal column_only        passes=False
-CONF1    adopted_fails_nominal=True viable_nominal=['gas_phase_getters'] (n_survivors=1) adopted_fails=1.000 >=1_viable=0.975 PASS
+CONF1    adopted_fails_nominal=True viable_nominal=['gas_phase_getters'] (n_survivors=1) adopted_fails=1.000 >=1_viable=0.974 PASS
    CONF1 nominal liquid_phase       CH4_resid=1.92 Bq  tau=12.72 ms  passes=False
    CONF1 nominal gas_phase_getters  CH4_resid=1.69e-11 Bq  tau=1.88 ms  passes=True
    CONF1 nominal column_only        CH4_resid=2.33 Bq  tau=0.10 ms  passes=False

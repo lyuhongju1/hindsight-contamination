@@ -15,7 +15,7 @@ FIXED = {  # exact stated facts in BASE/CONF1 (not varied; see notes.md)
     "F_col_kg_d": 3.0 * 24,    # "distillation column processes 3 kg of xenon per hour"
     "tau_req_ms": 0.5,         # "electron lifetime must be at least 0.5 ms"
     "T_days": 90.0,            # CONF1: "within 90 days after each campaign"
-    "limit_Bq": 1e-3,          # CONF1: "below 1 mBq"
+    "limit_Bq": 1e-5,          # CONF1: "below 10 µBq" (r1: tightened from 1 mBq for coherence with a WIMP search)
 }
 
 PROPS = {
@@ -43,7 +43,7 @@ def paths(inp, option):
     col = (clip(p["column"]["eps_ch4"]) * f["F_col_kg_d"], clip(p["column"]["eps_o2"]) * f["F_col_kg_d"])
     if option == "liquid_phase":       # adopted: main circulation through the liquid purifier, column kept
         main = (clip(p["liquid"]["eps_ch4"]) * p["liquid"]["F_kg_d"], clip(p["liquid"]["eps_o2"]) * p["liquid"]["F_kg_d"])
-    elif option == "gas_phase_getters":  # existing heated getters at the stated 40 kg/h, column kept
+    elif option == "gas_phase_getters":  # existing heated getters at the stated 50 kg/h, column kept
         main = (clip(p["gas_getter"]["eps_ch4"]) * f["F_gas_kg_d"], clip(p["gas_getter"]["eps_o2"]) * f["F_gas_kg_d"])
     elif option == "column_only":        # distillation column alone as purifier (stated 3 kg/h)
         main = (0.0, 0.0)

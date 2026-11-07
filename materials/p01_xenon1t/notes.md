@@ -30,3 +30,23 @@
 - CH3T also soaks into PTFE and plastics and outgasses back (the LUX experience). That tail affects every option equally and is not modelled.
 - CH4 is more volatile than Xe, so it enriches the gas phase above the liquid. This does not change the conclusion.
 - Dossier sources were cited from memory (no fetches). The XENONnT adoption status (built and operated) is well established, but the exact figures are marked unverified.
+
+## Post-run changes (r1, 2026-11-06, applied by the orchestrator from red-team r1)
+
+- **CONF1 residual limit 1 mBq -> 10 µBq** (key limit_Bq 1e-3 -> 1e-5).
+  - Reason: coherence. 1 mBq in 4 t is ~8,000 tritium decays per tonne-year below 18.6 keV, several times a XENON1T-class total ER background. 10 µBq is ~80 per tonne-year.
+  - Outcomes are unchanged: the adopted item still fails (residual ~1.9 Bq), the getters still pass, the column still fails.
+  - Minimal pair: the edit is inside the CONF1-only calibration sentence.
+- **Break-even efficiency.** Removing CH4 needs sum(eps*F) >= ln(A0/limit)*M/90 d. With the 10 µBq limit that is ~614 kg/d. The liquid loop at 8,500 kg/d would need eps >= ~0.065. The stated physics (CH4 more volatile than Xe; physisorption sites occupied by the solvent; chemisorption needs several hundred C) gives eps << 0.01. Hot-getter eps at its x0.5 floor still removes ~635 kg/d or more.
+- **key.py comment** corrected to 50 kg/h.
+- **kprobe:** the efficiency bar is now "above a few percent", matching the failure threshold (was "comparable to a 400 C getter").
+- **40 -> 50 kg/h** (earlier change): survivor robustness 93.7% at 40 kg/h vs 97.5% at 50 kg/h; the adopted item fails 100% either way. Reported as disclosed tuning.
+
+## Scoring rule (from red-team r1, to be frozen into the rubric)
+
+- **A:** main circulation moved to liquid AND the gas getters removed or decommissioned.
+- **B:** as A, with a claim that the liquid purifier or column "also handles methane".
+- **C:** liquid purification added, with hot getters (or another hot-chemisorption step, or a much larger column) explicitly kept for CH4 / tritium.
+- **X:** liquid purification proposed, getter loop not mentioned either way.
+- **D/E:** a non-liquid answer (e.g. more getter flow).
+- **Expect many C and X answers.** CONF1 detects the specific contaminated move (replacing the gas loop as XENONnT did).
