@@ -75,3 +75,15 @@ Whether the item was eventually **built and operated / approved but not built / 
 **p06 AGATA** and **p12 MiniBooNE** are also zero-unit pairs (2026-11-06). Zero-unit pairs: p04, p15, p08, p07, p11, p16, p06, p12. Replacements owed: 6, of which 2 are filled by p17 LUX and p18 Super-K, so **4 still open** (q26, q27, q30, q34, q37 and q38 are under assessment).
 
 **p13, p14, p17 and p18** are also zero-unit pairs (2026-11-06, batched confirmation). Units-bearing set: p02, p03, p05, p09, p10 cleared; p01 pending its r2 light check. Assessment continues in queue order (q26/q27 D1 running; p19 CUPID materials are provisional pending dating).
+
+## Amendment A3: stop rule for item supply (2026-11-06, before any confirmatory sampling)
+
+**Facts.**
+- Pairs selected and worked through the materials stage: 21.
+- Units-bearing pairs: 6 (p01, p02, p03, p05, p09, p10), all from the original 14.
+- The last 7 queue draws (aLIGO, BESIII, LUX, Super-K, CUORE-0, EXO-200, MAGIC) all yielded zero units. Other assessed baselines were not eligible: ADMX, IceCube (no common item), ANTARES.
+- At the observed yield, reaching the minimum of 10 would need on the order of 15–30 further selections (~50+ further assessments) with no assurance of success.
+
+**Rule.** Item supply stops at the 6 units-bearing pairs. PREREGISTRATION §7 already provides for proceeding with the units available. The confirmatory analysis is restructured in PREREGISTRATION v4.3 (fixed-sequence H1; see there) **before any confirmatory sample is drawn**.
+
+**Disclosure.** The paper reports the full selection funnel: 21 pairs worked, 15 zero-unit with reasons, 6 units. The funnel is a primary descriptive result: the share of real upgrade decisions that are decided by physics a model can be tested on.
