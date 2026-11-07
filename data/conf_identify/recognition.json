@@ -1,0 +1,674 @@
+{
+ "p03_advirgo|NAME|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p01_xenon1t|BASE|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p03_advirgo|CONF1|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p03_advirgo|NAME|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p01_xenon1t|ANON|claude-haiku-4-5-20251001": [
+  1,
+  20
+ ],
+ "p02_gerda|CONF1|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p02_gerda|CONF1|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p03_advirgo|NAME|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p01_xenon1t|NAME|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p01_xenon1t|ANON|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p03_advirgo|ANON|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p02_gerda|CONF1|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p02_gerda|BASE|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p03_advirgo|NAME|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p01_xenon1t|NAME|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p02_gerda|ANON|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p05_sno|BASE|claude-haiku-4-5-20251001": [
+  11,
+  20
+ ],
+ "p01_xenon1t|NAME|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p03_advirgo|CONF1|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p01_xenon1t|ANON|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p02_gerda|ANON|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p02_gerda|NAME|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p03_advirgo|NAME|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p02_gerda|CONF1|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p02_gerda|ANON|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p03_advirgo|ANON|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p02_gerda|BASE|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p02_gerda|CONF1|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p01_xenon1t|CONF1|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p02_gerda|ANON|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p02_gerda|NAME|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p05_sno|BASE|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p03_advirgo|BASE|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p05_sno|ANON|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p05_sno|BASE|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p05_sno|ANON|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p03_advirgo|ANON|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p02_gerda|ANON|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p03_advirgo|BASE|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p01_xenon1t|BASE|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p01_xenon1t|BASE|claude-sonnet-4-6": [
+  16,
+  20
+ ],
+ "p03_advirgo|BASE|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p01_xenon1t|ANON|claude-haiku-5-5": [
+  10,
+  20
+ ],
+ "p05_sno|ANON|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p01_xenon1t|NAME|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p03_advirgo|NAME|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p01_xenon1t|CONF1|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p01_xenon1t|ANON|claude-sonnet-4-6": [
+  0,
+  20
+ ],
+ "p02_gerda|CONF1|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p02_gerda|BASE|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p02_gerda|ANON|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p05_sno|BASE|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p05_sno|ANON|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p05_sno|CONF1|claude-haiku-4-5-20251001": [
+  14,
+  20
+ ],
+ "p03_advirgo|CONF1|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p03_advirgo|BASE|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p03_advirgo|BASE|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p02_gerda|NAME|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p01_xenon1t|NAME|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p03_advirgo|CONF1|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p01_xenon1t|CONF1|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p03_advirgo|ANON|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p02_gerda|BASE|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p02_gerda|NAME|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p02_gerda|BASE|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p01_xenon1t|BASE|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p03_advirgo|ANON|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p02_gerda|ANON|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p03_advirgo|ANON|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p01_xenon1t|BASE|claude-haiku-5-5": [
+  15,
+  20
+ ],
+ "p03_advirgo|CONF1|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p03_advirgo|BASE|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p02_gerda|NAME|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p01_xenon1t|NAME|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p03_advirgo|BASE|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p01_xenon1t|ANON|claude-opus-4-5-20251101": [
+  2,
+  20
+ ],
+ "p01_xenon1t|NAME|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p02_gerda|NAME|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p02_gerda|NAME|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p05_sno|BASE|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p05_sno|ANON|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p03_advirgo|CONF1|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p03_advirgo|CONF1|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p01_xenon1t|CONF1|claude-haiku-4-5-20251001": [
+  3,
+  20
+ ],
+ "p01_xenon1t|BASE|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p01_xenon1t|CONF1|claude-haiku-5-5": [
+  12,
+  20
+ ],
+ "p01_xenon1t|CONF1|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p05_sno|ANON|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p03_advirgo|ANON|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p05_sno|CONF1|claude-sonnet-4-5-20250929": [
+  18,
+  20
+ ],
+ "p05_sno|ANON|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p02_gerda|CONF1|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p01_xenon1t|ANON|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p05_sno|BASE|claude-haiku-5-5": [
+  11,
+  20
+ ],
+ "p03_advirgo|NAME|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p02_gerda|BASE|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p05_sno|BASE|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p01_xenon1t|CONF1|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p02_gerda|BASE|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p01_xenon1t|BASE|claude-haiku-4-5-20251001": [
+  1,
+  20
+ ],
+ "p09_nemo3|ANON|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p10_borexino|NAME|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p09_nemo3|CONF1|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p09_nemo3|NAME|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p09_nemo3|NAME|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p10_borexino|BASE|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p09_nemo3|NAME|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p10_borexino|NAME|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p10_borexino|CONF1|claude-sonnet-4-5-20250929": [
+  8,
+  20
+ ],
+ "p05_sno|NAME|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p09_nemo3|CONF1|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p09_nemo3|NAME|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p10_borexino|NAME|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p09_nemo3|ANON|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p09_nemo3|CONF1|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p10_borexino|BASE|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p05_sno|NAME|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p09_nemo3|BASE|claude-haiku-4-5-20251001": [
+  2,
+  20
+ ],
+ "p10_borexino|BASE|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p05_sno|NAME|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p10_borexino|ANON|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p09_nemo3|CONF1|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p10_borexino|ANON|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p09_nemo3|NAME|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p10_borexino|CONF1|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p09_nemo3|BASE|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p09_nemo3|ANON|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p05_sno|CONF1|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p10_borexino|BASE|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p09_nemo3|BASE|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p09_nemo3|ANON|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p09_nemo3|NAME|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p05_sno|NAME|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p10_borexino|NAME|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p10_borexino|CONF1|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p10_borexino|ANON|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p10_borexino|ANON|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p10_borexino|NAME|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p09_nemo3|ANON|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p09_nemo3|CONF1|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p10_borexino|ANON|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p09_nemo3|BASE|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p09_nemo3|CONF1|claude-haiku-4-5-20251001": [
+  3,
+  20
+ ],
+ "p09_nemo3|CONF1|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p10_borexino|ANON|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p10_borexino|BASE|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p05_sno|NAME|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p10_borexino|CONF1|claude-sonnet-4-6": [
+  13,
+  20
+ ],
+ "p10_borexino|NAME|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p09_nemo3|BASE|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p10_borexino|CONF1|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p05_sno|NAME|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p09_nemo3|NAME|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p10_borexino|BASE|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p09_nemo3|ANON|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p09_nemo3|BASE|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p10_borexino|ANON|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p05_sno|CONF1|claude-opus-4-5-20251101": [
+  20,
+  20
+ ],
+ "p10_borexino|CONF1|claude-sonnet-5-5": [
+  16,
+  20
+ ],
+ "p10_borexino|BASE|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p10_borexino|CONF1|claude-haiku-5-5": [
+  20,
+  20
+ ],
+ "p05_sno|NAME|claude-opus-5-5": [
+  20,
+  20
+ ],
+ "p05_sno|CONF1|claude-sonnet-5-5": [
+  20,
+  20
+ ],
+ "p09_nemo3|ANON|claude-haiku-4-5-20251001": [
+  20,
+  20
+ ],
+ "p05_sno|CONF1|claude-haiku-5-5": [
+  11,
+  20
+ ],
+ "p05_sno|CONF1|claude-sonnet-4-6": [
+  20,
+  20
+ ],
+ "p09_nemo3|BASE|claude-sonnet-4-5-20250929": [
+  20,
+  20
+ ],
+ "p10_borexino|NAME|claude-sonnet-4-6": [
+  20,
+  20
+ ]
+}
