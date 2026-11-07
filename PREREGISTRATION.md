@@ -24,6 +24,19 @@ When a language model is asked to design an upgrade for an instrument whose hist
 - **Selection:** by the frozen mechanical procedure in `pair_selection_rules.md` (INSPIRE frame, criteria I1–I6, field caps, seeded draw), with screening and dating by agents plus scripts (v3 §§5–6).
 - **Excluded:** the two pilot pairs (T2K ND280, Auger).
 
+### 2.1a Achieved units (v4.3)
+
+| Unit | Baseline → programme | Adopted item | adoption_status (covariate) |
+|---|---|---|---|
+| p01 | XENON1T → XENONnT | Liquid-phase Xe purification | built and operated |
+| p02 | GERDA Phase II → LEGEND-1000 | Underground-sourced argon | approved, not built (unverified) |
+| p03 | Advanced Virgo → AdV+ | Frequency-dependent squeezing via an external filter cavity | built and operated (unverified) |
+| p05 | SNO → SNO+ | LAB liquid scintillator | built and operated |
+| p09 | NEMO-3 → SuperNEMO | 8-in. high-QE PMT calorimeter modules | built and operated (unverified) |
+| p10 | Borexino → SOX | 144Ce-144Pr antineutrino source | cancelled |
+
+Each has one CONF (CONF1). Rubrics: `materials/<pair>/RUBRIC.md`.
+
 ### 2.2 Unit
 
 One **conflict twin** (CONF) of a pair whose adopted item **a**:
@@ -71,6 +84,15 @@ Each CONF has a constraint-knowledge question (**K-probe**), stated without inst
 | 4.5 | Haiku 4.5, Sonnet 4.5, Opus 4.5 |
 | — | Sonnet 4.6 |
 | 5.5 | Haiku 5.5, Sonnet 5.5, Opus 5.5 |
+
+**Snapshot IDs** (confirmed available via the API model list, 2026-11-06):
+- `claude-sonnet-4-5-20250929`
+- `claude-haiku-4-5-20251001`
+- `claude-opus-4-5-20251101`
+- `claude-sonnet-4-6`
+- `claude-haiku-5-5`
+- `claude-sonnet-5-5`
+- `claude-opus-5-5`
 
 **Non-Anthropic models.** If the PI provides a gateway key before the freeze, ≥ 1 non-Anthropic frontier model is added to the confirmatory set. Otherwise the paper states that it is a single-vendor study.
 

@@ -48,14 +48,22 @@ def api(method, path, body=None, raw_url=None):
     return json.loads(payload)
 
 
-def run_dir(run): d = os.path.join(PILOT, "data", run); os.makedirs(d, exist_ok=True); return d
+PROJECT = os.path.dirname(PILOT)
+def run_dir(run):
+    """Confirmatory runs (name starts with 'conf_') live in <project>/data/, apart from pilot data."""
+    d = os.path.join(PROJECT, "data", run) if run.startswith("conf_") else os.path.join(PILOT, "data", run)
+    os.makedirs(d, exist_ok=True); return d
+
+def pair_dir(a, pair):
+    """--root materials -> <project>/materials/<pair>; default -> pilot/pairs/<pair>."""
+    return os.path.join(PROJECT, a.root, pair) if a.root else os.path.join(PILOT, "pairs", pair)
 
 
 def cmd_plan(a):
     reqs = []
     if a.task == "kprobe":  # physics-knowledge probe: the question is the whole prompt (design v2 section 4.5)
         for pair in a.pairs.split(","):
-            Q = json.load(open(os.path.join(PILOT, "pairs", pair, a.kround, "kprobe.json"), encoding="utf-8"))
+            Q = json.load(open(os.path.join(pair_dir(a, pair), *([] if a.root else [a.kround]), "kprobe.json"), encoding="utf-8"))
             for level, q in Q.items():
                 prompt = q["question"]; h = hashlib.sha256(prompt.encode()).hexdigest()[:16]
                 for m in a.models.split(","):
@@ -67,7 +75,7 @@ def cmd_plan(a):
         print(f"planned {len(reqs)} requests (kprobe)"); return
     T = json.load(open(os.path.join(PILOT, "templates.json"), encoding="utf-8"))[a.task]
     for pair in a.pairs.split(","):
-        for f in sorted(glob.glob(os.path.join(PILOT, "pairs", pair, *a.desc_dir.split("/"), "*.txt"))):
+        for f in sorted(glob.glob(os.path.join(pair_dir(a, pair), *a.desc_dir.split("/"), "*.txt"))):
             level = os.path.splitext(os.path.basename(f))[0]
             desc = open(f, encoding="utf-8").read().strip()
             for tname, tpl in T.items():
@@ -132,5 +140,6 @@ if __name__ == "__main__":
     p.add_argument("--models", required=True); p.add_argument("--n", type=int, required=True); p.add_argument("--run", required=True)
     p.add_argument("--desc-dir", default="descriptions", help="e.g. round2/descriptions")
     p.add_argument("--kround", default="round2", help="folder holding kprobe.json")
+    p.add_argument("--root", default=None, help="confirmatory: 'materials' (pairs under <project>/materials/)")
     for c in ("submit", "harvest", "status"): sp.add_parser(c).add_argument("--run", required=True)
     a = ap.parse_args(); {"plan": cmd_plan, "submit": cmd_submit, "harvest": cmd_harvest, "status": cmd_status}[a.cmd](a)
