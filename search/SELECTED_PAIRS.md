@@ -74,3 +74,16 @@ Materials. For each pair, the author agents (brief v2, rules 1–10) write BASE 
 **Field counts (units-bearing pairs only, per the A2 clarification):** dark_matter: XENON1T, LUX; nu_natural: SNO, Borexino, Super-K (3, at the cap).
 
 **Replacements owed after these two:** 2 (q26, q27 and q30 are under assessment).
+
+### Continued (2026-11-06)
+
+| Queue | Baseline | Daters | Item | Commitment | Alternative not adopted | Outcome |
+|---|---|---|---|---|---|---|
+| q26 | ADMX (1820603, 2020-09-30) | D1: NOT ELIGIBLE (no commitment in the I2/I6 window 2022-09-30 to 2023-06-30); D2: no ADMX item claimed | — | — | — | Not eligible |
+| q27 | CUORE-0 (1449116, 2016-04-19) | D1, D2 both claim Li2MoO4 crystals; both VERIFIED exact | Li2(100)MoO4 scintillating bolometers | arXiv:1907.09376 (2019-07) | TeO2 with Cherenkov-light readout; ZnSe/82Se | **Selected as p19_cuore0** |
+| q30 | IceCube (1504036) | D2: acoustic geometry calibration (verified); D1 not yet run | — | — | — | Pending |
+
+**Notes on q27:**
+- D2 stalled before writing its verdict narrative; its verified claims are on file (claims/D2_q26_q27_q30_verified.json).
+- The p19 materials were started before D1 completed (the efficiency reorder logged in RUNBOOK); selection rests on dating alone.
+- **Field:** double_beta becomes GERDA, NEMO-3 and CUORE-0 (3, at the cap).
