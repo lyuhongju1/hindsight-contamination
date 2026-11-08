@@ -1,0 +1,23 @@
+# Feasibility (lesson 5): q77 CLAS, q78 PHENIX (2026-11-08)
+
+All resolution figures are sigma. They are quoted from memory and were NOT fetched or verified; an author must cite them. Survivor credibility checks: radiation, temperature, light yield, field, rate, mass.
+
+## q77 CLAS -> CLAS12 (adopted: Pb/scintillator-strip preshower calorimeter of about 5-6 X0, placed in front of the existing EC sampling calorimeter)
+
+- Route: pi0 photon separation. NO. At 10 GeV the minimum opening angle is 2m/E = 27 mrad, about 19 cm at about 7 m. The strip pitch is a setting within the item (finer strips, U/V/W stereo). Moving the calorimeter closer leaves only the ratio of Pb/scintillator to PbWO4 Moliere radius (about 4 cm vs 2 cm, a factor of about 2), which is not robust under x0.5-2.
+- Route: energy resolution. WINDOW. The retained EC (Pb/scintillator, about 10-12%/sqrt(E) sigma, CLAS NIM 2001) carries most of the shower energy. Even if PCAL had perfect sampling, the combination stays at or above about 7%/sqrt(E), or about 3.5-5% at x0.5. Take a stated requirement of sigma_E/E <= 3% at 2 GeV for photons. PCAL+EC is about 7% nominal, 3.5-14% over x0.5-2, so it fails everywhere. PbWO4 (about 2.6%/sqrt(E) plus about 1% constant, PrimEx HyCal; CMS 2.8%/sqrt(E)) gives about 2.0-2.2% and passes. Lead glass (about 5-6%/sqrt(E)) gives about 4% and fails, so it is not a survivor.
+- Route: torus field. NO. The forward calorimeter sits outside the coils, and an APD readout makes PbWO4 indifferent to the field anyway. The field favours neither option.
+- Route: rate. NO. A 1e35 fixed-target rate is fine for both, and PbWO4 is faster.
+- Survivor checks for PbWO4: radiation is no issue (forward dose is far below CMS); temperature needs about +-0.1 C stabilisation, which is routine, physical and not a stated conflict; light yield is ample at GeV energies; mass is about 60-70 t over about 40 m^2 by 20 cm, which is credible against CMS ECAL at about 90 t.
+- Why settings fail: PCAL pitch and sampling cannot change the EC's sampling fluctuations. Replacing the EC with crystals is the alternative, not an add-on to PCAL.
+- **VERDICT q77: WINDOW.** Mechanism: a stated photon energy-resolution requirement at about 3% at 2 GeV (sigma). The factor of about 3 between sampling and crystal resolution is robust under x0.5-2. Survivor: PbWO4 crystal calorimetry over the acceptance. Caveat: the requirement must be physics-motivated in BASE (for example narrow gamma-gamma or missing-mass peaks). BASE must state no shallower depth than about 25 cm.
+
+## q78 PHENIX -> sPHENIX (adopted: compact W/SciFi EMCal, X0 about 7 mm, R_M about 2 cm, SiPM/APD readout)
+
+- Route: radial depth inside the magnet bore. NO, the route favours the adopted item. With about 18 X0 in a stated 20-25 cm radial gap, W/SciFi needs about 13 cm and passes. PbSc (X0 about 2 cm, about 36 cm), PbGl (X0 about 2.8 cm, about 50 cm) and LAr accordion (about 35-45 cm plus cryostat) all fail.
+- Route: field and rate. NO. SiPM/APD readout is fine at about 1.5 T. RHIC rates are low for every option.
+- Route: Upsilon mass resolution. NO. It is tracking-dominated, so it does not separate the calorimeters.
+- Route: photon energy resolution. WINDOW. Take a stated requirement of sigma_E/E <= 4% at 2 GeV. W/SciFi is about 12-15%/sqrt(E) plus about 3% constant, about 9-10% at 2 GeV, or about 4.8% at x0.5, so it fails robustly. Diluting the sampling within "compact W/SciFi" only reaches about 8-10%/sqrt(E). LAr (about 10%/sqrt(E), about 7%) fails, as does PbGl (about 6%/sqrt(E), about 4.3%). PbWO4 (PHOS about 3.3%/sqrt(E) plus 1.1%; CMS 2.8%/sqrt(E)) gives about 2-2.6% and passes. Its X0 is 0.89 cm, so 18 X0 is about 16 cm, which also passes the compact-depth fact.
+- Survivor checks for PbWO4: field (APD) is OK; radiation is negligible at RHIC; temperature (PHOS -25 C or CMS 18 C, stabilised) is physical and OK; mass is about 20 t over about 14 m^2 by 18 cm, which is credible.
+- Why settings fail: the stochastic term is set by the W/fibre sampling fraction, and the item's stated compactness (X0 about 7 mm) pins that term within about x1.5. A different detector class (crystals) is the alternative, not a setting.
+- **VERDICT q78: WINDOW.** Mechanism: a stated photon energy-resolution requirement of about 4% at 2 GeV (sigma), optionally combined with the stated bore depth, which still admits crystals. Survivor: PbWO4. The listed alternatives LAr, PbSc and PbGl do NOT survive. Caveat: the requirement must be physics-motivated in an invented heavy-ion barrel BASE (for example a photon or pi0/eta peak); crystals in a heavy-ion barrel are in-class (ALICE PHOS).
