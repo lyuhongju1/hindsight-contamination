@@ -1,0 +1,50 @@
+[
+ {
+  "item": "541364/pxd_depfet_pixels",
+  "dater": "D1",
+  "doc": "arXiv:1011.0352v1",
+  "quote": "To verify that the Belle II detector with the DEPFET PXD as its innermost element meets the physics requirements of precision reconstruction of vertices and track impact parameters, we compared the Belle II baseline detector to a simulation of the tracking volume of the Belle detector, both within the ILC framework.",
+  "baseline_date": "2000-12",
+  "meta_date": "2010-11-01",
+  "quote_match": "exact",
+  "gap_months": 119,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "541364/arich_hapd_photodetector",
+  "dater": "D1",
+  "doc": "arXiv:1011.0352v1",
+  "quote": "As the baseline detector, a hybrid avalanche photo-detector (HAPD by Hamamatsu Photonics) of the proximity focusing type was selected, while the Photonis MCP-PMT is kept as a backup option.",
+  "baseline_date": "2000-12",
+  "meta_date": "2010-11-01",
+  "quote_match": "exact",
+  "gap_months": 119,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "796888/ibl_3d_silicon_sensors",
+  "dater": "D1",
+  "doc": "arXiv:1209.1906v1",
+  "quote": "The IBL will consist of a combination of n+-in-n MCS modules using planar sensors and n+-in-p SCS modules using 3D sensors.",
+  "baseline_date": "2008",
+  "meta_date": "2012-09-10",
+  "quote_match": "exact",
+  "gap_months": 56,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "796249/gso_scintillator_calorimeter",
+  "dater": "D1",
+  "doc": "arXiv:1202.2083v1",
+  "quote": "The scintillating part of the detector will be replaced with GSO slabs.",
+  "baseline_date": "2008",
+  "meta_date": "2012-02-09",
+  "quote_match": "exact",
+  "gap_months": 49,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ }
+]
