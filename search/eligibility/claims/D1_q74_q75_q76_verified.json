@@ -1,0 +1,26 @@
+[
+ {
+  "item": "494394/psd_projectile_spectator_calorimeter",
+  "dater": "D1",
+  "doc": "arXiv:0709.1867",
+  "quote": "New spectator calorimeter, the PSD, instead of the VCAL.",
+  "baseline_date": "1999-01",
+  "meta_date": "2007-09",
+  "quote_match": "exact",
+  "gap_months": 104,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "494394/helium_beam_pipe_in_tpcs",
+  "dater": "D1",
+  "doc": "arXiv:0709.1867",
+  "quote": "To minimize this contribution, a Helium beam pipe will be introduced in the beam-line along the sensitive TPC volumes.",
+  "baseline_date": "1999-01",
+  "meta_date": "2007-09",
+  "quote_match": "exact",
+  "gap_months": 104,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ }
+]

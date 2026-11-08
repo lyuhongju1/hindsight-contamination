@@ -33,3 +33,6 @@
 | q68 | SND | NOT ELIGIBLE (upgrade items committed 20 months after the baseline) | — | — | not eligible |
 | q70 | COMPASS 2014 | — | — | — | skipped (duplicate of q61) |
 | q72 | ATLAS cosmics | — | — | — | skipped (duplicate of q62) |
+| q74 | WASA at CELSIUS | NOT ELIGIBLE (WASA-at-COSY committed 2004, before the baseline) | — | — | not eligible |
+| q75 | NA49 → NA61/SHINE | ELIGIBLE: PSD calorimeter; He beam pipe through the TPCs (arXiv:0709.1867, exact) | running | | |
+| q76 | Upgraded D0 | NOT ELIGIBLE (Run IIb TDR 2002, before the baseline; no successor) | — | — | not eligible |

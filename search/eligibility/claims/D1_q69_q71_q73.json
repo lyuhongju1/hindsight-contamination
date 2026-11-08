@@ -1,0 +1,7 @@
+[
+{"item":"796251/its_cmos_maps_pixels","dater":"D1","doc":"arXiv:1304.1306","quote":"At present the selected technology for the pixel sensor is TowerJazz1 CIS process.","baseline_date":"2008"},
+{"item":"796251/tpc_gem_readout_ungated","dater":"D1","doc":"arXiv:1408.3484","quote":"In order to make full use of the luminosity in RUN 3, the TPC is foreseen to be operated in an ungated mode with continuous readout. The existing MWPC readout will be replaced by a Micro-Pattern Gaseous Detector (MPGD) based readout, which provides intrinsic ion capture capability without gating.","baseline_date":"2008"},
+{"item":"796250/rp_sccvd_diamond_timing","dater":"D1","doc":"arXiv:1701.05227","quote":"The TOF detector is based on single crystal Chemical Vapor Deposition (scCVD) diamond plates and is designed to measure the protons TOF with about 50 ps time precision.","baseline_date":"2008"},
+{"item":"608101/hft_active_pixel_sensors","dater":"D1","doc":"arXiv:0710.0172","quote":"The proposed inner tracking system, optimized for heavy flavor identification, is using active pixel sensors close to the collision point and silicon strip technology further outward.","baseline_date":"2002-04"},
+{"item":"608101/fgt_triple_gem_disks","dater":"D1","doc":"arXiv:0710.0172","quote":"Charge sign determination for electrons and positrons from the decay of W bosons will be provide by 6 large-area triple GEM disks currently under development.","baseline_date":"2002-04"}
+]
