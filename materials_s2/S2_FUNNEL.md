@@ -41,5 +41,19 @@
 | q73 | STAR | ELIGIBLE: HFT MAPS vs hybrid or CCD; FGT triple-GEM vs Si disks (arXiv:0710.0172) | NO WINDOW (MAPS integration time is a variant within the item; GEM vs Si charge-sign ranges overlap; material favours the items) | not run | infeasible, pending batched confirmation |
 | q79 | NA61/SHINE | — | — | — | treated as same lineage as q75 NA49 (successor); assessed through q75 |
 | q77 | CLAS → CLAS12 | D1: PCAL preshower; D2: aerogel RICH (both verified) | (PCAL window found) | no common item | **NOT ELIGIBLE** (both-daters-same-item rule, as IceCube q30); author stopped |
-| q78 | PHENIX → sPHENIX concept | D1 and D2 agree: compact W/scintillator EMCal (arXiv:1207.6378, PHENIX collaboration's own proposal; successor accepted) | WINDOW (photon energy resolution; PbWO4 survivor) | ELIGIBLE | **selected as s2_q78_phenix**; author running |
+| q78 | PHENIX → sPHENIX concept | D1 and D2 agree: compact W/scintillator EMCal (arXiv:1207.6378, PHENIX collaboration's own proposal; successor accepted) | WINDOW (photon energy resolution; PbWO4 survivor) | ELIGIBLE | selected as s2_q78_phenix; **author: no robust window** (CONF1 passes only at 0.954, contingent on the W/SciFi constant term, which is a calibration setting; at c/2 it fails in only 0.59; diluted W/SciFi reaches ~5.7%/sqrt(E) vs 3.6% for PbWO4) |
 | q80 | PHOBOS | NOT ELIGIBLE (no upgrade programme or successor) | — | — | not eligible |
+
+
+## Study 2 outcome (2026-11-08)
+
+- **Frame:** queue q39–q81 (33 entries).
+  - Skipped: 6 by the lineage rule, 3 as duplicates or by lineage via q75.
+  - Not eligible: 15 (no successor programme, commitment not on arXiv, open options, I2/I6, or no common item between daters).
+  - Eligible: **15 baselines**.
+- **Physics-decidable units: 0.**
+  - DANSS: dropped under the pre-committed rule after its red-team FIXes.
+  - PHENIX: a knife-edge conflict, not robust.
+  - The other 13: no window.
+- **Per PREREGISTRATION_S2 §2:** fewer than 6 units, so Study 2 is reported descriptively. No Study 2 sampling.
+- **Audit of the unconfirmed no-window verdicts:** a seeded random sample of 4 of the 14 (seed 20261108): q55 PandaX, q63 LHCf, q51 DRIFT, q54 HERMES. These get independent red-team confirmation, to estimate the error rate of feasibility verdicts.

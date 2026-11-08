@@ -1,0 +1,8 @@
+nominal best W/SciFi config (scale, fibre mm), sigma/E at 2 GeV, RM cm, X0 cm: ((0.7, 0.25), 0.05318109225577781, 2.263060551789234, 0.9927360774818402)
+nominal PbWO4 sigma/E at 2 GeV: 0.0285
+BASE     adopted_passes_nominal=True PASS
+CONF1    adopted_fails_nominal=True viable_nominal=['PbWO4_APD'] (n_survivors=1) adopted_fails=0.954 >=1_viable=1.000 PASS
+sensitivity c_wsf x0.5: best W/SciFi ((0.7, 0.25), 0.043697580865736156, 2.263060551789234, 0.9927360774818402)
+CONF1_c/2 adopted_fails_nominal=True viable_nominal=['PbWO4_APD'] (n_survivors=1) adopted_fails=0.590 >=1_viable=1.000 FAIL
+sensitivity c_wsf = 1%: best W/SciFi ((0.7, 0.25), 0.041270189889526195, 2.263060551789234, 0.9927360774818402)
+CONF1_c1 adopted_fails_nominal=True viable_nominal=['PbWO4_APD'] (n_survivors=1) adopted_fails=0.506 >=1_viable=1.000 FAIL

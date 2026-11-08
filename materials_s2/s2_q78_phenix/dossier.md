@@ -20,6 +20,9 @@
 - **built and operated.** The W/SciFi EMCal was built and installed in sPHENIX, commissioned with the first sPHENIX runs at RHIC in 2023-2024 (sPHENIX collaboration; EMCal test-beam paper below).
 
 ## Resolution figures (all sigma) -- see notes.md for the fetched citations
-- sPHENIX EMCal prototype test beam: see notes.md.
-- PHOS (PbWO4 + APD, -25 C): see notes.md.
+- sPHENIX 2D projective EMCal prototype: 3.5% (+) 13.3%/sqrt(E), IEEE TNS 68 (2021) 173, arXiv:2003.13685; 1D prototype 2.8% (+) 15.5%/sqrt(E), IEEE TNS 65 (2018) 2901, arXiv:1704.01461.
+- PHOS (PbWO4 + APD, -25 C): 1.3%/E (+) 3.58%/sqrt(E) (+) 1.12%, NIM A550 (2005) 169 (numbers not verified by fetch).
 - CMS ECAL (PbWO4 + APD, 18 C): 2.8%/sqrt(E) (+) 12%/E (+) 0.3% (CMS, JINST 3 (2008) S08004).
+
+## Outcome
+- NO ROBUST WINDOW: see notes.md. kprobe.json = {}.
