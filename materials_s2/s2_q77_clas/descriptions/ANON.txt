@@ -1,0 +1,8 @@
+A large-acceptance magnetic spectrometer studies electro- and photo-production of mesons and baryon resonances with a continuous electron beam of up to about 6 GeV on fixed targets.
+A six-coil superconducting toroid bends charged particles; the field is concentrated near the coils and is close to zero on the beam line and at the forward calorimeters outside the coils.
+Each of the six sectors has three regions of drift chambers, gas Cherenkov counters, scintillator time-of-flight counters and a forward electromagnetic calorimeter.
+The forward calorimeters are lead/scintillator sampling modules about 16 radiation lengths deep, read out in three stereo views of 10 cm strips, at about 5 m from the target, covering polar angles of about 8-45 degrees over roughly 50 m2 in total.
+Their energy resolution is about sigma/E = 11.6%/sqrt(E[GeV]); they trigger on electrons, reject pions, reconstruct pi0 and eta mesons and detect neutrons.
+The planned programme raises the beam energy to about 11 GeV and the luminosity to about 1e35 cm^-2 s^-1.
+At the new energies, neutral pions up to about 10 GeV/c must be reconstructed with their two decay photons recorded as separate showers.
+The calorimeter region has room for about 60 cm of additional depth in front of or in place of the present modules, and the ambient temperature in the hall is about 20 C.

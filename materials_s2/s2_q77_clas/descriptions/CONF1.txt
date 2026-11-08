@@ -1,0 +1,7 @@
+A fixed-target spectrometer at a continuous 12 GeV electron beam studies exclusive meson production at a luminosity of about 1e35 cm^-2 s^-1.
+An eight-coil superconducting toroid bends charged particles; the field at the forward calorimeters, which sit outside the coils, is below 1 mT.
+Behind the drift chambers, Cherenkov counters and time-of-flight walls, forward electromagnetic calorimeters at 6.5 m from the target cover polar angles of 6-38 degrees, about 40 m2 in total.
+The present calorimeters are lead/scintillator sampling modules 18 radiation lengths deep, read out in three stereo views of 9 cm strips, with an energy resolution of about sigma/E = 12%/sqrt(E[GeV]); they operate well.
+The calorimeter region has 60 cm of free depth along the particle direction, the ambient temperature is about 20 C, and the expected dose at the calorimeter face is below 50 Gy per year.
+Neutral pions with momenta up to 10 GeV/c must be reconstructed with their two decay photons recorded as separate showers.
+Photons of 2 GeV must be measured with an energy resolution of sigma/E <= 3%, needed to resolve narrow two-photon invariant-mass peaks of the produced mesons.

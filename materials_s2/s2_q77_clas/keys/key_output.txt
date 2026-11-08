@@ -1,0 +1,7 @@
+pi0 separation at 10 GeV/c: 17.6 cm
+item depth 3 X0: frac=0.06 sigma/E(2 GeV)=8.40%
+item depth 5 X0: frac=0.23 sigma/E(2 GeV)=7.99%
+item depth 8 X0: frac=0.55 sigma/E(2 GeV)=7.14%
+BASE     adopted_passes_nominal=True PASS
+CONF1    adopted_fails_nominal=True viable_nominal=['pbwo4_pmt'] (n_survivors=1) adopted_fails=1.000 >=1_viable=1.000 PASS
+ALL PASS

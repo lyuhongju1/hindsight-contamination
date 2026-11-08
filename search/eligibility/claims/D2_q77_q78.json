@@ -1,0 +1,5 @@
+[
+ {"item":"621253/aerogel_rich_hybrid_optics","dater":"D2","doc":"arXiv:1509.02818","quote":"The adopted solution foresees a novel hybrid optics design based on aerogel radiator, composite mirrors and highly packed and highly segmented photon detectors.","baseline_date":"2003"},
+ {"item":"627886/tungsten_scint_emcal_sipm","dater":"D2","doc":"arXiv:1207.6378","quote":"A compact tungsten-scintillator sampling calorimeter outside the cryostat read out with silicon photo-multipliers.","baseline_date":"2003"},
+ {"item":"627886/iron_scint_hcal_flux_return","dater":"D2","doc":"arXiv:1207.6378","quote":"An iron-scintillator sampling calorimeter outside the electromagnetic calorimeter. In order to minimize the mass and bulk, the calorimeter doubles as the flux return for the solenoid.","baseline_date":"2003"}
+]
