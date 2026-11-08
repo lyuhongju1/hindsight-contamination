@@ -38,5 +38,5 @@
 | q76 | Upgraded D0 | NOT ELIGIBLE (Run IIb TDR 2002, before the baseline; no successor) | — | — | not eligible |
 | q69 | ALICE | ELIGIBLE: ITS CMOS MAPS vs hybrid (arXiv:1304.1306); TPC GEM ungated vs gated MWPC (arXiv:1408.3484) | running | | |
 | q71 | TOTEM | ELIGIBLE: scCVD diamond timing vs quartz or LGAD (arXiv:1701.05227) | running | | |
-| q73 | STAR | ELIGIBLE: HFT MAPS vs hybrid or CCD; FGT triple-GEM vs Si disks (arXiv:0710.0172) | running | | |
+| q73 | STAR | ELIGIBLE: HFT MAPS vs hybrid or CCD; FGT triple-GEM vs Si disks (arXiv:0710.0172) | NO WINDOW (MAPS integration time is a variant within the item; GEM vs Si charge-sign ranges overlap; material favours the items) | not run | infeasible, pending batched confirmation |
 | q79 | NA61/SHINE | — | — | — | treated as same lineage as q75 NA49 (successor); assessed through q75 |

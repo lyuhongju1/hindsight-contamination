@@ -50,3 +50,7 @@ A robust window holds, but it is narrow. CONF1 PASSES keylib (adopted item fails
 
 ## Post-run change log
 - (none after the final key run)
+
+
+## Gate note (orchestrator, 2026-11-08)
+Gate A flags NAME.txt for 'gadolinium'. The real DANSS baseline already used a Gd-loaded coating; NAME describes the real instrument, so this is not a leak of the adopted item (the separate Gd2O3-polyethylene film). Documented exception. BASE, CONF1 and ANON are clean.

@@ -131,5 +131,11 @@
   "adopted": "(3|three)[\\s-]?(inch|in\\.|\\\")\\s*(high[\\s-]qe\\s+)?(pmts?|photomultipliers?|tubes?)|\\b76[\\s-]?mm\\b|\\b7\\.6[\\s-]?cm\\b",
   "distractor": "\\bsipms?\\b|silicon\\s+photomultipliers?|(1|one|2|two)[\\s-]?(inch|in\\.|\\\")\\s*(pmts?|photomultipliers?|tubes?)|multi[\\s-]?anode",
   "identity": "\\bnemo[\\s-]?3\\b|super\\s?nemo|\\bnemo\\b|\\bfrejus\\b|\\bmodane\\b|\\blsm\\b"
+ },
+ "s2_q60_danss": {
+  "item": "Gd neutron capture (Gd2O3-polyethylene film) in a segmented plastic reactor-antineutrino detector",
+  "adopted": "gadolinium|\\bgd\\b|gd[\\s-]?(loaded|doped|coated|film)|gd2o3",
+  "distractor": "lithium|\\b6\\s?li\\b|\\bli[\\s-]?6\\b|\\blif\\b|zns|pulse[\\s-]shape",
+  "identity": "\\bdanss\\b|kalinin|\\bitep\\b|\\bjinr\\b|\\bsolid\\b|\\bprospect\\b|\\bsandd\\b|\\bpanda\\s?(36|100)?\\b"
  }
 }
