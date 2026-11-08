@@ -1,0 +1,38 @@
+[
+ {
+  "item": "621253/pcal_preshower_calorimeter",
+  "dater": "D1",
+  "doc": "arXiv:0810.4718",
+  "quote": "will be improved by adding a preshower calorimeter of 5-6 radiation length (PCAL) in front of EC",
+  "baseline_date": "2003-01",
+  "meta_date": "2008-10",
+  "quote_match": "exact",
+  "gap_months": 69,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "627886/tungsten_scifi_compact_emcal",
+  "dater": "D1",
+  "doc": "arXiv:1207.6378",
+  "quote": "A tungsten-scintillator electromagnetic calorimeter read out with silicon photomultipliers (SiPMs) or avalanche photodiodes (APDs) allows for a physically thin device which can operate in a magnetic field, without the bulk of photomultiplier tubes and the need for high voltage distribution.",
+  "baseline_date": "2003-01",
+  "meta_date": "2012-07",
+  "quote_match": "exact",
+  "gap_months": 114,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "627886/thin_solenoid_emcal_outside_coil",
+  "dater": "D1",
+  "doc": "arXiv:1207.6378",
+  "quote": "The thickness of the solenoid and cryostat is to be less than one radiation length at normal incidence, with a radial thickness of less than 20 cm, design parameters similar to the D0 solenoid.",
+  "baseline_date": "2003-01",
+  "meta_date": "2012-07",
+  "quote_match": "exact",
+  "gap_months": 114,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ }
+]
