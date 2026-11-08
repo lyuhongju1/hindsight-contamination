@@ -17,4 +17,14 @@
 - built and operated (Gd tagging is in operation in DANSS; the upgrade retains Gd films). Source: arXiv:2112.04973 and the DANSS operation papers. The upgrade build status is not checked here.
 
 ## Mechanism (Route A of feasibility_q60)
-- In a compact stated volume (about 25 L), the Gd cascade mostly escapes. A delayed threshold above 208Tl (2.6 MeV) gives low efficiency. A low threshold admits the ambient gamma singles rate, so accidentals exceed the stated accidental-to-signal limit. 6Li with PSD survives both.
+- The pair is BASE 0.9 m3 against CONF1 30 L. Both have the same 5 cm polyethylene layer, the same 3 GWth core at 10 m, and the same ambient rate of 80 Hz/m2 above 1 MeV. The positron spectrum must be recorded from 1 MeV, the delayed efficiency must be >= 30%, and accidentals must be <= the signal.
+- In CONF1 the Gd cascade mostly escapes:
+  - At thresholds of 2.6 MeV and above, efficiency is 0.04-0.12.
+  - At thresholds of 1.0-2.0 MeV, accidentals are 6-28 x the signal, even with a topology cut.
+- 6Li-PSD plastic (0.47 efficiency, 0.17 acc/signal) survives, and so do 6LiF:ZnS sheets.
+- keylib: BASE PASS; CONF1 PASS (0.996 / 0.961). See notes.md for the narrow-window caveats.
+
+## Citations
+- PANDA36: arXiv:1404.7309 (35.5% delayed efficiency, 350 L, above 3 MeV).
+- SANDD: arXiv:2105.00083 (34.8% neutron efficiency, 9 L, 51.9% escape).
+- DANSS: arXiv:1606.02896. DANSS upgrade: arXiv:2112.04973.
