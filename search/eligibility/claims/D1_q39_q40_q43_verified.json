@@ -1,0 +1,14 @@
+[
+ {
+  "item": "1116533/tpb_reflector_foil_light_readout",
+  "dater": "D1",
+  "doc": "arXiv:1406.5560",
+  "quote": "The optical system coupled to to the PMT and SiPM array thus consists of a WLS-coated dielectric substrate layer lining on the inner surfaces of the field shaping system delimiting the active volume of the TPC. The WLS coating is made of a thin TetraPhenylBoutadiene (TPB) film deposited by vacuum evaporation.",
+  "baseline_date": "2012-05",
+  "meta_date": "2014-06-20",
+  "quote_match": "exact",
+  "gap_months": 25,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ }
+]
