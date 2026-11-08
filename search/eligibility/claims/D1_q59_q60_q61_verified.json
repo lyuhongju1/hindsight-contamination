@@ -1,0 +1,26 @@
+[
+ {
+  "item": "1468455/thick_8fiber_two_sided_strip",
+  "dater": "D1",
+  "doc": "arXiv:2112.04973",
+  "quote": "The strip is now twice thicker and 20% wider but has 8 grooves for WLS fibers distributed on both top and bottom surfaces. The groove depth is decreased to a practical minimum,",
+  "baseline_date": "2016-06-09",
+  "meta_date": "2021-12-09",
+  "quote_match": "fuzzy",
+  "gap_months": 66,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1468455/gd_oxide_polyethylene_film",
+  "dater": "D1",
+  "doc": "arXiv:2112.04973",
+  "quote": "The necessary amount of gadolinium for the IBD neutron capture is added separately from the scintillation strips in the form of the oxide powder mixed into a polyethylene film, which is also produced at [6].",
+  "baseline_date": "2016-06-09",
+  "meta_date": "2021-12-09",
+  "quote_match": "exact",
+  "gap_months": 66,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ }
+]

@@ -22,6 +22,6 @@
 | q56 | NuMI | NOT ELIGIBLE (no collaboration; LBNF/DUNE is a different collaboration, ruled as KM3NeT/ANTARES) | — | — | not eligible |
 | q57 | BaBar | NOT ELIGIBLE (SuperB TDR 1 month after the baseline; no later commitment) | — | — | not eligible |
 | q58 | MINERvA | NOT ELIGIBLE (no upgrade programme or successor) | — | — | not eligible |
-| q59 | CMS | running | | | |
-| q60 | DANSS | running | | | |
-| q61 | COMPASS | running | | | |
+| q59 | CMS | NOT ELIGIBLE (every upgrade's first commitment is an LHCC TDR or TP without arXiv text) | — | — | not eligible |
+| q60 | DANSS | ELIGIBLE: Gd2O3-polyethylene film; thicker 8-fibre strips (arXiv:2112.04973; core group, 'planned upgrade') | running | | |
+| q61 | COMPASS | NOT ELIGIBLE (COMPASS-II proposal not on arXiv; AMBER items offered as open options, addendum 3) | — | — | not eligible |
