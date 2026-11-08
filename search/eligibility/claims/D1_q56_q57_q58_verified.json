@@ -1,0 +1,14 @@
+[
+ {
+  "item": "1384774/lbnf_three_horn_optimized_focusing",
+  "dater": "D1",
+  "doc": "arXiv:2002.03005",
+  "quote": "The DUNE experiment will use an optimized neutrino beam designed to provide maximum sensitivity to leptonic charge parity (CP) violation. The optimized beam includes a three-horn system with a longer target embedded within the first horn and a decay pipe with 194 m length and 4 m diameter.",
+  "baseline_date": "2015-07-23",
+  "meta_date": "2020-02-07",
+  "quote_match": "exact",
+  "gap_months": 55,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ }
+]

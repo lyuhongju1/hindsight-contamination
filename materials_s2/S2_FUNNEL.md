@@ -12,9 +12,9 @@
 | q46 | EDELWEISS-III | ELIGIBLE: NbSi TES phonon sensor (arXiv:2203.03993, 2022-03; fuzzy-verified) vs NTD-Ge | NO WINDOW (Tc and bias tunable; strict thresholds exclude NTD instead) | not run | infeasible, pending batched red-team confirmation |
 | q47 | aLIGO (dup) | — | — | — | skipped (lineage) |
 | q48 | Daya Bay | NOT ELIGIBLE (no upgrade program; JUNO separate and pre-dates) | — | — | not eligible |
-| q49 | Tunka-133 | running | | | |
-| q50 | JLab Hall A | running | | | |
-| q51 | DRIFT-II | running | | | |
+| q49 | Tunka-133 | NOT ELIGIBLE (Tunka-Rex and HiSCORE < 24 months; TAIGA-IACT first commitment not on arXiv; a later doc is not accepted as the first commitment) | — | — | not eligible |
+| q50 | JLab Hall A → SoLID | ELIGIBLE: MRPC TOF vs scintillator; GEM vs drift chambers (arXiv:1409.7741, exact) | running | | |
+| q51 | DRIFT-II | ELIGIBLE: CS2:CF4 fluorine target (arXiv:1010.3027); O2 minority carriers (arXiv:1410.7821), exact | running | | |
 | q52 | MINOS | running | | | |
 | q54 | HERMES | running | | | |
 | q55 | PandaX | running | | | |
