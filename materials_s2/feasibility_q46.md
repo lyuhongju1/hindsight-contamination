@@ -1,0 +1,14 @@
+# Feasibility q46: EDELWEISS-III -> NbSi TES phonon sensor (vs NTD-Ge)
+
+Item (lesson 1): any NbSi (or other) TES phonon sensor on a Ge crystal. Within-item settings: Nb/Si composition (Tc roughly 20 mK to well above 100 mK), film thickness, area and meander geometry, bias point, thermal vs athermal coupling. Survivor: NTD-Ge (best demonstrated about 18 eV sigma on 33 g; hundreds of eV sigma on 0.2-0.8 kg crystals).
+
+- Dynamic range / saturation vs stated energy range: a Ge crystal of about 0.2 kg at 20 mK has C ~ 1e-9 J/K, so 1 MeV gives dT ~ 0.2 mK. The NbSi transition is several mK wide, and the saturation energy scales with transition width and Tc - Tbath, both set by composition and bias. Any MeV-scale requirement is met by tuning (lesson 4). NTD is also nonlinear at high energy. NO WINDOW.
+- Bath-temperature stability vs narrow transition: mK-level drift is handled by PID bath regulation, by choosing the bias point, and (for low-R TES) by electrothermal feedback. All are routine settings (lesson 4). NO WINDOW.
+- Fixed bath temperature of an existing cryostat (stated fact): Tc is tunable through composition (NbSi) or proximity bilayers (other TES), so it can sit just above any stated Tbath from about 10 mK to over 100 mK. A warm bath degrades NTD as much as the TES or more. No bath value excludes all TES while keeping NTD. NO WINDOW (lesson 4).
+- Stray magnetic field (site/instrument fact): amorphous NbSi is type-II with Hc2 of order 0.1 T at Tc ~ 50 mK. Earth-level fields (~50 uT) shift Tc negligibly next to the mK transition width. Fields of 10-100 mT at the crystal are incoherent with a low-background Ge setup and still compensable by raising Tc through composition. High-impedance NbSi is read with a HEMT or JFET, not a SQUID, and NTD hopping conduction also shows magnetoresistance at 0.1-1 T. Nothing separates them robustly across x0.5-2. NO WINDOW.
+- Heat-only events: HO events come from stress or relaxation in the crystal and holder, so they appear in any phonon sensor. Athermal TES sensitivity, if anything, helps reject them. No stated requirement makes the TES fail while NTD passes. NO WINDOW.
+- Vibration / microphonics: this couples to both sensors through the holder and wiring, and is fixed by mounting (lesson 4). NO WINDOW.
+- Athermal vs thermal sensitivity vs stated crystal size: the athermal collection fraction drops with crystal size per unit film area, but film area and coverage are geometry settings, and NbSi also works in thermal (calorimetric) mode, as EDELWEISS used it earlier. Large crystals do not defeat the TES. NO WINDOW.
+- Survivor constraint (reverse direction): any stated threshold or resolution near the SubGeV goal (~10 eV sigma on ~0.2 kg Ge) is a requirement NTD fails today. Pushing the requirements toward MeV or mK ranges, where a TES might struggle, is defeated by Tc and bias tuning. The window is empty from both sides.
+
+VERDICT: NO WINDOW.
