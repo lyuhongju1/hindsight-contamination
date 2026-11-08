@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script>document.documentElement.classList.add('js');</script>  <title>[1011.0352v1] Belle II Technical Design Report</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/browse/0.3.4/images/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/browse/0.3.4/images/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/browse/0.3.4/images/icons/favicon-16x16.png">
+  <link rel="manifest" href="/static/browse/0.3.4/images/icons/site.webmanifest">
+  <link rel="mask-icon" href="/static/browse/0.3.4/images/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" type="text/css" media="screen" href="/static/browse/0.3.4/css/arXiv.css?v=20260318" />
+  <link rel="stylesheet" type="text/css" media="print" href="/static/browse/0.3.4/css/arXiv-print.css?v=20260924" />
+  <link rel="stylesheet" type="text/css" media="screen" href="/static/browse/0.3.4/css/browse_search.css" />
+<link rel="stylesheet" href="https://static.arxiv.org/static/design-system/latest/design-system-components.css">
+<link rel="stylesheet" href="https://static.arxiv.org/static/design-system/latest/fonts.css">  <script language="javascript" src="/static/browse/0.3.4/js/accordion.js" ></script>
+  <script language="javascript" src="/static/browse/0.3.4/js/optin-modal.js?v=20250819"></script>
+  
+  <link rel="canonical" href="https://arxiv.org/abs/1011.0352"/>
+  <meta name="description" content="Abstract page for arXiv paper 1011.0352v1: Belle II Technical Design Report"><meta property="og:type" content="website" />
+<meta property="og:site_name" content="arXiv.org" />
+<meta property="og:title" content="Belle II Technical Design Report" />
+<meta property="og:url" content="https://arxiv.org/abs/1011.0352v1" />
+<meta property="og:image" content="/static/browse/0.3.4/images/arxiv-logo-fb.png" />
+<meta property="og:image:secure_url" content="/static/browse/0.3.4/images/arxiv-logo-fb.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="700" />
+<meta property="og:image:alt" content="arXiv logo"/>
+<meta property="og:description" content="The Belle detector at the KEKB electron-positron collider has collected almost 1 billion Y(4S) events in its decade of operation. Super-KEKB, an upgrade of KEKB is under construction, to increase the luminosity by two orders of magnitude during a three-year shutdown, with an ultimate goal of 8E35 /cm^2 /s luminosity. To exploit the increased luminosity, an upgrade of the Belle detector has been proposed. A new international collaboration Belle-II, is being formed. The Technical Design Report presents physics motivation, basic methods of the accelerator upgrade, as well as key improvements of the detector."/>
+<meta name="twitter:site" content="@arxiv"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Belle II Technical Design Report"/>
+<meta name="twitter:description" content="The Belle detector at the KEKB electron-positron collider has collected almost 1 billion Y(4S) events in its decade of operation. Super-KEKB, an upgrade of KEKB is under construction, to increase..."/>
+<meta name="twitter:image" content="https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png"/>
+<meta name="twitter:image:alt" content="arXiv logo"/>
+  <link rel="stylesheet" media="screen" type="text/css" href="/static/browse/0.3.4/css/tooltip.css"/><link rel="stylesheet" media="screen" type="text/css" href="https://static.arxiv.org/js/bibex-dev/bibex.css?20200709"/>  <script src="/static/browse/0.3.4/js/mathjaxToggle.min.js" type="text/javascript"></script>  <script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+  <script src="//cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js" type="text/javascript"></script>
+  <script src="//cdn.jsdelivr.net/npm/dompurify@2.3.5/dist/purify.min.js"></script>
+  <script src="/static/browse/0.3.4/js/toggle-labs.js?20241022" type="text/javascript"></script>
+  <script src="/static/browse/0.3.4/js/cite.js" type="text/javascript"></script><meta name="citation_title" content="Belle II Technical Design Report" /><meta name="citation_author" content="Abe, T." /><meta name="citation_author" content="Adachi, I." /><meta name="citation_author" content="Adamczyk, K." /><meta name="citation_author" content="Ahn, S." /><meta name="citation_author" content="Aihara, H." /><meta name="citation_author" content="Akai, K." /><meta name="citation_author" content="Aloi, M." /><meta name="citation_author" content="Andricek, L." /><meta name="citation_author" content="Aoki, K." /><meta name="citation_author" content="Arai, Y." /><meta name="citation_author" content="Arefiev, A." /><meta name="citation_author" content="Arinstein, K." /><meta name="citation_author" content="Arita, Y." /><meta name="citation_author" content="Asner, D. M." /><meta name="citation_author" content="Aulchenko, V." /><meta name="citation_author" content="Aushev, T." /><meta name="citation_author" content="Aziz, T." /><meta name="citation_author" content="Bakich, A. M." /><meta name="citation_author" content="Balagura, V." /><meta name="citation_author" content="Ban, Y." /><meta name="citation_author" content="Barberio, E." /><meta name="citation_author" content="Barvich, T." /><meta name="citation_author" content="Belous, K." /><meta name="citation_author" content="Bergauer, T." /><meta name="citation_author" content="Bhardwaj, V." /><meta name="citation_author" content="Bhuyan, B." /><meta name="citation_author" content="Blyth, S." /><meta name="citation_author" content="Bondar, A." /><meta name="citation_author" content="Bonvicini, G." /><meta name="citation_author" content="Bozek, A." /><meta name="citation_author" content="Bracko, M." /><meta name="citation_author" content="Brodzicka, J." /><meta name="citation_author" content="Brovchenko, O." /><meta name="citation_author" content="Browder, T. E." /><meta name="citation_author" content="Cao, G." /><meta name="citation_author" content="Chang, M. -C." /><meta name="citation_author" content="Chang, P." /><meta name="citation_author" content="Chao, Y." /><meta name="citation_author" content="Chekelian, V." /><meta name="citation_author" content="Chen, A." /><meta name="citation_author" content="Chen, K. -F." /><meta name="citation_author" content="Chen, P." /><meta name="citation_author" content="Cheon, B. G." /><meta name="citation_author" content="Chiang, C. -C." /><meta name="citation_author" content="Chistov, R." /><meta name="citation_author" content="Cho, K." /><meta name="citation_author" content="Choi, S. -K." /><meta name="citation_author" content="Chung, K." /><meta name="citation_author" content="Comerma, A." /><meta name="citation_author" content="Cooney, M." /><meta name="citation_author" content="Cowley, D. E." /><meta name="citation_author" content="Critchlow, T." /><meta name="citation_author" content="Dalseno, J." /><meta name="citation_author" content="Danilov, M." /><meta name="citation_author" content="Dieguez, A." /><meta name="citation_author" content="Dierlamm, A." /><meta name="citation_author" content="Dillon, M." /><meta name="citation_author" content="Dingfelder, J." /><meta name="citation_author" content="Dolenec, R." /><meta name="citation_author" content="Dolezal, Z." /><meta name="citation_author" content="Drasal, Z." /><meta name="citation_author" content="Drutskoy, A." /><meta name="citation_author" content="Dungel, W." /><meta name="citation_author" content="Dutta, D." /><meta name="citation_author" content="Eidelman, S." /><meta name="citation_author" content="Enomoto, A." /><meta name="citation_author" content="Epifanov, D." /><meta name="citation_author" content="Esen, S." /><meta name="citation_author" content="Fast, J. E." /><meta name="citation_author" content="Feindt, M." /><meta name="citation_author" content="Garcia, M. Fernandez" /><meta name="citation_author" content="Fifield, T." /><meta name="citation_author" content="Fischer, P." /><meta name="citation_author" content="Flanagan, J." /><meta name="citation_author" content="Fourletov, S." /><meta name="citation_author" content="Fourletova, J." /><meta name="citation_author" content="Freixas, L." /><meta name="citation_author" content="Frey, A." /><meta name="citation_author" content="Friedl, M." /><meta name="citation_author" content="Fruehwirth, R." /><meta name="citation_author" content="Fujii, H." /><meta name="citation_author" content="Fujikawa, M." /><meta name="citation_author" content="Fukuma, Y." /><meta name="citation_author" content="Funakoshi, Y." /><meta name="citation_author" content="Furukawa, K." /><meta name="citation_author" content="Fuster, J." /><meta name="citation_author" content="Gabyshev, N." /><meta name="citation_author" content="Cueto, A. Gaspar de Valenzuela" /><meta name="citation_author" content="Garmash, A." /><meta name="citation_author" content="Garrido, L." /><meta name="citation_author" content="Geisler, Ch." /><meta name="citation_author" content="Gfall, I." /><meta name="citation_author" content="Goh, Y. M." /><meta name="citation_author" content="Golob, B." /><meta name="citation_author" content="Gorton, I." /><meta name="citation_author" content="Grzymkowski, R." /><meta name="citation_author" content="Guo, H." /><meta name="citation_author" content="Ha, H." /><meta name="citation_author" content="Haba, J." /><meta name="citation_author" content="Hara, K." /><meta name="citation_author" content="Hara, T." /><meta name="citation_author" content="Haruyama, T." /><meta name="citation_author" content="Hayasaka, K." /><meta name="citation_author" content="Hayashi, K." /><meta name="citation_author" content="Hayashii, H." /><meta name="citation_author" content="Heck, M." /><meta name="citation_author" content="Heindl, S." /><meta name="citation_author" content="Heller, C." /><meta name="citation_author" content="Hemperek, T." /><meta name="citation_author" content="Higuchi, T." /><meta name="citation_author" content="Horii, Y." /><meta name="citation_author" content="Hou, W. -S." /><meta name="citation_author" content="Hsiung, Y. B." /><meta name="citation_author" content="Huang, C. -H." /><meta name="citation_author" content="Hwang, S." /><meta name="citation_author" content="Hyun, H. J." /><meta name="citation_author" content="Igarashi, Y." /><meta name="citation_author" content="Iglesias, C." /><meta name="citation_author" content="Iida, Y." /><meta name="citation_author" content="Iijima, T." /><meta name="citation_author" content="Imamura, M." /><meta name="citation_author" content="Inami, K." /><meta name="citation_author" content="Irmler, C." /><meta name="citation_author" content="Ishizuka, M." /><meta name="citation_author" content="Itagaki, K." /><meta name="citation_author" content="Itoh, R." /><meta name="citation_author" content="Iwabuchi, M." /><meta name="citation_author" content="Iwai, G." /><meta name="citation_author" content="Iwai, M." /><meta name="citation_author" content="Iwasaki, M." /><meta name="citation_author" content="Iwasaki, M." /><meta name="citation_author" content="Iwasaki, Y." /><meta name="citation_author" content="Iwashita, T." /><meta name="citation_author" content="Iwata, S." /><meta name="citation_author" content="Jang, H." /><meta name="citation_author" content="Ji, X." /><meta name="citation_author" content="Jinno, T." /><meta name="citation_author" content="Jones, M." /><meta name="citation_author" content="Julius, T." /><meta name="citation_author" content="Kageyama, T." /><meta name="citation_author" content="Kah, D. H." /><meta name="citation_author" content="Kakuno, H." /><meta name="citation_author" content="Kamitani, T." /><meta name="citation_author" content="Kanazawa, K." /><meta name="citation_author" content="Kapusta, P." /><meta name="citation_author" content="Kataoka, S. U." /><meta name="citation_author" content="Katayama, N." /><meta name="citation_author" content="Kawai, M." /><meta name="citation_author" content="Kawai, Y." /><meta name="citation_author" content="Kawasaki, T." /><meta name="citation_author" content="Kennedy, J." /><meta name="citation_author" content="Kichimi, H." /><meta name="citation_author" content="Kikuchi, M." /><meta name="citation_author" content="Kiesling, C." /><meta name="citation_author" content="Kim, B. K." /><meta name="citation_author" content="Kim, G. N." /><meta name="citation_author" content="Kim, H. J." /><meta name="citation_author" content="Kim, H. O." /><meta name="citation_author" content="Kim, J. -B." /><meta name="citation_author" content="Kim, J. H." /><meta name="citation_author" content="Kim, M. J." /><meta name="citation_author" content="Kim, S. K." /><meta name="citation_author" content="Kim, K. T." /><meta name="citation_author" content="Kim, T. Y." /><meta name="citation_author" content="Kinoshita, K." /><meta name="citation_author" content="Kishi, K." /><meta name="citation_author" content="Kisielewski, B." /><meta name="citation_author" content="van Dam, K. Kleese" /><meta name="citation_author" content="Knopf, J." /><meta name="citation_author" content="Ko, B. R." /><meta name="citation_author" content="Koch, M." /><meta name="citation_author" content="Kodys, P." /><meta name="citation_author" content="Koffmane, C." /><meta name="citation_author" content="Koga, Y." /><meta name="citation_author" content="Kohriki, T." /><meta name="citation_author" content="Koike, S." /><meta name="citation_author" content="Koiso, H." /><meta name="citation_author" content="Kondo, Y." /><meta name="citation_author" content="Korpar, S." /><meta name="citation_author" content="Kouzes, R. T." /><meta name="citation_author" content="Kreidl, Ch." /><meta name="citation_author" content="Kreps, M." /><meta name="citation_author" content="Krizan, P." /><meta name="citation_author" content="Krokovny, P." /><meta name="citation_author" content="Krueger, H." /><meta name="citation_author" content="Kruth, A." /><meta name="citation_author" content="Kuhn, W." /><meta name="citation_author" content="Kuhr, T." /><meta name="citation_author" content="Kumar, R." /><meta name="citation_author" content="Kumita, T." /><meta name="citation_author" content="Kupper, S." /><meta name="citation_author" content="Kuzmin, A." /><meta name="citation_author" content="Kvasnicka, P." /><meta name="citation_author" content="Kwon, Y. -J." /><meta name="citation_author" content="Lacasta, C." /><meta name="citation_author" content="Lange, J. S." /><meta name="citation_author" content="Lee, I. -S." /><meta name="citation_author" content="Lee, M. J." /><meta name="citation_author" content="Lee, M. W." /><meta name="citation_author" content="Lee, S. -H." /><meta name="citation_author" content="Lemarenko, M." /><meta name="citation_author" content="Li, J." /><meta name="citation_author" content="Li, W. D." /><meta name="citation_author" content="Li, Y." /><meta name="citation_author" content="Libby, J." /><meta name="citation_author" content="Limosani, A." /><meta name="citation_author" content="Liu, C." /><meta name="citation_author" content="Liu, H." /><meta name="citation_author" content="Liu, Y." /><meta name="citation_author" content="Liu, Z." /><meta name="citation_author" content="Liventsev, D." /><meta name="citation_author" content="Virto, A. Lopez" /><meta name="citation_author" content="Makida, Y." /><meta name="citation_author" content="Mao, Z. P." /><meta name="citation_author" content="Marinas, C." /><meta name="citation_author" content="Masuzawa, M." /><meta name="citation_author" content="Matvienko, D." /><meta name="citation_author" content="Mitaroff, W." /><meta name="citation_author" content="Miyabayashi, K." /><meta name="citation_author" content="Miyata, H." /><meta name="citation_author" content="Miyazaki, Y." /><meta name="citation_author" content="Miyoshi, T." /><meta name="citation_author" content="Mizuk, R." /><meta name="citation_author" content="Mohanty, G. B." /><meta name="citation_author" content="Mohapatra, D." /><meta name="citation_author" content="Moll, A." /><meta name="citation_author" content="Mori, T." /><meta name="citation_author" content="Morita, A." /><meta name="citation_author" content="Morita, Y." /><meta name="citation_author" content="Moser, H. -G." /><meta name="citation_author" content="Martin, D. Moya" /><meta name="citation_author" content="Mueller, T." /><meta name="citation_author" content="Muenchow, D." /><meta name="citation_author" content="Murakami, J." /><meta name="citation_author" content="Myung, S. S." /><meta name="citation_author" content="Nagamine, T." /><meta name="citation_author" content="Nakamura, I." /><meta name="citation_author" content="Nakamura, T. T." /><meta name="citation_author" content="Nakano, E." /><meta name="citation_author" content="Nakano, H." /><meta name="citation_author" content="Nakao, M." /><meta name="citation_author" content="Nakazawa, H." /><meta name="citation_author" content="Nam, S. -H." /><meta name="citation_author" content="Natkaniec, Z." /><meta name="citation_author" content="Nedelkovska, E." /><meta name="citation_author" content="Negishi, K." /><meta name="citation_author" content="Neubauer, S." /><meta name="citation_author" content="Ng, C." /><meta name="citation_author" content="Ninkovic, J." /><meta name="citation_author" content="Nishida, S." /><meta name="citation_author" content="Nishimura, K." /><meta name="citation_author" content="Novikov, E." /><meta name="citation_author" content="Nozaki, T." /><meta name="citation_author" content="Ogawa, S." /><meta name="citation_author" content="Ohmi, K." /><meta name="citation_author" content="Ohnishi, Y." /><meta name="citation_author" content="Ohshima, T." /><meta name="citation_author" content="Ohuchi, N." /><meta name="citation_author" content="Oide, K." /><meta name="citation_author" content="Olsen, S. L." /><meta name="citation_author" content="Ono, M." /><meta name="citation_author" content="Ono, Y." /><meta name="citation_author" content="Onuki, Y." /><meta name="citation_author" content="Ostrowicz, W." /><meta name="citation_author" content="Ozaki, H." /><meta name="citation_author" content="Pakhlov, P." /><meta name="citation_author" content="Pakhlova, G." /><meta name="citation_author" content="Palka, H." /><meta name="citation_author" content="Park, H." /><meta name="citation_author" content="Park, H. K." /><meta name="citation_author" content="Peak, L. S." /><meta name="citation_author" content="Peng, T." /><meta name="citation_author" content="Peric, I." /><meta name="citation_author" content="Pernicka, M." /><meta name="citation_author" content="Pestotnik, R." /><meta name="citation_author" content="Petric, M." /><meta name="citation_author" content="Piilonen, L. E." /><meta name="citation_author" content="Poluektov, A." /><meta name="citation_author" content="Prim, M." /><meta name="citation_author" content="Prothmann, K." /><meta name="citation_author" content="Regimbal, K." /><meta name="citation_author" content="Reisert, B." /><meta name="citation_author" content="Richter, R. H." /><meta name="citation_author" content="Riera-Babures, J." /><meta name="citation_author" content="Ritter, A." /><meta name="citation_author" content="Ritter, A." /><meta name="citation_author" content="Ritter, M." /><meta name="citation_author" content="Roehrken, M." /><meta name="citation_author" content="Rorie, J." /><meta name="citation_author" content="Rosen, M." /><meta name="citation_author" content="Rozanska, M." /><meta name="citation_author" content="Ruckman, L." /><meta name="citation_author" content="Rummel, S." /><meta name="citation_author" content="Rusinov, V." /><meta name="citation_author" content="Russell, R. M." /><meta name="citation_author" content="Ryu, S." /><meta name="citation_author" content="Sahoo, H." /><meta name="citation_author" content="Sakai, K." /><meta name="citation_author" content="Sakai, Y." /><meta name="citation_author" content="Santelj, L." /><meta name="citation_author" content="Sasaki, T." /><meta name="citation_author" content="Sato, N." /><meta name="citation_author" content="Sato, Y." /><meta name="citation_author" content="Scheirich, J." /><meta name="citation_author" content="Schieck, J." /><meta name="citation_author" content="Schwanda, C." /><meta name="citation_author" content="Schwartz, A. J." /><meta name="citation_author" content="Schwenker, B." /><meta name="citation_author" content="Seljak, A." /><meta name="citation_author" content="Senyo, K." /><meta name="citation_author" content="Seon, O. -S." /><meta name="citation_author" content="Sevior, M. E." /><meta name="citation_author" content="Shapkin, M." /><meta name="citation_author" content="Shebalin, V." /><meta name="citation_author" content="Shen, C. P." /><meta name="citation_author" content="Shibuya, H." /><meta name="citation_author" content="Shiizuka, S." /><meta name="citation_author" content="Shiu, J. -G." /><meta name="citation_author" content="Shwartz, B." /><meta name="citation_author" content="Simon, F." /><meta name="citation_author" content="Simonis, H. J." /><meta name="citation_author" content="Singh, J. B." /><meta name="citation_author" content="Sinha, R." /><meta name="citation_author" content="Sitarz, M." /><meta name="citation_author" content="Smerkol, P." /><meta name="citation_author" content="Sokolov, A." /><meta name="citation_author" content="Solovieva, E." /><meta name="citation_author" content="Stanic, S." /><meta name="citation_author" content="Staric, M." /><meta name="citation_author" content="Stypula, J." /><meta name="citation_author" content="Suetsugu, Y." /><meta name="citation_author" content="Sugihara, S." /><meta name="citation_author" content="Sugimura, T." /><meta name="citation_author" content="Sumisawa, K." /><meta name="citation_author" content="Sumiyoshi, T." /><meta name="citation_author" content="Suzuki, K." /><meta name="citation_author" content="Suzuki, S. Y." /><meta name="citation_author" content="Takagaki, H." /><meta name="citation_author" content="Takasaki, F." /><meta name="citation_author" content="Takeichi, H." /><meta name="citation_author" content="Takubo, Y." /><meta name="citation_author" content="Tanaka, M." /><meta name="citation_author" content="Tanaka, S." /><meta name="citation_author" content="Taniguchi, N." /><meta name="citation_author" content="Tarkovsky, E." /><meta name="citation_author" content="Tatishvili, G." /><meta name="citation_author" content="Tawada, M." /><meta name="citation_author" content="Taylor, G. N." /><meta name="citation_author" content="Teramoto, Y." /><meta name="citation_author" content="Tikhomirov, I." /><meta name="citation_author" content="Trabelsi, K." /><meta name="citation_author" content="Tsuboyama, T." /><meta name="citation_author" content="Tsunada, K." /><meta name="citation_author" content="Tu, Y. -C." /><meta name="citation_author" content="Uchida, T." /><meta name="citation_author" content="Uehara, S." /><meta name="citation_author" content="Ueno, K." /><meta name="citation_author" content="Uglov, T." /><meta name="citation_author" content="Unno, Y." /><meta name="citation_author" content="Uno, S." /><meta name="citation_author" content="Urquijo, P." /><meta name="citation_author" content="Ushiroda, Y." /><meta name="citation_author" content="Usov, Y." /><meta name="citation_author" content="Vahsen, S." /><meta name="citation_author" content="Valentan, M." /><meta name="citation_author" content="Vanhoefer, P." /><meta name="citation_author" content="Varner, G." /><meta name="citation_author" content="Varvell, K. E." /><meta name="citation_author" content="Vazquez, P." /><meta name="citation_author" content="Vila, I." /><meta name="citation_author" content="Vilella, E." /><meta name="citation_author" content="Vinokurova, A." /><meta name="citation_author" content="Visniakov, J." /><meta name="citation_author" content="Vos, M." /><meta name="citation_author" content="Wang, C. H." /><meta name="citation_author" content="Wang, J." /><meta name="citation_author" content="Wang, M. -Z." /><meta name="citation_author" content="Wang, P." /><meta name="citation_author" content="Wassatch, A." /><meta name="citation_author" content="Watanabe, M." /><meta name="citation_author" content="Watase, Y." /><meta name="citation_author" content="Weiler, T." /><meta name="citation_author" content="Wermes, N." /><meta name="citation_author" content="Wescott, R. E." /><meta name="citation_author" content="White, E." /><meta name="citation_author" content="Wicht, J." /><meta name="citation_author" content="Widhalm, L." /><meta name="citation_author" content="Williams, K. M." /><meta name="citation_author" content="Won, E." /><meta name="citation_author" content="Xu, H." /><meta name="citation_author" content="Yabsley, B. D." /><meta name="citation_author" content="Yamamoto, H." /><meta name="citation_author" content="Yamaoka, H." /><meta name="citation_author" content="Yamaoka, Y." /><meta name="citation_author" content="Yamauchi, M." /><meta name="citation_author" content="Yin, Y." /><meta name="citation_author" content="Yoon, H." /><meta name="citation_author" content="Yu, J." /><meta name="citation_author" content="Yuan, C. Z." /><meta name="citation_author" content="Yusa, Y." /><meta name="citation_author" content="Zander, D." /><meta name="citation_author" content="Zdybal, M." /><meta name="citation_author" content="Zhang, Z. P." /><meta name="citation_author" content="Zhao, J." /><meta name="citation_author" content="Zhao, L." /><meta name="citation_author" content="Zhao, Z." /><meta name="citation_author" content="Zhilich, V." /><meta name="citation_author" content="Zhou, P." /><meta name="citation_author" content="Zhulanov, V." /><meta name="citation_author" content="Zivko, T." /><meta name="citation_author" content="Zupanc, A." /><meta name="citation_author" content="Zyukova, O." /><meta name="citation_date" content="2010/11/01" /><meta name="citation_online_date" content="2010/11/01" /><meta name="citation_pdf_url" content="https://arxiv.org/pdf/1011.0352" /><meta name="citation_arxiv_id" content="1011.0352" /><meta name="citation_abstract" content="The Belle detector at the KEKB electron-positron collider has collected almost 1 billion Y(4S) events in its decade of operation. Super-KEKB, an upgrade of KEKB is under construction, to increase the luminosity by two orders of magnitude during a three-year shutdown, with an ultimate goal of 8E35 /cm^2 /s luminosity. To exploit the increased luminosity, an upgrade of the Belle detector has been proposed. A new international collaboration Belle-II, is being formed. The Technical Design Report presents physics motivation, basic methods of the accelerator upgrade, as well as key improvements of the detector." />
+</head>
+
+<body ><div class="flex-wrap-footer">
+    <a href="#content" class="ds-skip-link">Skip to main content</a>
+  
+<div id="ds-announcement"></div>
+<script src="https://static.arxiv.org/static/design-system/latest/chrome/banner.js" defer></script>
+<script src="https://static.arxiv.org/static/design-system/latest/chrome/header.js" defer></script>
+<header class="ds-site-header ">
+  <a aria-hidden="true" tabindex="-1" href="https://arxiv.org/IgnoreMe" class="is-sr-only"></a>
+  <a href="https://arxiv.org/" class="ds-site-header-logo" aria-label="archive home">
+    <img src="https://static.arxiv.org/static/design-system/latest/logos/arxiv-logo.svg" alt="archive">
+  </a>
+  <a id="ds-search-toggle" class="ds-site-header-search-link" href="https://arxiv.org/search" aria-controls="ds-search-overlay" aria-expanded="false">
+    <svg class="ds-nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+      <circle cx="11" cy="11" r="8"/>
+      <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+    </svg>
+    <span>Search</span>
+  </a>
+  <button type="button" id="ds-nav-toggle" class="ds-site-header-nav-toggle"
+    aria-label="Open menu" aria-controls="ds-site-header-nav" aria-expanded="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+      <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+    </svg>
+  </button>
+  <nav class="ds-site-header-nav" id="ds-site-header-nav" aria-label="Main navigation">
+    <a href="https://arxiv.org/submit">Submit</a>
+    <a href="https://info.arxiv.org/about/donate.html">Donate</a>
+    <span class="ds-site-header-divider" aria-hidden="true"></span>
+<a href="https://arxiv.org/login" class="ds-site-header-login">Log in</a>  </nav>
+</header>
+<div class="ds-search-overlay" id="ds-search-overlay" hidden>
+  <div class="ds-search-overlay-panel" role="search">
+    <form method="GET" action="https://arxiv.org/search">
+      <label for="ds-search-input" class="is-sr-only">Search arXiv</label>
+      <input type="text" name="query" id="ds-search-input" class="ds-input" autocomplete="off"
+        placeholder="Search papers by title, author, abstract, or ID...">
+      <input type="hidden" name="searchtype" value="all">
+      <input type="hidden" name="source" value="header">
+    </form>
+    <p class="ds-hint">
+      Press Enter to search &middot; <a href="https://arxiv.org/search/advanced">Advanced search</a>
+    </p>
+  </div>
+</div>
+
+    <main>
+      <div id="content">
+<!--
+rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <rdf:Description
+        rdf:about="/abs/1011.0352"
+        dc:identifier="/abs/1011.0352"
+        dc:title="Belle II Technical Design Report"
+        trackback:ping="/trackback/1011.0352" />
+    </rdf:RDF>
+--><div id="abs-outer">
+
+  <div class="leftcolumn">
+    <div class="subheader">
+      <h1>Physics > Instrumentation and Detectors</h1>
+    </div>
+
+    <div class="header-breadcrumbs-mobile">
+      <strong>arXiv:1011.0352v1</strong> (physics)
+    </div>
+<link rel="stylesheet" type="text/css" href="/static/base/1.0.1/css/abs.css">
+<div id="content-inner">
+  <div id="abs">
+    <div class="dateline">
+  [Submitted on 1 Nov 2010]</div>
+    <h1 class="title mathjax"><span class="descriptor">Title:</span>Belle II Technical Design Report</h1>
+    <div class="authors"><span class="descriptor">Authors:</span><a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Abe,+T" rel="nofollow">T. Abe</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Adachi,+I" rel="nofollow">I. Adachi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Adamczyk,+K" rel="nofollow">K. Adamczyk</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ahn,+S" rel="nofollow">S. Ahn</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Aihara,+H" rel="nofollow">H. Aihara</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Akai,+K" rel="nofollow">K. Akai</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Aloi,+M" rel="nofollow">M. Aloi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Andricek,+L" rel="nofollow">L. Andricek</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Aoki,+K" rel="nofollow">K. Aoki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Arai,+Y" rel="nofollow">Y. Arai</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Arefiev,+A" rel="nofollow">A. Arefiev</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Arinstein,+K" rel="nofollow">K. Arinstein</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Arita,+Y" rel="nofollow">Y. Arita</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Asner,+D+M" rel="nofollow">D. M. Asner</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Aulchenko,+V" rel="nofollow">V. Aulchenko</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Aushev,+T" rel="nofollow">T. Aushev</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Aziz,+T" rel="nofollow">T. Aziz</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Bakich,+A+M" rel="nofollow">A. M. Bakich</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Balagura,+V" rel="nofollow">V. Balagura</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ban,+Y" rel="nofollow">Y. Ban</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Barberio,+E" rel="nofollow">E. Barberio</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Barvich,+T" rel="nofollow">T. Barvich</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Belous,+K" rel="nofollow">K. Belous</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Bergauer,+T" rel="nofollow">T. Bergauer</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Bhardwaj,+V" rel="nofollow">V. Bhardwaj</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Bhuyan,+B" rel="nofollow">B. Bhuyan</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Blyth,+S" rel="nofollow">S. Blyth</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Bondar,+A" rel="nofollow">A. Bondar</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Bonvicini,+G" rel="nofollow">G. Bonvicini</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Bozek,+A" rel="nofollow">A. Bozek</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Bracko,+M" rel="nofollow">M. Bracko</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Brodzicka,+J" rel="nofollow">J. Brodzicka</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Brovchenko,+O" rel="nofollow">O. Brovchenko</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Browder,+T+E" rel="nofollow">T. E. Browder</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Cao,+G" rel="nofollow">G. Cao</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Chang,+M" rel="nofollow">M.-C. Chang</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Chang,+P" rel="nofollow">P. Chang</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Chao,+Y" rel="nofollow">Y. Chao</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Chekelian,+V" rel="nofollow">V. Chekelian</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Chen,+A" rel="nofollow">A. Chen</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Chen,+K" rel="nofollow">K.-F. Chen</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Chen,+P" rel="nofollow">P. Chen</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Cheon,+B+G" rel="nofollow">B. G. Cheon</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Chiang,+C" rel="nofollow">C.-C. Chiang</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Chistov,+R" rel="nofollow">R. Chistov</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Cho,+K" rel="nofollow">K. Cho</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Choi,+S" rel="nofollow">S.-K. Choi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Chung,+K" rel="nofollow">K. Chung</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Comerma,+A" rel="nofollow">A. Comerma</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Cooney,+M" rel="nofollow">M. Cooney</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Cowley,+D+E" rel="nofollow">D. E. Cowley</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Critchlow,+T" rel="nofollow">T. Critchlow</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Dalseno,+J" rel="nofollow">J. Dalseno</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Danilov,+M" rel="nofollow">M. Danilov</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Dieguez,+A" rel="nofollow">A. Dieguez</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Dierlamm,+A" rel="nofollow">A. Dierlamm</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Dillon,+M" rel="nofollow">M. Dillon</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Dingfelder,+J" rel="nofollow">J. Dingfelder</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Dolenec,+R" rel="nofollow">R. Dolenec</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Dolezal,+Z" rel="nofollow">Z. Dolezal</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Drasal,+Z" rel="nofollow">Z. Drasal</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Drutskoy,+A" rel="nofollow">A. Drutskoy</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Dungel,+W" rel="nofollow">W. Dungel</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Dutta,+D" rel="nofollow">D. Dutta</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Eidelman,+S" rel="nofollow">S. Eidelman</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Enomoto,+A" rel="nofollow">A. Enomoto</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Epifanov,+D" rel="nofollow">D. Epifanov</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Esen,+S" rel="nofollow">S. Esen</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Fast,+J+E" rel="nofollow">J. E. Fast</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Feindt,+M" rel="nofollow">M. Feindt</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Garcia,+M+F" rel="nofollow">M. Fernandez Garcia</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Fifield,+T" rel="nofollow">T. Fifield</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Fischer,+P" rel="nofollow">P. Fischer</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Flanagan,+J" rel="nofollow">J. Flanagan</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Fourletov,+S" rel="nofollow">S. Fourletov</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Fourletova,+J" rel="nofollow">J. Fourletova</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Freixas,+L" rel="nofollow">L. Freixas</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Frey,+A" rel="nofollow">A. Frey</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Friedl,+M" rel="nofollow">M. Friedl</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Fruehwirth,+R" rel="nofollow">R. Fruehwirth</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Fujii,+H" rel="nofollow">H. Fujii</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Fujikawa,+M" rel="nofollow">M. Fujikawa</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Fukuma,+Y" rel="nofollow">Y. Fukuma</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Funakoshi,+Y" rel="nofollow">Y. Funakoshi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Furukawa,+K" rel="nofollow">K. Furukawa</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Fuster,+J" rel="nofollow">J. Fuster</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Gabyshev,+N" rel="nofollow">N. Gabyshev</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=de+Valenzuela+Cueto,+A+G" rel="nofollow">A. Gaspar de Valenzuela Cueto</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Garmash,+A" rel="nofollow">A. Garmash</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Garrido,+L" rel="nofollow">L. Garrido</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Geisler,+C" rel="nofollow">Ch. Geisler</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Gfall,+I" rel="nofollow">I. Gfall</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Goh,+Y+M" rel="nofollow">Y. M. Goh</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Golob,+B" rel="nofollow">B. Golob</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Gorton,+I" rel="nofollow">I. Gorton</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Grzymkowski,+R" rel="nofollow">R. Grzymkowski</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Guo,+H" rel="nofollow">H. Guo</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ha,+H" rel="nofollow">H. Ha</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Haba,+J" rel="nofollow">J. Haba</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Hara,+K" rel="nofollow">K. Hara</a>
+<script type="text/javascript">
+<!--
+function toggleAuthorList(whichLayer,toggleThis)
+{
+  var elem, vis, tempToggle;
+  tempToggle=toggleThis;
+  if( document.getElementById ) // standard
+      elem = document.getElementById( whichLayer );
+  else if( document.all ) // old msie versions
+      elem = document.all[whichLayer];
+  else if( document.layers ) // nn4
+      elem = document.layers[whichLayer];
+  vis = elem.style;
+  // if the style.display value is blank we try to figure it out here
+  if(vis.display==''&&elem.offsetWidth!=undefined&&elem.offsetHeight!=undefined)
+    vis.display = (elem.offsetWidth!=0&&elem.offsetHeight!=0)?'inline':'none';
+  vis.display = (vis.display==''||vis.display=='inline')?'none':'inline';
+
+  // toggle link inner text
+  status = vis.display;
+  if(status=='none'){
+      document.getElementById('toggle').innerHTML = tempToggle ;
+      document.getElementById('toggle').title = "Show Entire Author List";
+  }
+  else if(status=='inline'){
+      document.getElementById('toggle').innerHTML = "(collapse list)";
+      document.getElementById('toggle').title = "Collapse Author List";
+  }
+}
+//-->
+</script>
+
+  <div id="long-author-list" style="display: none;">
+        , <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Hara,+T" rel="nofollow">T. Hara</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Haruyama,+T" rel="nofollow">T. Haruyama</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Hayasaka,+K" rel="nofollow">K. Hayasaka</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Hayashi,+K" rel="nofollow">K. Hayashi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Hayashii,+H" rel="nofollow">H. Hayashii</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Heck,+M" rel="nofollow">M. Heck</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Heindl,+S" rel="nofollow">S. Heindl</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Heller,+C" rel="nofollow">C. Heller</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Hemperek,+T" rel="nofollow">T. Hemperek</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Higuchi,+T" rel="nofollow">T. Higuchi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Horii,+Y" rel="nofollow">Y. Horii</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Hou,+W" rel="nofollow">W.-S. Hou</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Hsiung,+Y+B" rel="nofollow">Y. B. Hsiung</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Huang,+C" rel="nofollow">C.-H. Huang</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Hwang,+S" rel="nofollow">S. Hwang</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Hyun,+H+J" rel="nofollow">H. J. Hyun</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Igarashi,+Y" rel="nofollow">Y. Igarashi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Iglesias,+C" rel="nofollow">C. Iglesias</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Iida,+Y" rel="nofollow">Y. Iida</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Iijima,+T" rel="nofollow">T. Iijima</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Imamura,+M" rel="nofollow">M. Imamura</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Inami,+K" rel="nofollow">K. Inami</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Irmler,+C" rel="nofollow">C. Irmler</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ishizuka,+M" rel="nofollow">M. Ishizuka</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Itagaki,+K" rel="nofollow">K. Itagaki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Itoh,+R" rel="nofollow">R. Itoh</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Iwabuchi,+M" rel="nofollow">M. Iwabuchi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Iwai,+G" rel="nofollow">G. Iwai</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Iwai,+M" rel="nofollow">M. Iwai</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Iwasaki,+M" rel="nofollow">M. Iwasaki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Iwasaki,+M" rel="nofollow">M. Iwasaki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Iwasaki,+Y" rel="nofollow">Y. Iwasaki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Iwashita,+T" rel="nofollow">T. Iwashita</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Iwata,+S" rel="nofollow">S. Iwata</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Jang,+H" rel="nofollow">H. Jang</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ji,+X" rel="nofollow">X. Ji</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Jinno,+T" rel="nofollow">T. Jinno</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Jones,+M" rel="nofollow">M. Jones</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Julius,+T" rel="nofollow">T. Julius</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kageyama,+T" rel="nofollow">T. Kageyama</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kah,+D+H" rel="nofollow">D. H. Kah</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kakuno,+H" rel="nofollow">H. Kakuno</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kamitani,+T" rel="nofollow">T. Kamitani</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kanazawa,+K" rel="nofollow">K. Kanazawa</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kapusta,+P" rel="nofollow">P. Kapusta</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kataoka,+S+U" rel="nofollow">S. U. Kataoka</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Katayama,+N" rel="nofollow">N. Katayama</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kawai,+M" rel="nofollow">M. Kawai</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kawai,+Y" rel="nofollow">Y. Kawai</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kawasaki,+T" rel="nofollow">T. Kawasaki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kennedy,+J" rel="nofollow">J. Kennedy</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kichimi,+H" rel="nofollow">H. Kichimi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kikuchi,+M" rel="nofollow">M. Kikuchi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kiesling,+C" rel="nofollow">C. Kiesling</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kim,+B+K" rel="nofollow">B. K. Kim</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kim,+G+N" rel="nofollow">G. N. Kim</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kim,+H+J" rel="nofollow">H. J. Kim</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kim,+H+O" rel="nofollow">H. O. Kim</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kim,+J" rel="nofollow">J.-B. Kim</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kim,+J+H" rel="nofollow">J. H. Kim</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kim,+M+J" rel="nofollow">M. J. Kim</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kim,+S+K" rel="nofollow">S. K. Kim</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kim,+K+T" rel="nofollow">K. T. Kim</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kim,+T+Y" rel="nofollow">T. Y. Kim</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kinoshita,+K" rel="nofollow">K. Kinoshita</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kishi,+K" rel="nofollow">K. Kishi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kisielewski,+B" rel="nofollow">B. Kisielewski</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=van+Dam,+K+K" rel="nofollow">K. Kleese van Dam</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Knopf,+J" rel="nofollow">J. Knopf</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ko,+B+R" rel="nofollow">B. R. Ko</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Koch,+M" rel="nofollow">M. Koch</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kodys,+P" rel="nofollow">P. Kodys</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Koffmane,+C" rel="nofollow">C. Koffmane</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Koga,+Y" rel="nofollow">Y. Koga</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kohriki,+T" rel="nofollow">T. Kohriki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Koike,+S" rel="nofollow">S. Koike</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Koiso,+H" rel="nofollow">H. Koiso</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kondo,+Y" rel="nofollow">Y. Kondo</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Korpar,+S" rel="nofollow">S. Korpar</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kouzes,+R+T" rel="nofollow">R. T. Kouzes</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kreidl,+C" rel="nofollow">Ch. Kreidl</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kreps,+M" rel="nofollow">M. Kreps</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Krizan,+P" rel="nofollow">P. Krizan</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Krokovny,+P" rel="nofollow">P. Krokovny</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Krueger,+H" rel="nofollow">H. Krueger</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kruth,+A" rel="nofollow">A. Kruth</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kuhn,+W" rel="nofollow">W. Kuhn</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kuhr,+T" rel="nofollow">T. Kuhr</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kumar,+R" rel="nofollow">R. Kumar</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kumita,+T" rel="nofollow">T. Kumita</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kupper,+S" rel="nofollow">S. Kupper</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kuzmin,+A" rel="nofollow">A. Kuzmin</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kvasnicka,+P" rel="nofollow">P. Kvasnicka</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Kwon,+Y" rel="nofollow">Y.-J. Kwon</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Lacasta,+C" rel="nofollow">C. Lacasta</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Lange,+J+S" rel="nofollow">J. S. Lange</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Lee,+I" rel="nofollow">I.-S. Lee</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Lee,+M+J" rel="nofollow">M. J. Lee</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Lee,+M+W" rel="nofollow">M. W. Lee</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Lee,+S" rel="nofollow">S.-H. Lee</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Lemarenko,+M" rel="nofollow">M. Lemarenko</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Li,+J" rel="nofollow">J. Li</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Li,+W+D" rel="nofollow">W. D. Li</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Li,+Y" rel="nofollow">Y. Li</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Libby,+J" rel="nofollow">J. Libby</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Limosani,+A" rel="nofollow">A. Limosani</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Liu,+C" rel="nofollow">C. Liu</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Liu,+H" rel="nofollow">H. Liu</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Liu,+Y" rel="nofollow">Y. Liu</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Liu,+Z" rel="nofollow">Z. Liu</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Liventsev,+D" rel="nofollow">D. Liventsev</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Virto,+A+L" rel="nofollow">A. Lopez Virto</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Makida,+Y" rel="nofollow">Y. Makida</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Mao,+Z+P" rel="nofollow">Z. P. Mao</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Marinas,+C" rel="nofollow">C. Marinas</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Masuzawa,+M" rel="nofollow">M. Masuzawa</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Matvienko,+D" rel="nofollow">D. Matvienko</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Mitaroff,+W" rel="nofollow">W. Mitaroff</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Miyabayashi,+K" rel="nofollow">K. Miyabayashi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Miyata,+H" rel="nofollow">H. Miyata</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Miyazaki,+Y" rel="nofollow">Y. Miyazaki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Miyoshi,+T" rel="nofollow">T. Miyoshi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Mizuk,+R" rel="nofollow">R. Mizuk</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Mohanty,+G+B" rel="nofollow">G. B. Mohanty</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Mohapatra,+D" rel="nofollow">D. Mohapatra</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Moll,+A" rel="nofollow">A. Moll</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Mori,+T" rel="nofollow">T. Mori</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Morita,+A" rel="nofollow">A. Morita</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Morita,+Y" rel="nofollow">Y. Morita</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Moser,+H" rel="nofollow">H.-G. Moser</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Martin,+D+M" rel="nofollow">D. Moya Martin</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Mueller,+T" rel="nofollow">T. Mueller</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Muenchow,+D" rel="nofollow">D. Muenchow</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Murakami,+J" rel="nofollow">J. Murakami</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Myung,+S+S" rel="nofollow">S. S. Myung</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Nagamine,+T" rel="nofollow">T. Nagamine</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Nakamura,+I" rel="nofollow">I. Nakamura</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Nakamura,+T+T" rel="nofollow">T. T. Nakamura</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Nakano,+E" rel="nofollow">E. Nakano</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Nakano,+H" rel="nofollow">H. Nakano</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Nakao,+M" rel="nofollow">M. Nakao</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Nakazawa,+H" rel="nofollow">H. Nakazawa</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Nam,+S" rel="nofollow">S.-H. Nam</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Natkaniec,+Z" rel="nofollow">Z. Natkaniec</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Nedelkovska,+E" rel="nofollow">E. Nedelkovska</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Negishi,+K" rel="nofollow">K. Negishi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Neubauer,+S" rel="nofollow">S. Neubauer</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ng,+C" rel="nofollow">C. Ng</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ninkovic,+J" rel="nofollow">J. Ninkovic</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Nishida,+S" rel="nofollow">S. Nishida</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Nishimura,+K" rel="nofollow">K. Nishimura</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Novikov,+E" rel="nofollow">E. Novikov</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Nozaki,+T" rel="nofollow">T. Nozaki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ogawa,+S" rel="nofollow">S. Ogawa</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ohmi,+K" rel="nofollow">K. Ohmi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ohnishi,+Y" rel="nofollow">Y. Ohnishi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ohshima,+T" rel="nofollow">T. Ohshima</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ohuchi,+N" rel="nofollow">N. Ohuchi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Oide,+K" rel="nofollow">K. Oide</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Olsen,+S+L" rel="nofollow">S. L. Olsen</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ono,+M" rel="nofollow">M. Ono</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ono,+Y" rel="nofollow">Y. Ono</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Onuki,+Y" rel="nofollow">Y. Onuki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ostrowicz,+W" rel="nofollow">W. Ostrowicz</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ozaki,+H" rel="nofollow">H. Ozaki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Pakhlov,+P" rel="nofollow">P. Pakhlov</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Pakhlova,+G" rel="nofollow">G. Pakhlova</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Palka,+H" rel="nofollow">H. Palka</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Park,+H" rel="nofollow">H. Park</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Park,+H+K" rel="nofollow">H. K. Park</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Peak,+L+S" rel="nofollow">L. S. Peak</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Peng,+T" rel="nofollow">T. Peng</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Peric,+I" rel="nofollow">I. Peric</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Pernicka,+M" rel="nofollow">M. Pernicka</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Pestotnik,+R" rel="nofollow">R. Pestotnik</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Petric,+M" rel="nofollow">M. Petric</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Piilonen,+L+E" rel="nofollow">L. E. Piilonen</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Poluektov,+A" rel="nofollow">A. Poluektov</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Prim,+M" rel="nofollow">M. Prim</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Prothmann,+K" rel="nofollow">K. Prothmann</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Regimbal,+K" rel="nofollow">K. Regimbal</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Reisert,+B" rel="nofollow">B. Reisert</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Richter,+R+H" rel="nofollow">R. H. Richter</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Riera-Babures,+J" rel="nofollow">J. Riera-Babures</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ritter,+A" rel="nofollow">A. Ritter</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ritter,+A" rel="nofollow">A. Ritter</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ritter,+M" rel="nofollow">M. Ritter</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Roehrken,+M" rel="nofollow">M. Roehrken</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Rorie,+J" rel="nofollow">J. Rorie</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Rosen,+M" rel="nofollow">M. Rosen</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Rozanska,+M" rel="nofollow">M. Rozanska</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ruckman,+L" rel="nofollow">L. Ruckman</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Rummel,+S" rel="nofollow">S. Rummel</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Rusinov,+V" rel="nofollow">V. Rusinov</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Russell,+R+M" rel="nofollow">R. M. Russell</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ryu,+S" rel="nofollow">S. Ryu</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Sahoo,+H" rel="nofollow">H. Sahoo</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Sakai,+K" rel="nofollow">K. Sakai</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Sakai,+Y" rel="nofollow">Y. Sakai</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Santelj,+L" rel="nofollow">L. Santelj</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Sasaki,+T" rel="nofollow">T. Sasaki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Sato,+N" rel="nofollow">N. Sato</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Sato,+Y" rel="nofollow">Y. Sato</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Scheirich,+J" rel="nofollow">J. Scheirich</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Schieck,+J" rel="nofollow">J. Schieck</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Schwanda,+C" rel="nofollow">C. Schwanda</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Schwartz,+A+J" rel="nofollow">A. J. Schwartz</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Schwenker,+B" rel="nofollow">B. Schwenker</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Seljak,+A" rel="nofollow">A. Seljak</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Senyo,+K" rel="nofollow">K. Senyo</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Seon,+O" rel="nofollow">O.-S. Seon</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Sevior,+M+E" rel="nofollow">M. E. Sevior</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Shapkin,+M" rel="nofollow">M. Shapkin</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Shebalin,+V" rel="nofollow">V. Shebalin</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Shen,+C+P" rel="nofollow">C. P. Shen</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Shibuya,+H" rel="nofollow">H. Shibuya</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Shiizuka,+S" rel="nofollow">S. Shiizuka</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Shiu,+J" rel="nofollow">J.-G. Shiu</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Shwartz,+B" rel="nofollow">B. Shwartz</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Simon,+F" rel="nofollow">F. Simon</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Simonis,+H+J" rel="nofollow">H. J. Simonis</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Singh,+J+B" rel="nofollow">J. B. Singh</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Sinha,+R" rel="nofollow">R. Sinha</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Sitarz,+M" rel="nofollow">M. Sitarz</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Smerkol,+P" rel="nofollow">P. Smerkol</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Sokolov,+A" rel="nofollow">A. Sokolov</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Solovieva,+E" rel="nofollow">E. Solovieva</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Stanic,+S" rel="nofollow">S. Stanic</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Staric,+M" rel="nofollow">M. Staric</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Stypula,+J" rel="nofollow">J. Stypula</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Suetsugu,+Y" rel="nofollow">Y. Suetsugu</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Sugihara,+S" rel="nofollow">S. Sugihara</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Sugimura,+T" rel="nofollow">T. Sugimura</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Sumisawa,+K" rel="nofollow">K. Sumisawa</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Sumiyoshi,+T" rel="nofollow">T. Sumiyoshi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Suzuki,+K" rel="nofollow">K. Suzuki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Suzuki,+S+Y" rel="nofollow">S. Y. Suzuki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Takagaki,+H" rel="nofollow">H. Takagaki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Takasaki,+F" rel="nofollow">F. Takasaki</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Takeichi,+H" rel="nofollow">H. Takeichi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Takubo,+Y" rel="nofollow">Y. Takubo</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Tanaka,+M" rel="nofollow">M. Tanaka</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Tanaka,+S" rel="nofollow">S. Tanaka</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Taniguchi,+N" rel="nofollow">N. Taniguchi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Tarkovsky,+E" rel="nofollow">E. Tarkovsky</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Tatishvili,+G" rel="nofollow">G. Tatishvili</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Tawada,+M" rel="nofollow">M. Tawada</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Taylor,+G+N" rel="nofollow">G. N. Taylor</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Teramoto,+Y" rel="nofollow">Y. Teramoto</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Tikhomirov,+I" rel="nofollow">I. Tikhomirov</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Trabelsi,+K" rel="nofollow">K. Trabelsi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Tsuboyama,+T" rel="nofollow">T. Tsuboyama</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Tsunada,+K" rel="nofollow">K. Tsunada</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Tu,+Y" rel="nofollow">Y.-C. Tu</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Uchida,+T" rel="nofollow">T. Uchida</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Uehara,+S" rel="nofollow">S. Uehara</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ueno,+K" rel="nofollow">K. Ueno</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Uglov,+T" rel="nofollow">T. Uglov</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Unno,+Y" rel="nofollow">Y. Unno</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Uno,+S" rel="nofollow">S. Uno</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Urquijo,+P" rel="nofollow">P. Urquijo</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Ushiroda,+Y" rel="nofollow">Y. Ushiroda</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Usov,+Y" rel="nofollow">Y. Usov</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Vahsen,+S" rel="nofollow">S. Vahsen</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Valentan,+M" rel="nofollow">M. Valentan</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Vanhoefer,+P" rel="nofollow">P. Vanhoefer</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Varner,+G" rel="nofollow">G. Varner</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Varvell,+K+E" rel="nofollow">K. E. Varvell</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Vazquez,+P" rel="nofollow">P. Vazquez</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Vila,+I" rel="nofollow">I. Vila</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Vilella,+E" rel="nofollow">E. Vilella</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Vinokurova,+A" rel="nofollow">A. Vinokurova</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Visniakov,+J" rel="nofollow">J. Visniakov</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Vos,+M" rel="nofollow">M. Vos</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Wang,+C+H" rel="nofollow">C. H. Wang</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Wang,+J" rel="nofollow">J. Wang</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Wang,+M" rel="nofollow">M.-Z. Wang</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Wang,+P" rel="nofollow">P. Wang</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Wassatch,+A" rel="nofollow">A. Wassatch</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Watanabe,+M" rel="nofollow">M. Watanabe</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Watase,+Y" rel="nofollow">Y. Watase</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Weiler,+T" rel="nofollow">T. Weiler</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Wermes,+N" rel="nofollow">N. Wermes</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Wescott,+R+E" rel="nofollow">R. E. Wescott</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=White,+E" rel="nofollow">E. White</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Wicht,+J" rel="nofollow">J. Wicht</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Widhalm,+L" rel="nofollow">L. Widhalm</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Williams,+K+M" rel="nofollow">K. M. Williams</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Won,+E" rel="nofollow">E. Won</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Xu,+H" rel="nofollow">H. Xu</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Yabsley,+B+D" rel="nofollow">B. D. Yabsley</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Yamamoto,+H" rel="nofollow">H. Yamamoto</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Yamaoka,+H" rel="nofollow">H. Yamaoka</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Yamaoka,+Y" rel="nofollow">Y. Yamaoka</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Yamauchi,+M" rel="nofollow">M. Yamauchi</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Yin,+Y" rel="nofollow">Y. Yin</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Yoon,+H" rel="nofollow">H. Yoon</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Yu,+J" rel="nofollow">J. Yu</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Yuan,+C+Z" rel="nofollow">C. Z. Yuan</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Yusa,+Y" rel="nofollow">Y. Yusa</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Zander,+D" rel="nofollow">D. Zander</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Zdybal,+M" rel="nofollow">M. Zdybal</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Zhang,+Z+P" rel="nofollow">Z. P. Zhang</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Zhao,+J" rel="nofollow">J. Zhao</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Zhao,+L" rel="nofollow">L. Zhao</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Zhao,+Z" rel="nofollow">Z. Zhao</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Zhilich,+V" rel="nofollow">V. Zhilich</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Zhou,+P" rel="nofollow">P. Zhou</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Zhulanov,+V" rel="nofollow">V. Zhulanov</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Zivko,+T" rel="nofollow">T. Zivko</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Zupanc,+A" rel="nofollow">A. Zupanc</a>, <a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Zyukova,+O" rel="nofollow">O. Zyukova</a>
+  </div>
+  <a href="javascript:toggleAuthorList('long-author-list','et al. (312 additional authors not shown)');"
+     title="Show Entire Author List" id="toggle">
+    et al. (312 additional authors not shown)</a>
+  <noscript>&nbsp;You must enable JavaScript to view entire author list.</noscript></div>            <div id="download-button-info" hidden>View a PDF of the paper titled Belle II Technical Design Report, by T. Abe and 410 other authors</div>
+    <a class="mobile-submission-download" href="/pdf/1011.0352v1">View PDF</a>
+
+
+
+    <blockquote class="abstract mathjax">
+            <span class="descriptor">Abstract:</span>The Belle detector at the KEKB electron-positron collider has collected almost 1 billion Y(4S) events in its decade of operation. Super-KEKB, an upgrade of KEKB is under construction, to increase the luminosity by two orders of magnitude during a three-year shutdown, with an ultimate goal of 8E35 /cm^2 /s luminosity. To exploit the increased luminosity, an upgrade of the Belle detector has been proposed. A new international collaboration Belle-II, is being formed. The Technical Design Report presents physics motivation, basic methods of the accelerator upgrade, as well as key improvements of the detector.
+    </blockquote>
+
+    <!--CONTEXT-->
+    <div class="metatable">
+      <table summary="Additional metadata">        <tr>
+          <td class="tablecell label">Comments:</td>
+          <td class="tablecell comments mathjax">Edited by: Z. Doležal and S. Uno</td>
+        </tr>
+<tr>
+          <td class="tablecell label">Subjects:</td>
+          <td class="tablecell subjects">
+            <span class="primary-subject">Instrumentation and Detectors (physics.ins-det)</span>; High Energy Physics - Experiment (hep-ex)</td>
+        </tr>        <tr>
+          <td class="tablecell label">Report&nbsp;number:</td>
+          <td class="tablecell jref">KEK Report 2010-1</td>
+        </tr>
+<tr>
+          <td class="tablecell label">Cite as:</td>
+          <td class="tablecell arxivid"><span class="arxivid"><a href="https://arxiv.org/abs/1011.0352">arXiv:1011.0352</a> [physics.ins-det]</span></td>
+        </tr>
+        <tr>
+          <td class="tablecell label">&nbsp;</td>
+          <td class="tablecell arxividv">(or <span class="arxivid">
+              <a href="https://arxiv.org/abs/1011.0352v1">arXiv:1011.0352v1</a> [physics.ins-det]</span> for this version)
+          </td>
+        </tr>
+        <tr>
+          <td class="tablecell label">&nbsp;</td>
+          <td class="tablecell arxivdoi">              <a href="https://doi.org/10.48550/arXiv.1011.0352"  id="arxiv-doi-link">https://doi.org/10.48550/arXiv.1011.0352</a><div class="button-and-tooltip">
+              <button class="more-info" aria-describedby="more-info-desc-1">
+                <svg height="15" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 110c23.196 0 42 18.804 42 42s-18.804 42-42 42-42-18.804-42-42 18.804-42 42-42zm56 254c0 6.627-5.373 12-12 12h-88c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h12v-64h-12c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h64c6.627 0 12 5.373 12 12v100h12c6.627 0 12 5.373 12 12v24z" class=""></path></svg>
+                <span class="visually-hidden">Focus to learn more</span>
+              </button>
+              <!-- tooltip description -->
+              <div role="tooltip" id="more-info-desc-1">
+                <span class="left-corner"></span>                  arXiv-issued DOI via DataCite</div>
+            </div>
+          </td>
+        </tr></table>
+    </div>
+  </div>
+</div>
+    <div class="submission-history">
+      <h2>Submission history</h2> From: Zdeněk Doležal [<a href="/show-email/7c71cf76/1011.0352" rel="nofollow">view email</a>]      <br/>    <strong>[v1]</strong>
+        Mon, 1 Nov 2010 15:42:12 UTC (29,791 KB)<br/>
+</div>
+  </div>
+  <!--end leftcolumn-->
+<div class="extra-services">    <div class="full-text">
+      <a name="other"></a>
+      <span class="descriptor">Full-text links:</span>
+      <h2>Access Paper:</h2>
+      <ul>
+  <div id="download-button-info" hidden>
+View a PDF of the paper titled Belle II Technical Design Report, by T. Abe and 410 other authors</div><li><a href="/pdf/1011.0352v1" aria-describedby="download-button-info" accesskey="f" class="abs-button download-pdf">View PDF</a></li></ul>
+      <div class="abs-license"><a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/" title="Rights to this article">view license</a></div>
+    </div>
+    <!--end full-text-->    <div class="browse">
+    <h3 class="browse-context-heading">Current browse context:</h3>
+  <div class="current">physics.ins-det</div>
+
+  <div class="prevnext">
+<span class="arrow">
+      <a class="abs-button prev-url" href="/prevnext?id=1011.0352&amp;function=prev&amp;context=physics.ins-det"
+         accesskey="p" title="previous in physics.ins-det (accesskey p)" rel="nofollow">&lt;&nbsp;prev</a>
+    </span>
+    <span class="is-hidden-mobile">&nbsp; | &nbsp;</span>    <span class="arrow">
+      <a class="abs-button next-url" href="/prevnext?id=1011.0352&amp;function=next&amp;context=physics.ins-det" accesskey="n"
+         title="next in physics.ins-det (accesskey n)"  rel="nofollow">next&nbsp;&gt;</a>
+    </span><br/>
+  </div><div class="list">
+    <a class="abs-button abs-button-grey abs-button-small context-new" href="/list/physics.ins-det/new"  rel="nofollow">new</a>
+    <span class="is-hidden-mobile"> | </span>
+    <a class="abs-button abs-button-grey abs-button-small context-recent" href="/list/physics.ins-det/recent" rel="nofollow">recent</a>
+    <span class="is-hidden-mobile"> | </span><a class="abs-button abs-button-grey abs-button-small context-id" href="/list/physics.ins-det/2010-11" rel="nofollow">2010-11</a>
+  </div><div class="abs-switch-cat">
+    Change to browse by:
+    <div class="switch context-change">
+        <a href="/abs/1011.0352?context=hep-ex" rel="nofollow">hep-ex</a><br class="is-hidden-mobile">
+        <a href="/abs/1011.0352?context=physics" rel="nofollow">physics</a><br class="is-hidden-mobile">
+    </div>
+  </div>
+
+    </div>
+      <div class="extra-ref-cite">
+        <h3>References &amp; Citations</h3>
+        <ul>
+            <li>
+              <a class="abs-button abs-button-small cite-inspire" href="https://inspirehep.net/arxiv/1011.0352">INSPIRE HEP</a><br/>
+            </li>
+          <li><a  class="abs-button abs-button-small cite-ads" href="https://scixplorer.org/abs/arXiv:1011.0352">SciX</a></li><li><a  class="abs-button abs-button-small cite-google-scholar" href="https://scholar.google.com/scholar_lookup?arxiv_id=1011.0352" target="_blank" rel="noopener">Google Scholar</a></li>
+          <li><a  class="abs-button abs-button-small cite-semantic-scholar" href="https://api.semanticscholar.org/arXiv:1011.0352" target="_blank" rel="noopener">Semantic Scholar</a></li>
+        </ul>
+        <div style="clear:both;"></div>
+      </div>
+
+<div class='extra-ref-cite'>
+    <button type="button" id='bib-cite-trigger' class="bib-cite-button abs-button">export BibTeX citation</button>
+    <span id='bib-cite-loading' hidden='true'>Loading...</span>
+</div>
+
+<div id='bib-cite-modal' class='bib-modal' hidden='true'>
+    <div class='bib-modal-content'>
+        <div class='bib-modal-title'>
+            <h2>BibTeX formatted citation</h2>
+            <button type="button" class='bib-modal-close' aria-label="Close">&times;</button>
+        </div>
+        <div>
+            <textarea id='bib-cite-target' class="bib-citation-content" aria-label="loading the citation">loading...</textarea>
+        </div>
+        <div>
+            <span>Data provided by: </span>
+            <a id='bib-cite-source-api'></a>
+        </div>
+    </div>
+</div><div class="bookmarks">
+  <div><h3>Bookmark</h3></div><a class="abs-button abs-button-grey abs-button-small" href="http://www.bibsonomy.org/BibtexHandler?requTask=upload&amp;url=https://arxiv.org/abs/1011.0352&amp;description=Belle II Technical Design Report"
+     title="Bookmark on BibSonomy">
+    <img src="/static/browse/0.3.4/images/icons/social/bibsonomy.png"
+         alt="BibSonomy"/>
+  </a>
+  <a class="abs-button abs-button-grey abs-button-small" href="https://reddit.com/submit?url=https://arxiv.org/abs/1011.0352&amp;title=Belle II Technical Design Report"
+     title="Bookmark on Reddit">
+    <img src="/static/browse/0.3.4/images/icons/social/reddit.png"
+         alt="Reddit"/>
+  </a>
+</div>  </div>
+  <!--end extra-services-->
+<!-- LABS AREA -->
+<div id="labstabs">
+  <div class="labstabs" role="tablist" aria-label="arXivLabs tools"><input type="radio" name="tabs" id="tabone"checked="checked"class="labs-tab-input">
+    <label for="tabone" role="tab" aria-selected="true" aria-controls="tabpanel-one" id="tab-label-one">Bibliographic Tools</label>
+    <div class="tab labs-display-bib" role="tabpanel" id="tabpanel-one" aria-labelledby="tab-label-one">
+      <h1>Bibliographic and Citation Tools</h1>
+      <div class="toggle">
+        <div class="columns is-mobile lab-row">
+          <div class="column lab-switch">
+            <label class="switch">
+              <input id="bibex-toggle" type="checkbox" class="lab-toggle"
+                     data-script-url="/static/browse/0.3.4/bibex/bibex.js?20261013">
+              <span class="slider"></span>
+              <span class="is-sr-only">Bibliographic Explorer Toggle</span>
+            </label>
+          </div>
+          <div class="column lab-name">
+            <span id="label-for-bibex">Bibliographic Explorer</span> <em>(<a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">What is the Explorer?</a>)</em>
+          </div>
+        </div>
+        <div class="columns is-mobile lab-row">
+          <div class="column lab-switch">
+            <label class="switch">
+              <input
+                id="connectedpapers-toggle"
+                type="checkbox"
+                class="lab-toggle"
+                data-script-url="/static/browse/0.3.4/js/connectedpapers.js"
+                aria-labelledby="label-for-connected-papers">
+              <span class="slider"></span>
+              <span class="is-sr-only">Connected Papers Toggle</span>
+            </label>
+          </div>
+          <div class="column lab-name">
+            <span id="label-for-connected-papers">Connected Papers</span> <em>(<a href="https://www.connectedpapers.com/about" target="_blank">What is Connected Papers?</a>)</em>
+          </div>
+        </div><div class="columns is-mobile lab-row">
+          <div class="column lab-switch">
+            <label class="switch">
+              <input
+                id="litmaps-toggle"
+                type="checkbox"
+                class="lab-toggle"
+                data-script-url="/static/browse/0.3.4/js/litmaps.js?20210617"
+                aria-labelledby="label-for-litmaps">
+              <span class="slider"></span>
+              <span class="is-sr-only">Litmaps Toggle</span>
+            </label>
+          </div>
+          <div class="column lab-name">
+            <span id="label-for-litmaps">Litmaps</span> <em>(<a href="https://www.litmaps.co/" target="_blank">What is Litmaps?</a>)</em>
+          </div>
+        </div>
+        <div class="columns is-mobile lab-row">
+          <div class="column lab-switch">
+            <label class="switch">
+              <input
+                id="scite-toggle"
+                type="checkbox"
+                class="lab-toggle"
+                data-script-url="/static/browse/0.3.4/js/scite.js?20210617"
+                aria-labelledby="label-for-scite">
+              <span class="slider"></span>
+              <span class="is-sr-only">scite.ai Toggle</span>
+            </label>
+          </div>
+          <div class="column lab-name">
+            <span id="label-for-scite">scite Smart Citations</span> <em>(<a href="https://www.scite.ai/" target="_blank">What are Smart Citations?</a>)</em>
+          </div>
+        </div>
+      </div>
+        <div class="labs-content-placeholder labs-display" style="display: none;"></div>
+        <div style="min-height: 15px" id="connectedpapers-output"></div>
+        <div style="min-height: 15px" id="litmaps-open-in"></div>
+        <div style="min-height: 15px" id="scite-open-in"></div>
+    </div>
+
+
+    <input type="radio" name="tabs" id="tabtwo" class="labs-tab-input">
+    <label for="tabtwo" role="tab" aria-selected="false" aria-controls="tabpanel-two" id="tab-label-two">Code, Data, Media</label>
+    <div class="tab" role="tabpanel" id="tabpanel-two" aria-labelledby="tab-label-two">
+      <h1>Code, Data and Media Associated with this Article</h1>
+      <div class="toggle">
+        <div class="columns is-mobile lab-row">
+          <div class="column lab-switch">
+            <label class="switch">
+              <input
+                id="alphaxiv-toggle"
+                data-script-url="/static/browse/0.3.4/js/alphaxiv.js"
+                type="checkbox" class="lab-toggle" aria-labelledby="label-for-alphaxiv">
+              <span class="slider"></span>
+              <span class="is-sr-only">alphaXiv Toggle</span>
+            </label>
+          </div>
+          <div class="column lab-name">
+            <span id="label-for-alphaxiv">alphaXiv</span> <em>(<a href="https://alphaxiv.org/" target="_blank">What is alphaXiv?</a>)</em>
+          </div>
+        </div>
+
+        <div class="columns is-mobile lab-row">
+          <div class="column lab-switch">
+            <label class="switch">
+              <input        
+                id="catalyzex-toggle"
+                data-script-url="/static/browse/0.3.4/js/catalyzex.js"
+                type="checkbox" class="lab-toggle" aria-labelledby="label-for-cx">
+              <span class="slider"></span>
+              <span class="is-sr-only">Links to Code Toggle</span>
+            </label>
+          </div>
+          <div class="column lab-name">
+            <span id="label-for-cx">CatalyzeX Code Finder for Papers</span> <em>(<a href="https://www.catalyzex.com" target="_blank">What is CatalyzeX?</a>)</em>
+          </div>
+        </div>
+
+        <div class="columns is-mobile lab-row">
+          <div class="column lab-switch">
+            <label class="switch">
+              <input
+                id="dagshub-toggle"
+                data-script-url="/static/browse/0.3.4/js/dagshub.js"
+                type="checkbox" class="lab-toggle" aria-labelledby="label-for-dagshub">
+              <span class="slider"></span>
+              <span class="is-sr-only">DagsHub Toggle</span>
+            </label>
+          </div>
+          <div class="column lab-name">
+            <span id="label-for-dagshub">DagsHub</span> <em>(<a href="https://dagshub.com/" target="_blank">What is DagsHub?</a>)</em>
+          </div>
+        </div>
+  
+        <div class="columns is-mobile lab-row">
+          <div class="column lab-switch">
+            <label class="switch">
+              <input
+                id="gotitpub-toggle"
+                data-script-url="/static/browse/0.3.4/js/gotitpub.js"
+                type="checkbox" class="lab-toggle" aria-labelledby="label-for-gotitpub">
+              <span class="slider"></span>
+              <span class="is-sr-only">GotitPub Toggle</span>
+            </label>
+          </div>
+          <div class="column lab-name">
+            <span id="label-for-gotitpub">Gotit.pub</span> <em>(<a href="http://gotit.pub/faq" target="_blank">What is GotitPub?</a>)</em>
+          </div>
+        </div>
+
+        <div class="columns is-mobile lab-row">
+          <div class="column lab-switch">
+            <label class="switch">
+              <input
+                id="huggingface-toggle"
+                data-script-url="/static/browse/0.3.4/js/huggingface.js"
+                type="checkbox" class="lab-toggle" aria-labelledby="label-for-huggingface">
+              <span class="slider"></span>
+              <span class="is-sr-only">Huggingface Toggle</span>
+            </label>
+          </div>
+          <div class="column lab-name">
+            <span id="label-for-huggingface">Hugging Face</span> <em>(<a href="https://huggingface.co/huggingface" target="_blank">What is Huggingface?</a>)</em>
+          </div>
+        </div>
+
+        <div class="columns is-mobile lab-row">
+          <div class="column lab-switch">
+            <label class="switch">
+              <input
+                id="sciencecast-toggle"
+                data-script-url="/static/browse/0.3.4/js/sciencecast.js"
+                type="checkbox" class="lab-toggle" aria-labelledby="label-for-sciencecast">
+              <span class="slider"></span>
+              <span class="is-sr-only">ScienceCast Toggle</span>
+            </label>
+          </div>
+          <div class="column lab-name">
+            <span id="label-for-sciencecast">ScienceCast</span> <em>(<a href="https://sciencecast.org/welcome" target="_blank">What is ScienceCast?</a>)</em>
+          </div>
+        </div>
+      </div>
+
+      <div id="alphaxiv-output" style="display:none"></div>
+      <div id="catalyzex-output" style="display:none"></div>
+      <div id="dagshub-output" style="display:none"></div>
+      <div id="gotitpub-output" style="display:none"></div>
+      <div id="sciencecast-output" style="display:none"></div>
+      <div id="huggingface-output" style="display:none"></div>
+    </div>
+
+
+      <input type="radio" name="tabs" id="labstabs-demos-input" class="labs-tab-input">
+      <label for="labstabs-demos-input" id="labstabs-demos-label" role="tab" aria-selected="false" aria-controls="tabpanel-demos">Demos</label>
+      <div class="tab" role="tabpanel" id="tabpanel-demos" aria-labelledby="labstabs-demos-label">
+        <h1>Demos</h1>
+        <div class="toggle">
+          <div class="columns is-mobile lab-row">
+            <div class="column lab-switch">
+              <label class="switch">
+                <input
+                  id="replicate-toggle"
+                  data-script-url="/static/browse/0.3.4/js/replicate.js"
+                  type="checkbox" class="lab-toggle" aria-labelledby="label-for-replicate">
+                <span class="slider"></span>
+                <span class="is-sr-only">Replicate Toggle</span>
+              </label>
+            </div>
+            <div class="column lab-name">
+              <span id="label-for-replicate">Replicate</span> <em>(<a href="https://replicate.com/docs/arxiv/about" target="_blank">What is Replicate?</a>)</em>
+            </div>
+          </div>
+          <div class="columns is-mobile lab-row">
+            <div class="column lab-switch">
+              <label class="switch">
+                <input
+                  id="spaces-toggle"
+                  data-script-url="/static/browse/0.3.4/js/spaces.js"
+                  type="checkbox" class="lab-toggle" aria-labelledby="label-for-spaces">
+                <span class="slider"></span>
+                <span class="is-sr-only">Spaces Toggle</span>
+              </label>
+            </div>
+            <div class="column lab-name">
+              <span id="label-for-spaces">Hugging Face Spaces</span> <em>(<a href="https://huggingface.co/docs/hub/spaces" target="_blank">What is Spaces?</a>)</em>
+            </div>
+          </div>
+          <div class="columns is-mobile lab-row">
+            <div class="column lab-switch">
+              <label class="switch">
+                <input
+                  id="txyz-toggle"
+                  data-script-url="/static/browse/0.3.4/js/txyz.js"
+                  type="checkbox" class="lab-toggle" aria-labelledby="label-for-txyz">
+                <span class="slider"></span>
+                <span class="is-sr-only">Spaces Toggle</span>
+              </label>
+            </div>
+            <div class="column lab-name">
+              <span id="label-for-txyz">TXYZ.AI</span> <em>(<a href="https://txyz.ai" target="_blank">What is TXYZ.AI?</a>)</em>
+            </div>
+          </div>
+        </div>
+        <div id="replicate-output"></div>
+        <div id="spaces-output"></div>
+        <div id="txyz-output"></div>
+      </div>
+      <input type="radio" name="tabs" id="tabfour" class="labs-tab-input">
+      <label for="tabfour" role="tab" aria-selected="false" aria-controls="tabpanel-four" id="tab-label-four">Related Papers</label>
+      <div class="tab" role="tabpanel" id="tabpanel-four" aria-labelledby="tab-label-four">
+        <h1>Recommenders and Search Tools</h1>
+        <div class="toggle">
+          <div class="columns is-mobile lab-row">
+            <div class="column lab-switch">
+              <label class="switch">
+                <input id="influenceflower-toggle"
+                data-script-url="/static/browse/0.3.4/js/influenceflower.js"
+                type="checkbox" class="lab-toggle" aria-labelledby="label-for-influenceflower">
+                <span class="slider"></span>
+                <span class="is-sr-only">Link to Influence Flower</span>
+              </label>
+            </div>
+            <div class="column lab-name">
+              <span id="label-for-influenceflower">Influence Flower</span> <em>(<a href="https://influencemap.cmlab.dev/" target="_blank">What are Influence Flowers?</a>)</em>
+            </div>
+          </div>
+          <div class="columns is-mobile lab-row">
+            <div class="column lab-switch">
+              <label class="switch">
+                <input id="core-recommender-toggle" type="checkbox" class="lab-toggle" aria-labelledby="label-for-core">
+                <span class="slider"></span>
+                <span class="is-sr-only">Core recommender toggle</span>
+              </label>
+            </div>
+            <div class="column lab-name">
+              <span id="label-for-core">CORE Recommender</span> <em>(<a href="https://core.ac.uk/services/recommender">What is CORE?</a>)</em>
+            </div>
+          </div></div>
+        <div id="influenceflower-output"></div>
+        <div id="influenceflower-output-graph" style="display:none">
+          <ul class="flower-tabs">
+            <li class="active"><a class="btn tab-btn" onclick="openTab(event, 'tab-author')">Author</a></li>
+            <li><a class="btn tab-btn" onclick="openTab(event, 'tab-venue')">Venue</a></li>
+            <li><a class="btn tab-btn" onclick="openTab(event, 'tab-inst')">Institution</a></li>
+            <li><a class="btn tab-btn" onclick="openTab(event, 'tab-topic')">Topic</a></li>
+          </ul>
+          <div class="flower-tab-content">
+            <div class="tab-flower active" id="tab-author"><svg id="flower-graph-author"></svg></div>
+            <div class="tab-flower" id="tab-venue"><svg id="flower-graph-venue"></svg></div>
+            <div class="tab-flower" id="tab-inst"><svg id="flower-graph-inst"></svg></div>
+            <div class="tab-flower" id="tab-topic"><svg id="flower-graph-topic"></svg></div>
+          </div>
+        </div>
+        <div id="coreRecommenderOutput"></div>
+        <div id="iarxivOutput"></div>
+      </div>
+
+      <input type="radio" name="tabs" id="tabfive" class="labs-tab-input">
+      <label for="tabfive" role="tab" aria-selected="false" aria-controls="tabpanel-five" id="tab-label-five">
+        About arXivLabs
+      </label>
+      <div class="tab" role="tabpanel" id="tabpanel-five" aria-labelledby="tab-label-five">
+        <div class="columns">
+          <div class="column">
+            <h1>arXivLabs: experimental projects with community collaborators</h1>
+            <p>arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.</p>
+            <p>Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.</p>
+            <p>Have an idea for a project that will add value for arXiv's community? <a href="https://info.arxiv.org/labs/index.html"><strong>Learn more about arXivLabs</strong></a>.</p>
+          </div>
+          <div class="column is-narrow is-full-mobile">
+            <p class="icon-labs"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 635.572 811"><path d="M175.6 676v27h-27v-27zm-54 27v27h27v-27zm-27 27v27h27v-27zm396-54v27h-27v-27zm0 27v27h27v-27zm27 27v27h27v-27zm-27-414h27v27h-27zm27 0h27v-27h-27zm27-27h27v-27h-27zm-396 45h-27v-27h27zm-27-54h-27v27h27zm-27-27h-27v27h27z"/><path d="M94.6 730v27h-27v-27zm477 0v27h-27v-27zm-27-495h27v27h-27zm-450 18h-27v-27h27zm477 9h27v27h-27zm-54 495h27v27h-27zm-423 0h27v27h-27zm-54-504h27v27h-27z" fill="#666"/><path d="M67.6 730v27h-27v-27zm54 54v27h-27v-27zm0-108v27h27v-27zm-27 27v27h27v-27zm-81 0v27h27v-27zm585 27v27h-27v-27zm-108-54v27h27v-27zm27 27v27h27v-27zm81 0v27h27v-27zm-54-495h27v27h-27zm-54 108h27v-27h-27zm27-27h27v-27h-27zm0-81h27v-27h-27zm-423 18h-27v-27h27zm54 54h-27v27h27zm-27-27h-27v27h27zm0-81h-27v27h27zm423 612v27h-27v-27zm81-522v27h-27v-27zm-585-9v27h-27v-27z" fill="#999"/><path d="M94.6 784v27h-27v-27zm-27-27v27h27v-27zm-27-54v27h27v-27zm27 0v27h27v-27zm0-27v27h27v-27zm27 0v27h27v-27zm0-27v27h27v-27zm27 0v27h27v-27zm-108 81v27h27v-27zm558 54v27h-27v-27zm-27-27v27h27v-27zm27-54v27h27v-27zm-27 0v27h27v-27zm0-27v27h27v-27zm-27 0v27h27v-27zm0-27v27h27v-27zm-27 0v27h27v-27zm108 81v27h27v-27zm0-495h27v27h-27zm-27 27h27v-27h-27zm-54-27h27v-27h-27zm0 27h27v-27h-27zm-27 0h27v-27h-27zm0 27h27v-27h-27zm-27 0h27v-27h-27zm0 27h27v-27h-27zm81-108h27v-27h-27zm-504 45h-27v-27h27zm27-27h-27v27h27zm54-27h-27v27h27zm0 27h-27v27h27zm27 0h-27v27h27zm0 27h-27v27h27zm27 0h-27v27h27zm0 27h-27v27h27zm-81-108h-27v27h27z" fill="#ccc"/><path d="M598.6 665.1H41.5C-76.5 667 176 280.2 176 280.2h53a46.5 46.5 0 0162.8-56.3 29.2 29.2 0 1128.5 35.9h-1a46.5 46.5 0 01-1.5 20.3l142.5-.1s255.3 387 138.3 385.1zM291 181a29.3 29.3 0 10-29.2-29.3A29.3 29.3 0 00291 181zm65.4-66.8a22.4 22.4 0 10-22.5-22.4 22.4 22.4 0 0022.5 22.4z" fill="#fc0"/><path d="M245.5 172V10h153v162s324 495 198 495h-558c-126 0 207-495 207-495zm126 54h56m-13 72h56m-9 72h56m-20 72h56m-22 72h56m-29 72h56m-457-45c20.8 41.7 87.3 81 160.7 81 72.1 0 142.1-38.2 163.4-81" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="20"/><path d="M273.3 421.7c0 31-9.8 56.3-21.9 56.3s-21.8-25.2-21.8-56.3 9.8-56.3 21.8-56.3 21.9 25.2 21.9 56.3zm114.4-56.3c-12 0-21.8 25.2-21.8 56.3s9.7 56.3 21.8 56.3 21.9-25.2 21.9-56.3-9.8-56.3-21.9-56.3zM150.1 526.6c-18.2 6.7-27.5 22.9-23.2 30.2s14.8-5.5 33-12.2 37.4-4.9 33-12.2-24.5-12.6-42.8-5.8zm296 5.8c-4.2 7.3 14.9 5.5 33.1 12.2s28.7 19.5 33 12.2-5-23.5-23.2-30.2-38.5-1.5-42.8 5.8z"/></svg></p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+</div>
+<!-- END LABS AREA -->
+  <div class="endorsers">
+    <a href="/auth/show-endorsers/1011.0352" class="endorser-who" rel="nofollow">Which authors of this paper are endorsers?</a> |
+    <a id="mathjax_toggle" href="javascript:setMathjaxCookie()">Disable MathJax</a> (<a href="https://info.arxiv.org/help/mathjax.html">What is MathJax?</a>)
+    <span class="help" style="font-style: normal; float: right; margin-top: 0; margin-right: 1em;"></span>
+  </div>
+  <script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</div>
+      </div>
+    </main>
+
+<footer class="ds-site-footer">
+  <div class="ds-site-footer-grid">
+    <div class="ds-site-footer-main">
+      <div class="ds-site-footer-ack">
+        We gratefully acknowledge support from our <strong>major funders</strong>,
+        <a href="https://info.arxiv.org/about/ourmembers.html"><strong>member institutions</strong></a><span class="ack-member-inline" hidden>, <strong></strong></span>,
+        and all contributors.
+      </div>
+      <nav class="ds-site-footer-links" aria-label="Site navigation">
+        <a href="https://info.arxiv.org/about">About</a> <span class="ds-site-footer-sep" aria-hidden="true">&middot;</span>
+        <a href="https://info.arxiv.org/help">Help</a> <span class="ds-site-footer-sep" aria-hidden="true">&middot;</span>
+        <a href="https://info.arxiv.org/help/contact.html">Contact</a> <span class="ds-site-footer-sep" aria-hidden="true">&middot;</span>
+        <a href="https://info.arxiv.org/help/subscribe.html">Subscribe</a> <span class="ds-site-footer-sep" aria-hidden="true">&middot;</span>
+        <a href="https://info.arxiv.org/help/license/index.html">Copyright</a> <span class="ds-site-footer-sep" aria-hidden="true">&middot;</span>
+        <a href="https://info.arxiv.org/help/policies/privacy_policy.html">Privacy</a> <span class="ds-site-footer-sep" aria-hidden="true">&middot;</span>
+        <a href="https://info.arxiv.org/help/web_accessibility.html">Accessibility</a> <span class="ds-site-footer-sep" aria-hidden="true">&middot;</span>
+        <a href="https://status.arxiv.org/" target="_blank" rel="noopener noreferrer">Operational Status<span class="is-sr-only"> (opens in new tab)</span></a>
+      </nav>
+    </div>
+    <div class="ds-site-footer-funders">
+      <div class="ds-site-footer-funders-label">Major funding support from</div>
+      <div class="ds-site-footer-funders-logos">
+        <a class="ds-funder-link" href="https://www.simonsfoundation.org/" target="_blank" rel="noopener noreferrer">
+          <img class="ds-funder-logo" src="https://static.arxiv.org/static/design-system/latest/funders/simons-foundation.png" alt="Simons Foundation"><span class="is-sr-only"> (opens in new tab)</span>
+        </a>
+        <a class="ds-funder-link" href="https://www.sfi.org.bm/" target="_blank" rel="noopener noreferrer">
+          <img class="ds-funder-logo" src="https://static.arxiv.org/static/design-system/latest/funders/simons-foundation-international.png" alt="Simons Foundation International"><span class="is-sr-only"> (opens in new tab)</span>
+        </a>
+        <a class="ds-funder-link" href="https://www.schmidtsciences.org/" target="_blank" rel="noopener noreferrer">
+          <img class="ds-funder-logo" src="https://static.arxiv.org/static/design-system/latest/funders/schmidt-sciences.png" alt="Schmidt Sciences"><span class="is-sr-only"> (opens in new tab)</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>  </div>
+
+</body>
+
+</html>
