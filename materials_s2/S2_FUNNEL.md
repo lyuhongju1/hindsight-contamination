@@ -13,8 +13,8 @@
 | q47 | aLIGO (dup) | — | — | — | skipped (lineage) |
 | q48 | Daya Bay | NOT ELIGIBLE (no upgrade program; JUNO separate and pre-dates) | — | — | not eligible |
 | q49 | Tunka-133 | NOT ELIGIBLE (Tunka-Rex and HiSCORE < 24 months; TAIGA-IACT first commitment not on arXiv; a later doc is not accepted as the first commitment) | — | — | not eligible |
-| q50 | JLab Hall A → SoLID | ELIGIBLE: MRPC TOF vs scintillator; GEM vs drift chambers (arXiv:1409.7741, exact) | running | | |
-| q51 | DRIFT-II | ELIGIBLE: CS2:CF4 fluorine target (arXiv:1010.3027); O2 minority carriers (arXiv:1410.7821), exact | running | | |
+| q50 | JLab Hall A → SoLID | ELIGIBLE: MRPC TOF vs scintillator; GEM vs drift chambers (arXiv:1409.7741, exact) | NO WINDOW (MRPC rate kill needs ~1e38.5 luminosity, off-class; GEM material kill needs ~100x lower rate) | not run | infeasible, pending batched confirmation |
+| q51 | DRIFT-II | ELIGIBLE: CS2:CF4 fluorine target (arXiv:1010.3027); O2 minority carriers (arXiv:1410.7821), exact | NO WINDOW (mixture ratio a setting; diffusion favours the item; minority-peak and width-z weaken together) | not run | infeasible, pending batched confirmation |
 | q52 | MINOS | NOT ELIGIBLE (MINOS+ same detectors; only a DAQ replacement, no documented alternative) | — | — | not eligible |
 | q54 | HERMES → Recoil Detector | ELIGIBLE: in-vacuum DSSD; SciFi tracker (arXiv:1302.6092, exact; TDR 2002 not on arXiv, so the date is an upper bound) | running | | |
 | q55 | PandaX → PandaX-4T | ELIGIBLE: ultrapure water shield; 3-in. top PMTs (arXiv:1806.02229, exact) | running | | |
