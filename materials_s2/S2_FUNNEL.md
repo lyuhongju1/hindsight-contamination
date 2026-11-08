@@ -16,8 +16,8 @@
 | q50 | JLab Hall A → SoLID | ELIGIBLE: MRPC TOF vs scintillator; GEM vs drift chambers (arXiv:1409.7741, exact) | NO WINDOW (MRPC rate kill needs ~1e38.5 luminosity, off-class; GEM material kill needs ~100x lower rate) | not run | infeasible, pending batched confirmation |
 | q51 | DRIFT-II | ELIGIBLE: CS2:CF4 fluorine target (arXiv:1010.3027); O2 minority carriers (arXiv:1410.7821), exact | NO WINDOW (mixture ratio a setting; diffusion favours the item; minority-peak and width-z weaken together) | not run | infeasible, pending batched confirmation |
 | q52 | MINOS | NOT ELIGIBLE (MINOS+ same detectors; only a DAQ replacement, no documented alternative) | — | — | not eligible |
-| q54 | HERMES → Recoil Detector | ELIGIBLE: in-vacuum DSSD; SciFi tracker (arXiv:1302.6092, exact; TDR 2002 not on arXiv, so the date is an upper bound) | running | | |
-| q55 | PandaX → PandaX-4T | ELIGIBLE: ultrapure water shield; 3-in. top PMTs (arXiv:1806.02229, exact) | running | | |
+| q54 | HERMES → Recoil Detector | ELIGIBLE: in-vacuum DSSD; SciFi tracker (arXiv:1302.6092, exact; TDR 2002 not on arXiv, so the date is an upper bound) | NO WINDOW (dose hits outside trackers equally; low-momentum threshold favours in-vacuum; fibre budget is a setting) | not run | infeasible, pending batched confirmation |
+| q55 | PandaX → PandaX-4T | ELIGIBLE: ultrapure water shield; 3-in. top PMTs (arXiv:1806.02229, exact) | NO WINDOW (muon neutrons and radiopurity favour water; gamma needs a forbidden space rule; x-y gap 2.7x < 4) | not run | infeasible, pending batched confirmation |
 | q53 | KASCADE-Grande | — | — | — | skipped (lineage: KASCADE) |
 | q56 | NuMI | NOT ELIGIBLE (no collaboration; LBNF/DUNE is a different collaboration, ruled as KM3NeT/ANTARES) | — | — | not eligible |
 | q57 | BaBar | NOT ELIGIBLE (SuperB TDR 1 month after the baseline; no later commitment) | — | — | not eligible |
