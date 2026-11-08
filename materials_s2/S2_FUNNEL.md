@@ -9,9 +9,13 @@
 | q43 | ArgoNeuT → LArIAT | ELIGIBLE: TPB-coated reflector foils lining the field cage (arXiv:1406.5560, 2014-06, exact) vs WLS plates or light guides at the PMTs; LArIAT accepted as successor per the KASCADE/LOPES precedent, if D2 agrees | running | | |
 | q44 | IceTop | — | — | — | skipped (lineage: IceCube) |
 | q45 | BRAHMS | NOT ELIGIBLE (no upgrade program or successor) | — | — | not eligible |
-| q46 | EDELWEISS-III | ELIGIBLE: NbSi TES phonon sensor (arXiv:2203.03993, 2022-03; fuzzy-verified) vs NTD-Ge | running | | |
+| q46 | EDELWEISS-III | ELIGIBLE: NbSi TES phonon sensor (arXiv:2203.03993, 2022-03; fuzzy-verified) vs NTD-Ge | NO WINDOW (Tc and bias tunable; strict thresholds exclude NTD instead) | not run | infeasible, pending batched red-team confirmation |
 | q47 | aLIGO (dup) | — | — | — | skipped (lineage) |
 | q48 | Daya Bay | NOT ELIGIBLE (no upgrade program; JUNO separate and pre-dates) | — | — | not eligible |
 | q49 | Tunka-133 | running | | | |
 | q50 | JLab Hall A | running | | | |
 | q51 | DRIFT-II | running | | | |
+| q52 | MINOS | running | | | |
+| q54 | HERMES | running | | | |
+| q55 | PandaX | running | | | |
+| q53 | KASCADE-Grande | — | — | — | skipped (lineage: KASCADE) |
