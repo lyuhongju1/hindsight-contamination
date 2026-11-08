@@ -57,3 +57,5 @@
   - The other 13: no window.
 - **Per PREREGISTRATION_S2 §2:** fewer than 6 units, so Study 2 is reported descriptively. No Study 2 sampling.
 - **Audit of the unconfirmed no-window verdicts:** a seeded random sample of 4 of the 14 (seed 20261108): q55 PandaX, q63 LHCf, q51 DRIFT, q54 HERMES. These get independent red-team confirmation, to estimate the error rate of feasibility verdicts.
+
+**Audit result:** 0 of 4 overturned (independent red team, 2026-11-08). One reasoning correction for q54 (soft synchrotron photons are absorbed by thin Al) does not change the verdict.
