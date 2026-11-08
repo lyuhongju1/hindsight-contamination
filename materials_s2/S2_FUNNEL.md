@@ -15,7 +15,13 @@
 | q49 | Tunka-133 | NOT ELIGIBLE (Tunka-Rex and HiSCORE < 24 months; TAIGA-IACT first commitment not on arXiv; a later doc is not accepted as the first commitment) | — | — | not eligible |
 | q50 | JLab Hall A → SoLID | ELIGIBLE: MRPC TOF vs scintillator; GEM vs drift chambers (arXiv:1409.7741, exact) | running | | |
 | q51 | DRIFT-II | ELIGIBLE: CS2:CF4 fluorine target (arXiv:1010.3027); O2 minority carriers (arXiv:1410.7821), exact | running | | |
-| q52 | MINOS | running | | | |
-| q54 | HERMES | running | | | |
-| q55 | PandaX | running | | | |
+| q52 | MINOS | NOT ELIGIBLE (MINOS+ same detectors; only a DAQ replacement, no documented alternative) | — | — | not eligible |
+| q54 | HERMES → Recoil Detector | ELIGIBLE: in-vacuum DSSD; SciFi tracker (arXiv:1302.6092, exact; TDR 2002 not on arXiv, so the date is an upper bound) | running | | |
+| q55 | PandaX → PandaX-4T | ELIGIBLE: ultrapure water shield; 3-in. top PMTs (arXiv:1806.02229, exact) | running | | |
 | q53 | KASCADE-Grande | — | — | — | skipped (lineage: KASCADE) |
+| q56 | NuMI | NOT ELIGIBLE (no collaboration; LBNF/DUNE is a different collaboration, ruled as KM3NeT/ANTARES) | — | — | not eligible |
+| q57 | BaBar | NOT ELIGIBLE (SuperB TDR 1 month after the baseline; no later commitment) | — | — | not eligible |
+| q58 | MINERvA | NOT ELIGIBLE (no upgrade programme or successor) | — | — | not eligible |
+| q59 | CMS | running | | | |
+| q60 | DANSS | running | | | |
+| q61 | COMPASS | running | | | |

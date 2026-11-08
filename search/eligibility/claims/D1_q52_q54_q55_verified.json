@@ -1,0 +1,50 @@
+[
+ {
+  "item": "1295693/ultrapure_water_shield",
+  "dater": "D1",
+  "doc": "arXiv:1806.02229",
+  "quote": "In addition, the PandaX-4T detector will be placed in the center of 13 m tall, 10 m diameter water tank (Fig. 1) containing ultrapure water to suppress the external gammas and neutrons from the laboratory environment to a negligible level.",
+  "baseline_date": "2014-05-12",
+  "meta_date": "2018-06-06",
+  "quote_match": "exact",
+  "gap_months": 49,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1295693/top_array_3inch_r11410",
+  "dater": "D1",
+  "doc": "arXiv:1806.02229",
+  "quote": "For the signal photon collection, the low background 3-inch PMTs Hamamatsu R11410-23 are ﬁxed onto the top and bottom copper plates with photocathodes facing inward.",
+  "baseline_date": "2014-05-12",
+  "meta_date": "2018-06-06",
+  "quote_match": "exact",
+  "gap_months": 49,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "471582/ssd_inside_beam_vacuum",
+  "dater": "D1",
+  "doc": "arXiv:1302.6092",
+  "quote": "It consisted of three components: two layers of double-sided silicon strip sensors inside the HERA beam vacuum, a two-barrel scintillating ﬁbre tracker, and a photon detector.",
+  "baseline_date": "1998-06",
+  "meta_date": "2013-02-25",
+  "quote_match": "exact",
+  "gap_months": 176,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "471582/scintillating_fibre_tracker",
+  "dater": "D1",
+  "doc": "arXiv:1302.6092",
+  "quote": "It consisted of three components: two layers of double-sided silicon strip sensors inside the HERA beam vacuum, a two-barrel scintillating ﬁbre tracker, and a photon detector.",
+  "baseline_date": "1998-06",
+  "meta_date": "2013-02-25",
+  "quote_match": "exact",
+  "gap_months": 176,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ }
+]
