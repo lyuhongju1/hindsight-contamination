@@ -14,10 +14,10 @@ from keylib import check_base, check_conf
 
 def fixed(V_L):
     return {  # exact stated facts, or physical constants
-        "V_L": V_L,                  # stated scintillator volume (BASE 900 L, CONF1 27 L), treated as a cube
+        "V_L": V_L,                  # stated scintillator volume (BASE 900 L, CONF1 30 L), treated as a cube
         "P_th_W": 3.0e9,             # stated thermal power
         "L_cm": 1000.0,              # stated distance from core centre, 10 m
-        "amb_Hz_per_m2": 50.0,       # stated site fact: ambient single deposits above 1 MeV per m2 of outer surface
+        "amb_Hz_per_m2": 80.0,       # stated site fact: ambient single deposits above 1 MeV per m2 of outer surface
         "EFF_REQ": 0.30,             # stated: neutron capture signal recorded for >= 30% of IBD events in the volume
         "ACC_REQ": 1.0,              # stated: accidental coincidences below the IBD signal rate
         "nH_per_cm3": 4.86e22,       # H atoms per cm3 of polystyrene-class plastic (C8H8, 1.05 g/cm3), exact
@@ -185,16 +185,16 @@ if __name__ == "__main__":
     pf = fixed(360.0); a, _ = geom(pf)
     panda = f_stay(9.0, a) * 0.86 * p_cascade_above(3.0, 7.9, 4, 19.7, a)
     print(f"PANDA36 check: model Gd delayed eff at 360 L, 3 MeV = {panda:.3f} (published 0.355)")
-    b, c1 = make(900.0), make(27.0)
+    b, c1 = make(900.0), make(30.0)
     table("BASE", b); table("CONF1", c1)
     ok = check_base("BASE", b, fails)
     ok &= check_conf("CONF1", c1, fails, viable)
     print("ALL PASS" if ok else "SOME FAIL")
     # sensitivity (not part of the keylib check): Gd-loaded plastic with a short capture time (~10 us)
     GD["tau_us"] = 10.0
-    check_conf("CONF1_tau10", make(27.0), fails, viable)
+    check_conf("CONF1_tau10", make(30.0), fails, viable)
     GD["tau_us"] = 30.0
     # sensitivity (not part of the keylib check): cascade multiplicity 3 and 5
     for m in (3, 5):
-        x = make(27.0); x["fixed"]["Gd_mult"] = m
+        x = make(30.0); x["fixed"]["Gd_mult"] = m
         print(f"sensitivity Gd_mult={m}: CONF1 nominal Gd settings passing = {gd_passing(x)}")

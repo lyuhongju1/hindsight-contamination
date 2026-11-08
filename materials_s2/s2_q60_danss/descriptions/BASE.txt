@@ -1,0 +1,10 @@
+A reactor antineutrino monitor sits at a fixed position 10 m from the centre of a 3.0 GW (thermal) power reactor core.
+Its sensitive volume is a 0.9 m3 cube, about 96 cm on a side, built from polystyrene scintillator bars of 2 x 5 cm cross-section and 96 cm length, laid in alternating orthogonal layers.
+Each bar is read through wavelength-shifting fibres by SiPMs at both ends, and every channel is recorded by a waveform digitizer.
+The scintillator is surrounded by an existing 5 cm polyethylene layer inside an existing lead shield.
+Antineutrinos are detected by inverse beta decay: a prompt positron signal followed by a delayed signal from the capture of the neutron, which at present is captured mostly on hydrogen.
+With the existing shield in place, ambient radioactivity produces single energy deposits above 1 MeV at a rate of 80 Hz per square metre of the scintillator's outer surface, mostly from the 1.46 MeV and 2.61 MeV gamma lines and their Compton continua.
+The monitor's goal is to track the reactor's thermal power and fuel composition day by day from the inverse-beta-decay count and the positron energy spectrum.
+The positron energy spectrum must be recorded from 1 MeV of deposited energy upward.
+The delayed neutron-capture signal must be recorded for at least 30% of the inverse-beta-decay events that occur in the scintillator.
+The rate of accidental prompt-delayed coincidences must stay below the rate of detected inverse-beta-decay events.

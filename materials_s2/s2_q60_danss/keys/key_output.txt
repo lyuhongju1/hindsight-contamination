@@ -1,40 +1,40 @@
 PANDA36 check: model Gd delayed eff at 360 L, 3 MeV = 0.299 (published 0.355)
 --- BASE (V = 900.0 L) nominal ---
-  gd thr=1.0 topo=0    delayed_eff=0.716 acc/signal=   0.584 IBD/day= 16332 detected/day=  9355 pass
-  gd thr=1.0 topo=1    delayed_eff=0.707 acc/signal=   0.241 IBD/day= 16332 detected/day=  9239 pass
-  gd thr=1.6 topo=0    delayed_eff=0.663 acc/signal=   0.278 IBD/day= 16332 detected/day=  8666 pass
-  gd thr=1.6 topo=1    delayed_eff=0.660 acc/signal=   0.116 IBD/day= 16332 detected/day=  8621 pass
-  gd thr=2.0 topo=0    delayed_eff=0.606 acc/signal=   0.177 IBD/day= 16332 detected/day=  7913 pass
-  gd thr=2.0 topo=1    delayed_eff=0.606 acc/signal=   0.075 IBD/day= 16332 detected/day=  7913 pass
-  gd thr=2.6 topo=0    delayed_eff=0.494 acc/signal=   0.020 IBD/day= 16332 detected/day=  6458 pass
-  gd thr=2.6 topo=1    delayed_eff=0.494 acc/signal=   0.012 IBD/day= 16332 detected/day=  6458 pass
-  gd thr=3.0 topo=0    delayed_eff=0.409 acc/signal=   0.017 IBD/day= 16332 detected/day=  5338 pass
-  gd thr=3.0 topo=1    delayed_eff=0.409 acc/signal=   0.011 IBD/day= 16332 detected/day=  5338 pass
-  gd thr=3.6 topo=0    delayed_eff=0.277 acc/signal=   0.022 IBD/day= 16332 detected/day=  3619 fail
-  gd thr=3.6 topo=1    delayed_eff=0.277 acc/signal=   0.013 IBD/day= 16332 detected/day=  3619 fail
-  li6_psd_plastic      delayed_eff=0.654 acc/signal=   0.006 IBD/day= 16332 detected/day=  8542 pass
-  li6f_zns_sheets      delayed_eff=0.454 acc/signal=   0.007 IBD/day= 16332 detected/day=  5932 pass
-  h_capture            delayed_eff=0.364 acc/signal=   7.611 IBD/day= 16332 detected/day=  4760 fail
-  gd settings passing in BASE: [(1.0, 0), (1.0, 1), (1.2, 0), (1.2, 1), (1.4, 0), (1.4, 1), (1.6, 0), (1.6, 1), (1.8, 0), (1.8, 1), (2.0, 0), (2.0, 1), (2.2, 0), (2.2, 1), (2.4, 0), (2.4, 1), (2.6, 0), (2.6, 1), (2.8, 0), (2.8, 1), (3.0, 0), (3.0, 1), (3.2, 0), (3.2, 1), (3.4, 0), (3.4, 1)]
---- CONF1 (V = 27.0 L) nominal ---
-  gd thr=1.0 topo=0    delayed_eff=0.354 acc/signal=  12.202 IBD/day=   490 detected/day=   139 fail
-  gd thr=1.0 topo=1    delayed_eff=0.260 acc/signal=   6.689 IBD/day=   490 detected/day=   102 fail
-  gd thr=1.6 topo=0    delayed_eff=0.252 acc/signal=   7.481 IBD/day=   490 detected/day=    99 fail
-  gd thr=1.6 topo=1    delayed_eff=0.216 acc/signal=   3.542 IBD/day=   490 detected/day=    85 fail
-  gd thr=2.0 topo=0    delayed_eff=0.174 acc/signal=   6.247 IBD/day=   490 detected/day=    68 fail
-  gd thr=2.0 topo=1    delayed_eff=0.174 acc/signal=   2.555 IBD/day=   490 detected/day=    68 fail
-  gd thr=2.6 topo=0    delayed_eff=0.109 acc/signal=   0.716 IBD/day=   490 detected/day=    43 fail
-  gd thr=2.6 topo=1    delayed_eff=0.109 acc/signal=   0.343 IBD/day=   490 detected/day=    43 fail
-  gd thr=3.0 topo=0    delayed_eff=0.073 acc/signal=   0.679 IBD/day=   490 detected/day=    29 fail
-  gd thr=3.0 topo=1    delayed_eff=0.073 acc/signal=   0.328 IBD/day=   490 detected/day=    29 fail
-  gd thr=3.6 topo=0    delayed_eff=0.034 acc/signal=   1.359 IBD/day=   490 detected/day=    13 fail
-  gd thr=3.6 topo=1    delayed_eff=0.034 acc/signal=   0.600 IBD/day=   490 detected/day=    13 fail
-  li6_psd_plastic      delayed_eff=0.460 acc/signal=   0.089 IBD/day=   490 detected/day=   180 pass
-  li6f_zns_sheets      delayed_eff=0.319 acc/signal=   0.102 IBD/day=   490 detected/day=   125 pass
-  h_capture            delayed_eff=0.119 acc/signal= 240.357 IBD/day=   490 detected/day=    47 fail
+  gd thr=1.0 topo=0    delayed_eff=0.716 acc/signal=   1.490 IBD/day= 16332 detected/day=  9355 fail
+  gd thr=1.0 topo=1    delayed_eff=0.707 acc/signal=   0.610 IBD/day= 16332 detected/day=  9239 pass
+  gd thr=1.6 topo=0    delayed_eff=0.663 acc/signal=   0.706 IBD/day= 16332 detected/day=  8666 pass
+  gd thr=1.6 topo=1    delayed_eff=0.660 acc/signal=   0.290 IBD/day= 16332 detected/day=  8621 pass
+  gd thr=2.0 topo=0    delayed_eff=0.606 acc/signal=   0.448 IBD/day= 16332 detected/day=  7913 pass
+  gd thr=2.0 topo=1    delayed_eff=0.606 acc/signal=   0.186 IBD/day= 16332 detected/day=  7913 pass
+  gd thr=2.6 topo=0    delayed_eff=0.494 acc/signal=   0.045 IBD/day= 16332 detected/day=  6458 pass
+  gd thr=2.6 topo=1    delayed_eff=0.494 acc/signal=   0.024 IBD/day= 16332 detected/day=  6458 pass
+  gd thr=3.0 topo=0    delayed_eff=0.409 acc/signal=   0.037 IBD/day= 16332 detected/day=  5338 pass
+  gd thr=3.0 topo=1    delayed_eff=0.409 acc/signal=   0.021 IBD/day= 16332 detected/day=  5338 pass
+  gd thr=3.6 topo=0    delayed_eff=0.277 acc/signal=   0.049 IBD/day= 16332 detected/day=  3619 fail
+  gd thr=3.6 topo=1    delayed_eff=0.277 acc/signal=   0.026 IBD/day= 16332 detected/day=  3619 fail
+  li6_psd_plastic      delayed_eff=0.654 acc/signal=   0.012 IBD/day= 16332 detected/day=  8542 pass
+  li6f_zns_sheets      delayed_eff=0.454 acc/signal=   0.012 IBD/day= 16332 detected/day=  5932 pass
+  h_capture            delayed_eff=0.364 acc/signal=  19.445 IBD/day= 16332 detected/day=  4760 fail
+  gd settings passing in BASE: [(1.0, 1), (1.2, 1), (1.4, 0), (1.4, 1), (1.6, 0), (1.6, 1), (1.8, 0), (1.8, 1), (2.0, 0), (2.0, 1), (2.2, 0), (2.2, 1), (2.4, 0), (2.4, 1), (2.6, 0), (2.6, 1), (2.8, 0), (2.8, 1), (3.0, 0), (3.0, 1), (3.2, 0), (3.2, 1), (3.4, 0), (3.4, 1)]
+--- CONF1 (V = 30.0 L) nominal ---
+  gd thr=1.0 topo=0    delayed_eff=0.367 acc/signal=  28.026 IBD/day=   544 detected/day=   160 fail
+  gd thr=1.0 topo=1    delayed_eff=0.274 acc/signal=  15.077 IBD/day=   544 detected/day=   119 fail
+  gd thr=1.6 topo=0    delayed_eff=0.264 acc/signal=  16.984 IBD/day=   544 detected/day=   115 fail
+  gd thr=1.6 topo=1    delayed_eff=0.228 acc/signal=   7.930 IBD/day=   544 detected/day=   100 fail
+  gd thr=2.0 topo=0    delayed_eff=0.184 acc/signal=  13.995 IBD/day=   544 detected/day=    80 fail
+  gd thr=2.0 topo=1    delayed_eff=0.184 acc/signal=   5.681 IBD/day=   544 detected/day=    80 fail
+  gd thr=2.6 topo=0    delayed_eff=0.116 acc/signal=   1.528 IBD/day=   544 detected/day=    51 fail
+  gd thr=2.6 topo=1    delayed_eff=0.116 acc/signal=   0.694 IBD/day=   544 detected/day=    51 fail
+  gd thr=3.0 topo=0    delayed_eff=0.079 acc/signal=   1.438 IBD/day=   544 detected/day=    34 fail
+  gd thr=3.0 topo=1    delayed_eff=0.079 acc/signal=   0.658 IBD/day=   544 detected/day=    34 fail
+  gd thr=3.6 topo=0    delayed_eff=0.037 acc/signal=   2.910 IBD/day=   544 detected/day=    16 fail
+  gd thr=3.6 topo=1    delayed_eff=0.037 acc/signal=   1.246 IBD/day=   544 detected/day=    16 fail
+  li6_psd_plastic      delayed_eff=0.468 acc/signal=   0.168 IBD/day=   544 detected/day=   204 pass
+  li6f_zns_sheets      delayed_eff=0.325 acc/signal=   0.160 IBD/day=   544 detected/day=   142 pass
+  h_capture            delayed_eff=0.125 acc/signal= 546.443 IBD/day=   544 detected/day=    54 fail
 BASE     adopted_passes_nominal=True PASS
-CONF1    adopted_fails_nominal=True viable_nominal=['li6_psd_plastic', 'li6f_zns_sheets'] (n_survivors=2) adopted_fails=0.983 >=1_viable=0.959 PASS
+CONF1    adopted_fails_nominal=True viable_nominal=['li6_psd_plastic', 'li6f_zns_sheets'] (n_survivors=2) adopted_fails=0.996 >=1_viable=0.961 PASS
 ALL PASS
-CONF1_tau10 adopted_fails_nominal=True viable_nominal=['li6_psd_plastic', 'li6f_zns_sheets'] (n_survivors=2) adopted_fails=0.874 >=1_viable=0.959 FAIL
+CONF1_tau10 adopted_fails_nominal=True viable_nominal=['li6_psd_plastic', 'li6f_zns_sheets'] (n_survivors=2) adopted_fails=0.955 >=1_viable=0.964 PASS
 sensitivity Gd_mult=3: CONF1 nominal Gd settings passing = []
 sensitivity Gd_mult=5: CONF1 nominal Gd settings passing = []

@@ -1,0 +1,7 @@
+A reactor antineutrino detector sits below a 3.1 GW (thermal) power reactor core.
+It is a 1 m3 cube of 2500 polystyrene scintillator strips, each 1 x 4 x 100 cm, laid in alternating orthogonal layers.
+Each strip has a reflective coating that holds the detector's neutron-capture agent, and light is collected by wavelength-shifting fibres read by one SiPM per strip and by PMTs that each view a module of 50 strips.
+Antineutrinos are detected by inverse beta decay: a prompt positron signal followed by a delayed signal from the capture of the neutron.
+The detector sits inside a passive shield of copper, lead and borated polyethylene, with an active muon veto, and has about 50 m water equivalent of overburden from the reactor building.
+It rides on a movable platform so that the distance from the core centre can be changed between 10.7 and 12.7 m.
+Its physics goal is a search for short-baseline oscillations to sterile neutrinos, made by comparing positron energy spectra measured at different distances, together with reactor power monitoring.
