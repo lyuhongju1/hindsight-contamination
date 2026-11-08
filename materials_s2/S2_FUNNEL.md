@@ -23,7 +23,7 @@
 | q57 | BaBar | NOT ELIGIBLE (SuperB TDR 1 month after the baseline; no later commitment) | — | — | not eligible |
 | q58 | MINERvA | NOT ELIGIBLE (no upgrade programme or successor) | — | — | not eligible |
 | q59 | CMS | NOT ELIGIBLE (every upgrade's first commitment is an LHCC TDR or TP without arXiv text) | — | — | not eligible |
-| q60 | DANSS | ELIGIBLE: Gd2O3-polyethylene film; thicker 8-fibre strips (arXiv:2112.04973; core group, 'planned upgrade') | running | | |
+| q60 | DANSS | ELIGIBLE (D1, D2 agree): Gd2O3-polyethylene film (arXiv:2112.04973v1, exact); item 1 strips not used | conditional WINDOW (small volume: Gd cascade escape vs ambient accidentals; 6Li+PSD survives) | ELIGIBLE | Materials built; red team r1 FIX with a pre-committed DROP rule; after the FIXes the survivor's viable fraction is 0.771 < 0.95 (fibre-PSD penalty; ZnS marginal), so it is **DROPPED** (Gd still fails 0.968; no re-tuning) |
 | q61 | COMPASS | NOT ELIGIBLE (COMPASS-II proposal not on arXiv; AMBER items offered as open options, addendum 3) | — | — | not eligible |
 | q62 | ATLAS → IBL | ELIGIBLE: 3D silicon pixel sensors vs diamond or GOSSIP (arXiv:1209.1906, exact) | NO WINDOW (a fluence that kills all silicon also kills diamond and breaks the class; leakage, bias and thickness are settings) | not run | infeasible, pending batched confirmation |
 | q63 | LHCf | ELIGIBLE (weak I4): GSO scintillator vs plastic (arXiv:1202.2083, exact) | NO WINDOW (pile-up is fixed by tail subtraction or gate settings and is not robust; dose favours GSO) | not run | infeasible, pending batched confirmation |
