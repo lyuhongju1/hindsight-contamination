@@ -25,6 +25,6 @@
 | q59 | CMS | NOT ELIGIBLE (every upgrade's first commitment is an LHCC TDR or TP without arXiv text) | — | — | not eligible |
 | q60 | DANSS | ELIGIBLE: Gd2O3-polyethylene film; thicker 8-fibre strips (arXiv:2112.04973; core group, 'planned upgrade') | running | | |
 | q61 | COMPASS | NOT ELIGIBLE (COMPASS-II proposal not on arXiv; AMBER items offered as open options, addendum 3) | — | — | not eligible |
-| q62 | ATLAS → IBL | ELIGIBLE: 3D silicon pixel sensors vs diamond or GOSSIP (arXiv:1209.1906, exact) | not run (paused) | | |
-| q63 | LHCf | ELIGIBLE (weak I4): GSO scintillator vs plastic (arXiv:1202.2083, exact) | not run (paused) | | |
+| q62 | ATLAS → IBL | ELIGIBLE: 3D silicon pixel sensors vs diamond or GOSSIP (arXiv:1209.1906, exact) | NO WINDOW (a fluence that kills all silicon also kills diamond and breaks the class; leakage, bias and thickness are settings) | not run | infeasible, pending batched confirmation |
+| q63 | LHCf | ELIGIBLE (weak I4): GSO scintillator vs plastic (arXiv:1202.2083, exact) | NO WINDOW (pile-up is fixed by tail subtraction or gate settings and is not robust; dose favours GSO) | not run | infeasible, pending batched confirmation |
 | q65 | Belle → Belle II | ELIGIBLE: DEPFET PXD vs hybrid pixels; HAPD vs MCP-PMT for ARICH (arXiv:1011.0352v1, exact) | not run (paused) | | |

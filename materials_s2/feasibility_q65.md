@@ -1,0 +1,15 @@
+# Feasibility q65 (Belle -> Belle II; lesson 5 check only, from domain knowledge, no web fetches)
+
+## E1: DEPFET PXD (2 layers, ~50 um, rolling shutter ~20 us) vs hybrid / SOI-MAPS
+
+- Route E1-a, occupancy (stated hit rate x integration time): with a fixed 20 us frame and 50x55-75 um2 pixels, the ~3% occupancy ceiling is reached near ~10-20 MHz/cm2 of hits, while timestamped MAPS (~100 ns, e.g. OBELIX-type) and hybrids take >~100 MHz/cm2. But the frame time is not intrinsic to the class. It is set by rows per readout segment x ~100 ns row time (Belle II already uses 4-fold readout), and pixel pitch is also a design setting. More readout segmentation (x4-10) plus a smaller pitch (x~5 in area) are settings within DEPFET (lesson 1, C1), so a tweaked DEPFET reaches ~50-150 MHz/cm2. That is the same range as the MAPS survivor, so no x4 window is left for x0.5-2. A rate high enough to kill every DEPFET variant is also beyond any credible e+e- B-factory background at ~8e35, with its implied dose (coherence, same failure as p16). -> no robust window.
+- Route E1-b, TID threshold shift: DEPFET gate-oxide shifts (~-4 to -5 V up to ~10-20 Mrad) are compensated by retuning the gate/clear voltages. That is an operating-point setting, which defeats the conflict (C1). No measured DEPFET failure dose exists for x0.5 robustness, and doses of ~100 Mrad or more are off-class for an e+e- B factory. -> no window.
+- Route E1-c, material vs multiple scattering: this favours DEPFET (~0.2% X0 per layer) and MAPS over hybrids (~1-2% X0). It can only hurt the alternative, not the item. -> no window.
+- Verdict E1: NO WINDOW.
+
+## E2: HAPD (aerogel RICH, 1.5 T) vs MCP-PMT
+
+- Route E2-a, neutron damage vs stated 1 MeV-neq fluence: APD leakage scales with F, so noise ~ sqrt(F x shaping time) and drops ~x2 per ~7 C. The design target of ~1e12 neq/cm2 was met with a thinner-p-layer APD and short shaping (S/N still workable). Shaping time, bias/bombardment voltage, APD layer design and operating temperature are all settings within the HAPD. Together they buy roughly another x10-30, so robust failure needs F >~ 3e13-1e14 neq/cm2 at the RICH radius. That is >~x10-50 above credible B-factory lifetime fluences at ~8e35, and the cascade (endcap electronics, ECL) breaks coherence (p16-type off-class). Inside the credible band (~1e12 to a few e12), the HAPD margin overlaps the x0.5-2 range. The MCP-PMT survivor is fine on neutrons, and ALD MCP-PMTs survive photon rates of ~0.1-1 MHz/cm2 (>~10-20 C/cm2 lifetime), so its ageing is not the binding side. -> no robust window.
+- Route E2-b, photon timing: MCP-PMT TTS is ~30-40 ps (sigma) vs HAPD ~100 ps (sigma, electronics-limited, uncertain). A requirement of ~50 ps fails MCP-PMTs at x0.5 (25 ps), and HAPD has no robust failure at x2 (100 ps). A timing requirement also has to be stated as a physics goal (RICH+TOF). -> no robust window.
+- Route E2-c, 1.5 T field: both work when oriented along the field (proximity-focused HAPD; 3-10 um pore MCP-PMT), and orientation is a mounting setting. -> no window.
+- Verdict E2: NO WINDOW.
