@@ -1,0 +1,26 @@
+[
+ {
+  "item": "1468455/gd_separate_polyethylene_film",
+  "dater": "D2",
+  "doc": "arXiv:2112.04973v1",
+  "quote": "The necessary amount of gadolinium for the IBD neutron capture is added separately from the scintillation strips in the form of the oxide powder mixed into a polyethylene film, which is also produced at [6].",
+  "baseline_date": "2016-06-09",
+  "meta_date": "2021-12-09",
+  "quote_match": "exact",
+  "gap_months": 66,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ },
+ {
+  "item": "1468455/double_sided_sipm_readout_no_pmt",
+  "dater": "D2",
+  "doc": "arXiv:2112.04973v1",
+  "quote": "The fibers are read out by SiPMs from both strip sides, 4 SiPMs at each side, on the next but one basis.",
+  "baseline_date": "2016-06-09",
+  "meta_date": "2021-12-09",
+  "quote_match": "exact",
+  "gap_months": 66,
+  "class": "Post-primary",
+  "status": "VERIFIED"
+ }
+]
