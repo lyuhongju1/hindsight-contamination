@@ -22,7 +22,7 @@
   - At thresholds of 2.6 MeV and above, efficiency is 0.04-0.12.
   - At thresholds of 1.0-2.0 MeV, accidentals are 6-28 x the signal, even with a topology cut.
 - 6Li-PSD plastic (0.47 efficiency, 0.17 acc/signal) survives, and so do 6LiF:ZnS sheets.
-- keylib: BASE PASS; CONF1 PASS (0.996 / 0.961). See notes.md for the narrow-window caveats.
+- keylib (r0): BASE PASS; CONF1 PASS (0.996 / 0.961). After the r1 FIXes: CONF1 FAIL (0.968 / 0.771) -> DROP (pre-committed rule); see notes.md.
 
 ## Citations
 - PANDA36: arXiv:1404.7309 (35.5% delayed efficiency, 350 L, above 3 MeV).

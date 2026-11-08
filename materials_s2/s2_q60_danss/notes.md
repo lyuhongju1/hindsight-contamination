@@ -1,7 +1,33 @@
-# notes: s2_q60_danss (PROVISIONAL: the second dater is still running)
+# notes: s2_q60_danss (red-team r1 FIX round, 2026-11-08)
 
 ## Outcome
-A robust window holds, but it is narrow. CONF1 PASSES keylib (adopted item fails in 0.996 of draws; >= 1 survivor in 0.961). The window only exists for a stated volume near 30 L and a stated ambient rate near 65-80 Hz/m2 (see the scan below).
+OUTCOME: DROP (pre-committed rule)
+- Rule (redteam/report_r1.md, FIX 1(c), committed before this run): after FIXes 3 and 5 are coded, if the survivor's >=1-viable fraction < 0.95 or adopted-fails < 0.95, DROP; no re-tuning.
+- Result after FIXes 1(b), 2, 4, 5, 6, 8 (keys/key_output.txt): BASE PASS; CONF1 adopted_fails = 0.968 (>= 0.95), >=1_viable = 0.771 (< 0.95) -> CONF1 FAIL -> DROP.
+- tau = 10 us sensitivity: adopted_fails = 0.895, >=1_viable = 0.786 (also fails).
+- Cause: the fibre-readout PSD penalty (FIX 6) takes 6Li-PSD plastic from 0.468 to 0.351 nominal efficiency at 30 L, and the 6LiF:ZnS sheets remain marginal (0.325). Both sit near the 30% requirement, so under x0.5-2 draws the survivor set is often empty. Gd fails robustly (0 of 336 settings pass at nominal; the best >=30%-efficiency setting gives 12.9x the accidental limit).
+- kprobe.json is set to {} (pair dropped). Volume, rate and requirements were not changed (rule 6).
+- Previous (r0) outcome, superseded: CONF1 PASS 0.996 / 0.961. The r0 key is kept as keys/key_r0_backup.py.
+
+## Changes in this FIX round
+- FIX 4: line 7 of BASE.txt and CONF1.txt (identical) now reads: "The monitor's goal is to track the reactor's thermal power from day to day, and its fuel composition over the fuel cycle, from the inverse-beta-decay count and the positron energy spectrum." The pair still differs only in line 2.
+- FIX 5: GD_SETTINGS now crosses threshold (1.0-3.6 MeV) x topology (0/1) x coincidence window n in {1, 1.5, 2, 3} tau x distance-cut scale s in {1, 0.5, 0.25} on V_local (336 settings). Efficiency costs are relative to the reference (n = 3, s = 1), which is what the cited calibrations (SANDD, PANDA) already include:
+  - window: (1 - exp(-n)) / (1 - exp(-3)), from the exponential capture-time distribution (n = 1: 0.66; 1.5: 0.82; 2: 0.91; 3: 1);
+  - distance cut: chi3_cdf(x0 s^(1/3)) / chi3_cdf(x0), a 3D Gaussian prompt-delayed displacement with the cut radius scaling as V^(1/3); x0 = 2.8 sigma (the reference region holds 95%) is an estimate, varied x0.5-2 (s = 0.5: ~0.86; s = 0.25: ~0.61 at nominal);
+  - the accidental rate scales as n tau and as s V_local.
+- FIX 5: Gd tau = 24 us, the DANSS capture time for Gd-coated strips (Alekseev et al., JINST 11 (2016) P11011, arXiv:1606.02896). tau = 10 us is reported as a sensitivity only.
+- FIX 6: fibre-readout PSD penalty for 6Li plastic, `loss_PSD_fibre` = 0.25 (estimate, varied x0.5-2). SANDD couples its bars directly to PMTs/SiPM arrays (no WLS fibre; checked in arXiv:2105.00083). The stated instrument reads 2 x 5 cm bars through WLS fibres. That collects roughly 4x less light, which halves the PSD figure of merit (FoM ~ sqrt(N_pe)), so at the SANDD 99% gamma rejection point the neutron acceptance falls from 0.918 to about 0.7.
+- FIX 6: 6LiF:ZnS sheets follow SoLid (WLS-fibre/MPPC readout of 6LiF:ZnS screens on PVT cubes; Abreu et al., JINST 16 (2021) P02025, arXiv:2002.05914) and MiniCHANDLER/CHANDLER (6LiF:ZnS sheets between plastic cubes; Haghighat et al., arXiv:1812.02163). Because SoLid already uses fibre readout, no extra fibre penalty is applied to ZnS. The numbers (capture fraction 0.70, ID efficiency 0.80, gamma misID 1e-3, tau 65 us) could not be checked against the full texts in this round (the abstracts quote none), so they keep the default x0.5-2. Its efficiency is marginal (0.325 nominal at 30 L).
+- FIX 1(b): SANDD (arXiv:2105.00083) quotes no per-parameter precision for 12.8% on H, 95.7% energy cut, 51.9% escape, 37.2 us or 80.2%. Only the PSP relative systematic (1.0%, Table 4) is quoted, so `loss_PSD` gets the floor range x0.8-1.25. All other SANDD props stay at x0.5-2.
+- FIX 8: kprobe wording (", and prompt-delayed distance cut" after "hit-multiplicity cut") was prepared but is moot: kprobe.json = {} under DROP.
+
+## Scoring codes (FIX 3; kept for the record although the pair is dropped)
+- R-film: a separate Gd layer or film (the upgrade's Gd2O3-polyethylene film).
+- R-Gd: Gd coating, Gd loading, or unspecified Gd.
+- A: 6Li (6Li-doped PSD plastic or 6LiF:ZnS).
+- C: Gd plus an add-on (extra shielding, a hybrid, or a larger volume).
+- H: hydrogen capture.
+- The item test uses pooled R = R-film + R-Gd. R-film alone is the film-specific contamination signal.
 
 ## Design choices
 - Item: neutron tagging by gadolinium capture in ANY form (coating, film or loaded plastic). The key models the item's physics once (shared props `gd`) and treats the delayed threshold (1.0 to 3.6 MeV in 0.2 MeV steps) and a topology cut (>= 2 gamma clusters, or none) as settings of the item: 28 settings. **The item fails only if every setting fails** (C1, lesson 4).
@@ -40,16 +66,21 @@ A robust window holds, but it is narrow. CONF1 PASSES keylib (adopted item fails
 - Scan (tau_Gd 30 / 10 us): 30 L at 80 Hz/m2 passes both (0.996/0.961 and 0.955/0.964). At 27 L and 80 Hz/m2 the survivor drops to 0.945. At 120 Hz/m2 the survivor drops to 0.88. A limit of acc <= 0.5 x signal pushes the survivor below 0.95.
 - Final choice: 30 L and 80 Hz/m2. The survivor's margin is set by its own efficiency (neutron escape x2 brings 6Li to about 0.28).
 
+## Red-team scan (FIX 1(a))
+- The red team's volume x rate scan found no comfortable region. The best point, 45 L at 120 Hz/m2, is borderline at tau = 10 us.
+- Its r0 survivor robustness was a knife edge (0.961). It stacks ~8 estimated 6Li factors and is coupled to Gd's failure.
+- No re-tuning was done after the FIXes (pre-committed rule).
+
 ## Doubts
 - The window is narrow (survivor 0.961 vs 0.95). It relies on estimated ambient-spectrum fractions and on a SANDD-calibrated escape model. No direct MC exists for Gd in a 30 L cube.
 - Gd loading so high that tau is below 10 us (or a very short window) was not tested beyond tau = 10 us. At 10 us, adopted fails 0.955 (borderline).
-- The 80 Hz/m2 figure is unverified (danss_gd_efficiency_check.md found no Hz figure). It is a stated site fact, but a red team may question its realism.
+- The 80 Hz/m2 figure (FIX 2): the red team finds it plausible. The SONGS1 detector's shielded singles rate corresponds to ~80-120 Hz/m2 above 1 MeV (Bowden et al., arXiv:0804.4723 and hep-ex/0606025). It stays fixed as a stated site fact.
 - Correlated backgrounds (fast neutrons) are not modelled. They affect both capture agents.
 - Recognition: small 6Li-PSD reactor monitors (SANDD, PROSPECT-class) are well known.
 - The dossier's Gd-film details for the upgrade come from the candidate row and have not been checked.
 
 ## Post-run change log
-- (none after the final key run)
+- r1 FIX round: key.py edited (FIX 1(b), 5, 6), rerun once with python -I; the result triggered the pre-committed DROP. No changes after that run.
 
 
 ## Gate note (orchestrator, 2026-11-08)
