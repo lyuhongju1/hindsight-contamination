@@ -28,6 +28,8 @@
 | q62 | ATLAS → IBL | ELIGIBLE: 3D silicon pixel sensors vs diamond or GOSSIP (arXiv:1209.1906, exact) | NO WINDOW (a fluence that kills all silicon also kills diamond and breaks the class; leakage, bias and thickness are settings) | not run | infeasible, pending batched confirmation |
 | q63 | LHCf | ELIGIBLE (weak I4): GSO scintillator vs plastic (arXiv:1202.2083, exact) | NO WINDOW (pile-up is fixed by tail subtraction or gate settings and is not robust; dose favours GSO) | not run | infeasible, pending batched confirmation |
 | q65 | Belle → Belle II | ELIGIBLE: DEPFET PXD vs hybrid pixels; HAPD vs MCP-PMT for ARICH (arXiv:1011.0352v1, exact) | NO WINDOW (DEPFET frame time and voltages are settings; HAPD shaping and cooling buy x10-30; off-class beyond) | not run | infeasible, pending batched confirmation |
-| q66 | HARP | running | | | |
-| q67 | GlueX | running | | | |
-| q68 | SND | running | | | |
+| q66 | HARP | NOT ELIGIBLE (no upgrade or successor) | — | — | not eligible |
+| q67 | GlueX | NOT ELIGIBLE (no commitment in the 2022-05 to 2023-06 window; FCAL-II and DIRC pre-date the baseline; KLF < 24 months) | — | — | not eligible |
+| q68 | SND | NOT ELIGIBLE (upgrade items committed 20 months after the baseline) | — | — | not eligible |
+| q70 | COMPASS 2014 | — | — | — | skipped (duplicate of q61) |
+| q72 | ATLAS cosmics | — | — | — | skipped (duplicate of q62) |
